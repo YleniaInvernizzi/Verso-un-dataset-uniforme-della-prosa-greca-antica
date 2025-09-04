@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|172|1,1,μετά,μετά,r--------,AuxP
+1,Leuven|PaeanBrev|172|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|172|3,3,ταῦτα,οὗτος,p-p---na-,ADV
+3,Leuven|PaeanBrev|172|4,4,καί,καί,d--------,AuxZ
+4,Leuven|PaeanBrev|172|5,5,κατεπολεμήθησαν,καταπολεμέω,v3paip---,PRED
+5,Leuven|PaeanBrev|172|6,6,ὑπό,ὑπό,r--------,AuxP
+6,Leuven|PaeanBrev|172|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|PaeanBrev|172|8,8,δικτάτωρος,δικτάτωρ,n-s---mg-,OBJ
+8,Leuven|PaeanBrev|172|9,9,Σουλπικίου,Σουλπίκιος,n-s---mg-,APOS

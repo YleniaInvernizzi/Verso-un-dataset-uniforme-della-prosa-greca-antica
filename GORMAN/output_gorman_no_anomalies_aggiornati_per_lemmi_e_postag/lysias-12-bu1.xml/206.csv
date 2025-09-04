@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;τοσοῦτον;τοσοῦτος;p-s---na-;ADV
+2;ἢ;ἤ;d--------;AuxY
+3;ὑμῶν;σύ;p2p---mg-;OBJ
+4;καταπεφρόνηκεν;καταφρονέω;v3sria---;PRED_CO
+5;ἢ;ἤ;c--------;COORD
+6;ἑτέροις;ἕτερος;a-p---md-;OBJ
+7;πεπίστευκεν;πιστεύω;v3sria---;PRED_CO
+8;.;punc;u--------;AuxK

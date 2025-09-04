@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0537-012|13|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|0537-012|13|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0537-012|13|3,3,φυλάττουσιν,φυλάσσω,v3ppia---,PRED
+Leuven|0537-012|13|4,4,αὐτούς,αὐτός,a-p---ma-,OBJ
+Leuven|0537-012|13|5,5,οἵους,οἷος,p-p---ma-,OCOMP
+Leuven|0537-012|13|6,6,νοοῦσιν,νοέω,v3ppia---,ATR
+Leuven|0537-012|13|7,7,.,.,u--------,AuxK

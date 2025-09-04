@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|2|1,1,Πτολεμαῖος,Πτολεμαῖος,n-s---mn-,SBJ
+Leuven|27679|2|2,2,Ζωσίμῃ,Ζωσίμη,n-s---fd-,OBJ_CO
+Leuven|27679|2|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|27679|2|4,4,μητρὶ,μήτηρ,n-s---fd-,APOS
+Leuven|27679|2|5,5,καὶ,καί,b--------,COORD
+Leuven|27679|2|6,6,Ῥοδοῦτι,Ῥοδοῦς,n-s---fd-,OBJ_CO
+Leuven|27679|2|7,7,τῇ,ὁ,l-s---fd-,ATR
+Leuven|27679|2|8,8,ἀδελφῇ,ἀδελφή,n-s---fd-,APOS
+Leuven|27679|2|9,9,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|27679|2|10,10,.,.,u--------,AuxK
+Leuven|27679|2|11,11,λέγει,_,---------,PRED

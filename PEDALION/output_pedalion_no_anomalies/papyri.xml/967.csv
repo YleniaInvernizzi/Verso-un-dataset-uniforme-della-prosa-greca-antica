@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|8810|6|1,1,πέμψον,πέμπω,v2sama---,PRED
+1,Leuven|8810|6|2,2,πρὸς,πρός,r--------,AuxP
+2,Leuven|8810|6|3,3,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+3,Leuven|8810|6|4,4,τοὺς,ὁ,l-p---ma-,ATR
+4,Leuven|8810|6|5,5,ἐγκαλουμένους,ἐγκαλέω,v-pppema-,OBJ
+5,Leuven|8810|6|6,6,ἔτους,ἔτος,n-s---ng-,ExD
+6,Leuven|8810|6|7,7,ζ,ζ,n--------,ATR
+7,Leuven|8810|6|8,8,Θὼτ,Θώτ,n-s----a-,ExD

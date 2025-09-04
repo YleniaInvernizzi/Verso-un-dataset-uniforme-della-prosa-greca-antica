@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἅμα;ἅμα;d--------;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ταῦτα;οὗτος;p-p---na-;OBJ
+4;ἔλεγε;λέγω;v3siia---;PRED_CO
+5;ὁ;ὁ;l-s---mn-;ATR
+6;βουκόλος;βουκόλος;n-s---mn-;SBJ
+7;καὶ;καί;c--------;COORD
+8;ἐκκαλύψας;ἐκκαλύπτω;v-sapamn-;ADV
+9;ἀπεδείκνυε;ἀποδείκνυμι;v3siia---;PRED_CO
+10;.;punc;u--------;AuxK

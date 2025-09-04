@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;τούτοις;οὗτος;p-p---nd-;ADV
+2;γὰρ;γάρ;d--------;AuxY
+3;ὁρίζουσι;ὁρίζω;v3ppia---;PRED
+4;φιλοσοφίαν;φιλοσοφία;n-s---fa-;OBJ
+5;οἱ;ὁ;l-p---mn-;ATR
+6;λόγον;λόγος;n-s---ma-;OCOMP_CO
+7;αὐτὴν;αὐτός;p-s---fa-;OBJ
+8;οὐκ;οὐ;d--------;AuxZ
+9;ἔργον;ἔργον;n-s---na-;OCOMP_CO
+10;νομίζοντες;νομίζω;v-pppamn-;SBJ
+11;.;punc;u--------;AuxK

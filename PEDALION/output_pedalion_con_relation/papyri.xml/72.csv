@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1916|6|1,1,ὑπὸ,ὑπό,r--------,AuxP
+Leuven|1916|6|2,2,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|1916|6|3,3,χειμῶνος,χειμών,n-s---mg-,OBJ
+Leuven|1916|6|4,4,κατηνέχθησαν,καταφέρω,v3paip---,PRED
+Leuven|1916|6|5,5,εἰς,εἰς,r--------,AuxP
+Leuven|1916|6|6,6,Ἀρσινόην,Ἀρσινόη,n-s---fa-,OBJ
+Leuven|1916|6|7,7,G,G,---------,GAP

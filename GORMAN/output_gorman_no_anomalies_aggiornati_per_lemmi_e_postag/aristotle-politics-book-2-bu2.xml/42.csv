@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἥκιστα;κακός;a-p---nas;ADV
+2;γὰρ;γάρ;d--------;AuxY
+3;ἐπιμελείας;ἐπιμέλεια;n-s---fg-;OBJ
+4;τυγχάνει;τυγχάνω;v3spia---;PRED
+5;τὸ;ὁ;l-s---nn-;ATR
+6;πλείστων;πολύς;a-p---ng-;ATR
+7;κοινόν;κοινός;a-s---nn-;SBJ
+8;:;punc;u--------;AuxK

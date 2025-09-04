@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,χρὴ,χρή,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,σιγᾶν,σιγάω,v--pna---,SBJ
+4,μὴ,μή,d--------,AuxZ
+5,μόνον,μόνος,a-s---na-,AuxZ
+6,τῇ,ὁ,l-s---fd-,ATR
+7,γλώττῃ,γλῶσσα,n-s---fd-,ADV_CO
+8,",",punc1,u--------,AuxX
+9,πολὺ,πολύς,a-s---na-,ADV
+10,δὲ,δέ,c--------,COORD
+11,μᾶλλον,μᾶλλον,d--------,ADV
+12,τῇ,ὁ,l-s---fd-,ATR
+13,ψυχῇ,ψυχή,n-s---fd-,ADV_CO
+14,·,punc1,u--------,AuxK

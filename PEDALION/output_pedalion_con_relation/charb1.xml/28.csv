@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|29|1,1,ἐνέστη,ἐνίστημι,v3saia---,PRED
+Leuven|0554-001|29|2,2,νόμιμος,νόμιμος,a-s---mn-,ATR
+Leuven|0554-001|29|3,3,ἐκκλησία,ἐκκλησία,n-s---fn-,SBJ
+Leuven|0554-001|29|4,4,.,.,u--------,AuxK

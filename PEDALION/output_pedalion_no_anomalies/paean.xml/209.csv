@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|211|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|211|2,2,οἱ,ὁ,l-p---mn-,ATR
+2,Leuven|PaeanBrev|211|3,3,πρότερον,πρότερος,d-------c,ADV
+3,Leuven|PaeanBrev|211|4,4,νενικηκότες,νικάω,v-prpamn-,SBJ
+4,Leuven|PaeanBrev|211|5,5,ἡττήθησαν,ἡσσάομαι,v3paip---,PRED
+5,Leuven|PaeanBrev|211|6,6,Παπιρίου,Παπίριος,n-s---mg-,SBJ
+6,Leuven|PaeanBrev|211|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|PaeanBrev|211|8,8,ὑπάτου,ὕπατος,a-s---mg-,APOS
+8,Leuven|PaeanBrev|211|9,9,τῇ,ὁ,l-s---fd-,ATR
+9,Leuven|PaeanBrev|211|10,10,μάχῃ,μάχη,n-s---fd-,OBJ
+10,Leuven|PaeanBrev|211|11,11,στρατηγοῦντος,στρατηγέω,v-sppamg-,ADV

@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦσαν;εἰμί;v3piia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxY
+4;οἱ;ὁ;l-p---mn-;ATR
+5;πλέοντες;πλέω;v-pppamn-;SBJ_CO
+6;πολλοὶ;πολύς;a-p---mn-;PNOM
+7;καὶ;καί;c--------;COORD
+8;οἱ;ὁ;l-p---mn-;ATR
+9;τ-;ὁ;l-s---na-;ATR
+10;ἀργύριον;ἀργύριον;n-s---na-;OBJ
+11;καταβάλλοντες;καταβάλλω;v-pppamn-;SBJ_CO
+12;.;punc;u--------;AuxK

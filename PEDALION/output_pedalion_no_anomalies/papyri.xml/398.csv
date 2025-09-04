@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27679|23|1,1,οὐ,οὐ,d--------,AuxZ
+1,Leuven|27679|23|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|27679|23|3,3,εἰμι,εἰμί,v1spia---,PRED
+3,Leuven|27679|23|4,4,ἀμαθής,ἀμαθής,a-s---mn-,PNOM

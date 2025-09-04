@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;τίς;τις;p-s---cn-;SBJ
+2;ἀδικοῦσιν;ἀδικέω;v3ppia---;PRED_CO
+3;ἐχθρότερος;ἐχθρός;a-s---mnc;ATV
+4;ἢ;ἤ;c--------;COORD
+5;δυστυχοῦσιν;δυστυχέω;v3ppia---;PRED_CO
+6;ἡμερώτερος;ἥμερος;a-s---mnc;ATV
+7;";";punc;u--------;AuxK

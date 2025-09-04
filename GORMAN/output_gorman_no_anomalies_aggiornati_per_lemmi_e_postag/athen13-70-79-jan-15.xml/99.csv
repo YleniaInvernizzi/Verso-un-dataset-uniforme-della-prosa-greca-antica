@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;μὴ;μή;d--------;AuxZ
+2;πρεσβυτέραν;πρέσβυς;a-s---fac;ATR
+3;ἀριθμοῦ;ἀριθμός;n-s---mg-;ADV
+4;δίωκε;διώκω;v2spma---;PRED
+5;,;punc;u--------;AuxX
+6;θυμέ;θυμός;n-s---mv-;ExD
+7;,;punc;u--------;AuxX
+8;πρᾶξιν;πρᾶξις;n-s---fa-;OBJ
+9;.;punc;u--------;AuxK

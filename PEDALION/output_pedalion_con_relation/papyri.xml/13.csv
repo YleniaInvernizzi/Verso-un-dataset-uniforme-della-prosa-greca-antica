@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1575|1|1,1,Δημήτριος,Δημήτριος,n-s---mn-,SBJ
+Leuven|1575|1|2,2,Ζήνωνι,Ζήνων,n-s---md-,OBJ
+Leuven|1575|1|3,3,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|1575|1|4,4,.,.,u--------,AuxK
+Leuven|1575|1|5,5,[0],,---------,PRED

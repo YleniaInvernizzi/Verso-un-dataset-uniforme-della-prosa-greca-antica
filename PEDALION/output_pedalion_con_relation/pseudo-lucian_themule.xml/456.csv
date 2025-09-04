@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|457|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|457|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|457|3,3,σφόδρα,σφόδρα,d--------,ADV
+Leuven|Ps-Luc|457|4,4,ἠχθόμην,ἄχθομαι,v1siie---,PRED
+Leuven|Ps-Luc|457|5,5,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|457|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|457|7,7,δεσπότου,δεσπότης,n-s---mg-,ADV
+Leuven|Ps-Luc|457|8,8,κλέπτης,κλέπτης,n-s---mn-,ADV_CO
+Leuven|Ps-Luc|457|9,9,ἅμα,ἅμα,d--------,AuxY
+Leuven|Ps-Luc|457|10,10,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|457|11,11,λίχνος,λίχνος,a-s---mn-,ADV_CO
+Leuven|Ps-Luc|457|12,12,ἑαλωκώς,ἁλίσκομαι,v-srpamn-,ADV
+Leuven|Ps-Luc|457|13,13,.,.,u--------,AuxK

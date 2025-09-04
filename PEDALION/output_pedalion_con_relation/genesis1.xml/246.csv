@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|247|1,1,ἐπισυνάγων,ἐπισυνάγω,v-sppamn-,ADV
+Leuven|Genesis|247|2,2,ποιήσεις,ποιέω,v2sfia---,PRED_CO
+Leuven|Genesis|247|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|247|4,4,κιβωτόν,κιβωτός,n-s---fa-,OBJ
+Leuven|Genesis|247|5,5,καί,καί,b--------,COORD
+Leuven|Genesis|247|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|247|7,7,πῆχυν,πῆχυς,n-s---ma-,OBJ
+Leuven|Genesis|247|8,8,συντελέσεις,συντελέω,v2sfia---,PRED_CO
+Leuven|Genesis|247|9,9,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis|247|10,10,ἄνωθεν,ἄνωθεν,d--------,ADV
+Leuven|Genesis|247|11,11,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|348|1,1,Ελισα,Ελισα,n-s---mn-,PNOM_CO
+1,Leuven|Genesis|348|2,2,καί,καί,c--------,COORD
+2,Leuven|Genesis|348|3,3,Θαρσις,Θαρσις,n-s---mn-,PNOM_CO
+4,Leuven|Genesis|348|5,5,Κίτιοι,Κίτιος,n-p---mn-,APOS
+6,Leuven|Genesis|348|7,7,Ῥόδιοι,Ῥόδιος,n-p---mn-,APOS

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|263|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|263|2,2,ἐποίησεν,ποιέω,v3saia---,PRED
+Leuven|Genesis|263|3,3,Νωε,Νωε,n-s---mn-,SBJ
+Leuven|Genesis|263|4,4,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Genesis|263|5,5,",",",",u--------,AuxX
+Leuven|Genesis|263|6,6,ὅσα,ὅσος,p-p---na-,OBJ
+Leuven|Genesis|263|7,7,ἐνετείλατο,ἐντέλλομαι,v3saim---,ATR
+Leuven|Genesis|263|8,8,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis|263|9,9,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|263|10,10,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|263|11,11,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|263|12,12,.,.,u--------,AuxK

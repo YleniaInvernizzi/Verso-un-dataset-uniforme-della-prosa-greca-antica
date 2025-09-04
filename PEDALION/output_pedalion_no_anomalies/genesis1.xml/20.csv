@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|21|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|21|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED_CO
+2,Leuven|Genesis|21|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|21|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|Genesis|21|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|21|6,6,ξηράν,ξηρός,a-s---fa-,OBJ
+6,Leuven|Genesis|21|7,7,γῆν,γῆ,n-s---fa-,OCOMP
+7,Leuven|Genesis|21|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|21|9,9,τά,ὁ,l-p---na-,ATR
+9,Leuven|Genesis|21|10,10,συστήματα,σύστημα,n-p---na-,OBJ
+10,Leuven|Genesis|21|11,11,τῶν,ὁ,l-p---ng-,ATR
+11,Leuven|Genesis|21|12,12,ὑδάτων,ὕδωρ,n-p---ng-,ATR
+12,Leuven|Genesis|21|13,13,ἐκάλεσεν,καλέω,v3saia---,PRED_CO
+13,Leuven|Genesis|21|14,14,θαλάσσας,θάλασσα,n-p---fa-,OCOMP

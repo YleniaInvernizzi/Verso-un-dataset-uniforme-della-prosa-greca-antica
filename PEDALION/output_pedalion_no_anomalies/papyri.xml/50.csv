@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|17627|12|1,1,ἐὰν,ἐάν,c--------,AuxC
+1,Leuven|17627|12|2,2,εὕρῃς,εὑρίσκω,v2sasa---,ADV
+2,Leuven|17627|12|3,3,σοι,σύ,p2s---cd-,OBJ
+3,Leuven|17627|12|4,4,τιμὴν,τιμή,n-s---fa-,OBJ
+4,Leuven|17627|12|5,5,Ἰσᾶς,Ἰσᾶς,n-s---mn-,SBJ
+5,Leuven|17627|12|6,6,Θερμουθᾶτος,Θερμουθᾶς,n-s---fg-,ATR
+6,Leuven|17627|12|7,7,πώλησον,πωλέω,v2sama---,PRED

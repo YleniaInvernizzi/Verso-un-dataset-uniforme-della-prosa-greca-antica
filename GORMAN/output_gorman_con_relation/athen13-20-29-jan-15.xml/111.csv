@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,οἰμώζειν,οἰμώζω,v--pna---,OBJ
+2,λέγ᾽,λέγω3,v2spma---,PRED_CO
+3,",",punc1,u--------,COORD
+4,ἀλλοτρία,ἀλλότριος,a-s---fn-,PNOM
+5,᾽στί,εἰμί,v3spia---,PRED_CO
+6,σοι,σύ,p-s---md-,ADV
+7,.,punc1,u--------,AuxK

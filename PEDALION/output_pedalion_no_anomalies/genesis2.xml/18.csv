@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|19|1,1,οὐ,οὐ,d--------,AuxZ
+1,Leuven|Genesis_deel2|19|2,2,μή,μή,d--------,AuxZ
+2,Leuven|Genesis_deel2|19|3,3,ἀπολέσω,ἀπόλλυμι,v1sasa---,PRED
+4,Leuven|Genesis_deel2|19|5,5,ἐάν,ἐάν,c--------,AuxC
+5,Leuven|Genesis_deel2|19|6,6,εὕρω,εὑρίσκω,v1sasa---,ADV
+6,Leuven|Genesis_deel2|19|7,7,ἐκεῖ,ἐκεῖ,d--------,ATR
+7,Leuven|Genesis_deel2|19|8,8,τριάκοντα,τριάκοντα,m--------,OBJ

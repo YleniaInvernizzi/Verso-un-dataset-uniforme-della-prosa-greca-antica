@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|16|1,1,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|16|2,2,τι,τις,p-s---nn-,PNOM
+Leuven|Genesis_deel2|16|3,3,",",",",u--------,AuxX
+Leuven|Genesis_deel2|16|4,4,κύριε,κύριος,n-s---mv-,APOS
+Leuven|Genesis_deel2|16|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|16|6,6,ἐάν,ἐάν,c--------,AuxC
+Leuven|Genesis_deel2|16|7,7,λαλήσω,λαλέω,v1sasa---,ADV
+Leuven|Genesis_deel2|16|8,8,·,·,u--------,AuxK
+Leuven|Genesis_deel2|16|9,9,[0],,,PRED

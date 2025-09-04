@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,διὸ,διό,d--------,AuxY
+2,πρὸς,πρός,r--------,AuxP
+3,τὸ,ὁ,l-s---na-,ATR
+4,κατεπεῖγον,κατεπείγω,v-sppana-,ADV
+5,τοῦ,ὁ,l-s---ng-,ATR
+6,δίψους,δίψος,n-s---ng-,OBJ
+7,χρῶνται,χράω2,v3ppie---,PRED
+8,αὐτῷ,αὐτός,p-s---md-,OBJ
+9,.,punc1,u--------,AuxK

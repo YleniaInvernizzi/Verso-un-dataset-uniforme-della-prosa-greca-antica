@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;δάμῳ;δῆμος;n-s---md-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;τὰν;ὁ;l-s---fa-;ATR
+4;κυρίαν;κυρία;n-s---fa-;ADV_CO
+5;ἦμεν;εἰμί;v1pima---;PRED
+6;καὶ;καί;c--------;COORD
+7;κράτος;κράτος;n-s---na-;ADV_CO
+8;.;punc;u--------;AuxK

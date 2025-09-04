@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,μεθ᾽,μετά,r--------,AuxP
+2,ἃ,ὅς,p-p---na-,ADV
+3,ἀπέπεμπε,ἀποπέμπω,v3siia---,PRED
+4,πρὸς,πρός,r--------,AuxP
+5,τοὺς,ὁ,l-p---ma-,ATR
+6,γεγεννηκότας,γεννάω,v-prpama-,OBJ
+7,",",punc1,u--------,AuxX
+8,παραγινομένων,παραγίγνομαι,v-pppeng-,ADV
+9,ἄλλων,ἄλλος,p-p---ng-,SBJ
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|173|1,1,καί,καί,d--------,AuxZ
+1,Leuven|PaeanBrev|173|2,2,Τοῦσκοι,Τοῦσκος,a-p---mn-,SBJ
+2,Leuven|PaeanBrev|173|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|173|4,4,ὑπό,ὑπό,r--------,AuxP
+4,Leuven|PaeanBrev|173|5,5,Γαΐου,Γαῗος,n-s---mg-,OBJ
+5,Leuven|PaeanBrev|173|6,6,Μαρκίου,Μάρκιος,n-s---mg-,APOS
+6,Leuven|PaeanBrev|173|7,7,συνεκόπησαν,συγκόπτω,v3paip---,PRED

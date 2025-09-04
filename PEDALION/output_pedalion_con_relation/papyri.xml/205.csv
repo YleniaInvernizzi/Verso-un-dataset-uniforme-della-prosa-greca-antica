@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|26738|1|1,1,Πλουσία,Πλουσία,n-s---fn-,SBJ
+Leuven|26738|1|2,2,τῷ,ὁ,l-s---md-,ATR
+Leuven|26738|1|3,3,Σύρῳ,Σύρος,n-s---md-,OBJ
+Leuven|26738|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+Leuven|26738|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|26738|1|6,6,.,.,u--------,AuxK
+Leuven|26738|1|7,7,[0],,---------,PRED

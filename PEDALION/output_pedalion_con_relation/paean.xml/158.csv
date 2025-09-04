@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|160|1,1,ἀλλʼ,ἀλλά,d--------,AuxY
+Leuven|PaeanBrev|160|2,2,οὐκ,οὐ,d--------,AuxZ
+Leuven|PaeanBrev|160|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|160|4,4,πολύ,πολύς,a-s---na-,ADV
+Leuven|PaeanBrev|160|5,5,διεγένετο,διαγίγνομαι,v3saim---,PRED
+Leuven|PaeanBrev|160|6,6,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|160|7,7,στρατιωτικῶν,στρατιωτικός,a-p---mg-,ATR
+Leuven|PaeanBrev|160|8,8,ἀρχόντων,ἄρχων,n-p---mg-,ATR
+Leuven|PaeanBrev|160|9,9,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|160|10,10,δυναστεία,δυναστεία,n-s---fn-,SBJ
+Leuven|PaeanBrev|160|11,11,·,·,u--------,AuxK

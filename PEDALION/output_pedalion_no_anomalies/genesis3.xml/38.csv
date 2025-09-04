@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|39|1,1,Ιεξαν,Ιεξαν,n-s---mn-,SBJ
+1,Leuven|Genesis_deel3|39|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel3|39|3,3,ἐγέννησεν,γεννάω,v3saia---,PRED
+3,Leuven|Genesis_deel3|39|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|Genesis_deel3|39|5,5,Σαβα,Σαβα,n-s---ma-,OBJ_CO
+5,Leuven|Genesis_deel3|39|6,6,καί,καί,c--------,AuxY
+6,Leuven|Genesis_deel3|39|7,7,τόν,ὁ,l-s---ma-,ATR
+7,Leuven|Genesis_deel3|39|8,8,Θαιμαν,Θαιμαν,n-s---ma-,OBJ_CO
+8,Leuven|Genesis_deel3|39|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel3|39|10,10,τόν,ὁ,l-s---ma-,ATR
+10,Leuven|Genesis_deel3|39|11,11,Δαιδαν,Δαιδαν,n-s---ma-,OBJ_CO

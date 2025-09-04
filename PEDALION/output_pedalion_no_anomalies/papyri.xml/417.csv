@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28065|2|1,1,πᾶν,πᾶς,a-s---na-,OBJ
+1,Leuven|28065|2|2,2,ποίησον,ποιέω,v2sama---,PRED_CO
+3,Leuven|28065|2|4,4,πάντα,πᾶς,a-p---na-,OBJ
+4,Leuven|28065|2|5,5,ὑπερτιθέμενος,ὑπερτίθημι,v-sppemn-,ADV
+5,Leuven|28065|2|6,6,ἐλθέ,ἔρχομαι,v2sama---,PRED_CO
+6,Leuven|28065|2|7,7,αὔριον,αὔριον,d--------,ADV

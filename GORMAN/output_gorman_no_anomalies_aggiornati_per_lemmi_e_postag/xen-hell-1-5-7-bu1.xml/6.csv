@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐὰν;ἐάν;c--------;AuxC
+2;δὲ;δέ;d--------;AuxY
+3;ταῦτα;οὗτος;p-p---nn-;SBJ
+4;ἐπιλίπῃ;ἐπιλείπω;v3sasa---;ADV
+5;,;punc;u--------;AuxX
+6;τοῖς;ὁ;l-p---nd-;ATR
+7;ἰδίοις;ἴδιος;a-p---nd-;OBJ
+8;χρήσεσθαι;χράω;v--fnm---;OBJ
+9;ἔφη;φημί;v3siia---;PRED
+10;,;punc;u--------;AuxX
+11;ἃ;ὅς;p-p---na-;OBJ
+12;ὁ;ὁ;l-s---mn-;ATR
+13;πατὴρ;πατήρ;n-s---mn-;SBJ
+14;αὐτῷ;αὐτός;p-s---md-;OBJ
+15;ἔδωκεν;δίδωμι;v3saia---;ATR
+16;·;punc;u--------;AuxK

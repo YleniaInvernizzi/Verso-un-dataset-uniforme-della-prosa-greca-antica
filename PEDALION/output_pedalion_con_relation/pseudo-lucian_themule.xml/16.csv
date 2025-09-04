@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|17|1,1,καί,καί,d--------,AuxY
+Leuven|Ps-Luc|17|2,2,ποτε,ποτέ,d--------,ADV
+Leuven|Ps-Luc|17|3,3,ἐξελθοῦσα,ἐξέρχομαι,v-sapafn-,ADV
+Leuven|Ps-Luc|17|4,4,κελεύει,κελεύω,v3spia---,PRED
+Leuven|Ps-Luc|17|5,5,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+Leuven|Ps-Luc|17|6,6,εἰσελθεῖν,εἰσέρχομαι,v--ana---,OBJ
+Leuven|Ps-Luc|17|7,7,.,.,u--------,AuxK

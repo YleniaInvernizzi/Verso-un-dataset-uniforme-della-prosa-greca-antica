@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;σκέψασθε;σκέπτομαι;v2pame---;PRED
+2;δὴ;δή;d--------;AuxY
+3;ὧν;ὅς;p-p---ng-;ADV
+4;ἕνεκα;ἕνεκα;r--------;AuxP
+5;ταῦτα;οὗτος;p-p---na-;OBJ
+6;λέγω;λέγω;v1spia---;OBJ
+7;·;punc;u--------;AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|422|1,1,δοκεῖ,δοκέω,v3spia---,PRED
+Leuven|0032-002|422|2,2,γοῦν,γοῦν,d--------,AuxY
+Leuven|0032-002|422|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|0032-002|422|4,4,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0032-002|422|5,5,τροφὴ,τροφή,n-s---fn-,SBJ
+Leuven|0032-002|422|6,6,ἀρχὴ,ἀρχή,n-s---fn-,PNOM
+Leuven|0032-002|422|7,7,εἶναι,εἰμί,v--pna---,OBJ
+Leuven|0032-002|422|8,8,·,·,u--------,AuxK

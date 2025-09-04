@@ -1,0 +1,12 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὁρᾶτέ,ὁράω,v2ppma---,PRED
+1,2,με,ἐγώ,p1s---ma-,OBJ_AP
+2,3,",",punc1,u--------,AuxX
+3,4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+4,5,πολῖται,πολίτης,n-p---mv-,ATR
+5,6,",",punc1,u--------,APOS
+6,7,οἷός,οἷος,a-s---mn-,PNOM
+7,8,εἰμι,εἰμί,v1spia---,OBJ_AP
+8,9,τὸ,ὁ,l-s---na-,ATR
+9,10,σῶμα,σῶμα,n-s---na-,ADV
+10,11,:,punc1,u--------,AuxK

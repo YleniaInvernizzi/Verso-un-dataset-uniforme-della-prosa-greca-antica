@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|281|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|281|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|281|3,3,ὡς,ὡς,c--------,AuxC
+3,Leuven|Ps-Luc|281|4,4,ἐλεύθερος,ἐλεύθερος,a-s---mn-,PNOM
+5,Leuven|Ps-Luc|281|6,6,ἔφη,φημί,v3siia---,ExD
+7,Leuven|Ps-Luc|281|8,8,ζήσεται,ζάω,v3sfim---,PRED_CO
+8,Leuven|Ps-Luc|281|9,9,ἐν,ἐν,r--------,AuxP
+9,Leuven|Ps-Luc|281|10,10,ἡδονῆι,ἡδονή,n-s---fd-,ADV
+10,Leuven|Ps-Luc|281|11,11,καὶ,καί,c--------,COORD
+11,Leuven|Ps-Luc|281|12,12,ταῖς,ὁ,l-p---fd-,ATR
+12,Leuven|Ps-Luc|281|13,13,ἵπποις,ἵππος,n-p---fd-,OBJ
+13,Leuven|Ps-Luc|281|14,14,ἐπιβήσεται,ἐπιβαίνω,v3sfim---,PRED_CO

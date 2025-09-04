@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Φορωνέως,Φορωνεύς,n-s---mg-,PNOM
+2,μὲν,μέν,d--------,AuxY
+3,γὰρ,γάρ,d--------,AuxY
+4,Νιόβη,Νιόβη,n-s---fn-,SBJ
+5,γίνεται,γίγνομαι,v3spie---,PRED
+6,:,punc1,u--------,AuxK

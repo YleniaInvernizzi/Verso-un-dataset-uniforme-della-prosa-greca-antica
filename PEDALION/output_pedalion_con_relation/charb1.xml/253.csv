@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|254|1,1,πόσας,πόσος,p-p---fa-,ATR
+Leuven|0554-001|254|2,2,ληψόμεθα,λαμβάνω,v1pfim---,PRED
+Leuven|0554-001|254|3,3,δωρεάς,δωρεά,n-p---fa-,OBJ
+Leuven|0554-001|254|4,4,;,;,u--------,AuxK

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|603|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|603|2,2,ἔπεσεν,πίπτω,v3saia---,PRED_CO
+Leuven|Genesis|603|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis|603|4,4,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|603|5,5,πρόσωπον,πρόσωπον,n-s---na-,ADV
+Leuven|Genesis|603|6,6,καί,καί,b--------,AuxY
+Leuven|Genesis|603|7,7,ἐγέλασεν,γελάω,v3saia---,PRED_CO
+Leuven|Genesis|603|8,8,καί,καί,b--------,COORD
+Leuven|Genesis|603|9,9,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis|603|10,10,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|603|11,11,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|603|12,12,διανοίᾳ,διάνοια,n-s---fd-,ADV
+Leuven|Genesis|603|13,13,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|603|14,14,λέγων,λέγω,v-sppamn-,ADV
+Leuven|Genesis|603|15,15,·,·,u--------,AuxK

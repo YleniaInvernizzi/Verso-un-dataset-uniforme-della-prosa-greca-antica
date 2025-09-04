@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἑσσωθεὶς,ἡσσάομαι,v-sapemn-,ADV
+2,μὲν,μέν,d--------,AuxY
+3,προσαπολλύεις,προσαπόλλυμι,v2spia---,PRED
+4,πᾶσαν,πᾶς,a-s---ma-,ATR
+5,τὴν,ὁ,l-s---fa-,ATR
+6,ἀρχήν,ἀρχή,n-s---ma-,OBJ
+7,.,punc1,u--------,AuxK

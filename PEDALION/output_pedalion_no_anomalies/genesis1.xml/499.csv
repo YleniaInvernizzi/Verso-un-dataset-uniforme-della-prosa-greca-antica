@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|500|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|500|2,2,Μελχισεδεκ,Μελχισεδεκ,n-s---mn-,SBJ
+2,Leuven|Genesis|500|3,3,βασιλεύς,βασιλεύς,n-s---mn-,APOS
+3,Leuven|Genesis|500|4,4,Σαλημ,Σαλημ,n-s----g-,ATR
+4,Leuven|Genesis|500|5,5,ἐξήνεγκεν,ἐκφέρω,v3saia---,PRED
+5,Leuven|Genesis|500|6,6,ἄρτους,ἄρτος,n-p---ma-,OBJ_CO
+6,Leuven|Genesis|500|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|500|8,8,οἶνον,οἶνος,n-s---ma-,OBJ_CO
+8,Leuven|Genesis|500|9,9,·,·,u--------,AuxK

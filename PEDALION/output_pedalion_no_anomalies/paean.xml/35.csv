@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|36|1,1,τετάρτῳ,τέταρτος,a-s---nd-,ATR_CO
+1,Leuven|PaeanBrev|36|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|36|3,3,καί,καί,c--------,COORD
+3,Leuven|PaeanBrev|36|4,4,εἰκοστῷ,εἰκοστός,a-s---nd-,ATR_CO
+4,Leuven|PaeanBrev|36|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|PaeanBrev|36|6,6,βασιλείας,βασιλεία,n-s---fg-,ATR
+6,Leuven|PaeanBrev|36|7,7,ἔτει,ἔτος,n-s---nd-,ADV
+7,Leuven|PaeanBrev|36|8,8,νόσῳ,νόσος,n-s---fd-,ADV
+8,Leuven|PaeanBrev|36|9,9,διεφθάρη,διαφθείρω,v3saip---,PRED

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Ἄλεξις,Ἄλεξις,n-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,Ἀποκοπτομένῳ,ἀποκόπτω,t-sppemd-,ADV
+5,:,punc1,u--------,AuxK
+6,[0],,,PRED

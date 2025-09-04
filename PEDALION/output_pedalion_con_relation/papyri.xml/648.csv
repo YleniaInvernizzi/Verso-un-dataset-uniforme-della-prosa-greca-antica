@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|32904|3|1,1,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|32904|3|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|32904|3|3,3,μού,ἐγώ,p1s---cg-,ATR
+Leuven|32904|3|4,4,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|32904|3|5,5,εὐχή,εὐχή,n-s---fn-,PNOM
+Leuven|32904|3|6,6,.,.,u--------,AuxK

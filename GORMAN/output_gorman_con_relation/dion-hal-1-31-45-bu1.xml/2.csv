@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,εἴη,εἰμί,v3spoa---,PRED
+2,δ᾽,δέ,d--------,AuxY
+3,ἂν,ἄν1,d--------,AuxY
+4,Ἑλλάδι,Ἑλλάς,a-s---fd_,ATR
+5,φωνῇ,φωνή,n-s---fd-,ADV
+6,Θεσπιῳδὸς,θεσπιῳδός,a-s---fn-,PNOM
+7,τῇ,ὁ,l-s---fd-,ATR
+8,νύμφῃ,νύμφη,n-s---fd-,ATR
+9,τ-,ὁ,l-s---nn-,ATR
+10,οὔνομα,ὄνομα,n-s---nn-,SBJ
+11,:,punc1,u--------,AuxK

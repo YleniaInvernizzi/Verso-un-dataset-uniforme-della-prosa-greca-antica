@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;τί;τις;p-s---na-;ADV
+2;οὖν;οὖν;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;ὦ;ὦ;i--------;AuxZ
+5;ταλαίπωρε;ταλαίπωρος;a-s---mv-;ExD
+6;,;punc;u--------;AuxX
+7;συκοφαντεῖς;συκοφαντέω;v2spia---;PRED
+8;";";punc;u--------;AuxK

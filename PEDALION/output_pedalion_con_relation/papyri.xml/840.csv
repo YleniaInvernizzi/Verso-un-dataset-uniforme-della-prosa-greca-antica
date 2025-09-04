@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|144995|2|1,1,ἐπιμεληθεὶς,ἐπιμελέομαι,v-sappmn-,ADV
+Leuven|144995|2|2,2,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|144995|2|3,3,ἵππου,ἵππος,n-s---mg-,OBJ
+Leuven|144995|2|4,4,",",",",u--------,AuxX
+Leuven|144995|2|5,5,εὐθέως,εὐθύς,d--------,ADV
+Leuven|144995|2|6,6,πρὸς,πρός,r--------,AuxP
+Leuven|144995|2|7,7,σὲ,σύ,p2s---ca-,OBJ
+Leuven|144995|2|8,8,σπεύδω,σπεύδω,v1spia---,PRED
+Leuven|144995|2|9,9,.,.,u--------,AuxK

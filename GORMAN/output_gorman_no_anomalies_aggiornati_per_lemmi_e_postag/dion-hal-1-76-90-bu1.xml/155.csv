@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;προθύσαντας;προθύω;v-papama-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;τοῖς;ὁ;l-p---md-;ATR
+4;θεοῖς;θεός;n-p---md-;OBJ
+5;ἱερὰ;ἱερόν;n-p---na-;OBJ
+6;τὰ;ὁ;l-p---na-;ATR
+7;νομιζόμενα;νομίζω;v-pppena-;ATR
+8;φυλάττειν;φυλάσσω;v--pna---;PRED
+9;οἰωνοὺς;οἰωνός;n-p---ma-;OBJ
+10;αἰσίους;αἴσιος;a-p---ma-;ATR
+11;:;punc;u--------;AuxK

@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐπήρετο,ἐπέρομαι,v3saim---,PRED
+1,2,ἐκεῖνος,ἐκεῖνος,p-s---mn-,SBJ
+2,3,πότε,ποτέ,d--------,OBJ
+3,4,;,punc1,u--------,AuxK

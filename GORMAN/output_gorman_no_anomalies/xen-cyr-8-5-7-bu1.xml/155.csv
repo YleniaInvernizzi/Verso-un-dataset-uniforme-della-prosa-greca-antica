@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,παρόντων,πάρειμι1,v-pppamg-,ADV
+1,2,δὲ,δέ,d--------,AuxY
+2,3,πάντων,πᾶς,a-p---mg-,SBJ
+3,4,ἤρχετο,ἄρχω,v3siie---,PRED
+4,5,τοιοῦδε,τοιόσδε,a-s---mg-,ATR
+5,6,λόγου,λόγος,n-s---mg-,OBJ
+6,7,.,punc1,u--------,AuxK

@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0093-009|127|2,2,σὺ,σύ,p2s---cn-,SBJ
+2,Leuven|0093-009|127|3,3,δὲ,δέ,d--------,AuxY
+3,Leuven|0093-009|127|4,4,ταῦτα,οὗτος,p-p---na-,OBJ
+4,Leuven|0093-009|127|5,5,πιστεύεις,πιστεύω,v2spia---,PRED

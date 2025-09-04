@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ἃ,ὅς,p-p---na-,OBJ
+2,μὲν,μέν,d--------,AuxY
+3,διώκει,διώκω,v3spia---,PNOM
+4,τοῦ,ὁ,l-s---ng-,ATR
+5,ψηφίσματος,ψήφισμα,n-s---ng-,ATR
+6,",",punc1,u--------,AuxX
+7,ὦ,ὦ,i--------,AuxZ
+8,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+9,Ἀθηναῖοι,Ἀθηναῖος,a-p---mv-,ATR
+10,",",punc1,u--------,AuxX
+11,ταῦτ᾽,οὗτος,p-p---nn-,SBJ
+12,ἐστίν,εἰμί,v3spia---,PRED
+13,.,punc1,u--------,AuxK

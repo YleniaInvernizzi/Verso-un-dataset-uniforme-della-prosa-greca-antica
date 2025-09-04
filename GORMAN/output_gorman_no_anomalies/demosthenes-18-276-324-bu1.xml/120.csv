@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τί,τις,p-s---na-,ADV
+1,2,τῶν,ὁ,l-p---ng-,ATR
+2,3,ἁπάντων,ἅπας,a-p---ng-,ATR
+3,4,σὺ,σύ,p2s---mn-,SBJ
+4,5,χρήσιμος,χρήσιμος,a-s---mn-,PNOM
+5,6,εἶ,εἰμί,v2spia---,PRED
+6,7,;,punc1,u--------,AuxK

@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|51|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|51|2,2,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+2,Leuven|Genesis|51|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|51|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|Genesis|51|5,5,τόν,ὁ,l-s---ma-,ATR
+5,Leuven|Genesis|51|6,6,ἄνθρωπον,ἄνθρωπος,n-s---ma-,OBJ
+7,Leuven|Genesis|51|8,8,κατ’,κατά,r--------,AuxP
+8,Leuven|Genesis|51|9,9,εἰκόνα,εἰκών,n-s---fa-,ADV
+9,Leuven|Genesis|51|10,10,θεοῦ,θεός,n-s---mg-,ATR
+10,Leuven|Genesis|51|11,11,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+11,Leuven|Genesis|51|12,12,αὐτόν,αὐτός,p-s---ma-,OBJ
+13,Leuven|Genesis|51|14,14,ἄρσεν,ἄρσην,a-s---na-,OCOMP_CO
+14,Leuven|Genesis|51|15,15,καί,καί,c--------,COORD
+15,Leuven|Genesis|51|16,16,θῆλυ,θῆλυς,a-s---na-,OCOMP_CO
+16,Leuven|Genesis|51|17,17,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+17,Leuven|Genesis|51|18,18,αὐτούς,αὐτός,p-p---ma-,OBJ

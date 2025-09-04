@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,εἴργοντο,ἔργω1,v3piie---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,ταῖς,ὁ,l-p---fd-,ATR
+5,γυμνοπαιδίαις,Γυμνοπαιδίαι,n-p---fd-,ADV
+6,τῆς,ὁ,l-s---fg-,ATR
+7,θέας,θέα,n-s---fg-,OBJ
+8,:,punc1,u--------,AuxK

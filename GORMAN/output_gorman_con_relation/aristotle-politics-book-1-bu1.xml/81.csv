@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---nn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,κτῆμα,κτῆμα,n-s---nn-,SBJ
+4,λέγεται,λέγω3,v3spie---,PRED
+5,ὥσπερ,ὥσπερ,c--------,AuxC
+6,καὶ,καί,d--------,AuxZ
+7,τὸ,ὁ,l-s---nn-,ATR
+8,μόριον,μόριον,n-s---nn-,SBJ
+9,.,punc1,u--------,AuxK
+10,λέγεται,λέγω3,v3spie---,ADV

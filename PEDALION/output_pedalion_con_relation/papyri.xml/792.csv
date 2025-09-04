@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|7843|2|1,1,ἔδει,δέω,v3siia---,PRED
+Leuven|7843|2|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|7843|2|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|7843|2|4,4,τῶι,ὁ,l-s---md-,ATR
+Leuven|7843|2|5,5,σῶι,σός,a-s---md-,ATR
+Leuven|7843|2|6,6,τραχήλωι,τράχηλος,n-s---md-,OBJ_CO
+Leuven|7843|2|7,7,ἐμπαίζειν,ἐμπαίζω,v--pna---,SBJ
+Leuven|7843|2|8,8,",",",",u--------,AuxX
+Leuven|7843|2|9,9,καὶ,καί,b--------,COORD
+Leuven|7843|2|10,10,μὴ,μή,d--------,AuxZ
+Leuven|7843|2|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|7843|2|12,12,τῶι,ὁ,l-s---md-,ATR
+Leuven|7843|2|13,13,ἐμῶι,ἐμός,a-s---md-,OBJ_CO
+Leuven|7843|2|14,14,.,.,u--------,AuxK

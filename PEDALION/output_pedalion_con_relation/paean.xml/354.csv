@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|356|1,1,μετά,μετά,r--------,AuxP
+Leuven|PaeanBrev|356|2,2,τούτους,οὗτος,p-p---ma-,ADV
+Leuven|PaeanBrev|356|3,3,ὕπατοι,ὕπατος,a-p---mn-,PNOM
+Leuven|PaeanBrev|356|4,4,γίνονται,γίγνομαι,v3ppie---,PRED
+Leuven|PaeanBrev|356|5,5,Γάϊος,Γάϊος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|356|6,6,Λουτάτιος,Λουτάτιος,n-s---mn-,APOS
+Leuven|PaeanBrev|356|7,7,Κατοῦλος,Κατοῦλος,n-s---mn-,APOS
+Leuven|PaeanBrev|356|8,8,καί,καί,b--------,COORD
+Leuven|PaeanBrev|356|9,9,Αὖλος,Αὖλος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|356|10,10,Ποστούμιος,Ποστούμιος,n-s---mn-,APOS
+Leuven|PaeanBrev|356|11,11,Ἀλβῖνος,Ἀλβῖνος,n-s---mn-,APOS
+Leuven|PaeanBrev|356|12,12,.,.,u--------,AuxK

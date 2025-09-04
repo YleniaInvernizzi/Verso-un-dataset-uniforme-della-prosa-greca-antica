@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|11|1,1,μεινάτω,μένω,v3sama---,PRED_CO
+Leuven|Genesis_deel3|11|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis_deel3|11|3,3,παρθένος,παρθένος,n-s---fn-,SBJ
+Leuven|Genesis_deel3|11|4,4,μεθʼ,μετά,r--------,AuxP
+Leuven|Genesis_deel3|11|5,5,ἡμῶν,ἐγώ,p-p----g-,ADV
+Leuven|Genesis_deel3|11|6,6,ἡμέρας,ἡμέρα,n-s---fg-,ADV
+Leuven|Genesis_deel3|11|7,7,ὡσεί,ὡσεί,d--------,AuxZ
+Leuven|Genesis_deel3|11|8,8,δέκα,δέκα,a--------,ATR
+Leuven|Genesis_deel3|11|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel3|11|10,10,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|11|11,11,μετά,μετά,r--------,AuxP
+Leuven|Genesis_deel3|11|12,12,ταῦτα,οὗτος,p-p---na-,ADV
+Leuven|Genesis_deel3|11|13,13,ἀπελεύσεται,ἀπέρχομαι,v3sfim---,PRED_CO
+Leuven|Genesis_deel3|11|14,14,.,.,u--------,AuxK

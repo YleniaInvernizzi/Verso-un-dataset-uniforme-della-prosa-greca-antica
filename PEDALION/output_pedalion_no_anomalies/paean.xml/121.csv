@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|122|1,1,ἐν,ἐν,r--------,AuxP
+1,Leuven|PaeanBrev|122|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|122|3,3,ταῖς,ὁ,l-p---fd-,ATR
+3,Leuven|PaeanBrev|122|4,4,μεγίσταις,μέγας,a-p---fds,ATR
+4,Leuven|PaeanBrev|122|5,5,ἀνάγκαις,ἀνάγκη,n-p---fd-,ADV
+5,Leuven|PaeanBrev|122|6,6,ἐπί,ἐπί,r--------,AuxP
+6,Leuven|PaeanBrev|122|7,7,ταύτην,οὗτος,p-s---fa-,ATR
+7,Leuven|PaeanBrev|122|8,8,ἐφέροντο,φέρω,v3piie---,PRED
+8,Leuven|PaeanBrev|122|9,9,τήν,ὁ,l-s---fa-,ATR
+9,Leuven|PaeanBrev|122|10,10,ἀρχήν,ἀρχή,n-s---fa-,OBJ

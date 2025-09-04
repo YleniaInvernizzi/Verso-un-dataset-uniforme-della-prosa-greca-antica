@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|656|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis|656|2,2,κρύψω,κρύπτω,v1sfia---,PRED
+2,Leuven|Genesis|656|3,3,ἐγώ,ἐγώ,p1s---cn-,SBJ
+3,Leuven|Genesis|656|4,4,ἀπό,ἀπό,r--------,AuxP
+4,Leuven|Genesis|656|5,5,Ἀβραάμ,Ἀβραάμ,n-s---mg-,OBJ
+5,Leuven|Genesis|656|6,6,τοῦ,ὁ,l-s---mg-,ATR
+6,Leuven|Genesis|656|7,7,παιδός,παῖς,n-s---cg-,APOS
+7,Leuven|Genesis|656|8,8,μου,ἐγώ,p1s---cg-,ATR
+8,Leuven|Genesis|656|9,9,ἅ,ὅς,p-p---na-,OBJ
+9,Leuven|Genesis|656|10,10,ἐγώ,ἐγώ,p1s---cn-,SBJ
+10,Leuven|Genesis|656|11,11,ποιῶ,ποιέω,v1spia---,OBJ
+11,Leuven|Genesis|656|12,12,;,;,u--------,AuxK

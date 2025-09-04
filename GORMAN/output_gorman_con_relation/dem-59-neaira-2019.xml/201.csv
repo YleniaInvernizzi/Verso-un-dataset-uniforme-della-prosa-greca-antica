@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐὰν,ἐάν,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,συνοικῇ,συνοικέω,v3spsa---,ADV
+4,",",",",u--------,AuxX
+5,ἄτιμος,ἄτιμος,a-s---mn-,PNOM
+6,ἔστω,εἰμί,v3spma---,PRED
+7,.,.,u--------,AuxK

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|273|1,1,ταύτην,οὗτος,p-s---fa-,OBJ
+Leuven|0557-001|273|2,2,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|0557-001|273|3,3,δύναμιν,δύναμις,n-s---fa-,OCOMP
+Leuven|0557-001|273|4,4,εἴπω,λέγω,v1sasa---,PRED
+Leuven|0557-001|273|5,5,;,;,u--------,AuxK

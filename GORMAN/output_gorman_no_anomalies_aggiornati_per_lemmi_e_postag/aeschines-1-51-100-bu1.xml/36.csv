@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔστι;εἰμί;v3spia---;PRED
+2;τις;τις;a-s---cn-;ATR
+3;Γλαύκων;Γλαύκων;n-s---mn-;PNOM
+4;Χολαργεύς;Χολαργεύς;a-s---mn-;ATR
+5;:;punc;u--------;AuxK

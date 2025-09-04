@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28820|5|1,1,ἔφασαν,φημί,v3piia---,PRED
+1,Leuven|28820|5|2,2,διὰ,διά,r--------,AuxP
+2,Leuven|28820|5|3,3,τὴν,ὁ,l-s---fa-,ATR
+3,Leuven|28820|5|4,4,ἀποδημίαν,ἀποδημία,n-s---fa-,OBJ

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|410|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|410|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|410|3,3,ἠπιστάμην,ἐπίσταμαι,v1siie---,PRED_CO
+Leuven|Ps-Luc|410|4,4,ὅπως,ὅπως,d--------,ADV
+Leuven|Ps-Luc|410|5,5,χρὴ,χρή,v3spia---,OBJ
+Leuven|Ps-Luc|410|6,6,ἀλεῖν,ἀλέω,v--pna---,SBJ
+Leuven|Ps-Luc|410|7,7,πολλάκις,πολλάκις,d--------,ADV
+Leuven|Ps-Luc|410|8,8,παθών,πάσχω,v-sapamn-,ADV
+Leuven|Ps-Luc|410|9,9,",",",",u--------,AuxX
+Leuven|Ps-Luc|410|10,10,προσεποιούμην,προσποιέω,v1siie---,PRED_CO
+Leuven|Ps-Luc|410|11,11,δὲ,δέ,b--------,COORD
+Leuven|Ps-Luc|410|12,12,ἀγνοεῖν,ἀγνοέω,v--pna---,OBJ
+Leuven|Ps-Luc|410|13,13,·,·,u--------,AuxK

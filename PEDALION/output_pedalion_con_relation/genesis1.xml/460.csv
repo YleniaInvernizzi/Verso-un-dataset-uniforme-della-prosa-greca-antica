@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|461|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|461|2,2,Λωτ,Λωτ,n-s---md-,PNOM
+Leuven|Genesis|461|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|461|4,4,συμπορευομένῳ,συμπορεύομαι,v-sppemd-,APOS
+Leuven|Genesis|461|5,5,μετά,μετά,r--------,AuxP
+Leuven|Genesis|461|6,6,Αβραμ,Αβραμ,n-s---mg-,ADV
+Leuven|Genesis|461|7,7,ἦν,εἰμί,v3siia---,PRED
+Leuven|Genesis|461|8,8,πρόβατα,πρόβατον,n-p---nn-,SBJ_CO
+Leuven|Genesis|461|9,9,καί,καί,b--------,AuxY
+Leuven|Genesis|461|10,10,βόες,βοῦς,n-p---mn-,SBJ_CO
+Leuven|Genesis|461|11,11,καί,καί,b--------,COORD
+Leuven|Genesis|461|12,12,σκηναί,σκηνή,n-p---fn-,SBJ_CO
+Leuven|Genesis|461|13,13,.,.,u--------,AuxK

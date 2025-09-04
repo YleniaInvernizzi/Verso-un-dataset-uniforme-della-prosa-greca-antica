@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|15|1,1,μὴ,μή,d--------,AuxZ
+Leuven|31346|15|2,2,ἆρα,ἆρα,d--------,AuxY
+Leuven|31346|15|3,3,αἱ,ὁ,l-p---fn-,ATR
+Leuven|31346|15|4,4,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+Leuven|31346|15|5,5,τὰ,ὁ,l-p---na-,ATR
+Leuven|31346|15|6,6,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|31346|15|7,7,διατελοῦσι,διατελέω,v3ppia---,PRED
+Leuven|31346|15|8,8,;,;,u--------,AuxK

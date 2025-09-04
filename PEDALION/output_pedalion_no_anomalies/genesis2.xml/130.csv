@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|131|1,1,ἄρα,ἄρα,d--------,AuxY
+1,Leuven|Genesis_deel2|131|2,2,οὐκ,οὐ,d--------,AuxZ
+2,Leuven|Genesis_deel2|131|3,3,ἔστιν,εἰμί,v3spia---,PRED_CO
+3,Leuven|Genesis_deel2|131|4,4,θεοσέβεια,θεοσεβεία,n-s---fn-,SBJ
+4,Leuven|Genesis_deel2|131|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Genesis_deel2|131|6,6,τῷ,ὁ,l-s---md-,ATR
+6,Leuven|Genesis_deel2|131|7,7,τόπῳ,τόπος,n-s---md-,ADV
+7,Leuven|Genesis_deel2|131|8,8,τούτῳ,οὗτος,p-s---md-,ATR
+9,Leuven|Genesis_deel2|131|10,10,ἐμέ,ἐγώ,p1s---ca-,OBJ
+10,Leuven|Genesis_deel2|131|11,11,τε,τε,c--------,COORD
+11,Leuven|Genesis_deel2|131|12,12,ἀποκτενοῦσιν,ἀποκτείνω,v3pfia---,PRED_CO
+12,Leuven|Genesis_deel2|131|13,13,ἕνεκεν,ἕνεκα,r--------,AuxP
+13,Leuven|Genesis_deel2|131|14,14,τῆς,ὁ,l-s---fg-,ATR
+14,Leuven|Genesis_deel2|131|15,15,γυναικός,γυνή,n-s---fg-,ADV
+15,Leuven|Genesis_deel2|131|16,16,μου,ἐγώ,p1s---cg-,ATR

@@ -1,0 +1,4 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|25080|13|1,1,ἔρρωσο,ῥώννυμι,v2srme---,PRED
+Leuven|25080|13|2,2,",",",",u--------,AuxX
+Leuven|25080|13|3,3,τιμιώτατε,τίμιος,a-s---mvs,ExD

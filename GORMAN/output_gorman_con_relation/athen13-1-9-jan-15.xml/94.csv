@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,Φιλέταιρος,Φιλέταιρος,n-s---mn-,SBJ
+2,Κορινθιαστῇ,Κορινθιαστής,n-s---md-,ADV
+3,:,punc1,u--------,AuxK
+4,[0],,,PRED

@@ -1,0 +1,255 @@
+File 1
+['οὐ', 'δυνησόμεθα', 'οὖν', 'σοι', 'ἀντειπεῖν', 'κακόν', 'καλῷ']
+[('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 2
+['ἰδού', 'Ρεβεκκα', 'ἐνώπιον', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 3
+['λαβών', 'ἀπότρεχε', 'καί', 'ἔστω', 'γυνή', 'τῷ', 'υἱῷ', 'τοῦ', 'κυρίου', 'σου', 'καθά', 'ἐλάλησεν', 'κύριος']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 8
+['ἐκπέμψατε', 'με', 'ἵνα', 'ἀπέλθω', 'πρός', 'τόν', 'κύριον', 'μου']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 12
+['μή', 'κατέχετε', 'με', 'καί', 'κύριος', 'εὐόδωσεν', 'τήν', 'ὁδόν', 'μου']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 13
+['ἐκπέμψατε', 'με', 'ἵνα', 'ἀπέλθω', 'πρός', 'τόν', 'κύριον', 'μου']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 23
+['γίνου', 'εἰς', 'χιλιάδας', 'μυριάδων', 'καί', 'κληρονομησάτω', 'τό', 'σπέρμα', 'σου', 'τάς', 'πόλεις', 'τῶν', 'ὑπεναντίων']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 31
+['οὗτος', 'ἐστιν', 'ὁ', 'κύριος', 'μου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 66
+['εἰ', 'οὕτως', 'μοι', 'μέλλει', 'γίνεσθαι', 'ἵνα', 'τί', 'μοι', 'τοῦτο']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 68
+['δύο', 'ἔθνη', 'ἐν', 'τῇ', 'γαστρί', 'σού', 'εἰσιν', 'καί', 'δύο', 'λαοί', 'ἐκ', 'τῆς', 'κοιλίας', 'σου', 'διασταλήσονται']
+[('σού', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 81
+['γεῦσον', 'με', 'ἀπό', 'τοῦ', 'ἑψέματος', 'τοῦ', 'πυρροῦ', 'τούτου', 'ὅτι', 'ἐκλείπω']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 84
+['ἀπόδου', 'μοι', 'σήμερον', 'τά', 'πρωτοτόκια', 'σου', 'ἐμοί']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('ἐμοί', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 86
+['ἰδού', 'ἐγώ', 'πορεύομαι', 'τελευτᾶν', 'καί', 'ἵνα', 'τί', 'μοι', 'ταῦτα', 'τά', 'πρωτοτόκια']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 88
+['ὄμοσον', 'μοι', 'σήμερον']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 97
+['κατοίκησον', 'δέ', 'ἐν', 'τῇ', 'γῇ', 'ᾗ', 'ἄν', 'σοι', 'εἴπω']
+[('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 98
+['καί', 'παροίκει', 'ἐν', 'τῇ', 'γῇ', 'ταύτῃ', 'καί', 'ἔσομαι', 'μετά', 'σοῦ', 'καί', 'εὐλογήσω', 'σε']
+[('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 99
+['σοί', 'γάρ', 'καί', 'τῷ', 'σπέρματι', 'σου', 'δώσω', 'πᾶσαν', 'τήν', 'γῆν', 'ταύτην', 'καί', 'στήσω', 'τόν', 'ὅρκον', 'μου', 'ὅν', 'ὤμοσα', 'Αβρααμ', 'τῷ', 'πατρί', 'σου']
+[('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 100
+['καί', 'πληθυνῶ', 'τό', 'σπέρμα', 'σου', 'ὡς', 'τούς', 'ἀστέρας', 'τοῦ', 'οὐρανοῦ', 'καί', 'δώσω', 'τῷ', 'σπέρματι', 'σου', 'πᾶσαν', 'τήν', 'γῆν', 'ταύτην', 'καί', 'ἐνευλογηθήσονται', 'ἐν', 'τῷ', 'σπέρματι', 'σου', 'πάντα', 'τά', 'ἔθνη', 'τῆς', 'γῆς', 'ἀνθʼ', 'ὧν', 'ὑπήκουσεν', 'Αβρααμ', 'ὁ', 'πατήρ', 'σου', 'τῆς', 'ἐμῆς', 'φωνῆς', 'καί', 'ἐφύλαξεν', 'τά', 'προστάγματα', 'μου', 'καί', 'τάς', 'ἐντολάς', 'μου', 'καί', 'τά', 'δικαιώματα', 'μου', 'καί', 'τά', 'νόμιμα', 'μου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 103
+['ἀδελφή', 'μού', 'ἐστιν']
+[('μού', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 105
+['γυνή', 'μού', 'ἐστιν', 'μήποτε', 'ἀποκτείνωσιν', 'αὐτόν', 'οἱ', 'ἄνδρες', 'τοῦ', 'τόπου', 'περί', 'Ρεβεκκας', 'ὅτι', 'ὡραία', 'τῇ', 'ὄψει', 'ἦν']
+[('μού', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 109
+['ἄρα', 'γε', 'γυνή', 'σού', 'ἐστιν']
+[('σού', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 111
+['ἀδελφή', 'μού', 'ἐστιν']
+[('μού', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 117
+['μικροῦ', 'ἐκοιμήθη', 'τις', 'τοῦ', 'γένους', 'μου', 'μετά', 'τῆς', 'γυναικός', 'σου', 'καί', 'ἐπήγαγες', 'ἐφʼ', 'ἡμᾶς', 'ἄγνοιαν']
+[('τις', 'p-s---cn-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 123
+['ἐγένετο', 'δέ', 'αὐτῷ', 'κτήνη', 'προβάτων', 'καί', 'κτήνη', 'βοῶν', 'καί', 'γεώργια', 'πολλά']
+[('βοῶν', 'n-p---cg-', "Unexpected character 'c' at position 7")]
+File 140
+['ἐγώ', 'εἰμι', 'ὁ', 'θεός', 'Αβρααμ', 'τοῦ', 'πατρός', 'σου']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 142
+['μετά', 'σοῦ', 'γάρ', 'εἰμι', 'καί', 'ηὐλόγηκα', 'σε', 'καί', 'πληθυνῶ', 'τό', 'σπέρμα', 'σου', 'διά', 'Αβρααμ', 'τόν', 'πατέρα', 'σου']
+[('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 147
+['ἵνα', 'τί', 'ἤλθατε', 'πρός', 'με']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 148
+['ὑμεῖς', 'δέ', 'ἐμισήσατε', 'με', 'καί', 'ἀπεστείλατε', 'με', 'ἀφʼ', 'ὑμῶν']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 150
+['ἰδόντες', 'ἑωράκαμεν', 'ὅτι', 'ἦν', 'κύριος', 'μετά', 'σοῦ', 'καί', 'εἴπαμεν']
+[('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 151
+['γενέσθω', 'ἀρά', 'ἀνά', 'μέσον', 'ἡμῶν', 'καί', 'ἀνά', 'μέσον', 'σοῦ', 'καί', 'διαθησόμεθα', 'μετά', 'σοῦ', 'διαθήκην', 'μή', 'ποιήσειν', 'μεθʼ', 'ἡμῶν', 'κακόν', 'καθότι', 'ἡμεῖς', 'σε', 'οὐκ', 'ἐβδελυξάμεθα', 'καί', 'ὅν', 'τρόπον', 'ἐχρησάμεθα', 'σοι', 'καλῶς', 'καί', 'ἐξαπεστείλαμεν', 'σε', 'μετʼ', 'εἰρήνης']
+[('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 152
+['καί', 'νῦν', 'σύ', 'εὐλογητός', 'ὑπό', 'κυρίου']
+[('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7")]
+File 162
+['υἱέ', 'μου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 164
+['ἰδού', 'ἐγώ']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7")]
+File 166
+['ἰδού', 'γεγήρακα', 'καί', 'οὐ', 'γινώσκω', 'τήν', 'ἡμέραν', 'τῆς', 'τελευτῆς', 'μου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 167
+['νῦν', 'οὖν', 'λαβέ', 'τό', 'σκεῦος', 'σου', 'τήν', 'τε', 'φαρέτραν', 'καί', 'τό', 'τόξον', 'καί', 'ἔξελθε', 'εἰς', 'τό', 'πεδίον', 'καί', 'θήρευσον', 'μοι', 'θήραν', 'καί', 'ποίησον', 'μοι', 'ἐδέσματα', 'ὡς', 'φιλῶ', 'ἐγώ', 'καί', 'ἔνεγκε', 'μοι', 'ἵνα', 'φάγω', 'ὅπως', 'εὐλογήσῃ', 'σε', 'ἡ', 'ψυχή', 'μου', 'πρίν', 'ἀποθανεῖν', 'με']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 171
+['ἰδέ', 'ἐγώ', 'ἤκουσα', 'τοῦ', 'πατρός', 'σου', 'λαλοῦντος', 'πρός', 'Ησαυ', 'τόν', 'ἀδελφόν', 'σου', 'λέγοντος', 'ἔνεγκον', 'μοι', 'θήραν', 'καί', 'ποίησον', 'μοι', 'ἐδέσματα', 'καί', 'φαγών', 'εὐλογήσω', 'σε', 'ἐναντίον', 'κυρίου', 'πρό', 'τοῦ', 'ἀποθανεῖν', 'με']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 172
+['νῦν', 'οὖν', 'υἱέ', 'ἄκουσον', 'μου', 'καθά', 'ἐγώ', 'σοι', 'ἐντέλλομαι', 'καί', 'πορευθείς', 'εἰς', 'τά', 'πρόβατα', 'λαβέ', 'μοι', 'ἐκεῖθεν', 'δύο', 'ἐρίφους', 'ἁπαλούς', 'καί', 'καλούς', 'καί', 'ποιήσω', 'αὐτούς', 'ἐδέσματα', 'τῷ', 'πατρί', 'σου', 'ὡς', 'φιλεῖ', 'καί', 'εἰσοίσεις', 'τῷ', 'πατρί', 'σου', 'καί', 'φάγεται', 'ὅπως', 'εὐλογήσῃ', 'σε', 'ὁ', 'πατήρ', 'σου', 'πρό', 'τοῦ', 'ἀποθανεῖν', 'αὐτόν']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 174
+['ἔστιν', 'Ησαυ', 'ὁ', 'ἀδελφός', 'μου', 'ἀνήρ', 'δασύς', 'ἐγώ', 'δέ', 'ἀνήρ', 'λεῖος']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7")]
+File 175
+['μήποτε', 'ψηλαφήσῃ', 'με', 'ὁ', 'πατήρ', 'μου', 'καί', 'ἔσομαι', 'ἐναντίον', 'αὐτοῦ', 'ὡς', 'καταφρονῶν', 'καί', 'ἐπάξω', 'ἐπʼ', 'ἐμαυτόν', 'κατάραν', 'καί', 'οὐκ', 'εὐλογίαν']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 177
+['ἐπʼ', 'ἐμέ', 'ἡ', 'κατάρα', 'σου', 'τέκνον']
+[('ἐμέ', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 178
+['μόνον', 'ὑπάκουσον', 'τῆς', 'φωνῆς', 'μου', 'καί', 'πορευθείς', 'ἔνεγκε', 'μοι']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 185
+['ἰδού', 'ἐγώ']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7")]
+File 186
+['τίς', 'εἶ', 'σύ', 'τέκνον']
+[('τίς', 'p-s---cn-', "Unexpected character 'c' at position 7"), ('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7")]
+File 188
+['ἐγώ', 'Ησαυ', 'ὁ', 'πρωτότοκος', 'σου']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 189
+['ἐποίησα', 'καθά', 'ἐλάλησας', 'μοι']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 190
+['ἀναστάς', 'κάθισον', 'καί', 'φάγε', 'τῆς', 'θήρας', 'μου', 'ὅπως', 'εὐλογήσῃ', 'με', 'ἡ', 'ψυχή', 'σου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 194
+['ὅ', 'παρέδωκεν', 'κύριος', 'ὁ', 'θεός', 'σου', 'ἐναντίον', 'μου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 196
+['ἔγγισον', 'μοι', 'καί', 'ψηλαφήσω', 'σε', 'τέκνον', 'εἰ', 'σύ', 'εἶ', 'ὁ', 'υἱός', 'μου', 'Ησαυ', 'ἤ', 'οὔ']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 203
+['σύ', 'εἶ', 'ὁ', 'υἱός', 'μου', 'Ησαυ']
+[('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 205
+['ἐγώ']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7")]
+File 207
+['προσάγαγε', 'μοι', 'καί', 'φάγομαι', 'ἀπό', 'τῆς', 'θήρας', 'σου', 'τέκνον', 'ἵνα', 'εὐλογήσῃ', 'σε', 'ἡ', 'ψυχή', 'μου']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 211
+['ἔγγισον', 'μοι', 'καί', 'φίλησον', 'με', 'τέκνον']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 213
+['ἰδού', 'ὀσμή', 'τοῦ', 'υἱοῦ', 'μου', 'ὡς', 'ὀσμή', 'ἀγροῦ', 'πλήρους', 'ὅν', 'ηὐλόγησεν', 'κύριος']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 214
+['καί', 'δῴη', 'σοι', 'ὁ', 'θεός', 'ἀπό', 'τῆς', 'δρόσου', 'τοῦ', 'οὐρανοῦ', 'καί', 'ἀπό', 'τῆς', 'πιότητος', 'τῆς', 'γῆς', 'καί', 'πλῆθος', 'σίτου', 'καί', 'οἴνου']
+[('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 215
+['καί', 'δουλευσάτωσαν', 'σοι', 'ἔθνη', 'καί', 'προσκυνήσουσιν', 'σοι', 'ἄρχοντες']
+[('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 216
+['καί', 'γίνου', 'κύριος', 'τοῦ', 'ἀδελφοῦ', 'σου', 'καί', 'προσκυνήσουσιν', 'σοι', 'οἱ', 'υἱοί', 'τοῦ', 'πατρός', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 217
+['ὁ', 'καταρώμενος', 'σε', 'ἐπικατάρατος', 'ὁ', 'δέ', 'εὐλογῶν', 'σε', 'εὐλογημένος']
+[('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 220
+['ἀναστήτω', 'ὁ', 'πατήρ', 'μου', 'καί', 'φαγέτω', 'τῆς', 'θήρας', 'τοῦ', 'υἱοῦ', 'αὐτοῦ', 'ὅπως', 'εὐλογήσῃ', 'με', 'ἡ', 'ψυχή', 'σου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 222
+['τίς', 'εἶ', 'σύ']
+[('τίς', 'p-s---cn-', "Unexpected character 'c' at position 7"), ('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7")]
+File 224
+['ἐγώ', 'εἰμι', 'ὁ', 'υἱός', 'σου', 'ὁ', 'πρωτότοκος', 'Ησαυ']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 226
+['τίς', 'οὖν', 'ὁ', 'θηρεύσας', 'μοι', 'θήραν', 'καί', 'εἰσενέγκας', 'μοι']
+[('τίς', 'p-s---cn-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 227
+['καί', 'ἔφαγον', 'ἀπό', 'πάντων', 'πρό', 'τοῦ', 'σε', 'ἐλθεῖν', 'καί', 'ηὐλόγησα', 'αὐτόν', 'καί', 'εὐλογημένος', 'ἔστω']
+[('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 231
+['ἐλθών', 'ὁ', 'ἀδελφός', 'σου', 'μετά', 'δόλου', 'ἔλαβεν', 'τήν', 'εὐλογίαν', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 234
+['ἐπτέρνικεν', 'γάρ', 'με', 'ἤδη', 'δεύτερον', 'τοῦτο']
+[('με', 'p1s---ca-', "Unexpected character 'c' at position 7")]
+File 235
+['τά', 'τε', 'πρωτοτόκια', 'μου', 'εἴληφεν', 'καί', 'νῦν', 'εἴληφεν', 'τήν', 'εὐλογίαν', 'μου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 237
+['οὐχ', 'ὑπελίπω', 'μοι', 'εὐλογίαν', 'πάτερ']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 239
+['εἰ', 'κύριον', 'αὐτόν', 'ἐποίησα', 'σου', 'καί', 'πάντας', 'τούς', 'ἀδελφούς', 'αὐτοῦ', 'ἐποίησα', 'αὐτοῦ', 'οἰκέτας', 'σίτῳ', 'καί', 'οἴνῳ', 'ἐστήρισα', 'αὐτόν', 'σοί', 'δέ', 'τί', 'ποιήσω', 'τέκνον']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 241
+['μή', 'εὐλογία', 'μία', 'σοί', 'ἐστιν', 'πάτερ']
+[('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 245
+['ἰδού', 'ἀπό', 'τῆς', 'πιότητος', 'τῆς', 'γῆς', 'ἔσται', 'ἡ', 'κατοίκησις', 'σου', 'καί', 'ἀπό', 'τῆς', 'δρόσου', 'τοῦ', 'οὐρανοῦ', 'ἄνωθεν']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 246
+['καί', 'ἐπί', 'τῇ', 'μαχαίρῃ', 'σου', 'ζήσῃ', 'καί', 'τῷ', 'ἀδελφῷ', 'σου', 'δουλεύσεις']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 247
+['ἔσται', 'δέ', 'ἡνίκα', 'ἐάν', 'καθέλῃς', 'καί', 'ἐκλύσεις', 'τόν', 'ζυγόν', 'αὐτοῦ', 'ἀπό', 'τοῦ', 'τραχήλου', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 250
+['ἐγγισάτωσαν', 'αἱ', 'ἡμέραι', 'τοῦ', 'πένθους', 'τοῦ', 'πατρός', 'μου', 'ἵνα', 'ἀποκτείνω', 'Ιακωβ', 'τόν', 'ἀδελφόν', 'μου']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 252
+['ἰδού', 'Ησαυ', 'ὁ', 'ἀδελφός', 'σου', 'ἀπειλεῖ', 'σοι', 'τοῦ', 'ἀποκτεῖναι', 'σε']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 253
+['νῦν', 'οὖν', 'τέκνον', 'ἄκουσον', 'μου', 'τῆς', 'φωνῆς', 'καί', 'ἀναστάς', 'ἀπόδραθι', 'εἰς', 'τήν', 'Μεσοποταμίαν', 'πρός', 'Λαβαν', 'τόν', 'ἀδελφόν', 'μου', 'εἰς', 'Χαρραν', 'καί', 'οἴκησον', 'μετʼ', 'αὐτοῦ', 'ἡμέρας', 'τινάς', 'ἕως', 'τοῦ', 'ἀποστρέψαι', 'τόν', 'θυμόν', 'καί', 'τήν', 'ὀργήν', 'τοῦ', 'ἀδελφοῦ', 'σου', 'ἀπό', 'σοῦ', 'καί', 'ἐπιλάθηται', 'ἅ', 'πεποίηκας', 'αὐτῷ', 'καί', 'ἀποστείλασα', 'μεταπέμψομαι', 'σε', 'ἐκεῖθεν', 'μήποτε', 'ἀτεκνωθῶ', 'ἀπό', 'τῶν', 'δύο', 'ὑμῶν', 'ἐν', 'ἡμέρᾳ', 'μιᾷ']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('τινάς', 'p-p---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 255
+['προσώχθικα', 'τῇ', 'ζωῇ', 'μου', 'διά', 'τάς', 'θυγατέρας', 'τῶν', 'υἱῶν', 'Χετ']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7")]
+File 256
+['εἰ', 'λήμψεται', 'Ιακωβ', 'γυναῖκα', 'ἀπό', 'τῶν', 'θυγατέρων', 'τῆς', 'γῆς', 'ταύτης', 'ἵνα', 'τί', 'μοι', 'ζῆν']
+[('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7")]
+File 259
+['ἀναστάς', 'ἀπόδραθι', 'εἰς', 'τήν', 'Μεσοποταμίαν', 'εἰς', 'τόν', 'οἶκον', 'Βαθουηλ', 'τοῦ', 'πατρός', 'τῆς', 'μητρός', 'σου', 'καί', 'λαβέ', 'σεαυτῷ', 'ἐκεῖθεν', 'γυναῖκα', 'ἐκ', 'τῶν', 'θυγατέρων', 'Λαβαν', 'τοῦ', 'ἀδελφοῦ', 'τῆς', 'μητρός', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 260
+['ὁ', 'δέ', 'θεός', 'μου', 'εὐλογήσαι', 'σε', 'καί', 'αὐξήσαι', 'σε', 'καί', 'πληθύναι', 'σε', 'καί', 'ἔσῃ', 'εἰς', 'συναγωγάς', 'ἐθνῶν']
+[('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7")]
+File 261
+['καί', 'δῴη', 'σοι', 'τήν', 'εὐλογίαν', 'Αβρααμ', 'τοῦ', 'πατρός', 'μου', 'σοί', 'καί', 'τῷ', 'σπέρματι', 'σου', 'μετά', 'σέ', 'κληρονομῆσαι', 'τήν', 'γῆν', 'τῆς', 'παροικήσεως', 'σου', 'ἥν', 'ἔδωκεν', 'ὁ', 'θεός', 'τῷ', 'Αβρααμ']
+[('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σέ', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 272
+['ἐγώ', 'κύριος', 'ὁ', 'θεός', 'Αβρααμ', 'τοῦ', 'πατρός', 'σου', 'καί', 'ὁ', 'θεός', 'Ισαακ']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 274
+['ἡ', 'γῆ', 'ἐφʼ', 'ἧς', 'σύ', 'καθεύδεις', 'ἐπʼ', 'αὐτῆς', 'σοί', 'δώσω', 'αὐτήν', 'καί', 'τῷ', 'σπέρματι', 'σου']
+[('σύ', 'p2s---cn-', "Unexpected character 'c' at position 7"), ('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 275
+['καί', 'ἔσται', 'τό', 'σπέρμα', 'σου', 'ὡς', 'ἡ', 'ἄμμος', 'τῆς', 'γῆς', 'καί', 'πλατυνθήσεται', 'ἐπί', 'θάλασσαν', 'καί', 'ἐπί', 'λίβα', 'καί', 'ἐπί', 'βορρᾶν', 'καί', 'ἐπʼ', 'ἀνατολάς', 'καί', 'ἐνευλογηθήσονται', 'ἐν', 'σοί', 'πᾶσαι', 'αἱ', 'φυλαί', 'τῆς', 'γῆς', 'καί', 'ἐν', 'τῷ', 'σπέρματι', 'σου']
+[('σου', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σοί', 'p2s---cd-', "Unexpected character 'c' at position 7"), ('σου', 'p2s---cg-', "Unexpected character 'c' at position 7")]
+File 276
+['καί', 'ἰδού', 'ἐγώ', 'μετά', 'σοῦ', 'διαφυλάσσων', 'σε', 'ἐν', 'τῇ', 'ὁδῷ', 'πάσῃ', 'οὗ', 'ἐάν', 'πορευθῇς', 'καί', 'ἀποστρέψω', 'σε', 'εἰς', 'τήν', 'γῆν', 'ταύτην', 'ὅτι', 'οὐ', 'μή', 'σε', 'ἐγκαταλίπω', 'ἕως', 'τοῦ', 'ποιῆσαι', 'με', 'πάντα', 'ὅσα', 'ἐλάλησα', 'σοι']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('σοῦ', 'p2s---cg-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('σε', 'p2s---ca-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]
+File 278
+['ἔστιν', 'κύριος', 'ἐν', 'τῷ', 'τόπῳ', 'τούτῳ', 'ἐγώ', 'δέ', 'οὐκ', 'ᾔδειν']
+[('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7")]
+File 286
+['ἐάν', 'ᾖ', 'κύριος', 'ὁ', 'θεός', 'μετʼ', 'ἐμοῦ', 'καί', 'διαφυλάξῃ', 'με', 'ἐν', 'τῇ', 'ὁδῷ', 'ταύτῃ', 'ᾗ', 'ἐγώ', 'πορεύομαι', 'καί', 'δῷ', 'μοι', 'ἄρτον', 'φαγεῖν', 'καί', 'ἱμάτιον', 'περιβαλέσθαι', 'καί', 'ἀποστρέψῃ', 'με', 'μετά', 'σωτηρίας', 'εἰς', 'τόν', 'οἶκον', 'τοῦ', 'πατρός', 'μου', 'καί', 'ἔσται', 'μοι', 'κύριος', 'εἰς', 'θεόν', 'καί', 'ὁ', 'λίθος', 'οὗτος', 'ὅν', 'ἔστησα', 'στήλην', 'ἔσται', 'μοι', 'οἶκος', 'θεοῦ', 'καί', 'πάντων', 'ὧν', 'ἐάν', 'μοι', 'δῷς', 'δεκάτην', 'ἀποδεκατώσω', 'αὐτά', 'σοι']
+[('ἐμοῦ', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('ἐγώ', 'p1s---cn-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('με', 'p1s---ca-', "Unexpected character 'c' at position 7"), ('μου', 'p1s---cg-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('μοι', 'p1s---cd-', "Unexpected character 'c' at position 7"), ('σοι', 'p2s---cd-', "Unexpected character 'c' at position 7")]

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31650|6|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|31650|6|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|31650|6|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|31650|6|5,5,τέκνον,τέκνον,n-s---nv-,ExD
+6,Leuven|31650|6|7,7,εὐτυχοῦντα,εὐτυχέω,v-sppama-,ADV
+7,Leuven|31650|6|8,8,δι’,διά,r--------,AuxP
+8,Leuven|31650|6|9,9,ὅλου,ὅλος,a-s---ng-,ADV

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|247|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|247|2,2,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis_deel3|247|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel3|247|4,4,μαχαίρῃ,μάχαιρα,n-s---fd-,ADV
+Leuven|Genesis_deel3|247|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel3|247|6,6,ζήσῃ,ζάω,v2sfim---,PRED_CO
+Leuven|Genesis_deel3|247|7,7,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|247|8,8,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|247|9,9,ἀδελφῷ,ἀδελφός,n-s---md-,OBJ
+Leuven|Genesis_deel3|247|10,10,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel3|247|11,11,δουλεύσεις,δουλεύω,v2sfia---,PRED_CO
+Leuven|Genesis_deel3|247|12,12,·,·,u--------,AuxK

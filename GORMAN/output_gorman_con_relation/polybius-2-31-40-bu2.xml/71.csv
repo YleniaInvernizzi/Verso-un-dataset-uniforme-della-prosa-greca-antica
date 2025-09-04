@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,φαῦλον,φαῦλος,a-s---nn-,PNOM
+2,γάρ,γάρ,d--------,AuxY
+3,·,punc1,u--------,AuxK
+4,[0],,,PRED

@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|617|1,1,Ισμαηλ,Ισμαηλ,n-s---mn-,SBJ
+1,Leuven|Genesis|617|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|617|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|617|4,4,υἱός,υἱός,n-s---mn-,APOS
+4,Leuven|Genesis|617|5,5,αὐτοῦ,αὐτός,p-s---mg-,ATR
+5,Leuven|Genesis|617|6,6,ἐτῶν,ἔτος,n-p---ng-,PNOM
+6,Leuven|Genesis|617|7,7,δέκα,δέκα,m--------,ATR
+7,Leuven|Genesis|617|8,8,τριῶν,τρεῖς,m-p---ng-,ATR
+8,Leuven|Genesis|617|9,9,ἦν,εἰμί,v3siia---,PRED
+10,Leuven|Genesis|617|11,11,ἡνίκα,ἡνίκα,c--------,AuxC
+11,Leuven|Genesis|617|12,12,περιετμήθη,περιτέμνω,v3saip---,ADV
+12,Leuven|Genesis|617|13,13,τήν,ὁ,l-s---fa-,ATR
+13,Leuven|Genesis|617|14,14,σάρκα,σάρξ,n-s---fa-,ADV
+14,Leuven|Genesis|617|15,15,τῆς,ὁ,l-s---fg-,ATR
+15,Leuven|Genesis|617|16,16,ἀκροβυστίας,ἀκροβυστία,n-s---fg-,ATR
+16,Leuven|Genesis|617|17,17,αὐτοῦ,αὐτός,p-s---mg-,ATR

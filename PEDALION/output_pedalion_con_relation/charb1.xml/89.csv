@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|90|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|0554-001|90|2,2,εἰποῦσα,λέγω,v-sapafn-,ADV
+Leuven|0554-001|90|3,3,ἀπεστράφη,ἀποστρέφω,v3saip---,PRED_CO
+Leuven|0554-001|90|4,4,καὶ,καί,b--------,COORD
+Leuven|0554-001|90|5,5,ἐγκαλυψαμένη,ἐγκαλύπτω,v-sapmfn-,ADV
+Leuven|0554-001|90|6,6,δακρύων,δάκρυον,n-p---ng-,OBJ
+Leuven|0554-001|90|7,7,ἀφῆκε,ἀφίημι,v3saia---,PRED_CO
+Leuven|0554-001|90|8,8,πηγάς,πηγή,n-p---fa-,OBJ
+Leuven|0554-001|90|9,9,.,.,u--------,AuxK

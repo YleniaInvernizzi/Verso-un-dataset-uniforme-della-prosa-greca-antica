@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-00#|1393|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|0096-00#|1393|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|0096-00#|1393|3,3,ὄφις,ὄφις,n-s---mn-,SBJ
+4,Leuven|0096-00#|1393|5,5,λεπτόν,λεπτός,a-s---na-,OBJ
+5,Leuven|0096-00#|1393|6,6,συρίξας,συρίζω,v-sapamn-,ADV
+7,Leuven|0096-00#|1393|8,8,εἶπεν,λέγω,v3saia---,PRED

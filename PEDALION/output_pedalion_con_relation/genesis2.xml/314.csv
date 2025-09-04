@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|315|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|315|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis_deel2|315|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis_deel2|315|4,4,·,·,u--------,AuxK

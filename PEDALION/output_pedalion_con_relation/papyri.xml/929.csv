@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21597|2|1,1,θαυμάζω,θαυμάζω,v1spia---,PRED
+Leuven|21597|2|2,2,εἴπερ,εἴπερ,c--------,AuxC
+Leuven|21597|2|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|21597|2|4,4,ἀποστελλόμενος,ἀποστέλλω,v-sppemn-,SBJ
+Leuven|21597|2|5,5,πρός,πρός,r--------,AuxP
+Leuven|21597|2|6,6,σέ,σύ,p2s---ca-,OBJ
+Leuven|21597|2|7,7,τό,ὁ,l-s---na-,ATR
+Leuven|21597|2|8,8,πλοῖον,πλοῖον,n-s---na-,OBJ
+Leuven|21597|2|9,9,τό,ὁ,l-s---na-,ATR
+Leuven|21597|2|10,10,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|21597|2|11,11,γεούχου,γεοῦχος,n-s---mg-,ATR
+Leuven|21597|2|12,12,καταλαμβάνει,καταλαμβάνω,v3spia---,ADV
+Leuven|21597|2|13,13,παρά,παρά,r--------,AuxP
+Leuven|21597|2|14,14,σοί,σύ,p2s---cd-,ADV
+Leuven|21597|2|15,15,.,.,u--------,AuxK

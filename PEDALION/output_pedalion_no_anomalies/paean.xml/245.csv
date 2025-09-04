@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|247|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|247|2,2,παραγίνονται,παραγίγνομαι,v3ppie---,PRED
+2,Leuven|PaeanBrev|247|3,3,πρός,πρός,r--------,AuxP
+3,Leuven|PaeanBrev|247|4,4,αὐτόν,αὐτός,p-s---ma-,OBJ
+4,Leuven|PaeanBrev|247|5,5,πρέσβεις,πρέσβυς,a-p---mn-,SBJ
+5,Leuven|PaeanBrev|247|6,6,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,ATR
+6,Leuven|PaeanBrev|247|7,7,ἐξωνήσασθαι,ἐξωνέομαι,v--anm---,OBJ
+7,Leuven|PaeanBrev|247|8,8,βουλόμενοι,βούλομαι,v-pppemn-,ADV
+8,Leuven|PaeanBrev|247|9,9,τούς,ὁ,l-p---ma-,ATR
+9,Leuven|PaeanBrev|247|10,10,αἰχμαλώτους,αἰχμάλωτος,a-p---ma-,OBJ

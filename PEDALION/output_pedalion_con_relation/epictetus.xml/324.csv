@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|325|1,1,τί,τίς,p-s---nn-,SBJ
+Leuven|0557-001|325|2,2,μʼ,ἐγώ,p1s---ca-,OBJ
+Leuven|0557-001|325|3,3,ἐκστήσει,ἐξίστημι,v3sfia---,PRED_CO
+Leuven|0557-001|325|4,4,ἤ,ἤ,c--------,COORD
+Leuven|0557-001|325|5,5,ταράξει,ταράσσω,v3sfia---,PRED_CO
+Leuven|0557-001|325|6,6,ἤ,ἤ,c--------,COORD
+Leuven|0557-001|325|7,7,τί,τις,p-s---nn-,SBJ
+Leuven|0557-001|325|8,8,ὀδυνηρόν,ὀδυνηρός,a-s---na-,PNOM
+Leuven|0557-001|325|9,9,φανεῖται,φαίνω,v3sfim---,PRED_CO
+Leuven|0557-001|325|10,10,;,;,u--------,AuxK

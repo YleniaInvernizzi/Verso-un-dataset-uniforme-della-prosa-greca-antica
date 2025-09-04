@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀλλ’,ἀλλά,d-------_,AuxY
+2,ἄνδρες,ἀνήρ,n-p---mn-,PNOM
+3,ἀγαθοὶ,ἀγαθός,a-p---mn-,ATR
+4,γενώμεθα,γίγνομαι,v1pasm---,PRED
+5,.,.,u--------,AuxK

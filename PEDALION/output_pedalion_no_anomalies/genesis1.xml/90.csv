@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|91|1,1,τοῦτο,οὗτος,p-s---nn-,SBJ
+1,Leuven|Genesis|91|2,2,νῦν,νῦν,d--------,AuxZ
+2,Leuven|Genesis|91|3,3,ὀστοῦν,ὀστέον,n-s---nn-,PNOM_CO
+3,Leuven|Genesis|91|4,4,ἐκ,ἐκ,r--------,AuxP
+4,Leuven|Genesis|91|5,5,τῶν,ὁ,l-p---ng-,ATR
+5,Leuven|Genesis|91|6,6,ὀστέων,ὀστέον,n-p---ng-,ATR
+6,Leuven|Genesis|91|7,7,μου,ἐγώ,p1s---cg-,ATR
+7,Leuven|Genesis|91|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|91|9,9,σάρξ,σάρξ,n-s---fn-,PNOM_CO
+9,Leuven|Genesis|91|10,10,ἐκ,ἐκ,r--------,AuxP
+10,Leuven|Genesis|91|11,11,τῆς,ὁ,l-s---fg-,ATR
+11,Leuven|Genesis|91|12,12,σαρκός,σάρξ,n-s---fg-,ATR
+12,Leuven|Genesis|91|13,13,μου,ἐγώ,p1s---cg-,ATR
+13,Leuven|Genesis|91|14,14,·,·,u--------,AuxK

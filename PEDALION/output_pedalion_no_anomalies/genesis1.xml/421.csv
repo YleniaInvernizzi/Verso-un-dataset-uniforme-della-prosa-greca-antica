@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|422|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|422|2,2,ἐγένοντο,γίγνομαι,v3paim---,PRED_CO
+2,Leuven|Genesis|422|3,3,αἱ,ὁ,l-p---fn-,ATR
+3,Leuven|Genesis|422|4,4,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+4,Leuven|Genesis|422|5,5,Θαρα,Θαρα,n-s---mg-,ATR
+5,Leuven|Genesis|422|6,6,ἐν,ἐν,r--------,AuxP
+6,Leuven|Genesis|422|7,7,Χαρραν,Χαρραν,n-s----d-,ADV
+7,Leuven|Genesis|422|8,8,διακόσια,διακόσιοι,m-p---na-,ATR
+8,Leuven|Genesis|422|9,9,πέντε,πέντε,m--------,ATR
+9,Leuven|Genesis|422|10,10,ἔτη,ἔτος,n-p---na-,PNOM
+11,Leuven|Genesis|422|12,12,καί,καί,c--------,COORD
+12,Leuven|Genesis|422|13,13,ἀπέθανεν,ἀποθνῄσκω,v3saia---,PRED_CO
+13,Leuven|Genesis|422|14,14,Θαρα,Θαρα,n-s---mn-,SBJ
+14,Leuven|Genesis|422|15,15,ἐν,ἐν,r--------,AuxP
+15,Leuven|Genesis|422|16,16,Χαρραν,Χαρραν,n-s----d-,ADV

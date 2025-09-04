@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,μὲν,μέν,d--------,AuxZ
+3,ταῦτʼ,οὗτος,p-p---na-,OBJ
+4,εἰπὼν,εἶπον,v-sapamn-,ADV
+5,ἐκαθέζετο,κατά-καθέζομαι,v3siim---,PRED
+6,·,punc1,u--------,AuxK

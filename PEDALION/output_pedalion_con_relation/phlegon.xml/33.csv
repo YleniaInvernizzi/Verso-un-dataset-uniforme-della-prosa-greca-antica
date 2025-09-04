@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|34|1,1,τὰ,ὁ,l-p---nn-,ATR
+Leuven|0585-001|34|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0585-001|34|3,3,γεγονότα,γίγνομαι,v-prpann-,SBJ
+Leuven|0585-001|34|4,4,μεγάλα,μέγας,a-p---nn-,PNOM_CO
+Leuven|0585-001|34|5,5,τε,τε,c--------,AuxY
+Leuven|0585-001|34|6,6,ἦν,εἰμί,v3siia---,PRED
+Leuven|0585-001|34|7,7,καί,καί,c--------,COORD
+Leuven|0585-001|34|8,8,ἄπιστα,ἄπιστος,a-p---nn-,PNOM_CO
+Leuven|0585-001|34|9,9,.,.,u--------,AuxK

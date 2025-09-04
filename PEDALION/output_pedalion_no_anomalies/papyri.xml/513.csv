@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30269|8|1,1,ἐπί,ἐπί,r--------,AuxP
+1,Leuven|30269|8|2,2,Σενέπτα,Σενέπτα,n-s---ma-,OBJ
+2,Leuven|30269|8|3,3,σύν,σύν,r--------,AuxP
+3,Leuven|30269|8|4,4,Ἐμοῦτι,Ἐμοῦς,n-s---md-,ADV
+4,Leuven|30269|8|5,5,ὑπάγω,ὑπάγω,v1spia---,PRED

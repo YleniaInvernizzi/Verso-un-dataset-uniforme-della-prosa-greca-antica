@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|15|1,1,γράμματα,γράμμα,n-p---na-,OBJ
+1,Leuven|Ps-Luc|15|2,2,ἥκω,ἥκω,v1spia---,PRED
+2,Leuven|Ps-Luc|15|3,3,κομίζων,κομίζω,v-sppamn-,ADV
+3,Leuven|Ps-Luc|15|4,4,αὐτῶι,αὐτός,p-s---md-,OBJ
+4,Leuven|Ps-Luc|15|5,5,παρὰ,παρά,r--------,AuxP
+5,Leuven|Ps-Luc|15|6,6,Δεκριανοῦ,Δεκριανός,n-s---mg-,ADV
+6,Leuven|Ps-Luc|15|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|Ps-Luc|15|8,8,Πατρέως,Πατρεύς,n-s---mg-,ATR
+8,Leuven|Ps-Luc|15|9,9,σοφιστοῦ,σοφιστής,n-s---mg-,APOS

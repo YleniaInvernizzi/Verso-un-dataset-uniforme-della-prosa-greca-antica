@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;Κολοφωνίοις;Κολοφώνιος;n-p---md-;OBJ_CO
+2;δὲ;δέ;d--------;AuxY
+3;Νότιον;Νότιον;n-s---na-;OBJ_CO
+4;παραδίδωσι;παραδίδωμι;v3spia---;PRED
+5;πλὴν;πλήν;r--------;AuxP
+6;τῶν;ὁ;l-p---mg-;ATR
+7;μηδισάντων;μηδίζω;v-papamg-;ATR
+8;.;punc;u--------;AuxK

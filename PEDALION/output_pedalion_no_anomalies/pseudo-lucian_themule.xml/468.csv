@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|469|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|469|2,2,πιεῖν,πίνω,v--ana---,OBJ
+2,Leuven|Ps-Luc|469|3,3,δὲ,δέ,d--------,AuxY
+3,Leuven|Ps-Luc|469|4,4,ὁπότε,ὁπότε,d--------,ADV
+4,Leuven|Ps-Luc|469|5,5,θελήσαιμι,ἐθέλω,v1saoa---,ADV
+6,Leuven|Ps-Luc|469|7,7,ἤιτουν,αἰτέω,v1siia---,PRED
+7,Leuven|Ps-Luc|469|8,8,τοῖς,ὁ,l-p---md-,ATR
+8,Leuven|Ps-Luc|469|9,9,ὀφθαλμοῖς,ὀφθαλμός,n-p---md-,ADV
+9,Leuven|Ps-Luc|469|10,10,τὸν,ὁ,l-s---ma-,ATR
+10,Leuven|Ps-Luc|469|11,11,οἰνοχόον,οἰνοχόος,n-s---ma-,OBJ
+11,Leuven|Ps-Luc|469|12,12,κινήσας,κινέω,v-sapamn-,ADV

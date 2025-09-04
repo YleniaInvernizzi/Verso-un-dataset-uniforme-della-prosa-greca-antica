@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+2;δ᾽;δέ;d--------;AuxY
+3;οὐκ;οὐ;d--------;AuxZ
+4;ἐκ;ἐκ;r--------;AuxP
+5;τῶν;ὁ;l-p---ng-;ATR
+6;εἰκότων;ἔοικα;v-prpang-;ADV_CO
+7;ἀλλ᾽;ἀλλά;c--------;COORD
+8;ἔργῳ;ἔργον;n-s---nd-;ADV_CO
+9;δηλώσω;δηλόω;v1sfia---;PRED
+10;οὐ;οὐ;d--------;AuxZ
+11;παραγενόμενος;παραγίγνομαι;v-sapmmn-;OBJ
+12;.;punc;u--------;AuxK

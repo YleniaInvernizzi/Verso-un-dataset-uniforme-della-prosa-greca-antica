@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|251|1,1,ἀλλ’,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|251|2,2,ὅτε,ὅτε,c--------,AuxC
+Leuven|Ps-Luc|251|3,3,φεύγειν,φεύγω,v--pna---,OBJ
+Leuven|Ps-Luc|251|4,4,ἐδόκει,δοκέω,v3siia---,ADV
+Leuven|Ps-Luc|251|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|Ps-Luc|251|6,6,",",",",u--------,AuxX
+Leuven|Ps-Luc|251|7,7,ὑγιαίνων,ὑγιαίνω,v-sppamn-,ADV
+Leuven|Ps-Luc|251|8,8,ἵππου,ἵππος,n-s---mg-,ADV
+Leuven|Ps-Luc|251|9,9,ὠκύτερος,ὠκύς,a-s---mnc,PNOM_CO
+Leuven|Ps-Luc|251|10,10,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|251|11,11,πετεινὸς,πετεινός,a-s---mn-,PNOM_CO
+Leuven|Ps-Luc|251|12,12,ἦσθα,εἰμί,v2siia---,PRED
+Leuven|Ps-Luc|251|13,13,.,.,u--------,AuxK

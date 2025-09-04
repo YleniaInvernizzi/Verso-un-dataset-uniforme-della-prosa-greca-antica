@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|83|6|1,1,ἐπισκοπεῖται,ἐπισκοπέω,v3spie---,PRED
+1,Leuven|83|6|2,2,ὑμᾶς,σύ,p2p---ca-,OBJ
+2,Leuven|83|6|3,3,Ἀλμέντις,Ἀλμέντις,n-s---mn-,SBJ_CO
+4,Leuven|83|6|5,5,Ψενοσῖρις,Ψενοσιρις,n-s---mn-,SBJ_CO
+6,Leuven|83|6|7,7,Φῖβις,Φῖβις,n-s---mn-,SBJ_CO
+8,Leuven|83|6|9,9,Πατοῦς,Πατοῦς,n-s---mn-,SBJ_CO
+10,Leuven|83|6|11,11,Φάφις,Φᾶφις,n-s---mn-,SBJ_CO
+11,Leuven|83|6|12,12,Ἐσθώτης,Ἐσθώτης,n-s---mn-,SBJ_CO
+12,Leuven|83|6|13,13,καί,καί,c--------,COORD
+13,Leuven|83|6|14,14,οἱ,ὁ,l-p---mn-,ATR
+14,Leuven|83|6|15,15,παρ’,παρά,r--------,AuxP
+15,Leuven|83|6|16,16,ἡμῶν,ἐγώ,p1p---cg-,ATR
+16,Leuven|83|6|17,17,πάντες,πᾶς,a-p---mn-,SBJ_CO

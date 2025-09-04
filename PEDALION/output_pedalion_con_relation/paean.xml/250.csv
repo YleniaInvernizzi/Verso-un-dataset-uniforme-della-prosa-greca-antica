@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|252|1,1,τῶν,ὁ,l-p---fg-,ATR
+Leuven|PaeanBrev|252|2,2,σπονδῶν,σπονδή,n-p---fg-,ATR
+Leuven|PaeanBrev|252|3,3,δέ,δέ,b--------,AuxY
+Leuven|PaeanBrev|252|4,4,μέρος,μέρος,n-s---nn-,PNOM
+Leuven|PaeanBrev|252|5,5,ἦν,εἰμί,v3siia---,PRED
+Leuven|PaeanBrev|252|6,6,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|252|7,7,τόδε,ὅδε,p-s---nn-,SBJ
+Leuven|PaeanBrev|252|8,8,·,·,u--------,AuxK

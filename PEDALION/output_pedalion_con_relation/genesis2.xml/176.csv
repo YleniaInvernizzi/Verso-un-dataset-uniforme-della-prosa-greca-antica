@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|177|1,1,ἐπακήκοεν,ἐπακούω,v3sria---,PRED
+Leuven|Genesis_deel2|177|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis_deel2|177|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|177|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis_deel2|177|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel2|177|6,6,φωνῆς,φωνή,n-s---fg-,OBJ
+Leuven|Genesis_deel2|177|7,7,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel2|177|8,8,παιδίου,παιδίον,n-s---ng-,ATR
+Leuven|Genesis_deel2|177|9,9,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|177|10,10,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis_deel2|177|11,11,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|177|12,12,τόπου,τόπος,n-s---mg-,ADV
+Leuven|Genesis_deel2|177|13,13,",",",",u--------,AuxX
+Leuven|Genesis_deel2|177|14,14,οὗ,οὗ,c--------,ADV
+Leuven|Genesis_deel2|177|15,15,ἐστιν,εἰμί,v3spia---,ATR
+Leuven|Genesis_deel2|177|16,16,.,.,u--------,AuxK

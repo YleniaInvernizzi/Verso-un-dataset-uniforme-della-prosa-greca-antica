@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐδενὸς,οὐδείς,p-s---ng-,OBJ
+1,2,τούτων,οὗτος,p-p---ng-,ATR
+2,3,μέμνημαι,μιμνήσκω,v1srie---,PRED
+3,4,:,punc1,u--------,AuxK

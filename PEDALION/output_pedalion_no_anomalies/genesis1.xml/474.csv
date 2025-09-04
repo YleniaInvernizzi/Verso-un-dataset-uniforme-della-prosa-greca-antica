@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|475|1,1,οἱ,ὁ,l-p---mn-,ATR
+1,Leuven|Genesis|475|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|475|3,3,ἄνθρωποι,ἄνθρωπος,n-p---mn-,SBJ
+3,Leuven|Genesis|475|4,4,οἱ,ὁ,l-p---mn-,ATR
+4,Leuven|Genesis|475|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Genesis|475|6,6,Σοδομοις,Σοδομα,n-s----d-,ATR
+6,Leuven|Genesis|475|7,7,πονηροί,πονηρός,a-p---mn-,PNOM_CO
+7,Leuven|Genesis|475|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|475|9,9,ἁμαρτωλοί,ἁμαρτωλός,a-p---mn-,PNOM_CO
+9,Leuven|Genesis|475|10,10,ἐναντίον,ἐναντίον,r--------,AuxP
+10,Leuven|Genesis|475|11,11,τοῦ,ὁ,l-s---mg-,ATR
+11,Leuven|Genesis|475|12,12,θεοῦ,θεός,n-s---mg-,ADV
+12,Leuven|Genesis|475|13,13,σφόδρα,σφόδρα,d--------,ADV

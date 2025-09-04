@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|34|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|PaeanBrev|34|2,2,ἤρατο,αἴρω,v3saim---,PRED_CO
+2,Leuven|PaeanBrev|34|3,3,πόλεμον,πόλεμος,n-s---ma-,OBJ
+3,Leuven|PaeanBrev|34|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|PaeanBrev|34|5,5,Λατίνους,Λατῖνος,n-p---ma-,ATR
+5,Leuven|PaeanBrev|34|6,6,καί,καί,c--------,COORD
+6,Leuven|PaeanBrev|34|7,7,τῇ,ὁ,l-s---fd-,ATR
+7,Leuven|PaeanBrev|34|8,8,πόλει,πόλις,n-s---fd-,OBJ
+8,Leuven|PaeanBrev|34|9,9,συνῆψε,συνάπτω,v3saia---,PRED_CO
+9,Leuven|PaeanBrev|34|10,10,τήν,ὁ,l-s---fa-,ATR
+10,Leuven|PaeanBrev|34|11,11,Ἀβάντινον,Ἀβάντινος,n-s---fa-,OBJ_CO
+11,Leuven|PaeanBrev|34|12,12,λόφον,λόφος,n-s---ma-,OBJ_CO
+12,Leuven|PaeanBrev|34|13,13,Ἰανίκουλον,Ἰανίκουλος,n-s---ma-,APOS
+13,Leuven|PaeanBrev|34|14,14,τε,τε,c--------,COORD

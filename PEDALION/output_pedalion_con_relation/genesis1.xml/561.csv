@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|562|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|562|2,2,ἐκάκωσεν,κακόω,v3saia---,PRED_CO
+Leuven|Genesis|562|3,3,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis|562|4,4,Σαρα,Σαρα,n-s---fn-,SBJ
+Leuven|Genesis|562|5,5,",",",",u--------,AuxX
+Leuven|Genesis|562|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|562|7,7,ἀπέδρα,ἀποδιδράσκω,v3saia---,PRED_CO
+Leuven|Genesis|562|8,8,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis|562|9,9,προσώπου,πρόσωπον,n-s---ng-,OBJ
+Leuven|Genesis|562|10,10,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis|562|11,11,.,.,u--------,AuxK

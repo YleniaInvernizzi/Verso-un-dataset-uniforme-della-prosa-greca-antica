@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|30514|22|2,2,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED
+2,Leuven|30514|22|3,3,σε,σύ,p2s---ca-,OBJ
+3,Leuven|30514|22|4,4,Ἀπολλῶς,Ἀπολλῶς,n-s---mn-,SBJ_CO
+4,Leuven|30514|22|5,5,καί,καί,c--------,COORD
+5,Leuven|30514|22|6,6,τά,ὁ,l-p---nn-,ATR
+6,Leuven|30514|22|7,7,τέκνα,τέκνον,n-p---nn-,SBJ_CO
+7,Leuven|30514|22|8,8,σου,σύ,p2s---cg-,ATR

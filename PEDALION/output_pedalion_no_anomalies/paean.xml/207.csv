@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|209|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|209|2,2,κύριοι,κύριος,n-p---mn-,SBJ
+2,Leuven|PaeanBrev|209|3,3,καταστάντες,καθίστημι,v-papamn-,ADV
+3,Leuven|PaeanBrev|209|4,4,αὐτῶν,αὐτός,p-p---mg-,ATR
+4,Leuven|PaeanBrev|209|5,5,ἔθεντο,τίθημι,v3paim---,PRED
+5,Leuven|PaeanBrev|209|6,6,σπονδάς,σπονδή,n-p---fa-,OBJ
+6,Leuven|PaeanBrev|209|7,7,τοῖς,ὁ,l-p---md-,ATR
+7,Leuven|PaeanBrev|209|8,8,ἡττημένοις,ἡσσάομαι,v-pppemd-,ADV
+8,Leuven|PaeanBrev|209|9,9,ἀπρεπεῖς,ἀπρεπής,a-p---fa-,ATR

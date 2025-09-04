@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27109|4|1,1,πολλάκι,πολλάκις,d--------,ADV
+Leuven|27109|4|2,2,σοι,σύ,p2s---cd-,OBJ
+Leuven|27109|4|3,3,ἔγραψα,γράφω,v1saia---,PRED_CO
+Leuven|27109|4|4,4,",",",",u--------,AuxX
+Leuven|27109|4|5,5,καὶ,καί,b--------,COORD
+Leuven|27109|4|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|27109|4|7,7,τῶν,ὁ,l-p---mg-,ATR
+Leuven|27109|4|8,8,παρακομιζόντων,παρακομίζω,v-pppamg-,ATR
+Leuven|27109|4|9,9,ἀμέλεια,ἀμέλεια,n-s---fn-,SBJ
+Leuven|27109|4|10,10,διέβαλεν,διαβάλλω,v3saia---,PRED_CO
+Leuven|27109|4|11,11,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+Leuven|27109|4|12,12,ὡς,ὡς,c--------,AuxC
+Leuven|27109|4|13,13,ἀμελεῖς,ἀμελής,a-p---ma-,OCOMP
+Leuven|27109|4|14,14,.,.,u--------,AuxK
+Leuven|27109|4|15,15,[0],_,_,ADV

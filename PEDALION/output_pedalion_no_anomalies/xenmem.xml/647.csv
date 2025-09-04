@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0032-002|648|1,1,ἔφη,φημί,v3siia---,PRED
+1,Leuven|0032-002|648|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|0032-002|648|3,3,Σωκράτης,Σωκράτης,n-s---mn-,SBJ
+3,Leuven|0032-002|648|4,4,·,·,u--------,AuxK

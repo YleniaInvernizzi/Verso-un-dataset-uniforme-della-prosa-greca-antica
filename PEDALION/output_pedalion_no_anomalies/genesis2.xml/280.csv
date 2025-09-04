@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|281|1,1,ἀποστρέψω,ἀποστρέφω,v1sfia---,PRED
+1,Leuven|Genesis_deel2|281|2,2,τόν,ὁ,l-s---ma-,ATR
+2,Leuven|Genesis_deel2|281|3,3,υἱόν,υἱός,n-s---ma-,OBJ
+3,Leuven|Genesis_deel2|281|4,4,σου,σύ,p2s---cg-,ATR
+4,Leuven|Genesis_deel2|281|5,5,εἰς,εἰς,r--------,AuxP
+5,Leuven|Genesis_deel2|281|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|Genesis_deel2|281|7,7,γῆν,γῆ,n-s---fa-,OBJ
+8,Leuven|Genesis_deel2|281|9,9,ὅθεν,ὅθεν,d--------,OBJ
+9,Leuven|Genesis_deel2|281|10,10,ἐξῆλθες,ἐξέρχομαι,v2saia---,ATR
+10,Leuven|Genesis_deel2|281|11,11,ἐκεῖθεν,ἐκεῖθεν,d--------,ADV

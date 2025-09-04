@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλ᾽,ἀλλά,d--------,AuxY
+1,2,οὐκ,οὐ,d--------,AuxZ
+2,3,ἦν,εἰμί,v3siia---,PRED
+3,4,αὐτῷ,αὐτός,p-s---md-,PNOM
+4,5,.,punc1,u--------,AuxK

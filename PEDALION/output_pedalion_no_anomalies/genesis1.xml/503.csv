@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|504|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|504|2,2,ἔδωκεν,δίδωμι,v3saia---,PRED
+2,Leuven|Genesis|504|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+3,Leuven|Genesis|504|4,4,δεκάτην,δέκατος,a-s---fa-,OBJ
+4,Leuven|Genesis|504|5,5,ἀπό,ἀπό,r--------,AuxP
+5,Leuven|Genesis|504|6,6,πάντων,πᾶς,a-p---mg-,ATR

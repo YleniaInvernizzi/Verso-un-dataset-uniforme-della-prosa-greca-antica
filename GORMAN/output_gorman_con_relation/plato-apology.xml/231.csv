@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔσθʼ,εἰμί,v3spia---,PRED
+2,ὅστις,ὅστις,p-s---mn-,SBJ
+3,ἵππους,ἵππος,n-p---ma-,OBJ_CO
+4,μὲν,μέν,d--------,AuxY
+5,οὐ,οὐ,d-------_,AuxZ
+6,νομίζει,νομίζω,v3spia---,SBJ
+7,",",punc1,u--------,AuxX
+8,ἱππικὰ,ἱππικός,a-p---na-,ATR
+9,δὲ,δέ,c--------,COORD
+10,πράγματα,πρᾶγμα,n-p---na-,OBJ_CO
+11,;,punc1,u--------,AuxK

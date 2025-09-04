@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,μεγαλοψυχότερος,μεγαλόψυχος,a-s---mnc,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,Ἀχιλλέως,Ἀχιλλεύς,n-s---mg-,ADV
+4,:,punc1,u--------,AuxK
+5,ἦν,εἰμί,v3siia---,PRED

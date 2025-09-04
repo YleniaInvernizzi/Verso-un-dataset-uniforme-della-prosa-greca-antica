@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0041-001|231|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|0041-001|231|2,2,μὲν,μέν,d--------,AuxY
+Leuven|0041-001|231|3,3,γὰρ,γάρ,d--------,AuxY
+Leuven|0041-001|231|4,4,οὐδὲν,οὐδείς,p-s---na-,OBJ
+Leuven|0041-001|231|5,5,ὁρῶ,ὁράω,v1spia---,PRED
+Leuven|0041-001|231|6,6,.,.,u--------,AuxK

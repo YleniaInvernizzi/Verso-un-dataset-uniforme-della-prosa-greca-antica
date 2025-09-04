@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,κἀνταῦθα,ἐνταῦθα,d--------,ADV
+2,κατελήρησα,κατά-ληρέω,v1saia---,PRED
+3,τὴν,ὁ,l-s---fa-,ATR
+4,ἐξωμίδα,ἐξωμίς,n-s---fa-,OBJ
+5,.,punc1,u--------,AuxK

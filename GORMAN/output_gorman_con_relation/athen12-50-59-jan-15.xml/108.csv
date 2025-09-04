@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τὰ,ὁ,l-p---nn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,Σαμίων,Σάμιος,a-p---mg-,ATR
+4,ἄνθη,ἄνθη,n-s---fn-,SBJ
+5,γυναικῶν,γυνή,n-p---fg-,ATR_CO
+6,καὶ,καί,c--------,COORD
+7,ἀνδρῶν,ἀνήρ,n-p---mg-,ATR_CO
+8,κάλλη,κάλλος,n-p---nn-,PNOM
+9,διάφορα,διάφορος,a-p---nn-,ATR
+10,.,punc1,u--------,AuxK
+11,ἐστιν,εἰμί,v3spia---,PRED

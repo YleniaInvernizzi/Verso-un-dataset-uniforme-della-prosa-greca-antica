@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|263|1,1,φεύγει,φεύγω,v3spia---,PRED
+1,Leuven|PaeanBrev|263|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|263|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|PaeanBrev|263|4,4,Πύρρος,Πύρρος,n-s---mn-,SBJ
+4,Leuven|PaeanBrev|263|5,5,ἐπί,ἐπί,r--------,AuxP
+5,Leuven|PaeanBrev|263|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|PaeanBrev|263|7,7,Τάραντα,Τάρας,n-s---fa-,OBJ

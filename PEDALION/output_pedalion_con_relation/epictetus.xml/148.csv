@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|149|1,1,τί,τίς,p-s---na-,ADV
+Leuven|0557-001|149|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|149|3,3,ὠφέλησε,ὠφελέω,v3saia---,PRED
+Leuven|0557-001|149|4,4,Πρῖσκος,πρισξυς,n-s---mn-,SBJ
+Leuven|0557-001|149|5,5,εἷς,εἷς,m-s---mn-,PNOM
+Leuven|0557-001|149|6,6,ὤν,εἰμί,v-sppamn-,ADV
+Leuven|0557-001|149|7,7,;,;,u--------,AuxK

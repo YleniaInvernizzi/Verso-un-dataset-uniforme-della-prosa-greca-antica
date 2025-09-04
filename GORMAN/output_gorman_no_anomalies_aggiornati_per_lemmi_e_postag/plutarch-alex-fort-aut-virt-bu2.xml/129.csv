@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;τίς;τις;p-s---cn-;SBJ
+2;ἔμειξε;μίγνυμι;v3saia---;PRED
+3;πολέμοις;πόλεμος;n-p---md-;OBJ
+4;ἑορτάς;ἑορτή;n-p---fa-;OBJ
+5;";";punc;u--------;AuxK

@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|5359|2|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+Leuven|5359|2|2,2,τά,ὁ,l-p---na-,ATR
+Leuven|5359|2|3,3,Ὥρου,Ὧρος,n-s---mg-,ATR
+Leuven|5359|2|4,4,κτήνη,κτῆνος,n-p---na-,SBJ
+Leuven|5359|2|5,5,κατηνεχυρασμένα,κατενεχυράζω,v-prpena-,OBJ
+Leuven|5359|2|6,6,ὑπό,ὑπό,r--------,AuxP
+Leuven|5359|2|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|5359|2|8,8,Πτολεμαίου,Πτολεμαῖος,n-s---mg-,ATR
+Leuven|5359|2|9,9,φυλακίτου,φυλακίτης,n-s---mg-,OBJ
+Leuven|5359|2|10,10,.,.,u--------,AuxK

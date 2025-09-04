@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|55|1,1,ἐπιλαμβάνεται,ἐπιλαμβάνω,v3spie---,PRED
+1,Leuven|PaeanBrev|55|2,2,δή,δή,d--------,AuxY
+2,Leuven|PaeanBrev|55|3,3,τῆς,ὁ,l-s---fg-,ATR
+3,Leuven|PaeanBrev|55|4,4,βασιλείας,βασιλεία,n-s---fg-,OBJ
+4,Leuven|PaeanBrev|55|5,5,οὗτος,οὗτος,p-s---mn-,ATR
+5,Leuven|PaeanBrev|55|6,6,ὁ,ὁ,l-s---mn-,ATR
+6,Leuven|PaeanBrev|55|7,7,Σούπερβος,Σούπερβος,n-s---mn-,APOS
+7,Leuven|PaeanBrev|55|8,8,Ταρκύνιος,Ταρκύνιος,n-s---mn-,SBJ
+9,Leuven|PaeanBrev|55|10,10,ἕβδομος,ἕβδομος,a-s---mn-,PNOM_CO
+10,Leuven|PaeanBrev|55|11,11,τε,τε,c--------,AuxY
+11,Leuven|PaeanBrev|55|12,12,ὥν,εἰμί,v-sppamn-,ADV
+12,Leuven|PaeanBrev|55|13,13,τῶν,ὁ,l-p---mg-,ATR
+13,Leuven|PaeanBrev|55|14,14,βασιλέων,βασιλεύς,n-p---mg-,ATR
+14,Leuven|PaeanBrev|55|15,15,καί,καί,c--------,COORD
+15,Leuven|PaeanBrev|55|16,16,ὕστατος,ὕστατος,a-s---mn-,PNOM_CO

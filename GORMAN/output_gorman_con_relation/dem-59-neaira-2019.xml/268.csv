@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑμεῖς,σύ,p-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,φήσετε,φημί,v2pfia---,PRED
+4,ἀπεψηφίσμεθα,ἀποψηφίζομαι,v1prie---,CO
+5,.,.,u--------,AuxK

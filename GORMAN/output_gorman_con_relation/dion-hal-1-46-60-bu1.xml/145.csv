@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,τοιαῦτα,τοιοῦτος,p-p---na-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,αὐτοῦ,αὐτός,p-s---mg-,SBJ
+4,διαλεχθέντος,διαλέγω,v-sappmg-,ADV
+5,ἀπεκρίνατο,ἀποκρίνω,v3saim---,PRED
+6,Αἰνείας,Αἰνείας,n-s---mn-,SBJ
+7,:,punc1,u--------,AuxK

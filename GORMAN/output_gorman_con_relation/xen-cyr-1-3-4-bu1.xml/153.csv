@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,οὖν,οὖν,d--------,AuxY
+3,Κῦρος,Κῦρος,n-s---mn-,SBJ
+4,εἱστήκει,ἵστημι,v3slia---,PRED_CO
+5,καταβεβηκώς,καταβαίνω,v-srpamn-,ADV
+6,",",punc1,u--------,AuxX
+7,καὶ,καί,c--------,COORD
+8,ἀκούων,ἀκούω,v-sppamn-,ADV
+9,ταῦτα,οὗτος,p-p---na-,OBJ
+10,ἠνιᾶτο,ἀνιάω,v3siie---,PRED_CO
+11,.,punc1,u--------,AuxK

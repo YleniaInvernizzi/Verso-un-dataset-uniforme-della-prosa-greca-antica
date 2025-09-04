@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|19419|5|1,1,ὤφελον,ὀφείλω,v1saia---,PRED
+Leuven|19419|5|2,2,εἰ,εἰ,c--------,AuxC
+Leuven|19419|5|3,3,ἐδυνάμεθα,δύναμαι,v1piie---,ADV
+Leuven|19419|5|4,4,πετᾶσθαι,πετάννυμι,v--pne---,OBJ_CO
+Leuven|19419|5|5,5,καὶ,καί,b--------,AuxY
+Leuven|19419|5|6,6,ἐλθεῖν,ἔρχομαι,v--ana---,OBJ_CO
+Leuven|19419|5|7,7,καὶ,καί,b--------,COORD
+Leuven|19419|5|8,8,προσκυνῆσαί,προσκυνέω,v--ana---,OBJ_CO
+Leuven|19419|5|9,9,σε,σύ,p2s---ca-,OBJ
+Leuven|19419|5|10,10,·,·,u--------,AuxK

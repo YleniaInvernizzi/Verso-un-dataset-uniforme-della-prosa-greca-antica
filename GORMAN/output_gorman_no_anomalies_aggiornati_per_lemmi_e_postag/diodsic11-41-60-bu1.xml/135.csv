@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;καταφυγὼν;καταφεύγω;v-sapamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;πρὸς;πρός;r--------;AuxP
+4;τὴν;ὁ;l-s---fa-;ATR
+5;ἑστίαν;ἑστία;n-s---fa-;OBJ
+6;ἱκέτης;ἱκέτης;n-s---mn-;PNOM
+7;ἐγένετο;γίγνομαι;v3saim---;PRED
+8;.;punc;u--------;AuxK

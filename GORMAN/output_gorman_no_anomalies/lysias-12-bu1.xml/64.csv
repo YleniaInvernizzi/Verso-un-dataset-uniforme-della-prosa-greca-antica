@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀπήγαγες,ἀπάγω,v2saia---,PRED_CO
+1,2,Πολέμαρχον,Πολέμαρχος,n-s---ma-,OBJ
+2,3,ἢ,ἤ1,c--------,COORD
+3,4,οὔ,οὐ,d--------,AuxZ
+4,5,;,punc1,u--------,AuxK
+5,6,ἀπήγαγες,ἀπάγω,v2saia---,PRED_CO

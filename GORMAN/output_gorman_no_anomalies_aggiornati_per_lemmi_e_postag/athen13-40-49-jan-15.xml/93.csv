@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ὁ;ὁ;l-s---mn-;ATR
+2;γναφεὺς;γναφεύς;n-s---mn-;SBJ
+3;δ᾽;δέ;d--------;AuxY
+4;εἶπεν;λέγω;v3saia---;PRED
+5;:;punc;u--------;AuxK

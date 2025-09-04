@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|146|1,1,ὢ,ὦ,i--------,AuxZ
+Leuven|Ps-Luc|146|2,2,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|146|3,3,ἀκαίρου,ἄκαιρος,a-s---fg-,ATR
+Leuven|Ps-Luc|146|4,4,ταύτης,οὗτος,p-s---fg-,ATR
+Leuven|Ps-Luc|146|5,5,περιεργίας,περιεργία,n-s---fg-,ExD
+Leuven|Ps-Luc|146|6,6,.,.,u--------,AuxK
+Leuven|Ps-Luc|146|7,7,[0],_,-,PRED

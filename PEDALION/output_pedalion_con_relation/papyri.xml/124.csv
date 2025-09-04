@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21341|4|1,1,δέξαι,δέχομαι,v2samm---,PRED
+Leuven|21341|4|2,2,πέντε,πέντε,m--------,ATR
+Leuven|21341|4|3,3,στατῆρας,στατήρ,n-p---ma-,OBJ
+Leuven|21341|4|4,4,.,.,u--------,AuxK

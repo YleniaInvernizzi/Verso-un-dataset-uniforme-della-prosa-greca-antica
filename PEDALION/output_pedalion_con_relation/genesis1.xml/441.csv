@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|442|1,1,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|Genesis|442|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Genesis|442|3,3,ὡς,ὡς,c--------,AuxC
+Leuven|Genesis|442|4,4,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis|442|5,5,ἴδωσιν,ὁράω,v3pasa---,ADV
+Leuven|Genesis|442|6,6,σε,σύ,p2s---ca-,OBJ
+Leuven|Genesis|442|7,7,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Genesis|442|8,8,Αἰγύπτιοι,Αἰγύπτιος,a-p---mn-,SBJ
+Leuven|Genesis|442|9,9,",",",",u--------,AuxX
+Leuven|Genesis|442|10,10,ἐροῦσιν,λέγω,v3pfia---,OBJ
+Leuven|Genesis|442|11,11,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|442|12,12,·,·,u--------,AuxK

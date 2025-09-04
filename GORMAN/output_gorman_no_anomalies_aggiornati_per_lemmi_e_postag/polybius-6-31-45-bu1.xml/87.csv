@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;τὸ;ὁ;l-s---nn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;τῆς;ὁ;l-s---fg-;ATR
+4;ξυλοκοπίας;ξυλοκοπία;n-s---fg-;ATR
+5;ἐστὶ;εἰμί;v3spia---;PRED
+6;τοιοῦτον;τοιοῦτος;a-s---nn-;PNOM
+7;.;punc;u--------;AuxK

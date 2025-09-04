@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,τούτων,οὗτος,p-p---ng-,ATR
+4,κοινωνία,κοινωνία,n-s---fn-,SBJ
+5,ποιεῖ,ποιέω,v3spia---,PRED
+6,οἰκίαν,οἰκία,n-s---fa-,OBJ_CO
+7,καὶ,καί,c--------,COORD
+8,πόλιν,πόλις,n-s---fa-,OBJ_CO
+9,.,punc1,u--------,AuxK

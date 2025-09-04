@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;σοῦσον;σοῦσον;n-s---na-;SBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;εἶναι;εἰμί;v--pna---;PRED
+4;τῇ;ὁ;l-s---fd-;ATR
+5;Ἑλλήνων;Ἕλλην;n-p---mg-;ATR
+6;φωνῇ;φωνή;n-s---fd-;ADV
+7;τὸ;ὁ;l-s---na-;ATR
+8;κρίνον;κρίνον;n-s---na-;PNOM
+9;.;punc;u--------;AuxK

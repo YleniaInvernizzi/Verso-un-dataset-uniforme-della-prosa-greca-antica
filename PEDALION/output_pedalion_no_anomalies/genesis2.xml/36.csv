@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|37|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel2|37|2,2,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+2,Leuven|Genesis_deel2|37|3,3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+3,Leuven|Genesis_deel2|37|4,4,πότον,πότος,n-s---ma-,OBJ
+5,Leuven|Genesis_deel2|37|6,6,καί,καί,c--------,AuxY
+6,Leuven|Genesis_deel2|37|7,7,ἀζύμους,ἄζυμος,a-p---ma-,OBJ
+7,Leuven|Genesis_deel2|37|8,8,ἔπεψεν,πέσσω,v3saia---,PRED_CO
+8,Leuven|Genesis_deel2|37|9,9,αὐτοῖς,αὐτός,p-p---md-,OBJ
+10,Leuven|Genesis_deel2|37|11,11,καί,καί,c--------,COORD
+11,Leuven|Genesis_deel2|37|12,12,ἔφαγον,ἐσθίω,v3paia---,PRED_CO

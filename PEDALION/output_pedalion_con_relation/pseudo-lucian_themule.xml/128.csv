@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|129|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|129|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|129|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|129|4,4,δωμάτιον,δωμάτιον,n-s---na-,OBJ
+Leuven|Ps-Luc|129|5,5,ὑπανοίξασα,ὑπανοίγω,v-sapafn-,ADV
+Leuven|Ps-Luc|129|6,6,κομίζει,κομίζω,v3spia---,PRED
+Leuven|Ps-Luc|129|7,7,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|129|8,8,πυξίδα,πυξίς,n-s---fa-,OBJ
+Leuven|Ps-Luc|129|9,9,.,.,u--------,AuxK

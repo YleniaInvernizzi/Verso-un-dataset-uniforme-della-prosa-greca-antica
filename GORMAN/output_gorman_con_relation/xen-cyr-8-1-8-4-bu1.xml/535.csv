@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,πλεῖστοι,πλεῖστος,a-p---mn-,SBJ
+2,δʼ,δέ,d--------,AuxY
+3,εἰσὶ,εἰμί,v3ppia---,PRED
+4,Μήδων,Μῆδος,n-p---mg-,PNOM_CO
+5,καὶ,καί,c--------,COORD
+6,Ὑρκανίων,Ὑρκάνιος,n-p---mg-,PNOM_CO
+7,·,punc1,u--------,AuxK

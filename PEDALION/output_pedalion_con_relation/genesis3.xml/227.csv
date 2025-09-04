@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|228|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|228|2,2,ἔφαγον,ἐσθίω,v1saia---,PRED_CO
+Leuven|Genesis_deel3|228|3,3,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis_deel3|228|4,4,πάντων,πᾶς,a-p---ng-,OBJ
+Leuven|Genesis_deel3|228|5,5,πρό,πρό,r--------,AuxP
+Leuven|Genesis_deel3|228|6,6,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel3|228|7,7,σε,σύ,p2s---ca-,SBJ
+Leuven|Genesis_deel3|228|8,8,ἐλθεῖν,ἔρχομαι,v--ana---,ADV
+Leuven|Genesis_deel3|228|9,9,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|228|10,10,ηὐλόγησα,εὐλογέω,v1saia---,PRED_CO
+Leuven|Genesis_deel3|228|11,11,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel3|228|12,12,",",",",u--------,AuxX
+Leuven|Genesis_deel3|228|13,13,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|228|14,14,εὐλογημένος,εὐλογέω,v-srpemn-,PNOM
+Leuven|Genesis_deel3|228|15,15,ἔστω,εἰμί,v3spma---,PRED_CO
+Leuven|Genesis_deel3|228|16,16,.,.,u--------,AuxK

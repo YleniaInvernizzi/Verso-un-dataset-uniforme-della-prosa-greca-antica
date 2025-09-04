@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|564|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|564|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|564|3,3,αὐτῇ,αὐτός,p-s---fd-,OBJ
+Leuven|Genesis|564|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|564|5,5,ἄγγελος,ἄγγελος,n-s---mn-,SBJ
+Leuven|Genesis|564|6,6,κυρίου,κύριος,n-s---mg-,ATR
+Leuven|Genesis|564|7,7,Αγαρ,Αγαρ,n-s---fv-,ExD
+Leuven|Genesis|564|8,8,παιδίσκη,παιδίσκη,n-s---fv-,ATR
+Leuven|Genesis|564|9,9,Σαρας,Σαρα,n-s---fg-,ATR
+Leuven|Genesis|564|10,10,",",",",u--------,AuxX
+Leuven|Genesis|564|11,11,πόθεν,πόθεν,d--------,ADV
+Leuven|Genesis|564|12,12,ἔρχῃ,ἔρχομαι,v2spie---,OBJ_CO
+Leuven|Genesis|564|13,13,καί,καί,b--------,OBJ
+Leuven|Genesis|564|14,14,ποῦ,ποῦ,d--------,OBJ
+Leuven|Genesis|564|15,15,πορεύῃ,πορεύω,v2spie---,OBJ_CO
+Leuven|Genesis|564|16,16,;,;,u--------,AuxK

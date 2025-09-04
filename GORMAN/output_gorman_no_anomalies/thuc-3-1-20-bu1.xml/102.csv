@@ -1,0 +1,10 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νῆές,ναῦς,n-p---fn-,SBJ
+1,2,τε,τε,d--------,AuxY
+2,3,αἱ,ὁ,l-p---fn-,ATR
+3,4,πᾶσαι,πᾶς,a-p---fn-,ATR
+4,5,τὸν,ὁ,l-s---ma-,ATR
+5,6,αὐτὸν,αὐτός,a-s---ma-,ATR
+6,7,μισθὸν,μισθός,n-s---ma-,OBJ
+7,8,ἔφερον,φέρω,v3piia---,PRED
+8,9,.,punc1,u--------,AuxK

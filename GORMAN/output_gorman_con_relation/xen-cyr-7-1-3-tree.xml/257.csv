@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐσώθην,σώζω,v1saip---,PRED
+2,μέντοι,μέντοι,d--------,AuxY
+3,οὐδὲν,οὐδείς,p-s---na-,OBJ
+4,κακὸν,κακός,a-s---na-,ATR
+5,λαβών,λαμβάνω,v-sapamn-,ADV
+6,.,.,u--------,AuxK

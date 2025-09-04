@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|57|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|57|2,2,ταῦτα,οὗτος,p-p---na-,OBJ
+2,Leuven|Ps-Luc|57|3,3,λέγων,λέγω,v-sppamn-,ADV
+3,Leuven|Ps-Luc|57|4,4,πρὸς,πρός,r--------,AuxP
+4,Leuven|Ps-Luc|57|5,5,ἐμαυτὸν,ἐμαυτοῦ,p-s---ma-,ADV
+5,Leuven|Ps-Luc|57|6,6,εἰσήιειν,εἴσειμι,v1siia---,PRED
+6,Leuven|Ps-Luc|57|7,7,οἴκαδε,οἴκαδε,d--------,OBJ

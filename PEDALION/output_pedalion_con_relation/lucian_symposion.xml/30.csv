@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-015|31|1,1,τοὺς,ὁ,l-p---ma-,ATR
+Leuven|0062-015|31|2,2,μὲν,μέν,d--------,AuxY
+Leuven|0062-015|31|3,3,ἄλλους,ἄλλος,p-p---ma-,OBJ
+Leuven|0062-015|31|4,4,τί,τίς,p-s---na-,ADV
+Leuven|0062-015|31|5,5,ἄν,ἄν,d--------,AuxY
+Leuven|0062-015|31|6,6,σοι,σύ,p2s---cd-,OBJ
+Leuven|0062-015|31|7,7,λέγοιμι,λέγω,v1spoa---,PRED
+Leuven|0062-015|31|8,8,;,;,u--------,AuxK

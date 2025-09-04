@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ἢ;ἤ;d--------;AuxY
+2;κύνιζε;κυνίζω;v2spma---;OBJ_CO
+3;οὖν;οὖν;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;τί;τις;p-s---na-;ADV
+6;δὲ;δέ;d--------;AuxY
+7;ὡς;ὡς;c--------;AuxC
+8;ἐγώ;ἐγώ;p1s---mn-;SBJ
+9;,;punc;u--------;AuxX
+10;ἢ;ἤ;c--------;COORD
+11;πέπαυσο;παύω;v2srme---;OBJ_CO
+12;καὶ;καί;c--------;COORD
+13;ὁ;ὁ;l-s---mn-;ATR
+14;Ἀρίστιππος;Ἀρίστιππος;n-s---mn-;SBJ
+15;:;punc;u--------;AuxK

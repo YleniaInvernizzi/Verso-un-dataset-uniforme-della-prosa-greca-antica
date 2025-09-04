@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,φαίνεται,φαίνω,v3spie---,PRED
+2,δ᾽,δέ,d--------,AuxY
+3,εἶναι,εἰμί,v--pna---,OBJ
+4,πάμπαν,πάμπαν,d--------,ADV
+5,ἀδύνατος,ἀδύνατος,a-s---mn-,PNOM
+6,ὁ,ὁ,l-s---mn-,ATR
+7,βίος,βίος,n-s---mn-,SBJ
+8,.,punc1,u--------,AuxK

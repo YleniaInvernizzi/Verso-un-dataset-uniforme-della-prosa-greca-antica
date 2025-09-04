@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐμποιεῖ,ἐμποιέω,v3spia---,PRED
+2,γάρ,γάρ,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,καλῶς,καλός,d--------,ADV
+5,ἄγων,ἄγω,v-sppamn-,SBJ
+6,τὸ,ὁ,l-s---na-,ATR
+7,καλῶς,καλός,d--------,ADV
+8,ἕπεσθαι,ἕπομαι,v--pne---,OBJ
+9,:,punc1,u--------,AuxK

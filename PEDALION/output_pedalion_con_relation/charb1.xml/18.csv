@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|19|1,1,τὸ,ὁ,l-s---nn-,ATR
+Leuven|0554-001|19|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0554-001|19|3,3,πῦρ,πῦρ,n-s---nn-,SBJ
+Leuven|0554-001|19|4,4,ἐξεκάετο,ἐκκαίω,v3siie---,PRED
+Leuven|0554-001|19|5,5,.,.,u--------,AuxK

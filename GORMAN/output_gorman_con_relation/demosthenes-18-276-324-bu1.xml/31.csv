@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,πότερ᾽,πότερος,a-p---na-,ADV
+2,οὐχ,οὐ,d--------,AuxZ
+3,ἡγεῖ,ἡγέομαι,v2spim---,PRED
+4,γιγνώσκειν,γιγνώσκω,v--pna---,OBJ
+5,αὐτοὺς,αὐτός,p-p---ma-,SBJ
+6,ὅστις,ὅστις,p-s---mn-,PNOM
+7,εἶ,εἰμί,v2spia---,OBJ
+8,;,punc1,u--------,AuxK

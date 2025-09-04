@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|27|1,1,ἀλλά,ἀλλά,c--------,AuxY
+Leuven|0557-001|27|2,2,τί,τίς,p-s---na-,OBJ
+Leuven|0557-001|27|3,3,λέγει,λέγω,v3spia---,PRED
+Leuven|0557-001|27|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0557-001|27|5,5,Ζεύς,Ζεύς,n-s---mn-,SBJ
+Leuven|0557-001|27|6,6,;,;,u--------,AuxK

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ξύλων;ξύλον;n-p---ng-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;κορύνας;κορύνη;n-p---fa-;OBJ
+4;ἔχοντες;ἔχω;v-pppamn-;ADV
+5;εἵποντό;ἕπομαι;v3piie---;PRED
+6;οἱ;ἕ;p3s---md-;OBJ
+7;ὄπισθε;ὄπισθεν;d--------;ADV
+8;.;punc;u--------;AuxK

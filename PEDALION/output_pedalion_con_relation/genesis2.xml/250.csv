@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|251|1,1,δότε,δίδωμι,v2pama---,PRED_CO
+Leuven|Genesis_deel2|251|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Genesis_deel2|251|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis_deel2|251|4,4,κτῆσιν,κτῆσις,n-s---fa-,OBJ
+Leuven|Genesis_deel2|251|5,5,τάφου,τάφος,n-s---mg-,ATR
+Leuven|Genesis_deel2|251|6,6,μεθʼ,μετά,r--------,AuxP
+Leuven|Genesis_deel2|251|7,7,ὑμῶν,σύ,p2p---cg-,ADV
+Leuven|Genesis_deel2|251|8,8,",",",",u--------,AuxX
+Leuven|Genesis_deel2|251|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|251|10,10,θάψω,θάπτω,v1sasa---,PRED_CO
+Leuven|Genesis_deel2|251|11,11,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|251|12,12,νεκρόν,νεκρός,a-s---ma-,OBJ
+Leuven|Genesis_deel2|251|13,13,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|251|14,14,ἀπʼ,ἀπό,r--------,AuxP
+Leuven|Genesis_deel2|251|15,15,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|Genesis_deel2|251|16,16,.,.,u--------,AuxK

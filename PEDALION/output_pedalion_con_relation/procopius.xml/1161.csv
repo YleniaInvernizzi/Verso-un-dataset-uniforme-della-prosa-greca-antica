@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|1162|1,1,ἐγίνετο,γίγνομαι,v3siie---,PRED
+Leuven|4029-001|1162|2,2,δὲ,δέ,d--------,AuxY
+Leuven|4029-001|1162|3,3,ὧδε,ὧδε,d--------,ADV
+Leuven|4029-001|1162|4,4,.,.,u--------,AuxK

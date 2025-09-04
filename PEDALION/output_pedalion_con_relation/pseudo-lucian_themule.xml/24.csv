@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|25|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|Ps-Luc|25|2,2,εἰπόντος,λέγω,v-sapamg-,ADV
+Leuven|Ps-Luc|25|3,3,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|25|4,4,παιδισκάριον,παιδισκάριον,n-s---nn-,APOS
+Leuven|Ps-Luc|25|5,5,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|25|6,6,Παλαίστρα,Παλαίστρα,n-s---fn-,SBJ
+Leuven|Ps-Luc|25|7,7,ἄγει,ἄγω,v3spia---,PRED_CO
+Leuven|Ps-Luc|25|8,8,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|25|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|25|10,10,δείκνυσί,δείκνυμι,v3spia---,PRED_CO
+Leuven|Ps-Luc|25|11,11,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|25|12,12,κάλλιστον,καλός,a-s---nas,ATR
+Leuven|Ps-Luc|25|13,13,οἰκημάτιον,οἰκημάτιον,n-s---na-,OBJ
+Leuven|Ps-Luc|25|14,14,·,·,u--------,AuxK

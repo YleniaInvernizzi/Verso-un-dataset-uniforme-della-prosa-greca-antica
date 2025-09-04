@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗτος,οὗτος,p-s---mn-,SBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἄγει,ἄγω,v3spia---,PRED
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,ἀποταχθέντας,ἀποτάσσω,v-pappma-,OBJ
+6,εἰς,εἰς,r--------,AuxP
+7,τὴν,ὁ,l-s---fa-,ATR
+8,φυλακήν,φυλακή,n-s---fa-,ADV
+9,·,punc1,u--------,AuxK

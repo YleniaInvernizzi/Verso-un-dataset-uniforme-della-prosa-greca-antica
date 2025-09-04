@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,αἱ,ὁ,l-p---fn-,ATR
+1,2,θεαὶ,θεά,n-p---fn-,SBJ
+2,3,δὲ,δέ,d--------,AuxY
+3,4,τίνας,τίς,p-p---ca-,OBJ
+4,5,ἀναρπάζουσιν,ἀναρπάζω,v3ppia---,PRED
+5,6,;,punc1,u--------,AuxK

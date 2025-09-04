@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐρρύη,ῥέω,v3saip---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,αὐτῷ,αὐτός,p-s---md-,ADV
+4,ἐκ,ἐκ,r--------,AuxP
+5,τῆς,ὁ,l-s---fg-,ATR
+6,ῥινὸς,ῥίς,n-s---fg-,ADV
+7,βληθέντι,βάλλω,v-sappmd-,ATR
+8,.,punc1,u--------,AuxK

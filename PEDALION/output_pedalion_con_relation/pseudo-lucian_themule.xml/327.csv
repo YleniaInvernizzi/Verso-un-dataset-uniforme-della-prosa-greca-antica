@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|328|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|328|2,2,μὴν,μήν,d--------,AuxZ
+Leuven|Ps-Luc|328|3,3,νῦν,νῦν,d--------,ADV
+Leuven|Ps-Luc|328|4,4,ἐπιτηδεύει,ἐπιτηδεύω,v3spia---,PRED
+Leuven|Ps-Luc|328|5,5,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|328|6,6,ἄλλο,ἄλλος,p-s---na-,ATR
+Leuven|Ps-Luc|328|7,7,ἔργον,ἔργον,n-s---na-,OBJ
+Leuven|Ps-Luc|328|8,8,·,·,u--------,AuxK

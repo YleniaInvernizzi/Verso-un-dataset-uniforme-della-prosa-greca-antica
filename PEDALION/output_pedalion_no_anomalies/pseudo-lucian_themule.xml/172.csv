@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|173|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|Ps-Luc|173|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|173|3,3,ἐπειδὴ,ἐπειδή,c--------,AuxC
+3,Leuven|Ps-Luc|173|4,4,εἶδε,ὁράω,v3saia---,ADV
+4,Leuven|Ps-Luc|173|5,5,δρόμωι,δρόμος,n-s---md-,ADV
+5,Leuven|Ps-Luc|173|6,6,ἀπιόντα,ἄπειμι,v-sppama-,OBJ
+7,Leuven|Ps-Luc|173|8,8,ἀνέκραγε,ἀνακράζω,v3saia---,PRED
+8,Leuven|Ps-Luc|173|9,9,λῦσαι,λύω,v--ana---,OBJ
+9,Leuven|Ps-Luc|173|10,10,τοὺς,ὁ,l-p---ma-,ATR
+10,Leuven|Ps-Luc|173|11,11,κύνας,κύων,n-p---ma-,OBJ
+11,Leuven|Ps-Luc|173|12,12,ἐπ’,ἐπί,r--------,AuxP
+12,Leuven|Ps-Luc|173|13,13,ἐμοί,ἐγώ,p1s---cd-,ADV

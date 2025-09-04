@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄλλων,ἄλλος,a-p---mg_,ATR
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστι,εἰμί,v3spia---,PRED
+4,καιρῶν,καιρός,n-p---mg-,PNOM
+5,.,punc1,u--------,AuxK

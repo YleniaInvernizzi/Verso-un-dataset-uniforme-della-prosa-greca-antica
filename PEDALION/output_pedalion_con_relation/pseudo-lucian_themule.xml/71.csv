@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|72|1,1,εἶτα,εἶτα,d--------,ADV
+Leuven|Ps-Luc|72|2,2,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|72|3,3,ὕπνου,ὕπνος,n-s---mg-,OBJ
+Leuven|Ps-Luc|72|4,4,καταψευσάμενος,καταψεύδω,v-sapmmn-,ADV
+Leuven|Ps-Luc|72|5,5,ἀνίσταμαι,ἀνίστημι,v1spie---,PRED_CO
+Leuven|Ps-Luc|72|6,6,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|72|7,7,ἔργωι,ἔργον,n-s---nd-,ADV
+Leuven|Ps-Luc|72|8,8,ἀπήιειν,ἄπειμι,v1siia---,PRED_CO
+Leuven|Ps-Luc|72|9,9,ἔνθα,ἔνθα,d--------,ADV
+Leuven|Ps-Luc|72|10,10,ὤικουν,οἰκέω,v1siia---,OBJ
+Leuven|Ps-Luc|72|11,11,.,.,u--------,AuxK

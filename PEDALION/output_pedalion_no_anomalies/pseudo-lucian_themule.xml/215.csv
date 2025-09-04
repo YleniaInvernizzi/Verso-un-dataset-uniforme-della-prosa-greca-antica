@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|216|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|216|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|216|3,3,πρὸς,πρός,r--------,AuxP
+3,Leuven|Ps-Luc|216|4,4,ἀλλήλους,ἀλλήλων,p-p---ma-,OBJ
+4,Leuven|Ps-Luc|216|5,5,ἔλεγον,λέγω,v3piia---,PRED
+6,Leuven|Ps-Luc|216|7,7,τί,τίς,p-s---na-,ADV
+7,Leuven|Ps-Luc|216|8,8,γὰρ,γάρ,d--------,AuxY
+8,Leuven|Ps-Luc|216|9,9,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+9,Leuven|Ps-Luc|216|10,10,δοκεῖ,δοκέω,v3spia---,OBJ
+10,Leuven|Ps-Luc|216|11,11,τρέφειν,τρέφω,v--pna---,OBJ
+11,Leuven|Ps-Luc|216|12,12,τὸν,ὁ,l-s---ma-,ATR
+12,Leuven|Ps-Luc|216|13,13,ὄνον,ὄνος,n-s---ma-,OBJ
+13,Leuven|Ps-Luc|216|14,14,τοῦτον,οὗτος,p-s---ma-,ATR
+14,Leuven|Ps-Luc|216|15,15,πάντα,πᾶς,a-p---na-,ADV
+15,Leuven|Ps-Luc|216|16,16,καταπίπτοντα,καταπίπτω,v-sppama-,ADV

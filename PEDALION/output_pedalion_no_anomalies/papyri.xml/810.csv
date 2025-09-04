@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|83|8|1,1,διπλᾶ,διπλόος,a-p---nn-,PNOM
+1,Leuven|83|8|2,2,ἡμῖν,ἐγώ,p1p---cd-,ADV
+2,Leuven|83|8|3,3,ὧν,ὅς,p-p---ng-,OBJ
+3,Leuven|83|8|4,4,Διοσκουρίδης,Διοσκουρίδης,n-s---mn-,SBJ
+4,Leuven|83|8|5,5,ποιεῖ,ποιέω,v3spia---,ATR

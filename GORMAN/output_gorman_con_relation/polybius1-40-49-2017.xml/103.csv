@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τὰς,ὁ,l-p---fa-,ATR
+3,μὲν,μέν,d--------,AuxY
+4,ἀρχὰς,ἀρχή,n-p---fa-,OBJ
+5,ἅθρους,ἀθρόος,a-p---fn-,ATR
+6,ἔπλει,πλέω,v3siia---,PRED
+7,",",punc1,u--------,AuxX
+8,δεξιὰν,δεξιός,a-s---fa-,ATR
+9,ἔχων,ἔχω,v-sppamn-,ADV
+10,τὴν,ὁ,l-s---fa-,ATR
+11,γῆν,γῆ,n-s---fa-,OBJ
+12,.,punc1,u--------,AuxK

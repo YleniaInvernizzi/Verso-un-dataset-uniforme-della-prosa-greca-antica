@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,->,,--------,UNDEFINED
+2,..,,--------,UNDEFINED
+3,τες,,--------,UNDEFINED
+4,ὑπασπίδιον,ὑπασπίδιος,a-s---ma-,ATR
+5,πολεμιστήν,πολεμιστής,n-s---ma-,ExD
+6,.,punc1,u--------,AuxK

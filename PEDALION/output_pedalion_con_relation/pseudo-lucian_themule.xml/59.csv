@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|60|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|60|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|60|3,3,ὀσφὺς,ὀσφῦς,n-s---fn-,SBJ
+Leuven|Ps-Luc|60|4,4,ἡμῖν,ἐγώ,p1p---cd-,ADV
+Leuven|Ps-Luc|60|5,5,ὑγρῶς,ὑγρός,d--------,ADV
+Leuven|Ps-Luc|60|6,6,ἐπικινεῖται,ἐπικινέω,v3spie---,PRED
+Leuven|Ps-Luc|60|7,7,.,.,u--------,AuxK

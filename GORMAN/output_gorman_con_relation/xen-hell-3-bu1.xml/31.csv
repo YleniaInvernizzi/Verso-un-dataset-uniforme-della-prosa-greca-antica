@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀταξίας,ἀταξία,n-s---fg-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,ζημίωμά,ζημίωμα,n-s---nn-,PNOM
+4,ἐστι,εἰμί,v3spia---,PRED
+5,.,punc1,u--------,AuxK

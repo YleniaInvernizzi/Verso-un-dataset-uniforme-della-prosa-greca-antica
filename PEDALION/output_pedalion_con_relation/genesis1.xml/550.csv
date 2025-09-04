@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|551|1,1,εἴσελθε,εἰσέρχομαι,v2sama---,PRED
+Leuven|Genesis|551|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Genesis|551|3,3,πρός,πρός,r--------,AuxP
+Leuven|Genesis|551|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|551|5,5,παιδίσκην,παιδίσκη,n-s---fa-,OBJ
+Leuven|Genesis|551|6,6,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|551|7,7,",",",",u--------,AuxX
+Leuven|Genesis|551|8,8,ἵνα,ἵνα,c--------,AuxC
+Leuven|Genesis|551|9,9,τεκνοποιήσῃς,τεκνοποιέω,v2sasa---,ADV
+Leuven|Genesis|551|10,10,ἐξ,ἐκ,r--------,AuxP
+Leuven|Genesis|551|11,11,αὐτῆς,αὐτός,p-s---fg-,ADV
+Leuven|Genesis|551|12,12,.,.,u--------,AuxK

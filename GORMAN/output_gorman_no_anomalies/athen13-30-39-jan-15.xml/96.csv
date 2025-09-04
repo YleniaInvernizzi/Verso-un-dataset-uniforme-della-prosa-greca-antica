@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ἀβρότονον,Ἀβρότονον,n-s---fn-,SBJ
+1,2,Θρήισσα,Θρήισσος,a-s---fn-,ATR
+2,3,γυνὴ,γυνή,n-s---fn-,PNOM
+3,4,γένος,γένος,n-s---na-,ADV
+4,5,:,punc1,u--------,AuxK
+5,6,ἦν,εἰμί,v3siia---,PRED

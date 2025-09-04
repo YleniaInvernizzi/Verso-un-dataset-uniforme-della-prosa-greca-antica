@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|12|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|12|2,2,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|12|3,3,ἠρόμην,ἔρομαι,v1saim---,PRED
+Leuven|Ps-Luc|12|4,4,εἰ,εἰ,c--------,AuxC
+Leuven|Ps-Luc|12|5,5,ἔνδον,ἔνδον,d--------,PNOM
+Leuven|Ps-Luc|12|6,6,εἴη,εἰμί,v3spoa---,OBJ
+Leuven|Ps-Luc|12|7,7,Ἵππαρχος,Ἵππαρχος,n-s---mn-,SBJ
+Leuven|Ps-Luc|12|8,8,·,·,u--------,AuxK

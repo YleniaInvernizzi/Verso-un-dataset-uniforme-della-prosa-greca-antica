@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|135|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|135|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+2,Leuven|Genesis|135|3,3,Αδαμ,Αδαμ,n-s---mn-,SBJ
+3,Leuven|Genesis|135|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis|135|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+5,Leuven|Genesis|135|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|Genesis|135|7,7,γυναικός,γυνή,n-s---fg-,ATR
+7,Leuven|Genesis|135|8,8,αὐτοῦ,αὐτός,p-s---mg-,ATR
+8,Leuven|Genesis|135|9,9,Ζωή,Ζωή,n-s---fn-,OCOMP
+10,Leuven|Genesis|135|11,11,ὅτι,ὅτι,c--------,AuxC
+11,Leuven|Genesis|135|12,12,αὕτη,οὗτος,p-s---fn-,SBJ
+12,Leuven|Genesis|135|13,13,μήτηρ,μήτηρ,n-s---fn-,PNOM
+13,Leuven|Genesis|135|14,14,πάντων,πᾶς,a-p---mg-,ATR
+14,Leuven|Genesis|135|15,15,τῶν,ὁ,l-p---mg-,ATR
+15,Leuven|Genesis|135|16,16,ζώντων,ζάω,v-pppamg-,ATR

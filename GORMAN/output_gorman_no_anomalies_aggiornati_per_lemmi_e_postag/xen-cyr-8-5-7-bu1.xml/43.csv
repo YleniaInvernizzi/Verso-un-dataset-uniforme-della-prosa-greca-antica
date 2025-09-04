@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐπιδίδωμι;ἐπιδίδωμι;v1spia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;αὐτῇ;αὐτός;p-s---fd-;OBJ
+4;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+5;καὶ;καί;d--------;AuxZ
+6;φερνὴν;φερνή;n-s---fa-;OCOMP
+7;Μηδίαν;Μηδία;n-s---fa-;OBJ
+8;τὴν;ὁ;l-s---fa-;ATR
+9;πᾶσαν;πᾶς;a-s---fa-;ATR
+10;·;punc;u--------;AuxK

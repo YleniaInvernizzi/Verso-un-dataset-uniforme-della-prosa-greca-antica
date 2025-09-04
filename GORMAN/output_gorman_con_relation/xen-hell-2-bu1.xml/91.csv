@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗτοι,οὗτος,p-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,σφαγὰς,σφαγή,n-p---fa-,OBJ
+4,τῶν,ὁ,l-p---mg-,ATR
+5,γνωρίμων,γνώριμος,a-p---mg-,ATR
+6,ποιήσαντες,ποιέω,v-papamn-,ADV
+7,κατεῖχον,κατέχω,v3piia---,PRED
+8,τὴν,ὁ,l-s---fa-,ATR
+9,πόλιν,πόλις,n-s---fa-,OBJ
+10,.,punc1,u--------,AuxK

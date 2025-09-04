@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπαινοῦμαι,ἐπαινέω,v1spie---,PRED
+2,διὰ,διά,r--------,AuxY
+3,ταῦτα,οὗτος,p-p---na-,ADV
+4,",",punc1,u--------,AuxX
+5,οὐκ,οὐ,d--------,AuxZ
+6,ὢν,εἰμί,v-sppamn-,ADV
+7,ὧν,ὅς,p-p---ng-,OBJ
+8,ἔδωχ᾽,δίδωμι,v1saia---,ADV
+9,ὑπεύθυνος,ὑπεύθυνος,a-s---mn-,PNOM
+10,.,punc1,u--------,AuxK

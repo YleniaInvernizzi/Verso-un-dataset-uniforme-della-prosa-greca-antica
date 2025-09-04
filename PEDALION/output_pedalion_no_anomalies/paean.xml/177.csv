@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|179|1,1,αἱ,ὁ,l-p---fn-,ATR
+1,Leuven|PaeanBrev|179|2,2,δέκα,δέκα,m--------,ATR
+2,Leuven|PaeanBrev|179|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|179|4,4,αὗται,οὗτος,p-p---fn-,ATR
+4,Leuven|PaeanBrev|179|5,5,λεγεῶνες,λεγεών,n-p---fn-,SBJ
+5,Leuven|PaeanBrev|179|6,6,ἐξήκοντα,ἐξήκοντα,m-p---fa-,ATR
+6,Leuven|PaeanBrev|179|7,7,χιλιάδας,χιλιάς,n-p---fa-,OBJ
+7,Leuven|PaeanBrev|179|8,8,ἀνδρῶν,ἀνήρ,n-p---mg-,ATR
+8,Leuven|PaeanBrev|179|9,9,εἶχον,ἔχω,v3piia---,PRED
+10,Leuven|PaeanBrev|179|11,11,ὡς,ὡς,c--------,AuxC
+11,Leuven|PaeanBrev|179|12,12,ἑκάστην,ἕκαστος,a-s---fa-,SBJ
+12,Leuven|PaeanBrev|179|13,13,εἰς,εἰς,r--------,AuxP
+13,Leuven|PaeanBrev|179|14,14,ἑξακισχιλίους,ἑξακισχίλιοι,m-p---ma-,OBJ
+14,Leuven|PaeanBrev|179|15,15,τελεῖν,τελέω,v--pna---,ADV

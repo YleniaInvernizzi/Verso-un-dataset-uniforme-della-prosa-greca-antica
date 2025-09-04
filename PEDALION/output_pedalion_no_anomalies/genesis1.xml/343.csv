@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|344|1,1,Γαμερ,Γαμερ,n-s---mn-,PNOM_CO
+1,Leuven|Genesis|344|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis|344|3,3,Μαγωγ,Μαγωγ,n-s---mn-,PNOM_CO
+3,Leuven|Genesis|344|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis|344|5,5,Μαδαι,Μαδαι,n-s---mn-,PNOM_CO
+5,Leuven|Genesis|344|6,6,καί,καί,c--------,AuxY
+6,Leuven|Genesis|344|7,7,Ιωυαν,Ιωυαν,n-s---mn-,PNOM_CO
+7,Leuven|Genesis|344|8,8,καί,καί,c--------,AuxY
+8,Leuven|Genesis|344|9,9,Ελισα,Ελισα,n-s---mn-,PNOM_CO
+9,Leuven|Genesis|344|10,10,καί,καί,c--------,AuxY
+10,Leuven|Genesis|344|11,11,Θοβελ,Θοβελ,n-s---mn-,PNOM_CO
+11,Leuven|Genesis|344|12,12,καί,καί,c--------,AuxY
+12,Leuven|Genesis|344|13,13,Μοσοχ,Μοσοχ,n-s---mn-,PNOM_CO
+13,Leuven|Genesis|344|14,14,καί,καί,c--------,COORD
+14,Leuven|Genesis|344|15,15,Θιρας,Θιρας,n-s---mn-,PNOM_CO

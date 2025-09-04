@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|205|1,1,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|205|2,2,τούτοις,οὗτος,p-p---nd-,ADV
+Leuven|PaeanBrev|205|3,3,ψῆφον,ψῆφος,n-s---fa-,OBJ
+Leuven|PaeanBrev|205|4,4,ἐπήγαγεν,ἐπάγω,v3saia---,PRED
+Leuven|PaeanBrev|205|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|205|6,6,δικτάτωρ,δικτάτωρ,n-s---mn-,SBJ
+Leuven|PaeanBrev|205|7,7,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|PaeanBrev|205|8,8,θανάτου,θάνατος,n-s---mg-,ATR
+Leuven|PaeanBrev|205|9,9,·,·,u--------,AuxK

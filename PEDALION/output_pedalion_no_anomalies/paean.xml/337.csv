@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|339|1,1,οὔτε,οὔτε,c--------,AuxY
+1,Leuven|PaeanBrev|339|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|PaeanBrev|339|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|PaeanBrev|339|4,4,γαμετήν,γαμετή,n-s---fa-,OBJ
+4,Leuven|PaeanBrev|339|5,5,ἐδέξατο,δέχομαι,v3saim---,PRED
+5,Leuven|PaeanBrev|339|6,6,περιπλοκάς,περιπλοκή,n-p---fa-,OBJ
+6,Leuven|PaeanBrev|339|7,7,ζητήσασαν,ζητέω,v-sapafa-,ADV

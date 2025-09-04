@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|7667|2|1,1,καλῶς,καλός,d--------,ADV
+Leuven|7667|2|2,2,ποιεῖς,ποιέω,v2spia---,PRED
+Leuven|7667|2|3,3,εἰ,εἰ,c--------,AuxC
+Leuven|7667|2|4,4,ἔρρωσαι,ῥώννυμι,v2srie---,ADV_CO
+Leuven|7667|2|5,5,καί,καί,b--------,COORD
+Leuven|7667|2|6,6,τά,ὁ,l-p---nn-,ATR
+Leuven|7667|2|7,7,λοιπά,λοιπός,a-p---nn-,SBJ
+Leuven|7667|2|8,8,σοι,σύ,p2s---cd-,ADV
+Leuven|7667|2|9,9,κατά,κατά,r--------,AuxP
+Leuven|7667|2|10,10,γνώμην,γνώμη,n-s---fa-,PNOM
+Leuven|7667|2|11,11,ἐστίν,εἰμί,v3spia---,ADV_CO
+Leuven|7667|2|12,12,·,·,u--------,AuxK

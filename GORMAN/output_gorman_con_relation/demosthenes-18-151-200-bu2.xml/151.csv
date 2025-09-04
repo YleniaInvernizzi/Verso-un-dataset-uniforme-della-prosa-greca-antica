@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀλλ᾽,ἀλλά,d--------,AuxY
+2,ἐκεῖνο,ἐκεῖνος,p-s---na-,OBJ
+3,λογίζου,λογίζομαι,v2spme---,PRED_CO
+4,καὶ,καί,c--------,COORD
+5,ὅρα,ὁράω,v2spma---,PRED_CO
+6,:,punc1,u--------,AuxK

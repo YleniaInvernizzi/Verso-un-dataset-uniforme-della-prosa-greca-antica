@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---mg-,ATR
+2,εἷς,εἷς,a-s---mn-,PNOM
+3,ὢν,εἰμί,v-sppamn-,ADV
+4,καὶ,καί,d--------,AuxZ
+5,Ἄγνων,Ἄγνων,n-s---mn-,SBJ
+6,χρυσοῦς,χρύσεος,a-p---ma-,ATR
+7,ἥλους,ἧλος,n-p---ma-,OBJ
+8,ἐν,ἐν,r--------,COORD
+9,ταῖς,ὁ,l-p---fd-,ATR
+10,κρηπῖσι,κρηπίς,n-p---fd-,ADV
+11,ἐφόρει,φορέω,v3siia---,PRED
+12,.,punc1,u--------,AuxK

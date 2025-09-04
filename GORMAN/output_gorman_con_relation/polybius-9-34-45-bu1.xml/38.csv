@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,νὴ,νή,r--------,AuxP
+2,Δίʼ,ζέυς,n-s---ma-,ExD
+3,",",punc1,u--------,AuxX
+4,ἀλλὰ,ἀλλά,d--------,AuxY
+5,παραβήσεσθε,παραβαίνω,v2pfim---,PRED
+6,τὰς,ὁ,l-p---fa-,ATR
+7,συνθήκας,συνθήκη,n-p---fa-,OBJ
+8,·,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0561-001|23|1,1,τό,ὁ,l-s---nn-,ATR
+Leuven|0561-001|23|2,2,πᾶν,πᾶς,a-s---nn-,ATR
+Leuven|0561-001|23|3,3,σχῆμα,σχῆμα,n-s---nn-,SBJ
+Leuven|0561-001|23|4,4,χορεία,χορεία,n-d---fn-,PNOM
+Leuven|0561-001|23|5,5,ἦν,εἰμί,v3siia---,PRED
+Leuven|0561-001|23|6,6,ὀρχουμένων,ὀρχέομαι,v-sppemg-,ATR
+Leuven|0561-001|23|7,7,.,.,u--------,AuxK

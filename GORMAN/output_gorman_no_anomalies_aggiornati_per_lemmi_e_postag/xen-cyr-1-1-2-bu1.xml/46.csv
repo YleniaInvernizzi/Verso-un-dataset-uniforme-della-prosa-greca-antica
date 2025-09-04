@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;ATR
+2;δʼ;δέ;d--------;AuxY
+3;ἄρχοντες;ἄρχω;v-pppamn-;SBJ
+4;αὐτῶν;αὐτός;p-p---mg-;ATR
+5;διατελοῦσι;διατελέω;v3ppia---;PRED
+6;τὸ;ὁ;l-s---na-;ATR
+7;πλεῖστον;πολύς;a-s---na-;ADV
+8;τῆς;ὁ;l-s---fg-;ATR
+9;ἡμέρας;ἡμέρα;n-s---fg-;ATR
+10;δικάζοντες;δικάζω;v-pppamn-;PNOM
+11;αὐτοῖς;αὐτός;p-p---md-;ATR
+12;.;punc;u--------;AuxK

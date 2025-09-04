@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|383|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis|383|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED
+2,Leuven|Genesis|383|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|Genesis|383|4,4,τῷ,ὁ,l-s---nd-,ATR
+4,Leuven|Genesis|383|5,5,κινῆσαι,κινέω,v--ana---,ADV
+5,Leuven|Genesis|383|6,6,αὐτούς,αὐτός,p-p---ma-,SBJ
+6,Leuven|Genesis|383|7,7,ἀπό,ἀπό,r--------,AuxP
+7,Leuven|Genesis|383|8,8,ἀνατολῶν,ἀνατολή,n-p---fg-,ADV
+8,Leuven|Genesis|383|9,9,εὗρον,εὑρίσκω,v3paia---,OBJ_CO
+9,Leuven|Genesis|383|10,10,πεδίον,πεδίον,n-s---na-,OBJ
+10,Leuven|Genesis|383|11,11,ἐν,ἐν,r--------,AuxP
+11,Leuven|Genesis|383|12,12,γῇ,γῆ,n-s---fd-,ADV
+12,Leuven|Genesis|383|13,13,Σεννααρ,Σεννααρ,n-s------,APOS
+13,Leuven|Genesis|383|14,14,καί,καί,c--------,COORD
+14,Leuven|Genesis|383|15,15,κατῴκησαν,κατοικέω,v3paia---,OBJ_CO
+15,Leuven|Genesis|383|16,16,ἐκεῖ,ἐκεῖ,d--------,ADV

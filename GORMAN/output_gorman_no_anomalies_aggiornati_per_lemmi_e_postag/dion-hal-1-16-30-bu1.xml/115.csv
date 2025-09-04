@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;νῦν;νῦν;d--------;ADV
+3;ἐστι;εἰμί;v3spia---;PRED_CO
+4;Ῥωμαίων;Ῥωμαῖος;n-p---mg-;ATR
+5;ἀποικία;ἀποικία;n-s---fn-;PNOM
+6;,;punc;u--------;AuxX
+7;καλεῖται;καλέω;v3spie---;PRED_CO
+8;δὲ;δέ;c--------;COORD
+9;Κορθωνία;Κορθωνία;n-s---fn-;PNOM
+10;.;punc;u--------;AuxK

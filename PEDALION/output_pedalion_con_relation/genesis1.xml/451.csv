@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|452|1,1,ἀδελφή,ἀδελφή,n-s---fn-,PNOM
+Leuven|Genesis|452|2,2,μού,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|452|3,3,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|Genesis|452|4,4,;,;,u--------,AuxK

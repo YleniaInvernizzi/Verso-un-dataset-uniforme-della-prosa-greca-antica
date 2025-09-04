@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἆρά;ἆρα;d--------;AuxY
+2;σοι;σύ;p2s---md-;OBJ
+3;ψήφοις;ψῆφος;n-p---fd-;ADV
+4;ὅμοιος;ὁμοῖος;a-s---mn-;PNOM
+5;ὁ;ὁ;l-s---mn-;ATR
+6;τῶν;ὁ;l-p---ng-;ATR
+7;ἔργων;ἔργον;n-p---ng-;ATR
+8;λογισμὸς;λογισμός;n-s---mn-;SBJ
+9;φαίνεται;φαίνω;v3spie---;PRED
+10;";";punc;u--------;AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλὰ,ἀλλά,d--------,AuxY
+1,2,τί,τις,p-s---na-,ADV
+2,3,δεῖ,δεῖ,v3spia---,PRED
+3,4,σε,σύ,p2s---ma-,SBJ
+4,5,ὁρᾶν,ὁράω,v--pna---,SBJ
+5,6,;,;,u--------,AuxK

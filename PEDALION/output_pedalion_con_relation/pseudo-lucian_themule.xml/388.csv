@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|389|1,1,δόξει,δοκέω,v3sfia---,PRED
+Leuven|Ps-Luc|389|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|389|3,3,ἀποδρὰς,ἀποδιδράσκω,v-sapamn-,ADV
+Leuven|Ps-Luc|389|4,4,οἴχεσθαί,οἴχομαι,v--pne---,OBJ_CO
+Leuven|Ps-Luc|389|5,5,ποι,ποι,d--------,ADV
+Leuven|Ps-Luc|389|6,6,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|389|7,7,εἶναι,εἰμί,v--pna---,OBJ_CO
+Leuven|Ps-Luc|389|8,8,ἀφανής,ἀφανής,a-s---mn-,PNOM
+Leuven|Ps-Luc|389|9,9,.,.,u--------,AuxK

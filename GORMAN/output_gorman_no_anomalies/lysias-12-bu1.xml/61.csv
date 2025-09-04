@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τοιαύτην,τοιοῦτος,a-s---fa-,ATR
+1,2,γὰρ,γάρ,d--------,AuxZ
+2,3,γνώμην,γνώμη,n-s---fa-,OBJ
+3,4,ἔχω,ἔχω,v1spia---,PRED
+4,5,·,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|212|1,1,ἔγγισον,ἐγγίζω,v2sama---,PRED_CO
+Leuven|Genesis_deel3|212|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis_deel3|212|3,3,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|212|4,4,φίλησον,φιλέω,v2sama---,PRED_CO
+Leuven|Genesis_deel3|212|5,5,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Genesis_deel3|212|6,6,",",",",u--------,AuxX
+Leuven|Genesis_deel3|212|7,7,τέκνον,τέκνον,n-s---nv-,ExD
+Leuven|Genesis_deel3|212|8,8,.,.,u--------,AuxK

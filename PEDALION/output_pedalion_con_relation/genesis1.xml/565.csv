@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|566|1,1,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis|566|2,2,προσώπου,πρόσωπον,n-s---ng-,OBJ
+Leuven|Genesis|566|3,3,Σαρας,Σαρα,n-s---fg-,ATR
+Leuven|Genesis|566|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|566|5,5,κυρίας,κυρία,n-s---fg-,APOS
+Leuven|Genesis|566|6,6,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|566|7,7,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|566|8,8,ἀποδιδράσκω,ἀποδιδράσκω,v1spia---,PRED
+Leuven|Genesis|566|9,9,.,.,u--------,AuxK

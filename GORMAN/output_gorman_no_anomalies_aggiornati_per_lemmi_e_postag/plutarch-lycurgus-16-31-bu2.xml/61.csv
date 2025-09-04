@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἂν;ἄν;d--------;AuxZ
+2;πτωχοὶ;πτωχός;a-p---mn-;PNOM
+3;μένητε;μένω;v2ppsa---;PRED_CO
+4;καὶ;καί;c--------;COORD
+5;μὴ;μή;d--------;AuxZ
+6;μέσδων;μέγας;a-s---nac;ADV
+7;ἅτερος;ἕτερος;a-s---mn-;ATV
+8;θατέρω;ἕτερος;a-s---mg-;ADV
+9;ἐρᾶτε;ἐράω;v2ppma---;PRED_CO
+10;ἦμεν;εἰμί;p-p---ma-;OBJ
+11;.;punc;u--------;AuxK

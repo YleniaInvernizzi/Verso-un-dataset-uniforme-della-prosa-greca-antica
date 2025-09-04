@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|465|1,1,ὑπήκουον,ὑπακούω,v1siia---,PRED
+1,Leuven|Ps-Luc|465|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|465|3,3,εὐθὺ,εὐθύς,d--------,ADV
+3,Leuven|Ps-Luc|465|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|Ps-Luc|465|5,5,ἅπαντα,ἅπας,a-p---na-,ADV
+5,Leuven|Ps-Luc|465|6,6,διδασκόμενος,διδάσκω,v-sppemn-,ADV

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|30|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0062-020|30|2,2,Ἑρμῆς,Ἑρμῆς,n-s---mn-,SBJ
+Leuven|0062-020|30|3,3,καὶ,καί,d--------,ADV
+Leuven|0062-020|30|4,4,ὑπὲρ,ὑπέρ,r--------,AuxP
+Leuven|0062-020|30|5,5,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|0062-020|30|6,6,ἐρεῖ,λέγω,v3sfia---,PRED
+Leuven|0062-020|30|7,7,·,·,u--------,AuxK

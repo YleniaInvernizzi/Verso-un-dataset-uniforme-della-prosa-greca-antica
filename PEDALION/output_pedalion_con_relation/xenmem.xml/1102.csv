@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|1103|1,1,βούλομαι,βούλομαι,v1spie---,OBJ
+Leuven|0032-002|1103|2,2,",",",",u--------,AuxX
+Leuven|0032-002|1103|3,3,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|1103|4,4,.,.,u--------,AuxK

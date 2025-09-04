@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---nn-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,ἦν,εἰμί,v3siia---,PRED
+4,ἐκεῖνος,ἐκεῖνος,a-s---mn_,ATR
+5,ὁ,ὁ,l-s---mn-,ATR
+6,Φίλιππος,Φίλιππος,n-s---mn-,SBJ
+7,",",punc1,u--------,AuxX
+8,εἰ,εἰ,c--------,AuxC
+9,μὴ,μή,d--------,AuxZ
+10,Παρμενίων,Παρμενίων,n-s---mn-,SBJ
+11,;,punc1,u--------,AuxK
+12,ᾖ,εἰμί,v3spsa---,ADV

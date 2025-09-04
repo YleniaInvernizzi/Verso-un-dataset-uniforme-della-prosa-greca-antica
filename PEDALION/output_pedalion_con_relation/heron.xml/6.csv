@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|7|1,1,ἔστι,εἰμί,v3spia---,PRED
+Leuven|0559-002|7|2,2,δὲ,δέ,b--------,AuxY
+Leuven|0559-002|7|3,3,καὶ,καί,b--------,AuxY
+Leuven|0559-002|7|4,4,τούτου,οὗτος,p-s---ng-,ATR
+Leuven|0559-002|7|5,5,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0559-002|7|6,6,ὑπόσχεσις,ὑπόσχεσις,n-s---fn-,SBJ
+Leuven|0559-002|7|7,7,τοιαύτη,τοιοῦτος,p-s---fn-,PNOM
+Leuven|0559-002|7|8,8,·,·,u--------,AuxK

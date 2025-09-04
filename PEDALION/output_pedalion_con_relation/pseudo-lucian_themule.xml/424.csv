@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|425|1,1,ὁ,ὁ,l-s---mn-,SBJ
+Leuven|Ps-Luc|425|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|425|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|425|4,4,κακὸν,κακός,a-s---na-,OBJ
+Leuven|Ps-Luc|425|5,5,ὁρῶν,ὁράω,v-sppamn-,ADV
+Leuven|Ps-Luc|425|6,6,ἤδη,ἤδη,d--------,ADV
+Leuven|Ps-Luc|425|7,7,ἀφόρητον,ἀφόρητος,a-s---na-,ATR
+Leuven|Ps-Luc|425|8,8,ψεύδεται,ψεύδω,v3spie---,PRED
+Leuven|Ps-Luc|425|9,9,ὡς,ὡς,c--------,AuxZ
+Leuven|Ps-Luc|425|10,10,τεθνηκὼς,θνῄσκω,v-srpamn-,ADV
+Leuven|Ps-Luc|425|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|425|12,12,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|Ps-Luc|425|13,13,πληγαῖς,πληγή,n-p---fd-,ADV
+Leuven|Ps-Luc|425|14,14,·,·,u--------,AuxK

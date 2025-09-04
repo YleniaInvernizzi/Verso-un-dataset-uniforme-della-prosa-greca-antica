@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,Κροῖσος,Κροῖσος,n-s---mn-,SBJ
+2,μέν,μέν,d--------,AuxY
+3,νυν,νῦν,d--------,ADV
+4,ἔθαψε,θάπτω,v3saia---,PRED
+5,ὡς,ὡς,c--------,AuxC
+6,οἰκὸς,ἔοικα,v-srpann-,PNOM
+7,ἦν,εἰμί,v3siia---,ADV
+8,τὸν,ὁ,l-s---ma-,ATR
+9,ἑωυτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+10,παῖδα,παῖς,n-s---ma-,OBJ
+11,:,punc1,u--------,AuxK

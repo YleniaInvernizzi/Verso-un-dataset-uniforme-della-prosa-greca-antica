@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|154|1,1,ὅς,ὅς,p-s---mn-,SBJ
+Leuven|Genesis_deel2|154|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis_deel2|154|3,3,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis_deel2|154|4,4,ἀκούσῃ,ἀκούω,v3sasa---,ATR
+Leuven|Genesis_deel2|154|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|154|6,6,συγχαρεῖται,συγχαίρω,v3sfim---,PRED
+Leuven|Genesis_deel2|154|7,7,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis_deel2|154|8,8,.,.,u--------,AuxK
+Leuven|Genesis_deel2|154|9,9,[0],,,SBJ

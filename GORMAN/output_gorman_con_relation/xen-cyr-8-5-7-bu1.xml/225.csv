@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,αὕτη,οὗτος,p-s---fn-,SBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,ἀρίστη,ἄριστος,a-s---fn-,ATR
+4,διδασκαλία,διδασκαλία,n-s---fn-,PNOM
+5,.,punc1,u--------,AuxK
+6,ἐστιν,εἰμί,v3spia---,PRED

@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|476|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Genesis|476|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|476|3,3,θεός,θεός,n-s---mn-,SBJ
+3,Leuven|Genesis|476|4,4,εἶπεν,λέγω,v3saia---,PRED
+4,Leuven|Genesis|476|5,5,τῷ,ὁ,l-s---md-,ATR
+5,Leuven|Genesis|476|6,6,Αβραμ,Αβραμ,n-s---md-,OBJ
+6,Leuven|Genesis|476|7,7,μετά,μετά,r--------,AuxP
+7,Leuven|Genesis|476|8,8,τό,ὁ,l-s---na-,ATR
+8,Leuven|Genesis|476|9,9,διαχωρισθῆναι,διαχωρίζω,v--anp---,ADV
+9,Leuven|Genesis|476|10,10,τόν,ὁ,l-s---ma-,ATR
+10,Leuven|Genesis|476|11,11,Λωτ,Λωτ,n-s---ma-,SBJ
+11,Leuven|Genesis|476|12,12,ἀπ’,ἀπό,r--------,AuxP
+12,Leuven|Genesis|476|13,13,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+13,Leuven|Genesis|476|14,14,·,·,u--------,AuxK

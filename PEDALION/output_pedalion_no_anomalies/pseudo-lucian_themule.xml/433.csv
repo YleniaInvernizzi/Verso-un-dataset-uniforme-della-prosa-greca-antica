@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|434|1,1,οἱ,ὁ,l-p---mn-,ATR
+1,Leuven|Ps-Luc|434|2,2,μὲν,μέν,d--------,AuxY
+2,Leuven|Ps-Luc|434|3,3,οὖν,οὖν,d--------,AuxY
+3,Leuven|Ps-Luc|434|4,4,στρατιῶται,στρατιώτης,n-p---mn-,SBJ
+4,Leuven|Ps-Luc|434|5,5,ἔνδον,ἔνδον,d--------,PNOM
+5,Leuven|Ps-Luc|434|6,6,ἔφασαν,φημί,v3piia---,PRED
+6,Leuven|Ps-Luc|434|7,7,εἶναι,εἰμί,v--pna---,OBJ
+7,Leuven|Ps-Luc|434|8,8,τὸν,ὁ,l-s---ma-,ATR
+8,Leuven|Ps-Luc|434|9,9,κηπουρὸν,κηπουρός,n-s---ma-,SBJ_CO
+9,Leuven|Ps-Luc|434|10,10,κ-,καί,c--------,COORD
+10,Leuven|Ps-Luc|434|11,11,ἐμὲ,ἐγώ,p1s---ca-,SBJ_CO
+11,Leuven|Ps-Luc|434|12,12,τὸν,ὁ,l-s---ma-,ATR
+12,Leuven|Ps-Luc|434|13,13,ἐκείνου,ἐκεῖνος,p-s---mg-,ATR
+13,Leuven|Ps-Luc|434|14,14,ὄνον,ὄνος,n-s---ma-,APOS

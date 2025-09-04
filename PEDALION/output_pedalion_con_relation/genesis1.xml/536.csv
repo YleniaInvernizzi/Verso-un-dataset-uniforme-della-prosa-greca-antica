@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|537|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|537|2,2,ἐρρέθη,εἴρω,v3saip---,PRED
+Leuven|Genesis|537|3,3,πρός,πρός,r--------,AuxP
+Leuven|Genesis|537|4,4,Αβραμ,Αβραμ,n-s---ma-,OBJ
+Leuven|Genesis|537|5,5,·,·,u--------,AuxK

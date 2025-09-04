@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|67|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|Genesis_deel3|67|2,2,οὕτως,οὕτως,d--------,PNOM
+Leuven|Genesis_deel3|67|3,3,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis_deel3|67|4,4,μέλλει,μέλλω,v3spia---,ADV
+Leuven|Genesis_deel3|67|5,5,γίνεσθαι,γίγνομαι,v--pne---,OBJ
+Leuven|Genesis_deel3|67|6,6,",",",",u--------,AuxX
+Leuven|Genesis_deel3|67|7,7,ἵνα,ἵνα,c--------,AuxC
+Leuven|Genesis_deel3|67|8,8,τί,τίς,p-s---nn-,ADV
+Leuven|Genesis_deel3|67|9,9,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis_deel3|67|10,10,τοῦτο,οὗτος,p-s---na-,SBJ
+Leuven|Genesis_deel3|67|11,11,;,;,u--------,AuxK
+Leuven|Genesis_deel3|67|12,12,[0],,,PRED

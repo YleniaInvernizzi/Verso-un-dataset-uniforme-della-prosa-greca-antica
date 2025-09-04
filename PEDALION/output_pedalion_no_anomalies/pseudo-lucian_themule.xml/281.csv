@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|282|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|282|2,2,αὕτη,οὗτος,p-s---fn-,SBJ
+2,Leuven|Ps-Luc|282|3,3,δικαιοτάτη,δίκαιος,a-s---fns,ATR
+3,Leuven|Ps-Luc|282|4,4,ἀμοιβὴ,ἀμοιβή,n-s---fn-,PNOM
+4,Leuven|Ps-Luc|282|5,5,ἐδόκει,δοκέω,v3siia---,PRED
+5,Leuven|Ps-Luc|282|6,6,τότε,τότε,d--------,ADV
+7,Leuven|Ps-Luc|282|8,8,εἰ,εἰ,c--------,AuxC
+8,Leuven|Ps-Luc|282|9,9,ἦν,εἰμί,v3siia---,ADV
+9,Leuven|Ps-Luc|282|10,10,τὰ,ὁ,l-p---nn-,ATR
+10,Leuven|Ps-Luc|282|11,11,πράγματα,πρᾶγμα,n-p---nn-,SBJ
+11,Leuven|Ps-Luc|282|12,12,ἐν,ἐν,r--------,AuxP
+12,Leuven|Ps-Luc|282|13,13,ὄνωι,ὄνος,n-s---md-,ADV
+13,Leuven|Ps-Luc|282|14,14,δικαστῆι,δικαστής,n-s---md-,APOS

@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;εἶτα;εἶτα;d--------;AuxY
+2;χόνδρον;χόνδρος;n-s---ma-;OBJ
+3;αὐτῷ;αὐτός;p-s---md-;ADV
+4;δεύσετε;δεύω;v2pfia---;PRED
+5;γάλακτι;γάλα;n-s---nd-;ADV
+6;χηνός;χήν;n-s---fg-;ATR
+7;.;punc;u--------;AuxK

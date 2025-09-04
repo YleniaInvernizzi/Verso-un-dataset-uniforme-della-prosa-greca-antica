@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|13|1,1,πόλεμον,πόλεμος,n-s---ma-,OBJ
+1,Leuven|PaeanBrev|13|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|13|3,3,τό,ὁ,l-s---nn-,ATR
+3,Leuven|PaeanBrev|13|4,4,ἔργον,ἔργον,n-s---nn-,SBJ
+4,Leuven|PaeanBrev|13|5,5,ἐκίνησεν,κινέω,v3saia---,PRED_CO
+6,Leuven|PaeanBrev|13|7,7,οὗ,ὅς,p-s---mg-,SBJ
+7,Leuven|PaeanBrev|13|8,8,συστάντος,συνίστημι,v-sapamg-,ADV
+8,Leuven|PaeanBrev|13|9,9,ἡττῶνται,ἡσσάομαι,v3ppie---,PRED_CO
+9,Leuven|PaeanBrev|13|10,10,Καινιναῖοι,Καινιναῖοι,n-p---mn-,SBJ_CO
+10,Leuven|PaeanBrev|13|11,11,καί,καί,c--------,COORD
+11,Leuven|PaeanBrev|13|12,12,Ἀντεμνάται,Ἀντεμνάτης,n-p---mn-,SBJ_CO
+13,Leuven|PaeanBrev|13|14,14,Κρουστουμῖνοι,Κρουστουμῖνος,n-p---mn-,SBJ_CO
+15,Leuven|PaeanBrev|13|16,16,Σαβῖνοι,Σαβῖνος,n-p---mn-,SBJ_CO
+17,Leuven|PaeanBrev|13|18,18,Φιδηνάται,Φιδηνάτης,n-p---mn-,SBJ_CO
+19,Leuven|PaeanBrev|13|20,20,Βέειοι,Βέειος,n-p---mn-,SBJ_CO

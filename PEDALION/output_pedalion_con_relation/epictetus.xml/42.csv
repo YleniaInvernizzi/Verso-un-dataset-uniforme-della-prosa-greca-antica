@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|43|1,1,πότε,πότε,d--------,ADV
+Leuven|0557-001|43|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0557-001|43|3,3,ζέφυρος,Ζέφυρος,n-s---mn-,SBJ
+Leuven|0557-001|43|4,4,πνεύσει,πνεύω,v3sfia---,PRED
+Leuven|0557-001|43|5,5,;,;,u--------,AuxK

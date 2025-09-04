@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἕτερον,ἕτερος,a-s---nn-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,συμμαχία,συμμαχία,n-s---fn-,SBJ_CO
+4,καὶ,καί,c--------,COORD
+5,πόλις,πόλις,n-s---fn-,SBJ_CO
+6,:,punc1,u--------,AuxK
+7,εἰσιν,εἰμί,v3ppia---,PRED

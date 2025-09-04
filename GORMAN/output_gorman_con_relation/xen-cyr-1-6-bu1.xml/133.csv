@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢν,ἐάν,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,χειμῶνι,χειμών,n-s---md-,ADV
+5,",",punc1,u--------,AuxX
+6,τοῦ,ὁ,l-s---ng-,ATR
+7,ψύχους,ψῦχος,n-s---ng-,ADV
+8,·,punc1,u--------,AuxK
+9,δεῖ,δεῖ,v3siia---,PRED
+10,ὦσι,εἰμί,v3ppsa---,ADV
+11,εἶναι,εἰμί,v--pna---,SBJ
+12,ἄρχοντα,ἄρχω,v-sppama-,SBJ
+13,πλεονεκτοῦντα,πλεονεκτέω,v-sppama-,ATV

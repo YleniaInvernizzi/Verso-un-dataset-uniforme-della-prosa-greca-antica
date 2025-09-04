@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐν,ἐν,r--------,AuxP
+2,δὲ,δέ,d--------,AuxY
+3,Μητραγύρτῃ,μητραγύρτης,n-s---md-,ADV
+4,φησί,φημί,v3spia---,PRED
+5,:,punc1,u--------,AuxK

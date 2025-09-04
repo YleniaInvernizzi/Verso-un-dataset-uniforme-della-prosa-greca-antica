@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|453|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|453|2,2,ἔλαβον,λαμβάνω,v1saia---,PRED
+Leuven|Genesis|453|3,3,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis|453|4,4,ἐμαυτῷ,ἐμαυτοῦ,p-s---md-,ADV
+Leuven|Genesis|453|5,5,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|453|6,6,γυναῖκα,γυνή,n-s---fa-,OCOMP
+Leuven|Genesis|453|7,7,.,.,u--------,AuxK

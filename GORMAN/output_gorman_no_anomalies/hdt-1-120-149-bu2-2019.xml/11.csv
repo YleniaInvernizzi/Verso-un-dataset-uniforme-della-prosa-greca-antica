@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀμείβεται,ἀμείβω,v3spie---,PRED
+1,2,ὁ,ὁ,l-s---mn-,ATR
+2,3,Ἀστυάγης,Ἀστυάγης,n-s---mn-,SBJ
+3,4,τοῖσιδε,ὅδε,p-p---md-,OBJ
+4,5,.,punc1,u--------,AuxK

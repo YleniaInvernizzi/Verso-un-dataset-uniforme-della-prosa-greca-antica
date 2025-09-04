@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,δεύτερον,δεύτερος,a-s---nn-,SBJ
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστι,εἰμί,v3spia---,PRED
+4,τῆς,ὁ,l-s---fg-,ATR
+5,τετάρτης,τέταρτος,a-s---fg-,PNOM
+6,.,punc1,u--------,AuxK

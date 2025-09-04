@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,πόλεμον,πόλεμος,n-s---ma-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,οὐκ,οὐ,d--------,AuxZ
+4,εἴων,ἐάω,v3piia---,PRED
+5,ποιεῖν,ποιέω,v--pna---,OBJ
+6,:,punc1,u--------,AuxK

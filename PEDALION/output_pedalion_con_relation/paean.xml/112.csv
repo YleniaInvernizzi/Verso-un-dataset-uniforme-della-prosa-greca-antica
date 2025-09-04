@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|113|1,1,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|PaeanBrev|113|2,2,δή,δή,d--------,AuxY
+Leuven|PaeanBrev|113|3,3,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|PaeanBrev|113|4,4,·,·,u--------,AuxK

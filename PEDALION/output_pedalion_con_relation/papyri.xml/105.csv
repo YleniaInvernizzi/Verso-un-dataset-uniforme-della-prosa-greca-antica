@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|20442|1|1,1,Ἱλαρίων,Ἱλαρίων,n-s---mn-,SBJ
+Leuven|20442|1|2,2,Ἄλιτι,Ἄλις,n-s---fd-,OBJ_CO
+Leuven|20442|1|3,3,τῆι,ὁ,l-s---fd-,ATR
+Leuven|20442|1|4,4,ἀδελφῇ,ἀδελφή,n-s---fd-,APOS
+Leuven|20442|1|5,5,πλεῖστα,πολύς,a-p---nas,ADV
+Leuven|20442|1|6,6,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|20442|1|7,7,καὶ,καί,b--------,AuxY
+Leuven|20442|1|8,8,Βεροῦτι,Βεροῦς,n-s---fd-,OBJ_CO
+Leuven|20442|1|9,9,τῇ,ὁ,l-s---fd-,ATR
+Leuven|20442|1|10,10,κυρίᾳ,κυρία,n-s---fd-,APOS
+Leuven|20442|1|11,11,μου,ἐγώ,p1s---cg-,ATR
+Leuven|20442|1|12,12,καὶ,καί,b--------,COORD
+Leuven|20442|1|13,13,Ἀπολλωναρίῳ,Ἀπολλωνάριον,n-s---md-,OBJ_CO
+Leuven|20442|1|14,14,.,.,u--------,AuxK
+Leuven|20442|1|15,15,[0],_,_,PRED

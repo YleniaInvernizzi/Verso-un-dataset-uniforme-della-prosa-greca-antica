@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,τὰ,ὁ,l-p---na-,AuxZ
+4,μὲν,μέν,d--------,AuxY
+5,ἐθαύμαζον,θαυμάζω,v3piia---,PRED_CO
+6,",",punc1,u--------,AuxX
+7,τὰ,ὁ,l-p---na-,AuxZ
+8,δὲ,δέ,c--------,COORD
+9,κατεπλήττοντο,καταπλήσσω,v3piie---,PRED_CO
+10,τὴν,ὁ,l-s---fa-,ATR
+11,τόλμαν,τόλμα,n-s---fa-,OBJ
+12,:,punc1,u--------,AuxK

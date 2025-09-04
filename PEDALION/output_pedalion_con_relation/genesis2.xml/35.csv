@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|36|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis_deel2|36|2,2,κατεβιάζετο,καταβιάζομαι,v3siie---,PRED_CO
+Leuven|Genesis_deel2|36|3,3,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|Genesis_deel2|36|4,4,",",",",u--------,AuxX
+Leuven|Genesis_deel2|36|5,5,καί,καί,b--------,AuxY
+Leuven|Genesis_deel2|36|6,6,ἐξέκλιναν,ἐκκλίνω,v3paia---,PRED_CO
+Leuven|Genesis_deel2|36|7,7,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|36|8,8,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel2|36|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|36|10,10,εἰσῆλθον,εἰσέρχομαι,v3paia---,PRED_CO
+Leuven|Genesis_deel2|36|11,11,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|36|12,12,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|36|13,13,οἰκίαν,οἰκία,n-s---fa-,OBJ
+Leuven|Genesis_deel2|36|14,14,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel2|36|15,15,.,.,u--------,AuxK

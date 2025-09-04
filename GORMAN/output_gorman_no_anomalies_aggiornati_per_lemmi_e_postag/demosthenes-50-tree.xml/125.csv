@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+2;οὖν;οὖν;d--------;AuxY
+3;τῶν;ὁ;l-p---mg-;ATR
+4;φευγόντων;φεύγω;v-pppamg-;ATR
+5;οὐδένα;οὐδείς;p-s---ma-;OBJ
+6;ἄξω;ἄγω;v1sfia---;PRED_CO
+7;,;punc;u--------;AuxX
+8;οὐ;οὐ;c--------;AuxZ
+9;-δὲ;δέ;c--------;COORD
+10;πλεύσομαι;πλέω;v1sfim---;PRED_CO
+11;ἐπ’;ἐπί;r--------;AuxP
+12;αὐτόν;αὐτός;p-s---ma-;ADV
+13;·;punc;u--------;AuxK

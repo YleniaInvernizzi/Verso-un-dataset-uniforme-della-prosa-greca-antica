@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλ᾽,ἀλλά,d--------,AuxY
+1,2,",",punc1,u--------,AuxX
+2,3,ὁρᾷς,ὁράω,v2spia---,PRED
+3,4,;,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;ATR
+2;δ᾽;δέ;d--------;AuxY
+3;ἀφέμενοι;ἀφίημι;v-papmmn-;ADV
+4;τὰ;ὁ;l-p---na-;ATR
+5;ῥύματα;ῥῦμα;n-p---na-;OBJ
+6;συνεπλέκοντο;συμπλέκω;v3piie---;PRED_CO
+7;καὶ;καί;c--------;COORD
+8;διηγωνίζοντο;διαγωνίζομαι;v3piie---;PRED_CO
+9;τοῖς;ὁ;l-p---md-;ATR
+10;πολεμίοις;πολέμιος;n-p---md-;OBJ
+11;.;punc;u--------;AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|20442|2|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+Leuven|20442|2|2,2,ὡς,ὡς,c--------,AuxC
+Leuven|20442|2|3,3,ἔτι,ἔτι,d--------,ADV
+Leuven|20442|2|4,4,καὶ,καί,d--------,AuxZ
+Leuven|20442|2|5,5,νῦν,νῦν,d--------,ADV
+Leuven|20442|2|6,6,ἐν,ἐν,r--------,AuxP
+Leuven|20442|2|7,7,Ἀλεξανδρείᾳ,Ἀλεξάνδρεια,n-s---fd-,PNOM
+Leuven|20442|2|8,8,ἔσμεν,εἰμί,v1ppia---,OBJ
+Leuven|20442|2|9,9,·,·,u--------,AuxK

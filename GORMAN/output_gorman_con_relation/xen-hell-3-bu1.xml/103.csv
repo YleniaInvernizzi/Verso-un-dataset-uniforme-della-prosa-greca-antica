@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,μάλιστα,μάλιστα,d--------,OBJ
+2,",",punc1,u--------,AuxX
+3,ἔφασαν,φημί,v3piia---,PRED
+4,.,punc1,u--------,AuxK

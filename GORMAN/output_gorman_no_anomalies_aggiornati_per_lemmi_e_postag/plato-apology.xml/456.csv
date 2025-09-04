@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;μέγα;μέγας;a-s---nn-;ATR
+2;μοι;ἐγώ;p1s---md-;PNOM
+3;τεκμήριον;τεκμήριον;n-s---nn-;SBJ
+4;τούτου;οὗτος;p-s---ng-;ATR
+5;γέγονεν;γίγνομαι;v3sria---;PRED
+6;·;punc;u--------;AuxK

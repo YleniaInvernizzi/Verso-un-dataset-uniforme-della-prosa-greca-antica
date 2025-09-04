@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|20|1,1,πρότρεψαι,προσρέπω,v2samm---,PRED
+Leuven|27679|20|2,2,δὲ,δέ,d--------,AuxY
+Leuven|27679|20|3,3,καὶ,καί,d--------,AuxZ
+Leuven|27679|20|4,4,τὴν,ὁ,l-s---fa-,ATR
+Leuven|27679|20|5,5,πρεσβυτέραν,πρέσβυς,a-s---fac,SBJ
+Leuven|27679|20|6,6,ἀναβῆναι,ἀναβαίνω,v--ana---,OBJ
+Leuven|27679|20|7,7,.,.,u--------,AuxK

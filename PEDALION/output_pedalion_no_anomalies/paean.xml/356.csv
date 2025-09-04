@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|358|1,1,Κατοῦλος,Κατοῦλος,n-s---mn-,SBJ
+1,Leuven|PaeanBrev|358|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|358|3,3,τάς,ὁ,l-p---fa-,ATR
+3,Leuven|PaeanBrev|358|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|PaeanBrev|358|5,5,Ἄφρους,Ἄφρος,n-p---ma-,ATR
+5,Leuven|PaeanBrev|358|6,6,ἐκλεξάμενος,ἐκλέγω,v-sapmmn-,ADV
+6,Leuven|PaeanBrev|358|7,7,τριακοσίαις,τριακόσιοι,m-p---fd-,ATR
+7,Leuven|PaeanBrev|358|8,8,ναυσίν,ναῦς,n-p---fd-,ADV
+8,Leuven|PaeanBrev|358|9,9,ἐπʼ,ἐπί,r--------,AuxP
+9,Leuven|PaeanBrev|358|10,10,αὐτούς,αὐτός,p-p---ma-,OBJ
+10,Leuven|PaeanBrev|358|11,11,ἐχώρησεν,χωρέω,v3saia---,PRED_CO
+12,Leuven|PaeanBrev|358|13,13,ἐκεῖνοι,ἐκεῖνος,p-p---mn-,SBJ
+13,Leuven|PaeanBrev|358|14,14,δέ,δέ,d--------,COORD
+14,Leuven|PaeanBrev|358|15,15,τετρακοσίαις,τετρακόσιοι,a-p---fd-,ADV
+15,Leuven|PaeanBrev|358|16,16,ἀντεπαρετάξαντο,ἀντιπαρετάζω,v3paim---,PRED_CO

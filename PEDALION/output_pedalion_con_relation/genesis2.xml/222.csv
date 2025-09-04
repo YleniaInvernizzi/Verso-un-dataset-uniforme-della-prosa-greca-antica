@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|223|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|223|2,2,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis_deel2|223|3,3,ὄψεται,ὁράω,v3sfim---,PRED
+Leuven|Genesis_deel2|223|4,4,ἑαυτῷ,ἑαυτοῦ,p-s---md-,OBJ
+Leuven|Genesis_deel2|223|5,5,πρόβατον,πρόβατον,n-s---na-,OBJ
+Leuven|Genesis_deel2|223|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|223|7,7,ὁλοκάρπωσιν,ὁλοκάρπωσις,n-s---fa-,ATR
+Leuven|Genesis_deel2|223|8,8,",",",",u--------,AuxX
+Leuven|Genesis_deel2|223|9,9,τέκνον,τέκνον,n-s---nv-,ExD
+Leuven|Genesis_deel2|223|10,10,.,.,u--------,AuxK

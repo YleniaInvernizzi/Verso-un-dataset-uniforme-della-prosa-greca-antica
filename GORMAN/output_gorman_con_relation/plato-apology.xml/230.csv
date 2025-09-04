@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀποκρινέσθω,ἀποκρίνω,v3spme---,PRED_CO
+2,",",punc1,u--------,AuxX
+3,ὦ,ὦ,i--------,AuxZ
+4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+5,",",punc1,u--------,AuxX
+6,καὶ,καί,c--------,COORD
+7,μὴ,μή,d--------,AuxZ
+8,ἄλλα,ἄλλος,p-p---na-,ADV_CO
+9,καὶ,καί,c--------,COORD
+10,ἄλλα,ἄλλος,p-p---na-,ADV_CO
+11,θορυβείτω,θορυβέω,v3spma---,PRED_CO
+12,·,punc1,u--------,AuxK

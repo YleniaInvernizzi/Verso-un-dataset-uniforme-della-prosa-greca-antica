@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0537-012|10|1,1,θεοί,θεός,n-p---mn-,SBJ
+1,Leuven|0537-012|10|2,2,μέν,μέν,d--------,AuxY
+2,Leuven|0537-012|10|3,3,γάρ,γάρ,d--------,AuxY
+3,Leuven|0537-012|10|4,4,εἰσιν,εἰμί,v3ppia---,PRED

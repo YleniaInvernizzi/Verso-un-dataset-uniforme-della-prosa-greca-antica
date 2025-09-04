@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|271|1,1,ἔτι,ἔτι,d--------,ADV
+Leuven|0557-001|271|2,2,ἀθλιώτερον,ἄθλιος,d-------c,ADV
+Leuven|0557-001|271|3,3,ἔχει,ἔχω,v3spia---,PRED
+Leuven|0557-001|271|4,4,.,.,u--------,AuxK

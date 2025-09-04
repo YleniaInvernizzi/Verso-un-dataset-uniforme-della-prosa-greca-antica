@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,ἱκανὸν,ἱκανός,a-s---ma-,ATR
+2,γάρ,γάρ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,οἶμαι,οἴομαι,v1spie---,AuxY
+5,",",punc1,u--------,AuxX
+6,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+7,παρέχομαι,παρέχω,v1spie---,PRED
+8,τὸν,ὁ,l-s---ma-,ATR
+9,μάρτυρα,μάρτυς,n-s---ma-,OBJ_AP
+10,ὡς,ὡς,c--------,AuxC
+11,ἀληθῆ,ἀληθής,a-p---na-,OBJ
+12,λέγω,λέγω3,v1spia---,ATR
+13,",",punc1,u--------,APOS
+14,τὴν,ὁ,l-s---fa-,ATR
+15,πενίαν,πενία,n-s---fa-,OBJ_AP
+16,.,punc1,u--------,AuxK

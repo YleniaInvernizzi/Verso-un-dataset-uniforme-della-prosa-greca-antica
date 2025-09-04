@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|241|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|241|2,2,κατῴκησεν,κατοικέω,v3saia---,PRED
+Leuven|Genesis_deel2|241|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|241|4,4,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis_deel2|241|5,5,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis_deel2|241|6,6,φρέατι,φρέαρ,n-s---nd-,OBJ
+Leuven|Genesis_deel2|241|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|241|8,8,ὅρκου,ὅρκος,n-s---mg-,ATR
+Leuven|Genesis_deel2|241|9,9,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|141|1,1,ἀπεστεφάνωσα,ἀποστεφανόω,v1saia---,PRED
+Leuven|0554-001|141|2,2,τὸν,ὁ,l-s---ma-,ATR
+Leuven|0554-001|141|3,3,δῆμον,δῆμος,n-s---ma-,OBJ
+Leuven|0554-001|141|4,4,.,.,u--------,AuxK

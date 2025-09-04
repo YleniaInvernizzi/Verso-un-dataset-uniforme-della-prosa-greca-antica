@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|52|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|52|2,2,ηὐλόγησεν,εὐλογέω,v3saia---,PRED
+Leuven|Genesis|52|3,3,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|Genesis|52|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|52|5,5,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|52|6,6,λέγων,λέγω,v-sppamn-,ADV
+Leuven|Genesis|52|7,7,·,·,u--------,AuxK

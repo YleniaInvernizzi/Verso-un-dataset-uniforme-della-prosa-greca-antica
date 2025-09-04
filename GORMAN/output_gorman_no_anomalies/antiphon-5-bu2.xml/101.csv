@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐν,ἐν,r--------,AuxP
+1,2,τίνι,τις,a-s---nd-,ATR
+2,3,πλοίῳ,πλοῖον,n-s---nd-,ADV
+3,4,;,punc1,u--------,AuxK
+4,5,κατεποντώθη,καταποντίζω,v3saip---,PRED

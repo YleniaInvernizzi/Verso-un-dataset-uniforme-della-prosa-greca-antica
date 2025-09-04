@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|11|1,1,πέμψον,πέμπω,v2sama---,PRED
+Leuven|30514|11|2,2,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|30514|11|3,3,παρ’,παρά,r--------,AuxP
+Leuven|30514|11|4,4,αὑτόν,ἑαυτοῦ,p-s---ma-,OBJ
+Leuven|30514|11|5,5,·,·,u--------,AuxK

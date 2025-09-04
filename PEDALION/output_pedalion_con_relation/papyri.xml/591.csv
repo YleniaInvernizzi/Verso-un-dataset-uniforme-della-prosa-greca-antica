@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|9|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|31346|9|2,2,δέδοκται,δοκέω,v3srie---,PRED
+Leuven|31346|9|3,3,γὰρ,γάρ,d--------,AuxY
+Leuven|31346|9|4,4,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|31346|9|5,5,ἔχειν,ἔχω,v--pna---,OBJ
+Leuven|31346|9|6,6,τι,τις,p-s---na-,OBJ
+Leuven|31346|9|7,7,δυστυχοῦντες,δυστυχέω,v-pppamn-,ADV
+Leuven|31346|9|8,8,.,.,u--------,AuxK

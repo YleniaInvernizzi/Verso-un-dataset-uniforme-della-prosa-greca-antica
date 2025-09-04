@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,τίμημα,τίμημα,n-s---nn-,SBJ
+2,τάλαντα,τάλαντον,n-p---nn-,PNOM
+3,πεντήκοντα,πεντήκοντα,a-_---___,ATR
+4,.,punc1,u--------,AuxK
+5,[0],,,PRED

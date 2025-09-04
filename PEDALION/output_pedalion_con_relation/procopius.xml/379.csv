@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|380|1,1,ἐδήλου,δηλόω,v3siia---,PRED
+Leuven|4029-001|380|2,2,δὲ,δέ,d--------,AuxY
+Leuven|4029-001|380|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|4029-001|380|4,4,γραφὴ,γραφή,n-s---fn-,SBJ
+Leuven|4029-001|380|5,5,τάδε,ὅδε,p-p---na-,OBJ
+Leuven|4029-001|380|6,6,·,·,u--------,AuxK

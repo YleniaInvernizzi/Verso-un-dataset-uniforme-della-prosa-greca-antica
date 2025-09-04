@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ὀργιζόμενος,ὀργίζω,v-sppemn-,ADV
+4,παρεσκευάζετο,παρασκευάζω,v3siie---,PRED
+5,προσβάλλειν,προσβάλλω,v--pna---,OBJ
+6,.,punc1,u--------,AuxK

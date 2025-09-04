@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|79|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|79|2,2,ἐνετείλατο,ἐντέλλομαι,v3saim---,PRED
+Leuven|Genesis|79|3,3,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|79|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|79|5,5,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|79|6,6,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|79|7,7,Αδαμ,Αδαμ,n-s---md-,OBJ
+Leuven|Genesis|79|8,8,λέγων,λέγω,v-sppamn-,ADV
+Leuven|Genesis|79|9,9,·,·,u--------,AuxK

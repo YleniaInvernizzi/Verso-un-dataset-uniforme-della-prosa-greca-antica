@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|276|1,1,δέκα,δέκα,m--------,ATR
+1,Leuven|Genesis|276|2,2,πέντε,πέντε,m--------,ATR
+2,Leuven|Genesis|276|3,3,πήχεις,πῆχυς,n-p---ma-,SBJ
+3,Leuven|Genesis|276|4,4,ἐπάνω,ἐπάνω,d--------,ADV
+4,Leuven|Genesis|276|5,5,ὑψώθη,ὑψόω,v3saip---,PRED_CO
+5,Leuven|Genesis|276|6,6,τό,ὁ,l-s---nn-,ATR
+6,Leuven|Genesis|276|7,7,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+7,Leuven|Genesis|276|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|276|9,9,ἐπεκάλυψεν,ἐπικαλύπτω,v3saia---,PRED_CO
+9,Leuven|Genesis|276|10,10,πάντα,πᾶς,a-p---na-,ATR
+10,Leuven|Genesis|276|11,11,τά,ὁ,l-p---na-,ATR
+11,Leuven|Genesis|276|12,12,ὄρη,ὄρος,n-p---na-,OBJ
+12,Leuven|Genesis|276|13,13,τά,ὁ,l-p---na-,ATR
+13,Leuven|Genesis|276|14,14,ὑψηλά,ὑψηλός,a-p---na-,ATR

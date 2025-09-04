@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+4,ἀνεῖλε,ἀναιρέω,v3saia---,PRED
+5,παραδοῦναι,παραδίδωμι,v--ana---,OBJ_CO
+6,καὶ,καί,c--------,COORD
+7,ἡγεμόνας,ἡγεμών,n-p---ma-,OCOMP
+8,ποιεῖσθαι,ποιέω,v--pne---,OBJ_CO
+9,.,punc1,u--------,AuxK

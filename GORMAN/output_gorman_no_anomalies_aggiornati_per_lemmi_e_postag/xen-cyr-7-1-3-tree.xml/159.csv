@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;ἐποίουν;ποιέω;v3piia---;PRED_CO
+3;μὲν;μέν;d--------;AuxZ
+4;οὐδὲν;οὐδείς;p-s---na-;OBJ
+5;ἔτι;ἔτι;d--------;ADV
+6;,;punc;u--------;AuxX
+7;ἔπασχον;πάσχω;v3piia---;PRED_CO
+8;δὲ;δέ;c--------;COORD
+9;πολλὰ;πολύς;a-p---na-;OBJ_CO
+10;καὶ;καί;c--------;COORD
+11;δεινά;δεινός;a-p---na-;OBJ_CO
+12;.;punc;u--------;AuxK

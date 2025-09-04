@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|77994|1|1,1,Πᾶσις,Πᾶσις,n-s---mn-,SBJ
+Leuven|77994|1|2,2,Ὀρσενούφι,Ὀρσενουφις,n-s---md-,OBJ
+Leuven|77994|1|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|77994|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+Leuven|77994|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|77994|1|6,6,.,.,u--------,AuxK
+Leuven|77994|1|7,7,[0],,---------,PRED

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;Κάπυος;Κάπυς;n-s---mg-;PRED_CO
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;c--------;COORD
+4;νύμφης;νύμφη;n-s---fg-;ATR
+5;Ναϊάδος;Ναιάς;n-s---fg-;ATR
+6;Ἱερομνήμης;Ἱερομνήμη;n-s---fg-;PRED_CO
+7;Ἀγχίσης;Ἀγχίσης;n-s---mn-;SBJ
+8;:;punc;u--------;AuxK
+9;ἦν;εἰμί;v3siia---;PRED

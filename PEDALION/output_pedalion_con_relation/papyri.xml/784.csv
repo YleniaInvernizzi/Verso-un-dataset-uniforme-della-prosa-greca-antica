@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|77953|9|1,1,καί,καί,d--------,AuxY
+Leuven|77953|9|2,2,μή,μή,d--------,AuxZ
+Leuven|77953|9|3,3,παῖζε,παίζω,v2spma---,PRED_CO
+Leuven|77953|9|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|77953|9|5,5,τῇ,ὁ,l-s---fd-,ATR
+Leuven|77953|9|6,6,αὐλῇ,αὐλή,n-s---fd-,ADV
+Leuven|77953|9|7,7,",",",",u--------,AuxX
+Leuven|77953|9|8,8,ἀλλά,ἀλλά,b--------,COORD
+Leuven|77953|9|9,9,ἔσω,ἔσω,d--------,ADV
+Leuven|77953|9|10,10,εὐτάκτει,εὐτακτέω,v2spma---,PRED_CO
+Leuven|77953|9|11,11,·,·,u--------,AuxK

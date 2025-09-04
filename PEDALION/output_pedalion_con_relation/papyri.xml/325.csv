@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27172|7|1,1,ἀφ’,ἀπό,r--------,AuxP
+Leuven|27172|7|2,2,ἧς,ὅς,p-s---fg-,ADV
+Leuven|27172|7|3,3,γεγράφηκας,γράφω,v2sria---,ADV
+Leuven|27172|7|4,4,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|27172|7|5,5,τότε,τότε,d--------,ADV
+Leuven|27172|7|6,6,πέπαυται,παύω,v3srie---,ADV
+Leuven|27172|7|7,7,ταῦτα,οὗτος,p-p---na-,ADV
+Leuven|27172|7|8,8,ὤν,εἰμί,v-sppamn-,ADV
+Leuven|27172|7|9,9,μετ’,μετά,r--------,AuxP
+Leuven|27172|7|10,10,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|27172|7|11,11,.,.,u--------,AuxK

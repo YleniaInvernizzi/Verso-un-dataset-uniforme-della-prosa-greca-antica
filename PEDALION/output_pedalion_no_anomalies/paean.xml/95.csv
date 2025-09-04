@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|96|1,1,τότε,τότε,d--------,ADV
+1,Leuven|PaeanBrev|96|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|96|3,3,προσεπενοήθη,προσεπινοέω,v3saip---,PRED_CO
+3,Leuven|PaeanBrev|96|4,4,τε,τε,c--------,AuxY
+4,Leuven|PaeanBrev|96|5,5,καί,καί,c--------,COORD
+5,Leuven|PaeanBrev|96|6,6,ᾑρέθη,αἱρέω,v3saip---,PRED_CO
+6,Leuven|PaeanBrev|96|7,7,κατά,κατά,r--------,AuxP
+7,Leuven|PaeanBrev|96|8,8,τήν,ὁ,l-s---fa-,ATR
+8,Leuven|PaeanBrev|96|9,9,Ῥώμην,Ῥώμη,n-s---fa-,ADV
+9,Leuven|PaeanBrev|96|10,10,ἀρχή,ἀρχή,n-s---fn-,SBJ

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|339|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|339|2,2,ἔδωκεν,δίδωμι,v3saia---,PRED
+2,Leuven|Genesis_deel2|339|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+3,Leuven|Genesis_deel2|339|4,4,πρόβατα,πρόβατον,n-p---na-,OBJ_CO
+4,Leuven|Genesis_deel2|339|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis_deel2|339|6,6,μόσχους,μόσχος,n-p---ma-,OBJ_CO
+7,Leuven|Genesis_deel2|339|8,8,ἀργύριον,ἀργύριον,n-s---na-,OBJ_CO
+8,Leuven|Genesis_deel2|339|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel2|339|10,10,χρυσίον,χρυσίον,n-s---na-,OBJ_CO
+11,Leuven|Genesis_deel2|339|12,12,παῖδας,παῖς,n-p---ca-,OBJ_CO
+12,Leuven|Genesis_deel2|339|13,13,καί,καί,c--------,COORD
+13,Leuven|Genesis_deel2|339|14,14,παιδίσκας,παιδίσκη,n-p---fa-,OBJ_CO
+15,Leuven|Genesis_deel2|339|16,16,καμήλους,κάμηλος,n-p----a-,OBJ_CO
+16,Leuven|Genesis_deel2|339|17,17,καί,καί,c--------,COORD
+17,Leuven|Genesis_deel2|339|18,18,ὄνους,ὄνος,n-p---ma-,OBJ_CO

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|43|1,1,τείχη,τεῖχος,n-p---na-,OBJ_CO
+1,Leuven|PaeanBrev|43|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|43|3,3,ἐδείματο,δέμω,v3saim---,PRED
+3,Leuven|PaeanBrev|43|4,4,καί,καί,c--------,COORD
+4,Leuven|PaeanBrev|43|5,5,τάς,ὁ,l-p---fa-,ATR
+5,Leuven|PaeanBrev|43|6,6,ὑδρορόας,ὑδρορόη,n-p---fa-,OBJ_CO
+6,Leuven|PaeanBrev|43|7,7,ἤγουν,ἤγουν,c--------,AuxZ
+7,Leuven|PaeanBrev|43|8,8,ἀμάρας,ἀμάρα,n-p---fa-,ATR

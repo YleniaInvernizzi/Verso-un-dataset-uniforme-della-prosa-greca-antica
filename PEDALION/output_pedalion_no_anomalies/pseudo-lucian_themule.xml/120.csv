@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|121|1,1,εἶτα,εἶτα,d--------,ADV
+1,Leuven|Ps-Luc|121|2,2,κιβώτιον,κιβώτιον,n-s---na-,OBJ
+2,Leuven|Ps-Luc|121|3,3,ἁδρὸν,ἁδρός,a-s---na-,ATR
+3,Leuven|Ps-Luc|121|4,4,ἀνοίξασα,ἀνοίγνυμι,v-sapafn-,ADV
+5,Leuven|Ps-Luc|121|6,6,πάνυ,πάνυ,d--------,ADV
+6,Leuven|Ps-Luc|121|7,7,πολλὰς,πολύς,a-p---fa-,ATR
+7,Leuven|Ps-Luc|121|8,8,ἔχον,ἔχω,v-sppana-,ADV
+8,Leuven|Ps-Luc|121|9,9,πυξίδας,πυξίς,n-p---fa-,OBJ
+9,Leuven|Ps-Luc|121|10,10,ἐν,ἐν,r--------,AuxP
+10,Leuven|Ps-Luc|121|11,11,αὑτῶι,ἑαυτοῦ,p-s---md-,ADV
+12,Leuven|Ps-Luc|121|13,13,ἔνθεν,ἔνθεν,d--------,ADV
+13,Leuven|Ps-Luc|121|14,14,ἀναιρεῖται,ἀναιρέω,v3spie---,PRED_CO
+14,Leuven|Ps-Luc|121|15,15,καὶ,καί,c--------,COORD
+15,Leuven|Ps-Luc|121|16,16,προφέρει,προφέρω,v3spia---,PRED_CO
+16,Leuven|Ps-Luc|121|17,17,μίαν,εἷς,m-s---fa-,OBJ

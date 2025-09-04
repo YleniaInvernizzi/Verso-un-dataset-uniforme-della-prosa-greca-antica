@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|261|1,1,ὥστε,ὥστε,d--------,AuxY
+Leuven|Ps-Luc|261|2,2,ἀμυνώμεθα,ἀμύνω,v1ppse---,PRED
+Leuven|Ps-Luc|261|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|261|4,4,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|261|5,5,πολεμίαν,πολέμιος,a-s---fa-,OBJ
+Leuven|Ps-Luc|261|6,6,·,·,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|172|1,1,πᾶς,πᾶς,a-s---mn-,ATR
+Leuven|Genesis|172|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|172|3,3,ἀποκτείνας,ἀποκτείνω,v-sapamn-,SBJ
+Leuven|Genesis|172|4,4,Καιν,Καιν,n-s---ma-,OBJ
+Leuven|Genesis|172|5,5,ἑπτά,ἑπτά,m--------,ATR
+Leuven|Genesis|172|6,6,ἐκδικούμενα,ἐκδικέω,v-pppena-,OBJ
+Leuven|Genesis|172|7,7,παραλύσει,παραλύω,v3sfia---,PRED
+Leuven|Genesis|172|8,8,.,.,u--------,AuxK

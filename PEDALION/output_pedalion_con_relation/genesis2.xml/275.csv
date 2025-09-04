@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|276|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|276|2,2,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|276|3,3,ἦν,εἰμί,v3siia---,PRED_CO
+Leuven|Genesis_deel2|276|4,4,πρεσβύτερος,πρεσβύτερος,a-s---mnc,PNOM
+Leuven|Genesis_deel2|276|5,5,προβεβηκώς,προβαίνω,v-srpamn-,PNOM
+Leuven|Genesis_deel2|276|6,6,ἡμερῶν,ἡμέρα,n-p---fg-,ADV
+Leuven|Genesis_deel2|276|7,7,",",",",u--------,AuxX
+Leuven|Genesis_deel2|276|8,8,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|276|9,9,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis_deel2|276|10,10,εὐλόγησεν,εὐλογέω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|276|11,11,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|276|12,12,Ἀβραάμ,Ἀβραάμ,n-s---ma-,OBJ
+Leuven|Genesis_deel2|276|13,13,κατά,κατά,r--------,AuxP
+Leuven|Genesis_deel2|276|14,14,πάντα,πᾶς,a-p---na-,ADV
+Leuven|Genesis_deel2|276|15,15,.,.,u--------,AuxK

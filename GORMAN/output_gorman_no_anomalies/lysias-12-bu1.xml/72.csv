@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἡγούμενος,ἡγέομαι,v-sppmmn-,ADV
+1,2,ἡμᾶς,ἐγώ,p1p---ma-,SBJ
+2,3,ἄδικα,ἄδικος,a-p---na-,OBJ_CO
+3,4,πάσχειν,πάσχω,v--pna---,OBJ
+4,5,ἢ,ἤ1,c--------,COORD
+5,6,δίκαια,δίκαιος,a-p---na-,OBJ_CO
+6,7,;,punc1,u--------,AuxK

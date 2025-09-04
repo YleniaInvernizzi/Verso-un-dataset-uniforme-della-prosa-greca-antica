@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|18|1,1,ἀσπάζου,ἀσπάζομαι,v2spme---,PRED
+1,Leuven|30514|18|2,2,τόν,ὁ,l-s---ma-,ATR
+2,Leuven|30514|18|3,3,πατέρα,πατήρ,n-s---ma-,OBJ_CO
+3,Leuven|30514|18|4,4,τῶν,ὁ,l-p---ng-,ATR
+4,Leuven|30514|18|5,5,παιδίων,παιδίον,n-p---ng-,ATR
+5,Leuven|30514|18|6,6,καί,καί,c--------,COORD
+6,Leuven|30514|18|7,7,τά,ὁ,l-p---na-,ATR
+7,Leuven|30514|18|8,8,παιδία,παιδίον,n-p---na-,OBJ_CO

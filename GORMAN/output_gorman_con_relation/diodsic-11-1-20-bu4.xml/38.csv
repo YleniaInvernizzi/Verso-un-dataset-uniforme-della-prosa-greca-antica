@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,αἱ,ὁ,l-p---fn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,λοιπαὶ,λοιπός,a-p---fn-,SBJ
+4,πᾶσαι,πᾶς,a-p---fn-,ATR
+5,βαρβαρικαὶ,βαρβαρικός,a-p---fn-,PNOM
+6,κατηριθμοῦντο,καταριθμέω,v3piie---,PRED
+7,·,punc1,u--------,AuxK

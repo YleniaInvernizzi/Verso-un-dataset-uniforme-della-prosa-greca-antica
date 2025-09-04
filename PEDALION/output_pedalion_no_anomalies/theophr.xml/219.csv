@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0093-009|220|2,2,ὅσοι,ὅσος,p-p---mn-,SBJ
+2,Leuven|0093-009|220|3,3,ἐμοὶ,ἐγώ,p1s---cd-,PNOM_CO
+3,Leuven|0093-009|220|4,4,καὶ,καί,c--------,COORD
+4,Leuven|0093-009|220|5,5,σοὶ,σύ,p2s---cd-,PNOM_CO
+5,Leuven|0093-009|220|6,6,γένοιντο,γίγνομαι,v3paom---,OBJ

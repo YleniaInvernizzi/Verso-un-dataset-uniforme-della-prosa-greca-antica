@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|396|1,1,ἀλλά,ἀλλά,c--------,AuxY
+1,Leuven|Ps-Luc|396|2,2,με,ἐγώ,p1s---ca-,OBJ
+2,Leuven|Ps-Luc|396|3,3,τοῦτο,οὗτος,p-s---nn-,ATR
+3,Leuven|Ps-Luc|396|4,4,τὸ,ὁ,l-s---nn-,ATR
+4,Leuven|Ps-Luc|396|5,5,κομψὸν,κομψός,a-s---nn-,SBJ
+5,Leuven|Ps-Luc|396|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Ps-Luc|396|7,7,ἔσχατον,ἔσχατος,a-s---ma-,OBJ
+7,Leuven|Ps-Luc|396|8,8,ἤνεγκεν,φέρω,v3saia---,PRED
+8,Leuven|Ps-Luc|396|9,9,κινδύνου,κίνδυνος,n-s---mg-,ATR

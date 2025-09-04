@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,ATR
+2,δʼ,δέ,d--------,AuxY
+3,ἔτυχον,τυγχάνω,v3paia---,PRED
+4,συνηκολουθηκότες,συνακολουθέω,v-prpamn-,ADV
+5,αὐτῷ,αὐτός,p-s---md-,OBJ
+6,καὶ,καί,d--------,AuxZ
+7,ὄντες,εἰμί,v-pppamn-,PNOM
+8,ἐν,ἐν,r--------,AuxP
+9,Πέρσαις,Πέρσης,n-p---md-,PNOM
+10,·,punc1,u--------,AuxK

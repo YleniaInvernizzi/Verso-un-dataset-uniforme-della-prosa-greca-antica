@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅμως,ὅμως,d--------,AuxY
+2,δὲ,δέ,d--------,AuxY
+3,ῥητέον,ῥητέος,a-s---nn-,PRED
+4,.,punc1,u--------,AuxK

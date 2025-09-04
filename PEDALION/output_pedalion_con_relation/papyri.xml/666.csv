@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|33609|8|1,1,τόν,ὁ,l-s---ma-,ATR
+Leuven|33609|8|2,2,ἀγαπητόν,ἀγαπητός,a-s---ma-,ATR
+Leuven|33609|8|3,3,Τιθοῆν,Τιθοέης,n-s---ma-,OBJ
+Leuven|33609|8|4,4,ἀπ’,ἀπό,r--------,AuxP
+Leuven|33609|8|5,5,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|33609|8|6,6,προσαγόρευε,προσαγορεύω,v2spma---,PRED
+Leuven|33609|8|7,7,.,.,u--------,AuxK

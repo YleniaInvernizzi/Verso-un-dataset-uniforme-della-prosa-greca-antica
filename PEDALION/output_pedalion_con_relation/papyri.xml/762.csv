@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|76|9|1,1,ἔρρωται,ῥώννυμι,v3srie---,PRED
+Leuven|76|9|2,2,Ὧρος,Ὧρος,n-s---mn-,SBJ_CO
+Leuven|76|9|3,3,καί,καί,b--------,COORD
+Leuven|76|9|4,4,Πετοσῖρις,Πετοσῖρις,n-s---mn-,SBJ_CO
+Leuven|76|9|5,5,.,.,u--------,AuxK

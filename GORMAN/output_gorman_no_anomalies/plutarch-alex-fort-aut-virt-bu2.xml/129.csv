@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τίς,τις,p-s---cn-,SBJ
+1,2,ἔμειξε,μίγνυμι,v3saia---,PRED
+2,3,πολέμοις,πόλεμος,n-p---md-,OBJ
+3,4,ἑορτάς,ἑορτή,n-p---fa-,OBJ
+4,5,;,punc1,u--------,AuxK

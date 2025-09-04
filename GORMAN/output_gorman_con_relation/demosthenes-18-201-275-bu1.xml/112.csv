@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,εἶτα,εἶτα,d--------,AuxY
+2,κενὰς,κενός,a-p---fa-,ATR
+3,χαρίζει,χαρίζομαι,v2spie---,PRED
+4,χάριτας,χάρις,n-p---fa-,OBJ
+5,τουτοισὶ,οὗτος,p-p---md-,OBJ
+6,συκοφαντῶν,συκοφαντέω,v-sppamn-,ADV
+7,ἐμέ,ἐγώ,p1s---ma-,OBJ
+8,.,punc1,u--------,AuxK

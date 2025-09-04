@@ -1,0 +1,4 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|125|1,1,λέγω,λέγω,v1spia---,PRED
+Leuven|0557-001|125|2,2,ζωή,ζωή,n-s---fn-,OBJ
+Leuven|0557-001|125|3,3,.,.,u--------,AuxK

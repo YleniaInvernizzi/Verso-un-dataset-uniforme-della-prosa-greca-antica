@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|332|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|332|2,2,ἢν,ἐάν,c--------,AuxC
+Leuven|Ps-Luc|332|3,3,ἔρηται,ἔρομαι,v3sasm---,ADV
+Leuven|Ps-Luc|332|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|332|5,5,πῶς,πῶς,d--------,ADV
+Leuven|Ps-Luc|332|6,6,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Ps-Luc|332|7,7,ἀπέθανε,ἀποθνῄσκω,v3saia---,OBJ
+Leuven|Ps-Luc|332|8,8,",",",",u--------,AuxX
+Leuven|Ps-Luc|332|9,9,λύκου,λύκος,n-s---mg-,OBJ
+Leuven|Ps-Luc|332|10,10,τοῦτο,οὗτος,p-s---na-,ATR
+Leuven|Ps-Luc|332|11,11,καταψεύσασθε,καταψεύδω,v2pamm---,PRED
+Leuven|Ps-Luc|332|12,12,.,.,u--------,AuxK

@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἦλθεν,ἔρχομαι,v3saia---,PRED
+2,οὗτος,οὗτος,p-s---mn-,SBJ
+3,ἐπὶ,ἐπί,r--------,AuxP
+4,Φυλήν,Φυλή,n-s---fa-,OBJ
+5,:,punc1,u--------,AuxK

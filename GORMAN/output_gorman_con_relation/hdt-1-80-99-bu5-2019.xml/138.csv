@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,λίμνη,λιμνει,n-d---fn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ἔχεται,ἔχω,v3spie---,PRED
+4,τοῦ,ὁ,l-s---ng-,ATR
+5,σήματος,σῆμα,n-s---ng-,OBJ
+6,μεγάλη,μέγας,a-s---fn-,ATR
+7,",",punc1,u--------,AuxX
+8,τὴν,ὅς,p-s---fa-,SBJ
+9,λέγουσι,λέγω3,v3ppia---,ATR
+10,Λυδοὶ,Λυδός,n-p---mn-,SBJ
+11,ἀείναον,ἀείναος,a-s---fa-,PNOM
+12,εἶναι,εἰμί,v--pna---,OBJ
+13,:,punc1,u--------,AuxK

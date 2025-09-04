@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|161|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|161|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis_deel2|161|3,3,κληρονομήσει,κληρονομέω,v3sfia---,PRED
+Leuven|Genesis_deel2|161|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|161|5,5,υἱός,υἱός,n-s---mn-,SBJ
+Leuven|Genesis_deel2|161|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel2|161|7,7,παιδίσκης,παιδίσκη,n-s---fg-,ATR
+Leuven|Genesis_deel2|161|8,8,ταύτης,οὗτος,p-s---fg-,ATR
+Leuven|Genesis_deel2|161|9,9,μετά,μετά,r--------,AuxP
+Leuven|Genesis_deel2|161|10,10,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|161|11,11,υἱοῦ,υἱός,n-s---mg-,ADV
+Leuven|Genesis_deel2|161|12,12,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|161|13,13,Ισαακ,Ισαακ,n-s---mg-,APOS
+Leuven|Genesis_deel2|161|14,14,.,.,u--------,AuxK

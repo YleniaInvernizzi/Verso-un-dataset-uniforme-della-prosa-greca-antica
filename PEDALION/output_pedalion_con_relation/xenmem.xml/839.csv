@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|840|1,1,τὰ,ὁ,l-p---na-,ATR
+Leuven|0032-002|840|2,2,ἔπιπλα,ἔπιπλα,n-p---na-,OBJ
+Leuven|0032-002|840|3,3,δὲ,δέ,d--------,AuxY
+Leuven|0032-002|840|4,4,οὐδεὶς,οὐδείς,p-s---mn-,SBJ
+Leuven|0032-002|840|5,5,ὠνεῖται,ὠνέομαι,v3spie---,PRED
+Leuven|0032-002|840|6,6,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πᾶσαν,πᾶς,a-s---fa-,ATR
+1,2,ἀφανιεῖς,ἀφανίζω,v2sfia---,PRED
+2,3,τὴν,ὁ,l-s---fa-,ATR
+3,4,ἡδονήν,ἡδονή,n-s---fa-,OBJ
+4,5,.,punc1,u--------,AuxK

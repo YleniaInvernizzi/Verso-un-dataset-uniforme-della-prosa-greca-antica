@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀλλὰ;ἀλλά;d--------;AuxY
+2;μεμαρτύρηται;μαρτυρέω;v3srie---;PRED
+3;ἑταίρα;ἑταίρα;n-s---fn-;PNOM
+4;οὖσα;εἰμί;v-sppafn-;SBJ_CO
+5;καὶ;καί;c--------;COORD
+6;δούλη;δούλη;n-s---fn-;PNOM
+7;Νικαρέτης;Νικαρέτη;n-s---fg-;ATR
+8;γεγενημένη;γίγνομαι;v-srpefn-;SBJ_CO
+9;.;punc;u--------;AuxK

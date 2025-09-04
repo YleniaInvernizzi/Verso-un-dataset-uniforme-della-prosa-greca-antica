@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;γελάσασ᾽;γελάω;v-sapafn-;ADV
+2;ἄνω;ἄνω;d--------;ADV
+3;,;punc;u--------;AuxX
+4;βέλτιστε;βέλτιστος;a-s---mv-;ExD
+5;,;punc;u--------;AuxX
+6;φησίν;φημί;v3spia---;PRED
+7;.;punc;u--------;AuxK

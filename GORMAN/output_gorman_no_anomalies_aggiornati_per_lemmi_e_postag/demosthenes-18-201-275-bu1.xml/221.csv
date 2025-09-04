@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ὀργὴν;ὀργή;n-s---fa-;OBJ_CO
+2;καὶ;καί;c--------;COORD
+3;τιμωρίαν;τιμωρία;n-s---fa-;OBJ_CO
+4;κατὰ;κατά;r--------;AuxP
+5;τούτου;οὗτος;p-s---mg-;ADV
+6;.;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗ,ὅς,p-s---ng-,OBJ
+2,πρότερον,πρότερος,a-s---na-,ADV
+3,ἀνθρώπων,ἄνθρωπος,n-p---mg-,ATR
+4,οὐδεὶς,οὐδείς,p-s---mn-,SBJ
+5,ἔτυχε,τυγχάνω,v3saia---,PRED
+6,.,punc1,u--------,AuxK

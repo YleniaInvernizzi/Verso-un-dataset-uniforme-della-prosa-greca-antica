@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|178|1,1,λέγερε,λέγερε,v--pna---,OCOMP
+1,Leuven|PaeanBrev|178|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|178|3,3,παρʼ,παρά,r--------,AuxP
+3,Leuven|PaeanBrev|178|4,4,αὐτοῖς,αὐτός,p-p---md-,ADV
+4,Leuven|PaeanBrev|178|5,5,τό,ὁ,l-s---nn-,ATR
+5,Leuven|PaeanBrev|178|6,6,ἐπιλέξασθαι,ἐπιλέγω,v--anm---,SBJ
+6,Leuven|PaeanBrev|178|7,7,λέγεται,λέγω,v3spie---,PRED

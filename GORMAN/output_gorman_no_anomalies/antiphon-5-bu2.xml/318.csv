@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μὴ,μή,d--------,AuxZ
+1,2,ὑμεῖς,σύ,p2p---mn-,SBJ
+2,3,γε,γε,d--------,AuxZ
+3,4,",",punc1,u--------,AuxX
+4,5,ὦ,ὦ,i--------,AuxZ
+5,6,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+6,7,:,punc1,u--------,AuxK

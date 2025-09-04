@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|267|1|1,1,Μένων,Μένων,n-s---mn-,SBJ
+Leuven|267|1|2,2,Ἑρμοκράτει,Ἑρμοκράτης,n-s---md-,OBJ
+Leuven|267|1|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|267|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+Leuven|267|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|267|1|6,6,.,.,u--------,AuxK
+Leuven|267|1|7,7,[0],,---------,PRED

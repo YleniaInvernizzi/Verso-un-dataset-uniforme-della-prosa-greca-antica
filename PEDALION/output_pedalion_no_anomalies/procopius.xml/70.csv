@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|4029-001|71|1,1,μένων,μένω,v-sppamn-,ADV
+1,Leuven|4029-001|71|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|4029-001|71|3,3,αὐτοῦ,αὐτοῦ,d--------,ADV
+3,Leuven|4029-001|71|4,4,ἐποίει,ποιέω,v3siia---,PRED
+4,Leuven|4029-001|71|5,5,τάδε,ὅδε,p-p---na-,OBJ

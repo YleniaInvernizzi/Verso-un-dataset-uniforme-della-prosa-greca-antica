@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀκηκόατε,ἀκούω,v2pria---,PRED_CO
+1,2,",",punc1,u--------,AuxX
+2,3,ἑωράκατε,ὁράω,v2pria---,PRED_CO
+3,4,",",punc1,u--------,AuxX
+4,5,πεπόνθατε,πάσχω,v2pria---,PRED_CO
+5,6,",",punc1,u--------,COORD
+6,7,ἔχετε,ἔχω,v2ppma---,PRED_CO
+7,8,·,punc1,u--------,AuxK

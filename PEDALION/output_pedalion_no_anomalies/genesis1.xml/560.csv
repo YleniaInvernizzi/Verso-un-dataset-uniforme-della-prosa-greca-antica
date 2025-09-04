@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|561|1,1,χρῶ,χράω,v2spme---,PRED
+1,Leuven|Genesis|561|2,2,αὐτῇ,αὐτός,p-s---fd-,OBJ
+3,Leuven|Genesis|561|4,4,ὡς,ὡς,c--------,AuxC
+4,Leuven|Genesis|561|5,5,ἄν,ἄν,d--------,AuxY
+5,Leuven|Genesis|561|6,6,σοι,σύ,p2s---cd-,ADV
+6,Leuven|Genesis|561|7,7,ἀρεστόν,ἀρεστός,a-s---nn-,PNOM
+7,Leuven|Genesis|561|8,8,ᾖ,εἰμί,v3spsa---,ADV

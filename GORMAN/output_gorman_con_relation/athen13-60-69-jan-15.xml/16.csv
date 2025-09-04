@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἱκετεύων,ἱκετεύω,v-sppamn-,ADV
+2,οὖν,οὖν,d--------,AuxY
+3,τὴν,ὁ,l-s---fa-,ATR
+4,Ἀφροδίτην,Ἀφροδίτη,n-s---fa-,OBJ
+5,φησίν,φημί,v3spia---,PRED
+6,:,punc1,u--------,AuxK

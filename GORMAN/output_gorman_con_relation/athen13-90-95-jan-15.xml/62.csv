@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,εἶθ᾽,εἶτα,d--------,ADV
+2,ἑξῆς,ἑξῆς,d--------,ADV
+3,φησιν,φημί,v3spia---,PRED
+4,:,punc1,u--------,AuxK

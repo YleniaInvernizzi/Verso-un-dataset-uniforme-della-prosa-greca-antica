@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|8|1,1,τάχα,τάχα,d--------,ADV
+Leuven|27086|8|2,2,παράσχετε,παρέχω,v2pama---,PRED
+Leuven|27086|8|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|27086|8|4,4,.,.,u--------,AuxK

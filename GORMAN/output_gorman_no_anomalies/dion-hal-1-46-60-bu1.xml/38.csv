@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐχέτω,ἔχω,v3spma---,PRED
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,ὅπῃ,ὅπη,d--------,ADV
+3,4,τις,τις,p-s---cn-,SBJ
+4,5,αὑτὸν,ἑαυτοῦ,p-s---ma-,OBJ
+5,6,πείθει,πείθω,v3spia---,ADV
+6,7,.,punc1,u--------,AuxK

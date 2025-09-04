@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑμεῖς,σύ,p-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ξυρουμένους,ξυρέω,v-pppema-,ATR
+4,τὰ,ὁ,l-p---na-,ATR
+5,γένεια,γένειον,n-p---na-,OBJ
+6,περιφέρετε,περιφέρω,v2ppma---,PRED
+7,τοὺς,ὁ,l-p---ma-,ATR
+8,ἐρωμένους,ἐράομαι,v-pppema-,OBJ
+9,:,punc1,u--------,AuxK

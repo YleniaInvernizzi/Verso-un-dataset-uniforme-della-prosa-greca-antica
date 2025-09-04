@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πόθεν,πόθεν,d--------,ADV_CO
+1,2,ἢ,ἤ1,c--------,COORD
+2,3,πῶς,πῶς2,d--------,ADV_CO
+3,4,ἀξιωθέντι,ἀξιόω,v-sappmd-,ADV
+4,5,;,punc1,u--------,AuxK

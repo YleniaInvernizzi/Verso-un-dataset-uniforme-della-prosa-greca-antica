@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|484|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|484|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|484|3,3,ἤσθιον,ἐσθίω,v1siia---,PRED
+Leuven|Ps-Luc|484|4,4,.,.,u--------,AuxK

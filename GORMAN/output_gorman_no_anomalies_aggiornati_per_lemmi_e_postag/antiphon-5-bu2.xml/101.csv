@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐν;ἐν;r--------;AuxP
+2;τίνι;τις;a-s---nd-;ATR
+3;πλοίῳ;πλοῖον;n-s---nd-;ADV
+4;";";punc;u--------;AuxK
+5;κατεποντώθη;καταποντίζω;v3saip---;PRED

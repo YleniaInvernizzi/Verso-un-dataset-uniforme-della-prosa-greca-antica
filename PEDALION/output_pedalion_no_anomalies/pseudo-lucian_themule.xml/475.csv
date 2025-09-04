@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|476|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|476|2,2,οἱ,ὁ,l-p---mn-,ATR
+2,Leuven|Ps-Luc|476|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|476|4,4,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+4,Leuven|Ps-Luc|476|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Ps-Luc|476|6,6,μάχης,μάχη,n-s---fg-,ATR
+6,Leuven|Ps-Luc|476|7,7,ἤδη,ἤδη,d--------,ADV
+7,Leuven|Ps-Luc|476|8,8,ἦσαν,εἰμί,v3piia---,PRED_CO
+8,Leuven|Ps-Luc|476|9,9,ἐν,ἐν,r--------,AuxP
+9,Leuven|Ps-Luc|476|10,10,παρασκευῆι,παρασκευή,n-s---fd-,PNOM
+11,Leuven|Ps-Luc|476|12,12,καὶ,καί,c--------,COORD
+12,Leuven|Ps-Luc|476|13,13,ἀφῖκτο,ἀφικνέομαι,v3slie---,PRED_CO
+13,Leuven|Ps-Luc|476|14,14,ἡ,ὁ,l-s---fn-,ATR
+14,Leuven|Ps-Luc|476|15,15,πορεία,πορεία,n-s---fn-,SBJ

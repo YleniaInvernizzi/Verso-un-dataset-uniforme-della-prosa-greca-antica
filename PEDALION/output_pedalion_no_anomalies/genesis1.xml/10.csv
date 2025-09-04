@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|11|1,1,γενηθήτω,γίγνομαι,v3samp---,PRED_CO
+1,Leuven|Genesis|11|2,2,στερέωμα,στερέωμα,n-s---nn-,SBJ
+2,Leuven|Genesis|11|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|Genesis|11|4,4,μέσῳ,μέσος,a-s---md-,PNOM
+4,Leuven|Genesis|11|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Genesis|11|6,6,ὕδατος,ὕδωρ,n-s---ng-,ATR
+6,Leuven|Genesis|11|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|11|8,8,ἔστω,εἰμί,v3spma---,PRED_CO
+8,Leuven|Genesis|11|9,9,διαχωρίζον,διαχωρίζω,v-sppann-,PNOM
+9,Leuven|Genesis|11|10,10,ἀνά,ἀνά,r--------,AuxP
+10,Leuven|Genesis|11|11,11,μέσον,μέσος,a-s---ma-,OBJ
+11,Leuven|Genesis|11|12,12,ὕδατος,ὕδωρ,n-s---ng-,ATR_CO
+12,Leuven|Genesis|11|13,13,καί,καί,c--------,COORD
+13,Leuven|Genesis|11|14,14,ὕδατος,ὕδωρ,n-s---ng-,ATR_CO

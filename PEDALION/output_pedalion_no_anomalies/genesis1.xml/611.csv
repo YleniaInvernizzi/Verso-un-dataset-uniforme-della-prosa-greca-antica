@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|612|1,1,δώδεκα,δώδεκα,m--------,ATR
+1,Leuven|Genesis|612|2,2,ἔθνη,ἔθνος,n-p---na-,OBJ
+2,Leuven|Genesis|612|3,3,γεννήσει,γεννάω,v3sfia---,PRED_CO
+4,Leuven|Genesis|612|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis|612|6,6,δώσω,δίδωμι,v1sfia---,PRED_CO
+6,Leuven|Genesis|612|7,7,αὐτόν,αὐτός,p-s---ma-,OBJ
+7,Leuven|Genesis|612|8,8,εἰς,εἰς,r--------,AuxP
+8,Leuven|Genesis|612|9,9,ἔθνος,ἔθνος,n-s---na-,OCOMP
+9,Leuven|Genesis|612|10,10,μέγα,μέγας,a-s---na-,ATR

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἦν,εἰμί,v3siia---,PRED
+2,γάρ,γάρ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,ὡς,ὡς,c--------,AuxC
+5,λέγεται,λέγω3,v3spie---,ADV
+6,",",punc1,u--------,AuxX
+7,μεγαλοφωνότατος,μεγαλόφωνος,a-s---mns,PNOM
+8,Ἀθηναίων,Ἀθήναιος,n-p---mg-,ATR
+9,.,punc1,u--------,AuxK

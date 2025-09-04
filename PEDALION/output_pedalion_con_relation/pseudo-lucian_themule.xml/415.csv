@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|416|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|416|2,2,τοῦτο,οὗτος,p-s---na-,ATR
+Leuven|Ps-Luc|416|3,3,εἴχομεν,ἔχω,v1piia---,PRED
+Leuven|Ps-Luc|416|4,4,ἔργον,ἔργον,n-s---na-,OBJ
+Leuven|Ps-Luc|416|5,5,·,·,u--------,AuxK

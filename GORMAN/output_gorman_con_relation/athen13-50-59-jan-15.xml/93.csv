@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰσὶν,εἰμί,v3ppia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,πόθεν,πόθεν,d--------,PNOM_CO
+4,αἱ,ὁ,l-p---fn-,ATR
+5,παῖδες,παῖς,n-p---fn-,SBJ
+6,αὗται,οὗτος,a-p---fn-,ATR
+7,καὶ,καί,c--------,COORD
+8,τίνες,τις,p-p---fn-,PNOM_CO
+9,;,punc1,u--------,AuxK

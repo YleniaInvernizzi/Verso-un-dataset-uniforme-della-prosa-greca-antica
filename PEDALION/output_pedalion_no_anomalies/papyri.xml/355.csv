@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27328|10|1,1,βέβληκα,βάλλω,v1sria---,PRED
+1,Leuven|27328|10|2,2,αὐτήν,αὐτός,p-s---fa-,OBJ
+2,Leuven|27328|10|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|27328|10|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|27328|10|5,5,τέχνην,τέχνη,n-s---fa-,OBJ

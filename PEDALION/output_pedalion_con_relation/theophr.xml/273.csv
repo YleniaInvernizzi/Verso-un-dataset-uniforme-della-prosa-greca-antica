@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|274|1,1,"""","""",u--------,AuxG
+Leuven|0093-009|274|2,2,πόσου,ποσόω,v2spma---,PRED_CO
+Leuven|0093-009|274|3,3,",",",",u--------,COORD
+Leuven|0093-009|274|4,4,κατάθου,κατατίθημι,v2sama---,PRED_CO
+Leuven|0093-009|274|5,5,·,·,u--------,AuxK

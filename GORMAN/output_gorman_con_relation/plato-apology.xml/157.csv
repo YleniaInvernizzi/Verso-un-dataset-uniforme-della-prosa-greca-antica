@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗτοι,οὗτος,a-p---mn_,ATR
+2,",",punc1,u--------,AuxX
+3,ὦ,ὦ,i--------,AuxZ
+4,Σώκρατες,Σωκράτης,n-s---mv-,ExD
+5,",",punc1,u--------,AuxX
+6,οἱ,ὁ,l-p---mn-,ATR
+7,δικασταί,δικαστής,n-p---mn-,SBJ
+8,.,punc1,u--------,AuxK
+9,εἴσιν,εἰμί,v3ppia---,PRED

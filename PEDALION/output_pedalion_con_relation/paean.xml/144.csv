@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|145|1,1,καταφεύγοντες,καταφεύγω,v-pppamn-,ADV
+Leuven|PaeanBrev|145|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|145|4,3,[0],,,PRED
+Leuven|PaeanBrev|145|5,4,εἰς,εἰς,r--------,AuxP
+Leuven|PaeanBrev|145|6,5,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|145|7,6,Καπετώλιον,Καπετώλιον,n-s---na-,OBJ
+Leuven|PaeanBrev|145|7,7,.,.,u--------,AuxK
+Leuven|PaeanBrev|145|8,8,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|PaeanBrev|145|9,9,συνέσωζον,συσσῴζω,v3piia---,PRED
+Leuven|PaeanBrev|145|10,10,ἑαυτούς,ἑαυτοῦ,p-p---ma-,OBJ

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxZ
+2;ἔλαβον;λαμβάνω;v3paia---;PRED
+3;οἱ;ὁ;l-p---mn-;ATR
+4;πειθόμενοι;πείθω;v-pppemn-;SBJ
+5;πολλὰ;πολύς;a-p---na-;ATR_CO
+6;καὶ;καί;c--------;COORD
+7;παντοῖα;παντοῖος;a-p---na-;ATR_CO
+8;χρήματα;χρῆμα;n-p---na-;OBJ
+9;.;punc;u--------;AuxK

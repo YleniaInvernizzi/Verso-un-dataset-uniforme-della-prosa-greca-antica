@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31314|1|1,1,Ἑλένη,Ἑλένη,n-s---fn-,SBJ
+Leuven|31314|1|2,2,Πετεχῶντι,Πετεχῶν,n-s---md-,OBJ
+Leuven|31314|1|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|31314|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+Leuven|31314|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|31314|1|6,6,.,.,u--------,AuxK
+Leuven|31314|1|7,7,[0],,---------,PRED

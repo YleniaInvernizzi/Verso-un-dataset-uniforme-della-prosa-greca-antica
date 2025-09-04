@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|665|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis|665|2,2,συναπολέσῃς,συναπόλλυμι,v2sasa---,PRED_CO
+2,Leuven|Genesis|665|3,3,δίκαιον,δίκαιος,a-s---ma-,OBJ
+3,Leuven|Genesis|665|4,4,μετά,μετά,r--------,AuxP
+4,Leuven|Genesis|665|5,5,ἀσεβοῦς,ἀσεβής,a-s---mg-,ADV
+5,Leuven|Genesis|665|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|665|7,7,ἔσται,εἰμί,v3sfim---,PRED_CO
+7,Leuven|Genesis|665|8,8,ὁ,ὁ,l-s---mn-,ATR
+8,Leuven|Genesis|665|9,9,δίκαιος,δίκαιος,a-s---mn-,SBJ
+9,Leuven|Genesis|665|10,10,ὡς,ὡς,c--------,AuxC
+10,Leuven|Genesis|665|11,11,ὁ,ὁ,l-s---mn-,ATR
+11,Leuven|Genesis|665|12,12,ἀσεβής,ἀσεβής,a-s---mn-,PNOM
+12,Leuven|Genesis|665|13,13,;,;,u--------,AuxK

@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;παντὶ;πᾶς;a-s---nd-;ATR
+2;γάρ;γάρ;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;ἐξ;ἐκ;r--------;AuxP
+5;οὗ;ὅς;p-s---ng-;ADV
+6;γίνεται;γίγνομαι;v3spie---;ATR
+7;,;punc;u--------;AuxX
+8;τροφὴ;τροφή;n-s---fn-;SBJ
+9;τὸ;ὁ;l-s---nn-;ATR
+10;λειπόμενόν;λείπω;v-sppenn-;PNOM
+11;ἐστι;εἰμί;v3spia---;PRED
+12;.;punc;u--------;AuxK

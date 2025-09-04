@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28784|7|1,1,τάχα,τάχα,d--------,ADV
+Leuven|28784|7|2,2,ὑμῖν,σύ,p2p---cd-,OBJ
+Leuven|28784|7|3,3,οὐκ,οὐ,d--------,AuxZ
+Leuven|28784|7|4,4,ἀναδιδοῦσι,ἀναδίδωμι,v3ppia---,PRED
+Leuven|28784|7|5,5,.,.,u--------,AuxK

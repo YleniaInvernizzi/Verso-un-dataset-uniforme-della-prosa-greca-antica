@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,ὃς,ὅς,p-s---mn-,SBJ
+2,3,θεασάμενος,θεάω,v-sapmmn-,ADV
+3,4,ἔκρινε,κρίνω,v3saia---,PRED
+4,5,τὴν,ὁ,l-s---fa-,ATR
+5,6,πρεσβυτέραν,πρέσβυς,a-s---fa-,OBJ
+6,7,:,punc1,u--------,AuxK

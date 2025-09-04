@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|373|1,1,τί,τίς,p-s---na-,OBJ
+Leuven|0557-001|373|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|373|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|0557-001|373|4,4,καθήκει,καθήκω,v3spia---,PRED
+Leuven|0557-001|373|5,5,ποιεῖν,ποιέω,v--pna---,SBJ
+Leuven|0557-001|373|6,6,;,;,u--------,AuxK

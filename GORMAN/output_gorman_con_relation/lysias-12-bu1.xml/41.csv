@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,τριῶν,τρεῖς,a-p---fg_,PNOM
+2,δὲ,δέ,d--------,AuxY
+3,θυρῶν,θύρα,n-p---fg-,ATR
+4,οὐσῶν,εἰμί,v-pppafg-,ATR
+5,",",punc1,u--------,AuxX
+6,ἃς,ὅς,p-p---fa-,OBJ
+7,ἔδει,δεῖ,v3siia---,ATR
+8,με,ἐγώ,p1s---ma-,SBJ
+9,διελθεῖν,διέρχομαι,v--ana---,SBJ
+10,",",punc1,u--------,AuxX
+11,ἅπασαι,ἅπας,a-p---fn-,SBJ
+12,ἀνεῳγμέναι,ἀνοίγνυμι,v-prpefn-,PNOM
+13,ἔτυχον,τυγχάνω,v3paia---,PRED
+14,.,punc1,u--------,AuxK

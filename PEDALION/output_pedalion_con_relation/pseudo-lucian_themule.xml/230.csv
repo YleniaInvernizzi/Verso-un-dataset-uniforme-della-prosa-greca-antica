@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|231|1,1,θέλεις,ἐθέλω,v2spia---,PRED
+Leuven|Ps-Luc|231|2,2,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|231|3,3,κρημνῶι,κρημνός,n-s---md-,OBJ
+Leuven|Ps-Luc|231|4,4,περιπεσεῖν,περιπίπτω,v--ana---,OBJ
+Leuven|Ps-Luc|231|5,5,;,;,u--------,AuxK

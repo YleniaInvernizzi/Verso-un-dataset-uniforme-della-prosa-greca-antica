@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|256|1,1,προσώχθικα,προσοχθίζω,v1sria---,PRED
+1,Leuven|Genesis_deel3|256|2,2,τῇ,ὁ,l-s---fd-,ATR
+2,Leuven|Genesis_deel3|256|3,3,ζωῇ,ζωή,n-s---fd-,ADV
+3,Leuven|Genesis_deel3|256|4,4,μου,ἐγώ,p1s---cg-,ATR
+4,Leuven|Genesis_deel3|256|5,5,διά,διά,r--------,AuxP
+5,Leuven|Genesis_deel3|256|6,6,τάς,ὁ,l-p---fa-,ATR
+6,Leuven|Genesis_deel3|256|7,7,θυγατέρας,θυγάτηρ,n-p---fa-,ADV
+7,Leuven|Genesis_deel3|256|8,8,τῶν,ὁ,l-p---mg-,ATR
+8,Leuven|Genesis_deel3|256|9,9,υἱῶν,υἱός,n-p---mg-,ATR
+9,Leuven|Genesis_deel3|256|10,10,Χετ,Χετ,n-s---mg-,ATR

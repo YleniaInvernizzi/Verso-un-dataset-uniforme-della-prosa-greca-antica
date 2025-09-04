@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ζητοῦσι,ζητέω,v-pppamd-,OBJ_CO
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,c--------,COORD
+4,διαπυνθανομένοις,διαπυνθάνομαι,v-pppemd-,OBJ_CO
+5,ὁ,ὁ,l-s---mn-,ATR
+6,θεὸς,θεός,n-s---mn-,SBJ
+7,ἔχρησεν,χράω2,v3saia---,PRED
+8,ἀετὸν,ἀετός,n-s---ma-,SBJ
+9,δείξειν,δείκνυμι,v--fna---,OBJ
+10,:,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,κατασκευάζομαι,κατασκευάζω,v1spie---,OBJ
+2,δ᾽,δέ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,PRED
+5,",",punc1,u--------,AuxX
+6,τέχνην,τέχνη,n-s---fa-,OBJ
+7,μυρεψικὴν,μυρεψικός,a-s---fa-,ATR
+8,.,punc1,u--------,AuxK

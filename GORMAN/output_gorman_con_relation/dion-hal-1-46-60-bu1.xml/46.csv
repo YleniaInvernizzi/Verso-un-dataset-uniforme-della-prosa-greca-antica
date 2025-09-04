@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,αὐτὸς,αὐτός,p-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,Ἑσπερίην,Ἑσπερίη,n-s---fa-,ATR
+4,ἔσυτο,σεύω,v3saim---,PRED_CO
+5,χθόνα,χθών,n-s---fa-,OBJ
+6,",",punc1,u--------,AuxX
+7,γείνατο,γείνομαι,v3saim---,PRED_CO
+8,δ᾽,δέ,c--------,COORD
+9,υἷα,υἱός,n-s---ma-,ATR
+10,Ῥωμύλον,Ῥωμύλος,n-s---ma-,OBJ
+11,.,punc1,u--------,AuxK

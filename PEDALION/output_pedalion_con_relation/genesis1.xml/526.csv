@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|527|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|527|2,2,ἐπίστευσεν,πιστεύω,v3saia---,PRED_CO
+Leuven|Genesis|527|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|527|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|527|5,5,θεῷ,θεός,n-s---md-,OBJ
+Leuven|Genesis|527|6,6,",",",",u--------,AuxX
+Leuven|Genesis|527|7,7,καί,καί,b--------,COORD
+Leuven|Genesis|527|8,8,ἐλογίσθη,λογίζομαι,v3saip---,PRED_CO
+Leuven|Genesis|527|9,9,αὐτῷ,αὐτός,p-s---md-,ADV
+Leuven|Genesis|527|10,10,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|527|11,11,δικαιοσύνην,δικαιοσύνη,n-s---fa-,OCOMP
+Leuven|Genesis|527|12,12,.,.,u--------,AuxK

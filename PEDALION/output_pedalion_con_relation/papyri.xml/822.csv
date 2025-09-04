@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|8848|9|1,1,ἄσπασαι,ἀσπάζομαι,v2samm---,PRED
+Leuven|8848|9|2,2,Ἁρπαλῖνον,Ἁρπαλῖνος,n-s---ma-,OBJ_CO
+Leuven|8848|9|3,3,πολλά,πολύς,a-p---na-,ADV
+Leuven|8848|9|4,4,καί,καί,b--------,AuxY
+Leuven|8848|9|5,5,Ἡραΐδα,Ἡραίς,n-s---ma-,OBJ_CO
+Leuven|8848|9|6,6,καί,καί,b--------,AuxY
+Leuven|8848|9|7,7,τά,ὁ,l-p---na-,ATR
+Leuven|8848|9|8,8,τέκνα,τέκνον,n-p---na-,OBJ_CO
+Leuven|8848|9|9,9,ὑμῶν,σύ,p2p---cg-,ATR
+Leuven|8848|9|10,10,καί,καί,b--------,COORD
+Leuven|8848|9|11,11,τούς,ὁ,l-p---ma-,ATR
+Leuven|8848|9|12,12,σούς,σός,a-p---ma-,OBJ_CO
+Leuven|8848|9|13,13,πάντες,πᾶς,a-p---ma-,ATR
+Leuven|8848|9|14,14,κατ’,κατά,r--------,AuxP
+Leuven|8848|9|15,15,ὄνομα,ὄνομα,n-s---na-,ADV
+Leuven|8848|9|16,16,.,.,u--------,AuxK

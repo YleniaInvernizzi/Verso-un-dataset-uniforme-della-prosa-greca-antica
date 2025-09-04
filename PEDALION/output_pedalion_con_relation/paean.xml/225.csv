@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|227|1,1,πολλοῖς,πολύς,a-p---md-,ATR
+Leuven|PaeanBrev|227|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|227|3,3,ὕστερον,ὕστερος,d--------,ATR
+Leuven|PaeanBrev|227|4,4,ἐνιαυτοῖς,ἐνιαυτός,n-p---md-,ADV
+Leuven|PaeanBrev|227|5,5,πλῆθος,πλῆθος,n-s---nn-,SBJ
+Leuven|PaeanBrev|227|6,6,Γάλλων,Γάλλος,n-p---mg-,ATR
+Leuven|PaeanBrev|227|7,7,ἀξιομάχητον,ἀξιομάχητος,a-s---nnp,ATR
+Leuven|PaeanBrev|227|8,8,Τούσκοις,Τοῦσκος,n-p---md-,OBJ_CO
+Leuven|PaeanBrev|227|9,9,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|227|10,10,καί,καί,b--------,COORD
+Leuven|PaeanBrev|227|11,11,Σαμνίταις,Σαμνίτης,n-p---md-,OBJ_CO
+Leuven|PaeanBrev|227|12,12,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|227|13,13,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|227|14,14,Ῥώμης,Ῥώμη,n-s---fg-,ADV
+Leuven|PaeanBrev|227|15,15,ἐκοινώνησαν,κοινωνέω,v3paia---,PRED
+Leuven|PaeanBrev|227|16,16,·,·,u--------,AuxK

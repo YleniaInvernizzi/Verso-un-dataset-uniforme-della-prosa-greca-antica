@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐὰν,ἐάν,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,δικαίως,δίκαιος,d--------,ADV
+4,",",punc1,u--------,AuxX
+5,ὁ,ὁ,l-s---mn-,ATR
+6,κινήσας,κινέω,v-sapamn-,SBJ
+7,τὴν,ὁ,l-s---fa-,ATR
+8,θυρίδα,θυρίς,n-s---fa-,OBJ
+9,ἀπόλλυται,ἀπόλλυμι,v3spie---,PRED_CO
+10,.,punc1,u--------,AuxK
+11,φαίνωνται,φαίνω,v3ppse---,ADV
+12,δικάσαντες,δικάζω,v-papamn-,PNOM

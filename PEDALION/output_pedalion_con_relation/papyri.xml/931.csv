@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21597|4|1,1,ἀλλ’,ἀλλά,d--------,AuxY
+Leuven|21597|4|2,2,ὅρα,ὁράω,v2spma---,PRED
+Leuven|21597|4|3,3,μή,μή,d--------,AuxZ
+Leuven|21597|4|4,4,ἀμελήσῃς,ἀμελέω,v2sasa---,OBJ
+Leuven|21597|4|5,5,.,.,u--------,AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|8|1,1,τὰ,ὁ,l-p---na-,OBJ
+Leuven|31346|8|2,2,κατὰ,κατά,r--------,AuxP
+Leuven|31346|8|3,3,σὲ,σύ,p2s---ca-,ATR
+Leuven|31346|8|4,4,διοίκησον,διοικέω,v2sama---,PRED
+Leuven|31346|8|5,5,ὡς,ὡς,c--------,AuxC
+Leuven|31346|8|6,6,πρέπον,πρέπω,v-sppann-,PNOM
+Leuven|31346|8|7,7,ἐστίν,εἰμί,v3spia---,ADV
+Leuven|31346|8|8,8,",",",",u--------,AuxX
+Leuven|31346|8|9,9,μὴ,μή,c--------,AuxC
+Leuven|31346|8|10,10,τέλειον,τέλειος,a-s---na-,OBJ
+Leuven|31346|8|11,11,ἀνατραπῶμεν,ἀνατρέπω,v1pasp---,ADV
+Leuven|31346|8|12,12,.,.,u--------,AuxK

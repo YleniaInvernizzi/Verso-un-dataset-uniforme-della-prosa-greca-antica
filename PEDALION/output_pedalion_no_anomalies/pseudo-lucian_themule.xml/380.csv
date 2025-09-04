@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|381|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|381|2,2,ἦν,εἰμί,v3siia---,PRED_CO
+2,Leuven|Ps-Luc|381|3,3,οὗτος,οὗτος,p-s---mn-,SBJ
+3,Leuven|Ps-Luc|381|4,4,ἔνδον,ἔνδον,d--------,PNOM
+4,Leuven|Ps-Luc|381|5,5,καὶ,καί,c--------,AuxY
+5,Leuven|Ps-Luc|381|6,6,τὴν,ὁ,l-s---fa-,ATR
+6,Leuven|Ps-Luc|381|7,7,θεὸν,θεός,n-s---fa-,OBJ
+7,Leuven|Ps-Luc|381|8,8,μάλα,μάλα,d--------,ADV
+8,Leuven|Ps-Luc|381|9,9,ἄσμενος,ἄσμενος,a-s---mn-,ADV
+9,Leuven|Ps-Luc|381|10,10,τῆι,ὁ,l-s---fd-,ATR
+10,Leuven|Ps-Luc|381|11,11,οἰκίαι,οἰκία,n-s---fd-,OBJ
+11,Leuven|Ps-Luc|381|12,12,ὑπεδέξατο,ὑποδέχομαι,v3saim---,PRED_CO
+12,Leuven|Ps-Luc|381|13,13,καὶ,καί,c--------,COORD
+13,Leuven|Ps-Luc|381|14,14,θυσίας,θυσία,n-p---fa-,OBJ
+14,Leuven|Ps-Luc|381|15,15,αὐτῆι,αὐτός,p-s---fd-,OBJ
+15,Leuven|Ps-Luc|381|16,16,προσήγαγεν,προσάγω,v3saia---,PRED_CO

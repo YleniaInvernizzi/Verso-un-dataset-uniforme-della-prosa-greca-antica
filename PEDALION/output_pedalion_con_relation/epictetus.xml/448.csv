@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|449|1,1,οὐδενί,οὐδείς,p-s---md-,OBJ_CO
+Leuven|0557-001|449|2,2,",",",",u--------,AuxX
+Leuven|0557-001|449|3,3,ἀλλʼ,ἀλλά,c--------,COORD
+Leuven|0557-001|449|4,4,ἑαυτοῖς,ἑαυτοῦ,p-p---md-,OBJ_CO
+Leuven|0557-001|449|5,5,·,·,u--------,AuxK
+Leuven|0557-001|449|6,6,[0],,,PRED

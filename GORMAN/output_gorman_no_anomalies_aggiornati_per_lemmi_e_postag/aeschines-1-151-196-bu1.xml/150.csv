@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀφελὼν;ἀφαιρέω;v-sapamn-;ADV_CO
+2;τὰ;ὁ;l-p---na-;ATR
+3;ὀνόματα;ὄνομα;n-p---na-;OBJ
+4;,;punc;u--------;AuxX
+5;διεξιὼν;διέξειμι;v-sppamn-;ADV_CO
+6;δὲ;δέ;c--------;COORD
+7;τὰ;ὁ;l-p---na-;ATR
+8;ἐπιτηδεύματα;ἐπιτήδευμα;n-p---na-;OBJ
+9;,;punc;u--------;AuxX
+10;καὶ;καί;d--------;AuxZ
+11;τὰ;ὁ;l-p---na-;ATR
+12;σώματα;σῶμα;n-p---na-;OBJ
+13;αὐτῶν;αὐτός;p-p---mg-;ATR
+14;γνώριμα;γνώριμος;a-p---na-;OCOMP
+15;καταστήσω;καθίστημι;v1sfia---;PRED
+16;.;punc;u--------;AuxK

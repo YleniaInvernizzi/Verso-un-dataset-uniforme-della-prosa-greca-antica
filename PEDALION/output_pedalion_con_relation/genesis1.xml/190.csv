@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|191|1,1,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|Genesis|191|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|191|3,3,βίβλος,βίβλος,n-s---fn-,PNOM
+Leuven|Genesis|191|4,4,γενέσεως,γένεσις,n-s---fg-,ATR
+Leuven|Genesis|191|5,5,ἀνθρώπων,ἄνθρωπος,n-p---mg-,ATR
+Leuven|Genesis|191|6,6,·,·,u--------,AuxK
+Leuven|Genesis|191|7,7,[0],,,PRED

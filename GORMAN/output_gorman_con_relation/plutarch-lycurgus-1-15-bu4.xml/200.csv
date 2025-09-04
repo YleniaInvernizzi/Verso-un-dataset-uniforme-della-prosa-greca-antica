@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,θαυμάσαντος,θαυμάζω,v-sapamg-,ADV_CO
+2,δ̓,δέ,d--------,AuxY
+3,ἐκείνου,ἐκεῖνος,p-s---mg-,SBJ
+4,καὶ,καί,c--------,COORD
+5,φήσαντος,φημί,v-sapamg-,ADV_CO
+6,:,punc1,u--------,AuxK
+7,[0],,,PRED

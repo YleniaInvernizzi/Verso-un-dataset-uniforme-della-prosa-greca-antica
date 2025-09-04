@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,κλῦθί,κλύω,v2sama---,PRED
+2,μευ,ἐγώ,p-s---mg-,OBJ
+3,εὐχομένου,εὔχομαι,v-sppemg-,ATR
+4,",",punc1,u--------,AuxX
+5,Κουροτρόφε,κουροτρόφος,a-s---fv-,ExD
+6,:,punc1,u--------,AuxK

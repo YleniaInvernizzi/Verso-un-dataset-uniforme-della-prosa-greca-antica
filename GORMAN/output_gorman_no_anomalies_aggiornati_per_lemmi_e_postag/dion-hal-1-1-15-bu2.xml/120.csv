@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;οὗτος;οὗτος;p-s---mn-;SBJ
+2;γαμεῖ;γαμέω;v3spia---;PRED
+3;Κυλλήνην;Κυλλήνη;n-s---fa-;OBJ
+4;,;punc;u--------;AuxX
+5;Νηίδα;Ναιάς;n-s---fa-;ATR
+6;νύμφην;νύμφη;n-s---fa-;ATR
+7;,;punc;u--------;AuxX
+8;ἀφ᾽;ἀπό;r--------;AuxP
+9;ἧς;ὅς;p-s---fg-;ADV
+10;τὸ;ὁ;l-s---nn-;ATR
+11;ὄρος;ὄρος;n-s---nn-;SBJ
+12;ἡ;ὁ;l-s---fn-;ATR
+13;Κυλλήνη;Κυλλήνη;n-s---fn-;ATR
+14;καλεῖταἰ;καλέω;v3spie---;ATR
+15;.;punc;u--------;AuxK

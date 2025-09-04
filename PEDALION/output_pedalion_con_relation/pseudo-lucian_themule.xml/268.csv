@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|269|1,1,πάντες,πᾶς,a-p---mn-,SBJ
+Leuven|Ps-Luc|269|2,2,ἀνεβόησαν,ἀναβοάω,v3paia---,PRED
+Leuven|Ps-Luc|269|3,3,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|269|4,4,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|269|5,5,ἀγαθῶι,ἀγαθός,a-s---nd-,ADV
+Leuven|Ps-Luc|269|6,6,μεγάλωι,μέγας,a-s---nd-,ATR
+Leuven|Ps-Luc|269|7,7,τῶι,ὁ,l-s---nd-,ATR
+Leuven|Ps-Luc|269|8,8,τερατώδει,τερατώδης,a-s---nd-,ATR
+Leuven|Ps-Luc|269|9,9,τούτωι,οὗτος,p-s---nd-,ATR
+Leuven|Ps-Luc|269|10,10,εὑρήματι,εὕρημα,n-s---nd-,OBJ
+Leuven|Ps-Luc|269|11,11,.,.,u--------,AuxK
+Leuven|Ps-Luc|269|12,12,[0],_,-,ADV

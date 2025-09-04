@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21341|3|1,1,εἰς,εἰς,r--------,AuxP
+Leuven|21341|3|2,2,τὰς,ὁ,l-p---fa-,ATR
+Leuven|21341|3|3,3,δύο,δύο,m--------,ATR
+Leuven|21341|3|4,4,οἰκίας,οἰκία,n-p---fa-,ADV
+Leuven|21341|3|5,5,μέλλεις,μέλλω,v2spia---,PRED
+Leuven|21341|3|6,6,εὐφραίνεσθαι,εὐφραίνω,v--pne---,OBJ_CO
+Leuven|21341|3|7,7,καὶ,καί,b--------,COORD
+Leuven|21341|3|8,8,ἐξαλλάσσεσθαι,ἐξαλλάσσω,v--pne---,OBJ_CO
+Leuven|21341|3|9,9,.,.,u--------,AuxK

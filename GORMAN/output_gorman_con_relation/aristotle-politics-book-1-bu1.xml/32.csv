@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔτι,ἔτι,d--------,ADV
+2,τὸ,ὁ,l-s---nn-,SBJ
+3,οὗ,ὅς,p-s---ng-,ADV
+4,ἕνεκα,ἕνεκα,r--------,AuxP
+5,καὶ,καί,d--------,AuxZ
+6,τὸ,ὁ,l-s---nn-,ATR
+7,τέλος,τέλος,n-s---nn-,PNOM
+8,βέλτιστον,βέλτιστος,a-s---nns,ATR
+9,:,punc1,u--------,AuxK
+10,ἐστίν,εἰμί,v3spia---,ATR
+11,ἐστίν,εἰμί,v3spia---,PRED

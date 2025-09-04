@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|440|1,1,πάντες,πᾶς,a-p---mn-,SBJ
+Leuven|Ps-Luc|440|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|440|3,3,ἄσβεστον,ἄσβεστος,a-s---na-,OBJ
+Leuven|Ps-Luc|440|4,4,ἐγέλων,γελάω,v3piia---,PRED
+Leuven|Ps-Luc|440|5,5,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|440|6,6,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|440|7,7,μηνύσαντι,μηνύω,v-sapamd-,OBJ_CO
+Leuven|Ps-Luc|440|8,8,ἐκ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|440|9,9,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|440|10,10,ὑπερώιων,ὑπερῷον,n-p---ng-,ADV
+Leuven|Ps-Luc|440|11,11,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|440|12,12,προδόντι,προδίδωμι,v-sapamd-,OBJ_CO
+Leuven|Ps-Luc|440|13,13,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|440|14,14,ἑαυτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+Leuven|Ps-Luc|440|15,15,δεσπότην,δεσπότης,n-s---ma-,OBJ
+Leuven|Ps-Luc|440|16,16,·,·,u--------,AuxK

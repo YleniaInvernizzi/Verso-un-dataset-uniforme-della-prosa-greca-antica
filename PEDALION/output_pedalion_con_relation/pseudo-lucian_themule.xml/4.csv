@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|5|1,1,καί,καί,d--------,AuxY
+Leuven|Ps-Luc|5|2,2,πως,πως,d--------,ADV
+Leuven|Ps-Luc|5|3,3,ἔτυχον,τυγχάνω,v3paia---,PRED
+Leuven|Ps-Luc|5|4,4,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|5|5,5,ἄλλοι,ἄλλος,p-p---mn-,SBJ
+Leuven|Ps-Luc|5|6,6,ἀπιόντες,ἄπειμι,v-pppamn-,ADV
+Leuven|Ps-Luc|5|7,7,ἐς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|5|8,8,Ὕπατα,Ὕπατα,n-p---na-,OBJ
+Leuven|Ps-Luc|5|9,9,πόλιν,πόλις,n-s---fa-,APOS
+Leuven|Ps-Luc|5|10,10,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|5|11,11,Θετταλίας,Θεσσαλία,n-s---fg-,ATR
+Leuven|Ps-Luc|5|12,12,",",",",u--------,AuxX
+Leuven|Ps-Luc|5|13,13,ἐκεῖθεν,ἐκεῖθεν,d--------,ADV
+Leuven|Ps-Luc|5|14,14,ὄντες,εἰμί,v-pppamn-,ADV
+Leuven|Ps-Luc|5|15,15,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;Μένανδρος;Mένανδρος;n-s---mn-;SBJ
+3;Τροφωνίῳ;Τροφώνιος;n-s---md-;ADV
+4;:;punc;u--------;AuxK
+5;φησί;φημί;v3spia---;PRED

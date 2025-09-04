@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31651|4|1,1,καί,καί,d--------,AuxY
+Leuven|31651|4|2,2,περί,περί,r--------,AuxP
+Leuven|31651|4|3,3,τῆς,ὁ,l-s---fg-,ATR
+Leuven|31651|4|4,4,λέξεως,λέξις,n-s---fg-,ADV
+Leuven|31651|4|5,5,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|31651|4|6,6,οἴνου,οἶνος,n-s---mg-,ATR
+Leuven|31651|4|7,7,οὗ,ὅς,p-s---mg-,OBJ
+Leuven|31651|4|8,8,ἔγραψας,γράφω,v2saia---,ATR
+Leuven|31651|4|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|31651|4|10,10,οὐδέν,οὐδείς,p-s---na-,OBJ
+Leuven|31651|4|11,11,βλέπω,βλέπω,v1spia---,PRED
+Leuven|31651|4|12,12,φαύλου,φαῦλος,a-s---ng-,ADV
+Leuven|31651|4|13,13,παρ’,παρά,r--------,AuxP
+Leuven|31651|4|14,14,ἐμοί,ἐγώ,p1s---cd-,OBJ
+Leuven|31651|4|15,15,.,.,u--------,AuxK

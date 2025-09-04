@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|112|1,1,οὐδὲ,οὐδέ,d--------,AuxZ
+1,Leuven|Ps-Luc|112|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|112|3,3,γράμματα,γράμμα,n-p---na-,OBJ
+3,Leuven|Ps-Luc|112|4,4,ἔμαθον,μανθάνω,v1saia---,PRED_CO
+5,Leuven|Ps-Luc|112|6,6,καὶ,καί,c--------,COORD
+6,Leuven|Ps-Luc|112|7,7,ἡ,ὁ,l-s---fn-,ATR
+7,Leuven|Ps-Luc|112|8,8,δέσποινα,δέσποινα,n-s---fn-,SBJ
+8,Leuven|Ps-Luc|112|9,9,βάσκανος,βάσκανος,a-s---fn-,PNOM
+9,Leuven|Ps-Luc|112|10,10,οὖσα,εἰμί,v-sppafn-,ADV
+10,Leuven|Ps-Luc|112|11,11,τυγχάνει,τυγχάνω,v3spia---,PRED_CO
+11,Leuven|Ps-Luc|112|12,12,εἰς,εἰς,r--------,AuxP
+12,Leuven|Ps-Luc|112|13,13,τὴν,ὁ,l-s---fa-,ATR
+13,Leuven|Ps-Luc|112|14,14,αὑτῆς,ἑαυτοῦ,p-s---fg-,ATR
+14,Leuven|Ps-Luc|112|15,15,τέχνην,τέχνη,n-s---fa-,ATR

@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,οἷς,ὅς,p-p---md-,ATR
+2,ὅρος,ὅρος,n-s---mn-,PNOM
+3,μέν,μέν,d--------,AuxY
+4,ἐστι,εἰμί,v3spia---,PRED_CO
+5,τῆς,ὁ,l-s---fg-,ATR
+6,ἀρχῆς,ἀρχή,n-s---fg-,ATR
+7,ἰσχύς,ἰσχύς,n-s---fn-,SBJ
+8,",",punc1,u--------,AuxX
+9,ὄνομα,ὄνομα,n-s---na-,ADV
+10,δʼ,δέ,c--------,COORD
+11,ἂν,ἄν1,d--------,AuxY
+12,εἴποι,εἶπον,v3saoa---,PRED_CO
+13,τις,τις,p-s---mn-,SBJ
+14,μοναρχίαν,μοναρχία,n-s---fa-,OBJ
+15,.,punc1,u--------,AuxK

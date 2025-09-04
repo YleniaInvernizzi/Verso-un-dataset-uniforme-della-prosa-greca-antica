@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰσὶ,εἰμί,v3ppia---,PRED
+2,δʼ,δέ,d--------,AuxY
+3,οἳ,ὅς,p-p---mn-,SBJ
+4,καὶ,καί,d--------,AuxZ
+5,τὴν,ὁ,l-s---fa-,ATR
+6,ζημίαν,ζημία,n-s---fa-,OBJ
+7,τοὺς,ὁ,l-p---ma-,ATR
+8,δανείσαντας,δανείζω,v-papama-,OBJ
+9,ἐκτίσειν,ἐκτίνω,v--fna---,OBJ
+10,ἐπηπείλουν,ἐπαπειλέω,v3piia---,SBJ
+11,.,punc1,u--------,AuxK

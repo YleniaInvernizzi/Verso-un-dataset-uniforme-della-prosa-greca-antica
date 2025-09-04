@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τὸ;ὁ;l-s---na-;ATR
+2;μέσον;μέσος;a-s---na-;OBJ
+3;δὲ;δέ;d--------;AuxY
+4;τῶν;ὁ;l-p---ng-;ATR
+5;οἰκημάτων;οἴκημα;n-p---ng-;ATR
+6;ἔλιπον;λείπω;v3paia---;PRED
+7;τεθρίππῳ;τέθριππος;a-s---md-;ATR
+8;περιέλασιν;περιέλασις;n-s---fa-;OCOMP
+9;.;punc;u--------;AuxK

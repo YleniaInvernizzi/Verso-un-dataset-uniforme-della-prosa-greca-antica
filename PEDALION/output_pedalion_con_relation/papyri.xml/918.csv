@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31651|6|1,1,πέμψεις,πέμπω,v2sfia---,PRED
+Leuven|31651|6|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|31651|6|3,3,τούς,ὁ,l-p---ma-,ATR
+Leuven|31651|6|4,4,ἐκχυσιαίους,ἐκχυσιαῖος,a-p---ma-,ATR
+Leuven|31651|6|5,5,ἥλους,ἧλος,n-p---ma-,OBJ_CO
+Leuven|31651|6|6,6,καί,καί,b--------,COORD
+Leuven|31651|6|7,7,γλοιοῦ,γλοιός,a-s---mg-,ATR
+Leuven|31651|6|8,8,κεράμιον,κεράμιον,n-s---na-,OBJ_CO
+Leuven|31651|6|9,9,α,α,m--------,ATR
+Leuven|31651|6|10,10,εἰς,εἰς,r--------,AuxP
+Leuven|31651|6|11,11,τά,ὁ,l-p---na-,ATR
+Leuven|31651|6|12,12,ἐργαλεῖα,ἐργαλεῖον,n-p---na-,OBJ
+Leuven|31651|6|13,13,τῶν,ὁ,l-p---fg-,ATR
+Leuven|31651|6|14,14,μηχανῶν,μηχανή,n-p---fg-,ATR
+Leuven|31651|6|15,15,·,·,u--------,AuxK

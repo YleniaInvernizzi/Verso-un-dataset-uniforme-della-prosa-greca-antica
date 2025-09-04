@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|157|1,1,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis_deel2|157|2,2,ἔτεκον,τίκτω,v3paia---,ADV
+Leuven|Genesis_deel2|157|3,3,υἱόν,υἱός,n-s---ma-,OBJ
+Leuven|Genesis_deel2|157|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|157|5,5,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis_deel2|157|6,6,γήρει,γῆρας,n-s---nd-,ADV
+Leuven|Genesis_deel2|157|7,7,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|157|8,8,.,.,u--------,AuxK
+Leuven|Genesis_deel2|157|9,9,[0],,,PRED

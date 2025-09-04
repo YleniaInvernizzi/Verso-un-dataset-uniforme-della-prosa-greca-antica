@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|289|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|289|2,2,ἀπέστειλεν,ἀποστέλλω,v3saia---,PRED
+2,Leuven|Genesis|289|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|Genesis|289|4,4,περιστεράν,περιστερά,n-s---fa-,OBJ
+4,Leuven|Genesis|289|5,5,ὀπίσω,ὀπίσω,r--------,AuxP
+5,Leuven|Genesis|289|6,6,αὐτοῦ,αὐτός,p-s---mg-,ADV
+6,Leuven|Genesis|289|7,7,ἰδεῖν,ὁράω,v--ana---,ADV
+7,Leuven|Genesis|289|8,8,εἰ,εἰ,c--------,AuxC
+8,Leuven|Genesis|289|9,9,κεκόπακεν,κοπάζω,v3sria---,OBJ
+9,Leuven|Genesis|289|10,10,τό,ὁ,l-s---nn-,ATR
+10,Leuven|Genesis|289|11,11,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+11,Leuven|Genesis|289|12,12,ἀπό,ἀπό,r--------,AuxP
+12,Leuven|Genesis|289|13,13,προσώπου,πρόσωπον,n-s---ng-,OBJ
+13,Leuven|Genesis|289|14,14,τῆς,ὁ,l-s---fg-,ATR
+14,Leuven|Genesis|289|15,15,γῆς,γῆ,n-s---fg-,ATR
+15,Leuven|Genesis|289|16,16,·,·,u--------,AuxK

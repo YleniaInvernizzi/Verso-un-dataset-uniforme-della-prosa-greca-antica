@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|26|1,1,τρίτος,τρίτος,a-s---mn-,ADV
+Leuven|PaeanBrev|26|2,2,διαδέχεται,διαδέχομαι,v3spie---,PRED
+Leuven|PaeanBrev|26|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|26|4,4,βασιλείαν,βασιλεία,n-s---fa-,OBJ
+Leuven|PaeanBrev|26|5,5,Τοῦλλος,Τούλλος,n-s---mn-,SBJ
+Leuven|PaeanBrev|26|6,6,Ὁστίλλιος,Ὁστίλλιος,n-s---mn-,APOS
+Leuven|PaeanBrev|26|7,7,.,.,u--------,AuxK

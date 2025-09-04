@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|197|1,1,ἔγγισον,ἐγγίζω,v2sama---,PRED_CO
+1,Leuven|Genesis_deel3|197|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|Genesis_deel3|197|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis_deel3|197|5,5,ψηλαφήσω,ψηλαφάω,v1sasa---,PRED_CO
+5,Leuven|Genesis_deel3|197|6,6,σε,σύ,p2s---ca-,OBJ
+7,Leuven|Genesis_deel3|197|8,8,τέκνον,τέκνον,n-s---nv-,ExD
+9,Leuven|Genesis_deel3|197|10,10,εἰ,εἰ,c--------,AuxC
+10,Leuven|Genesis_deel3|197|11,11,σύ,σύ,p2s---cn-,SBJ
+11,Leuven|Genesis_deel3|197|12,12,εἶ,εἰμί,v2spia---,ADV_CO
+12,Leuven|Genesis_deel3|197|13,13,ὁ,ὁ,l-s---mn-,ATR
+13,Leuven|Genesis_deel3|197|14,14,υἱός,υἱός,n-s---mn-,PNOM
+14,Leuven|Genesis_deel3|197|15,15,μου,ἐγώ,p1s---cg-,ATR
+15,Leuven|Genesis_deel3|197|16,16,Ησαυ,Ησαυ,n-s---mn-,APOS
+16,Leuven|Genesis_deel3|197|17,17,ἤ,ἤ,c--------,COORD
+17,Leuven|Genesis_deel3|197|18,18,οὔ,οὐ,d--------,ADV_CO

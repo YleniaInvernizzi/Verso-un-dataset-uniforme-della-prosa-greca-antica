@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|541|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|0032-002|541|2,2,δ’,δέ,d--------,AuxY
+Leuven|0032-002|541|3,3,ἄν,ἄν,d--------,AuxY
+Leuven|0032-002|541|4,4,σοι,σύ,p2s---cd-,OBJ
+Leuven|0032-002|541|5,5,λεγούσῃ,λέγω,v-sppafd-,ADV
+Leuven|0032-002|541|6,6,τι,τις,p-s---na-,OBJ
+Leuven|0032-002|541|7,7,πιστεύσειε,πιστεύω,v3saoa---,PRED
+Leuven|0032-002|541|8,8,;,;,u--------,AuxK

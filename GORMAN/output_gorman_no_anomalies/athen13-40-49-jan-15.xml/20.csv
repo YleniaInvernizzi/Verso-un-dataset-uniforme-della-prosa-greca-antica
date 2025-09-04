@@ -1,0 +1,13 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἡ,ὁ,l-s---fn-,SBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,μηθέν,μηδείς,p-s---na-,AuxZ
+3,4,",",punc1,u--------,AuxX
+4,5,φησί,φημί,v3spia---,PRED
+5,6,",",punc1,u--------,AuxX
+6,7,σοί,σύ,n-s---md-,OBJ
+7,8,",",punc1,u--------,AuxX
+8,9,ψυχή,ψυχή,n-s---fv-,ExD
+9,10,",",punc1,u--------,AuxX
+10,11,μελέτω,μέλω,v3spma---,OBJ
+11,12,:,punc1,u--------,AuxK

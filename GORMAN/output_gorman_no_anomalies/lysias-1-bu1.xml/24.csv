@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὕστερον,ὕστερος,a-s---na-,ADV
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἅπαντα,ἅπας,a-p---na-,OBJ
+3,4,ἐπυθόμην,πυνθάνομαι,v1saim---,PRED
+4,5,.,punc1,u--------,AuxK

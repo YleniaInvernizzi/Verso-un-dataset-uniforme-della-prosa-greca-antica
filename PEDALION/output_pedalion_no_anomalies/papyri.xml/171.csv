@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21347|11|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+1,Leuven|21347|11|2,2,τὴν,ὁ,l-s---fa-,ATR
+2,Leuven|21347|11|3,3,μητέρα,μήτηρ,n-s---fa-,OBJ
+3,Leuven|21347|11|4,4,σου,σύ,p2s---cg-,ATR
+4,Leuven|21347|11|5,5,Ἡλιοδώραν,Ἡλιοδώρα,n-s---fa-,APOS

@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὡμολόγει,ὁμολογέω,v3siia---,PRED
+1,2,ταῦτα,οὗτος,p-p---na-,OBJ
+2,3,ποιήσειν,ποιέω,v--fna---,OBJ
+3,4,.,punc1,u--------,AuxK

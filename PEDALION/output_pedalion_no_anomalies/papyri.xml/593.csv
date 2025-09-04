@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31346|11|1,1,Ἑρμείας,Ἑρμείας,n-s---mn-,SBJ
+1,Leuven|31346|11|2,2,Γούνθῳ,Γοῦνθος,n-s---md-,OBJ
+2,Leuven|31346|11|3,3,υἱῷ,υἱός,n-s---md-,APOS
+3,Leuven|31346|11|4,4,χαίρειν,χαίρω,v--pna---,OBJ

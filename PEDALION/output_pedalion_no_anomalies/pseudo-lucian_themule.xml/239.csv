@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|240|1,1,ἀναπηδᾶι,ἀναπηδάω,v3spia---,PRED_CO
+1,Leuven|Ps-Luc|240|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|240|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|Ps-Luc|240|4,4,ἐμέ,ἐγώ,p1s---ca-,OBJ
+5,Leuven|Ps-Luc|240|6,6,καὶ,καί,c--------,COORD
+6,Leuven|Ps-Luc|240|7,7,ἐπικαθίσασά,ἐπικαθίζω,v-sapafn-,ADV
+7,Leuven|Ps-Luc|240|8,8,μοι,ἐγώ,p1s---cd-,OBJ
+8,Leuven|Ps-Luc|240|9,9,ἤλαυνεν,ἐλαύνω,v3saia---,PRED_CO

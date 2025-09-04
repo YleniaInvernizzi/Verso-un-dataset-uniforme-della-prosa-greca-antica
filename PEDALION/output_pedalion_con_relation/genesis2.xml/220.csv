@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|221|1,1,ποῦ,ποῦ,d--------,PNOM
+Leuven|Genesis_deel2|221|2,2,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|Genesis_deel2|221|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis_deel2|221|4,4,πρόβατον,πρόβατον,n-s---nn-,SBJ
+Leuven|Genesis_deel2|221|5,5,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|221|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|221|7,7,ὁλοκάρπωσιν,ὁλοκάρπωσις,n-s---fa-,ATR
+Leuven|Genesis_deel2|221|8,8,;,;,u--------,AuxK

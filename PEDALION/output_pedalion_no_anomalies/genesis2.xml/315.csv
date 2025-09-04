@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|316|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|316|2,2,ἄχυρα,ἄχυρον,n-p---nn-,SBJ_CO
+2,Leuven|Genesis_deel2|316|3,3,καί,καί,c--------,AuxY
+3,Leuven|Genesis_deel2|316|4,4,χορτάσματα,χόρτασμα,n-p---nn-,SBJ_CO
+4,Leuven|Genesis_deel2|316|5,5,πολλά,πολύς,a-p---nn-,ATR
+5,Leuven|Genesis_deel2|316|6,6,παρʼ,παρά,r--------,AuxP
+6,Leuven|Genesis_deel2|316|7,7,ἡμῖν,ἐγώ,p1p---cd-,ADV
+7,Leuven|Genesis_deel2|316|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis_deel2|316|9,9,τόπος,τόπος,n-s---mn-,SBJ_CO
+9,Leuven|Genesis_deel2|316|10,10,τοῦ,ὁ,l-s---ng-,ATR
+10,Leuven|Genesis_deel2|316|11,11,καταλῦσαι,καταλύω,v--ana---,ATR

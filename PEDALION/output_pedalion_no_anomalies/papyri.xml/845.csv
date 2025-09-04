@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|88690|2|1,1,παρακαλῶ,παρακαλέω,v1spia---,ExD
+1,Leuven|88690|2|2,2,σε,σύ,p2s---ca-,OBJ
+3,Leuven|88690|2|4,4,ἄδελφε,ἀδελφός,n-s---mv-,ExD
+5,Leuven|88690|2|6,6,πυκνότερόν,πυκνός,a-s---nac,ADV
+6,Leuven|88690|2|7,7,μοι,ἐγώ,p1s---cd-,OBJ
+7,Leuven|88690|2|8,8,γράψον,γράφω,v2sama---,PRED
+8,Leuven|88690|2|9,9,περὶ,περί,r--------,AuxP
+9,Leuven|88690|2|10,10,τῆς,ὁ,l-s---fg-,ATR
+10,Leuven|88690|2|11,11,ὑγείας,ὑγεία,n-s---fg-,ADV
+11,Leuven|88690|2|12,12,σου,σύ,p2s---cg-,ATR

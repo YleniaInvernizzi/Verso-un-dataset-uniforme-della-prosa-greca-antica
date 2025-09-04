@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀναιρήσει,ἀναιρέω,v3sfia---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,τὴν,ὁ,l-s---fa-,ATR
+4,πόλιν,πόλις,n-s---fa-,OBJ
+5,.,punc1,u--------,AuxK

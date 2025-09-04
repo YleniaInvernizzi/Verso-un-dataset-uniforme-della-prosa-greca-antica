@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,καί,καί,d-------_,AuxY
+2,μοι,ἐγώ,p1s---md-,ADV
+3,ἀνάγνωθι,ἀναγιγνώσκω,v2sama---,PRED
+4,.,.,u--------,AuxK

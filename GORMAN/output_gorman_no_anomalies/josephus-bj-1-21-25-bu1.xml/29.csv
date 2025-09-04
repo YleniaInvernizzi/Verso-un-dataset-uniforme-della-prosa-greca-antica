@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Καισάρειαν,Καισάρεια,n-s---fa-,OCOMP
+1,2,γοῦν,γοῦν,d--------,AuxY
+2,3,ὠνόμασεν,ὀνομάζω,v3saia---,PRED
+3,4,αὐτήν,αὐτός,p-s---fa-,OBJ
+4,5,.,punc1,u--------,AuxK

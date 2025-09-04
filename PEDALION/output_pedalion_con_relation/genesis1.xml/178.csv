@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|179|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis|179|2,2,ἔτεκεν,τίκτω,v3saia---,PRED
+Leuven|Genesis|179|3,3,Αδα,Αδα,n-s---fn-,SBJ
+Leuven|Genesis|179|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|179|5,5,Ιωβελ,Ιωβελ,n-s---ma-,OBJ
+Leuven|Genesis|179|6,6,·,·,u--------,AuxK

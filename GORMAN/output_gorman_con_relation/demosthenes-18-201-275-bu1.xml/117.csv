@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐχ,οὐ,d--------,AuxZ
+2,ὡς,ὡς,c--------,AuxC
+3,ἀπηλάθησαν,ἀπελαύνω,v3paip---,OBJ
+4,βουλόμενοι,βούλομαι,v-pppemn-,ADV
+5,μεθ᾽,μετά,r--------,AuxP
+6,ὑμῶν,σύ,p-p---mg-,PNOM
+7,εἶναι,εἰμί,v--pna---,OBJ
+8,;,punc1,u--------,AuxK
+9,[0],,,PRED

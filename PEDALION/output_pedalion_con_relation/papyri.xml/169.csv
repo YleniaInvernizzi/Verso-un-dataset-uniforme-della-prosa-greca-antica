@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|9|1,1,ἄλλα,ἄλλος,p-p---na-,OBJ
+Leuven|21347|9|2,2,ἤκουσα,ἀκούω,v1saia---,PRED
+Leuven|21347|9|3,3,τὰ,ὁ,l-p---na-,ATR
+Leuven|21347|9|4,4,μὴ,μή,d--------,AuxZ
+Leuven|21347|9|5,5,ἀνήκοντά,ἀνήκω,v-pppana-,ATR
+Leuven|21347|9|6,6,σοι,σύ,p2s---cd-,OBJ
+Leuven|21347|9|7,7,.,.,u--------,AuxK

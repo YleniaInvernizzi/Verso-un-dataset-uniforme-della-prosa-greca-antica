@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|75|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|75|2,2,οἶνος,οἶνος,n-s---mn-,SBJ_CO
+2,Leuven|Ps-Luc|75|3,3,αὐτοῦ,αὐτοῦ,d--------,ADV
+3,Leuven|Ps-Luc|75|4,4,παρέκειτο,παράκειμαι,v3siie---,PRED
+4,Leuven|Ps-Luc|75|5,5,καὶ,καί,c--------,COORD
+5,Leuven|Ps-Luc|75|6,6,ὕδωρ,ὕδωρ,n-s---nn-,SBJ_CO
+6,Leuven|Ps-Luc|75|7,7,ἕτοιμον,ἑτοῖμος,a-s---nn-,ATR_CO
+7,Leuven|Ps-Luc|75|8,8,καὶ,καί,c--------,AuxY
+8,Leuven|Ps-Luc|75|9,9,ψυχρὸν,ψυχρός,a-s---nn-,ATR_CO
+9,Leuven|Ps-Luc|75|10,10,καὶ,καί,c--------,COORD
+10,Leuven|Ps-Luc|75|11,11,θερμόν,θερμός,a-s---nn-,ATR_CO

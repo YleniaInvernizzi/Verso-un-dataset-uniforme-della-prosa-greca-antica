@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|443|1,1,διά,διά,r--------,AuxP
+Leuven|0557-001|443|2,2,τί,τίς,p-s---na-,ADV
+Leuven|0557-001|443|3,3,μή,μή,d--------,AuxZ
+Leuven|0557-001|443|4,4,υἱόν,υἱός,n-s---ma-,OCOMP
+Leuven|0557-001|443|5,5,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|0557-001|443|6,6,θεοῦ,θεός,n-s---mg-,ATR
+Leuven|0557-001|443|7,7,;,;,u--------,AuxK
+Leuven|0557-001|443|8,8,[0],,,PRED

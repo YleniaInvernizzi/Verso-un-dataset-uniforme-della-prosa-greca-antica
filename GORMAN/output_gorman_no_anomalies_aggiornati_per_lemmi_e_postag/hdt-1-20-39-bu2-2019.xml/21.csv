@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀείσας;ἀείδω;v-sapamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ὑπεδέκετο;ὑποδέχομαι;v3siie---;PRED
+4;ἑωυτὸν;ἑαυτοῦ;p-s---ma-;OBJ
+5;κατεργάσασθαι;κατεργάζομαι;v--ane---;OBJ
+6;.;punc;u--------;AuxK

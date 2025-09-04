@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30293|1|1,1,Ζωίλος,Ζῴλος,n-s---mn-,SBJ
+Leuven|30293|1|2,2,Θεοδώρᾳ,Θεοδώρα,n-s---fd-,OBJ
+Leuven|30293|1|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|30293|1|4,4,μητρὶ,μήτηρ,n-s---fd-,APOS
+Leuven|30293|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|30293|1|6,6,.,.,u--------,AuxK
+Leuven|30293|1|7,7,[0],_,_,PRED

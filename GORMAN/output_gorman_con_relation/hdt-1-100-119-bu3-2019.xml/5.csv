@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔστι,εἰμί,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,Μήδων,Μῆδος,n-p---mg-,ATR
+4,τοσάδε,τοσόσδε,p-p---nn-,SBJ_AP
+5,γένεα,γένος,n-p---nn-,PNOM
+6,",",punc1,u--------,APOS
+7,Βοῦσαι,Βοῦσαι,n-p---mn-,SBJ_AP_CO
+8,Παρητακηνοὶ,Παρητακηνός,n-p---mn-,SBJ_AP_CO
+9,Στρούχατες,Στρούχατες,n-p---mn-,SBJ_AP_CO
+10,Ἀριζαντοὶ,Ἀριζαντοί,n-p---mn-,SBJ_AP_CO
+11,Βούδιοι,Βούδιοι,n-p---mn-,SBJ_AP_CO
+12,Μάγοι,Μάγος,n-p---mn-,SBJ_AP_CO
+13,.,punc1,u--------,AuxK
+14,[0],,,COORD

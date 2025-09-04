@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὄψεις,ὄψις,n-p---fa-,OBJ
+2,διὰ,διά,r--------,AuxP
+3,τούτων,οὗτος,a-p---fg_,ATR
+4,σκευοποιοῦσι,σκευοποιέω,v3ppia---,PRED
+5,τῶν,ὁ,l-p---fg-,ATR
+6,τεχνῶν,τέχνη,n-p---fg-,ADV
+7,.,punc1,u--------,AuxK

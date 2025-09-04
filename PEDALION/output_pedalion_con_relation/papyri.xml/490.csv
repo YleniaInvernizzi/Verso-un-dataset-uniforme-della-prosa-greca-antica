@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28975|3|1,1,ἔστιν,εἰμί,v3spia---,PRED
+Leuven|28975|3|2,2,δέ,δέ,d--------,AuxY
+Leuven|28975|3|3,3,σημεῖον,σημεῖον,n-s---nn-,SBJ
+Leuven|28975|3|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|28975|3|5,5,ταφῆς,ταφή,n-s---fg-,ATR
+Leuven|28975|3|6,6,·,·,u--------,AuxK

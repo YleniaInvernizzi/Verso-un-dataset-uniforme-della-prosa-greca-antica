@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|80|1,1,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|80|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|80|3,3,λοιποί,λοιπός,a-p---mn-,ATR
+Leuven|PaeanBrev|80|4,4,Ῥωμαῖοι,Ῥωμαῖος,a-p---mn-,SBJ
+Leuven|PaeanBrev|80|5,5,ταύτῃ,οὗτος,p-s---fd-,ATR
+Leuven|PaeanBrev|80|6,6,τῇ,ὁ,l-s---fd-,ATR
+Leuven|PaeanBrev|80|7,7,μάχῃ,μάχη,n-s---fd-,ADV
+Leuven|PaeanBrev|80|8,8,νικήσαντες,νικάω,v-papamn-,ADV
+Leuven|PaeanBrev|80|9,9,ἀνεχώρησαν,ἀναχωρέω,v3paia---,PRED
+Leuven|PaeanBrev|80|10,10,ἐπʼ,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|80|11,11,οἴκου,οἶκος,n-s---mg-,OBJ
+Leuven|PaeanBrev|80|12,12,.,.,u--------,AuxK

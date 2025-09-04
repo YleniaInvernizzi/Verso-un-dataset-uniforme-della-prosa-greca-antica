@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|86|1,1,ἀπέλθωμεν,ἀπέρχομαι,v1pasa---,PRED_CO
+Leuven|0557-001|86|2,2,καί,καί,c--------,COORD
+Leuven|0557-001|86|3,3,γυμνασθῶμεν,γυμνάζω,v1pasp---,PRED_CO
+Leuven|0557-001|86|4,4,.,.,u--------,AuxK

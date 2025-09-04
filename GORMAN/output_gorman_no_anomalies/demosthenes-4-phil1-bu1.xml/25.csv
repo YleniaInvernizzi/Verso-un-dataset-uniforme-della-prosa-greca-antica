@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νῦν,νῦν,d--------,ADV
+1,2,δὲ,δέ,d--------,AuxZ
+2,3,τί,τις,p-s---na-,OCOMP
+3,4,χρὴ,χρή,v3spia---,PRED
+4,5,τὰ,ὁ,l-p---na-,ATR
+5,6,γιγνόμενʼ,γίγνομαι,v-pppena-,OBJ
+6,7,ἡγεῖσθαι,ἡγέομαι,v--pnm---,SBJ
+7,8,;,punc1,u--------,AuxK

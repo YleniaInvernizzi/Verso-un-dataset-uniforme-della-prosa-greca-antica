@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|56|1,1,ἔστιν,εἰμί,v3spia---,PRED
+Leuven|Genesis_deel2|56|2,2,τίς,τίς,p-s---cn-,SBJ
+Leuven|Genesis_deel2|56|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|Genesis_deel2|56|4,4,ὧδε,ὧδε,d--------,ADV
+Leuven|Genesis_deel2|56|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|56|6,6,γαμβροί,γαμβρός,n-p---mn-,SBJ_CO
+Leuven|Genesis_deel2|56|7,7,ἤ,ἤ,c--------,AuxY
+Leuven|Genesis_deel2|56|8,8,υἱοί,υἱός,n-p---mn-,SBJ_CO
+Leuven|Genesis_deel2|56|9,9,ἤ,ἤ,b--------,COORD
+Leuven|Genesis_deel2|56|10,10,θυγατέρες,θυγάτηρ,n-p---fn-,SBJ_CO
+Leuven|Genesis_deel2|56|11,11,;,;,u--------,ExD

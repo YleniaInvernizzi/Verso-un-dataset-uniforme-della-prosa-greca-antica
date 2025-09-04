@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|144|1,1,ταῦτα,οὗτος,p-p---nn-,SBJ
+Leuven|Genesis_deel2|144|2,2,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|Genesis_deel2|144|3,3,σοι,σύ,p2s---cd-,PNOM_CO
+Leuven|Genesis_deel2|144|4,4,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|144|5,5,τιμήν,τιμή,n-s---fa-,ADV
+Leuven|Genesis_deel2|144|6,6,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel2|144|7,7,προσώπου,πρόσωπον,n-s---ng-,ATR
+Leuven|Genesis_deel2|144|8,8,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|144|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|144|10,10,πάσαις,πᾶς,a-p---fd-,PNOM_CO
+Leuven|Genesis_deel2|144|11,11,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|Genesis_deel2|144|12,12,μετά,μετά,r--------,AuxP
+Leuven|Genesis_deel2|144|13,13,σοῦ,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|144|14,14,·,·,u--------,AuxK

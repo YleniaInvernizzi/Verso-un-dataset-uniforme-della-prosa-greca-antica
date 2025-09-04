@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|198|1,1,διά,διά,r--------,AuxP
+Leuven|Genesis_deel2|198|2,2,τοῦτο,οὗτος,p-s---na-,ADV
+Leuven|Genesis_deel2|198|3,3,ἐπωνόμασεν,ἐπονομάζω,v3saia---,PRED
+Leuven|Genesis_deel2|198|4,4,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|198|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+Leuven|Genesis_deel2|198|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|198|7,7,τόπου,τόπος,n-s---mg-,ATR
+Leuven|Genesis_deel2|198|8,8,ἐκείνου,ἐκεῖνος,p-s---mg-,ATR
+Leuven|Genesis_deel2|198|9,9,φρέαρ,φρέαρ,n-s---na-,OCOMP
+Leuven|Genesis_deel2|198|10,10,ὁρκισμοῦ,ὁρκισμός,n-s---mg-,ATR
+Leuven|Genesis_deel2|198|11,11,",",",",u--------,AuxX
+Leuven|Genesis_deel2|198|12,12,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis_deel2|198|13,13,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis_deel2|198|14,14,ὤμοσαν,ὄμνυμι,v3paia---,ADV
+Leuven|Genesis_deel2|198|15,15,ἀμφότεροι,ἀμφότερος,a-p---mn-,SBJ
+Leuven|Genesis_deel2|198|16,16,.,.,u--------,AuxK

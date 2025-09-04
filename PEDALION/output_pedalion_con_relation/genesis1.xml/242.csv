@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|243|1,1,ποίησον,ποιέω,v2sama---,PRED
+Leuven|Genesis|243|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Genesis|243|3,3,σεαυτῷ,σεαυτοῦ,p2s---md-,ADV
+Leuven|Genesis|243|4,4,κιβωτόν,κιβωτός,n-s---fa-,OBJ
+Leuven|Genesis|243|5,5,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|243|6,6,ξύλων,ξύλον,n-p---ng-,ATR
+Leuven|Genesis|243|7,7,τετραγώνων,τετράγωνος,a-p---ng-,ATR
+Leuven|Genesis|243|8,8,·,·,u--------,AuxK

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|259|1,1,ἀργυρίου,ἀργύριον,n-s---ng-,ADV
+1,Leuven|Genesis_deel2|259|2,2,τοῦ,ὁ,l-s---ng-,ATR
+2,Leuven|Genesis_deel2|259|3,3,ἀξίου,ἄξιος,a-s---ng-,ATR
+3,Leuven|Genesis_deel2|259|4,4,δότω,δίδωμι,v3sama---,PRED
+4,Leuven|Genesis_deel2|259|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+5,Leuven|Genesis_deel2|259|6,6,αὐτό,αὐτός,p-s---na-,OBJ
+6,Leuven|Genesis_deel2|259|7,7,ἐν,ἐν,r--------,AuxP
+7,Leuven|Genesis_deel2|259|8,8,ὑμῖν,σύ,p2p---cd-,ADV
+8,Leuven|Genesis_deel2|259|9,9,εἰς,εἰς,r--------,AuxP
+9,Leuven|Genesis_deel2|259|10,10,κτῆσιν,κτῆσις,n-s---fa-,ADV
+10,Leuven|Genesis_deel2|259|11,11,μνημείου,μνημεῖον,n-s---ng-,ATR

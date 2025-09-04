@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|525|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|525|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+2,Leuven|Ps-Luc|525|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|525|4,4,ἱστοριῶν,ἱστορία,n-p---fg-,ATR_CO
+4,Leuven|Ps-Luc|525|5,5,καὶ,καί,c--------,COORD
+5,Leuven|Ps-Luc|525|6,6,ἄλλων,ἄλλος,p-p---fg-,ATR_CO
+6,Leuven|Ps-Luc|525|7,7,εἰμὶ,εἰμί,v1spia---,PRED_CO
+7,Leuven|Ps-Luc|525|8,8,συγγραφεύς,συγγραφεύς,n-s---mn-,PNOM
+9,Leuven|Ps-Luc|525|10,10,ὁ,ὁ,l-s---mn-,SBJ
+10,Leuven|Ps-Luc|525|11,11,δὲ,δέ,d--------,COORD
+11,Leuven|Ps-Luc|525|12,12,ποιητὴς,ποιητής,n-s---mn-,PNOM_CO
+12,Leuven|Ps-Luc|525|13,13,ἐλεγείων,ἐλεγεῖος,a-p---ng-,ATR
+13,Leuven|Ps-Luc|525|14,14,ἐστὶ,εἰμί,v3spia---,PRED_CO
+14,Leuven|Ps-Luc|525|15,15,καὶ,καί,c--------,COORD
+15,Leuven|Ps-Luc|525|16,16,μάντις,μάντις,n-s---mn-,PNOM_CO
+16,Leuven|Ps-Luc|525|17,17,ἀγαθός,ἀγαθός,a-s---mn-,ATR

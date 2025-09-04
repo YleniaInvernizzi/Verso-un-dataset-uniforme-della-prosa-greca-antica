@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπειδὴ,ἐπεί,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---nn-,ATR
+4,παιδίον,παιδίον,n-s---nn-,SBJ
+5,ἐγένετο,γίγνομαι,v3saim---,ADV
+6,ἡμῖν,ἐγώ,p1p---md-,PNOM
+7,",",punc1,u--------,AuxX
+8,ἡ,ὁ,l-s---fn-,ATR
+9,μήτηρ,μήτηρ,n-s---fn-,SBJ
+10,αὐτὸ,αὐτός,p-s---na-,OBJ
+11,ἐθήλαζεν,θηλάζω,v3siia---,PRED
+12,·,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|328|1,1,τρεῖς,τρεῖς,m-p---cn-,PNOM
+1,Leuven|Genesis|328|2,2,οὗτοι,οὗτος,p-p---mn-,ATR
+2,Leuven|Genesis|328|3,3,εἰσιν,εἰμί,v3ppia---,PRED
+3,Leuven|Genesis|328|4,4,οἱ,ὁ,l-p---mn-,ATR
+4,Leuven|Genesis|328|5,5,υἱοί,υἱός,n-p---mn-,SBJ
+5,Leuven|Genesis|328|6,6,Νωε,Νωε,n-s---mg-,ATR
+6,Leuven|Genesis|328|7,7,·,·,u--------,AuxK

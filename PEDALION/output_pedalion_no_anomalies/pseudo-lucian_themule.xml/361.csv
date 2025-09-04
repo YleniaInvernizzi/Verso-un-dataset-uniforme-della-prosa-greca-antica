@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|362|1,1,τῆι,ὁ,l-s---fd-,ATR
+1,Leuven|Ps-Luc|362|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|362|3,3,ὑστεραίαι,ὑστεραῖος,a-s---fd-,ADV
+3,Leuven|Ps-Luc|362|4,4,συνετάττοντο,συντάσσω,v3piie---,PRED_CO
+4,Leuven|Ps-Luc|362|5,5,ἐπ’,ἐπί,r--------,AuxP
+5,Leuven|Ps-Luc|362|6,6,ἔργον,ἔργον,n-s---na-,ADV
+7,Leuven|Ps-Luc|362|8,8,ὥσπερ,ὥσπερ,c--------,AuxC
+8,Leuven|Ps-Luc|362|9,9,αὐτοὶ,αὐτός,p-p---mn-,SBJ
+9,Leuven|Ps-Luc|362|10,10,ἔλεγον,λέγω,v3piia---,ADV
+11,Leuven|Ps-Luc|362|12,12,καὶ,καί,c--------,COORD
+12,Leuven|Ps-Luc|362|13,13,τὴν,ὁ,l-s---fa-,ATR
+13,Leuven|Ps-Luc|362|14,14,θεὸν,θεός,n-s---fa-,OBJ
+14,Leuven|Ps-Luc|362|15,15,ἐνσκευασάμενοι,ἐνσκευάζω,v-papmmn-,ADV
+15,Leuven|Ps-Luc|362|16,16,ἐμοὶ,ἐγώ,p1s---cd-,OBJ
+16,Leuven|Ps-Luc|362|17,17,ἐπέθηκαν,ἐπιτίθημι,v3paia---,PRED_CO

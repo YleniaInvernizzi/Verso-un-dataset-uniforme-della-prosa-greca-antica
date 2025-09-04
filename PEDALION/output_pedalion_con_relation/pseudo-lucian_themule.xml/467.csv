@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|468|1,1,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|468|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|468|3,3,μέγιστον,μέγας,a-s---nns,PNOM
+Leuven|Ps-Luc|468|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|468|5,5,ὅτι,ὅτι,c--------,AuxC
+Leuven|Ps-Luc|468|6,6,πρὸς,πρός,r--------,AuxP
+Leuven|Ps-Luc|468|7,7,τὰς,ὁ,l-p---fa-,ATR
+Leuven|Ps-Luc|468|8,8,φωνὰς,φωνή,n-p---fa-,OBJ
+Leuven|Ps-Luc|468|9,9,ἀνένευον,ἀνανεύω,v1siia---,SBJ_CO
+Leuven|Ps-Luc|468|10,10,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|468|11,11,καιρῶι,καιρός,n-s---md-,ADV
+Leuven|Ps-Luc|468|12,12,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|468|13,13,κατένευον,κατανεύω,v1siia---,SBJ_CO
+Leuven|Ps-Luc|468|14,14,·,·,u--------,AuxK
+Leuven|Ps-Luc|468|15,15,[0],_,-,PRED

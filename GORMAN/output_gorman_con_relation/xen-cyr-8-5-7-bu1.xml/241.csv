@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτʼ,οὗτος,p-p---na-,OBJ
+2,εἰπὼν,εἶπον,v-sapamn-,ADV_CO
+3,καὶ,καί,c--------,COORD
+4,πάντας,πᾶς,a-p---ma-,OBJ
+5,δεξιωσάμενος,δεξιόομαι,v-sapemn-,ADV_CO
+6,ἐνεκαλύψατο,ἐγκαλύπτω,v3saim---,PRED_CO
+7,καὶ,καί,c--------,COORD
+8,οὕτως,οὕτως,d--------,ADV
+9,ἐτελεύτησεν,τελευτάω,v3saia---,PRED_CO
+10,.,punc1,u--------,AuxK

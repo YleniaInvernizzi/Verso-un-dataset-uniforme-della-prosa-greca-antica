@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,αὕτη,οὗτος,p-s---fn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἐστὶν,εἰμί,v3spia---,PRED
+4,ἡ,ὁ,l-s---fn-,ATR
+5,καλουμένη,καλέω,v-sppefn-,PNOM_CO
+6,πόλις,πόλις,n-s---fn-,PNOM
+7,καὶ,καί,c--------,COORD
+8,ἡ,ὁ,l-s---fn-,ATR
+9,κοινωνία,κοινωνία,n-s---fn-,PNOM_CO
+10,ἡ,ὁ,l-s---fn-,ATR
+11,πολιτική,πολιτικός,a-s---fn-,ATR
+12,.,punc1,u--------,AuxK

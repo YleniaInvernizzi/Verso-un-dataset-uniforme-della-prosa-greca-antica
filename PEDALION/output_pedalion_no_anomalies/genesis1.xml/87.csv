@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|88|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|88|2,2,ἔλαβεν,λαμβάνω,v3saia---,PRED_CO
+2,Leuven|Genesis|88|3,3,μίαν,εἷς,m-s---fa-,OBJ
+3,Leuven|Genesis|88|4,4,τῶν,ὁ,l-p---fg-,ATR
+4,Leuven|Genesis|88|5,5,πλευρῶν,πλευρά,n-p---fg-,ATR
+5,Leuven|Genesis|88|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+6,Leuven|Genesis|88|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|88|8,8,ἀνεπλήρωσεν,ἀναπληρόω,v3saia---,PRED_CO
+8,Leuven|Genesis|88|9,9,σάρκα,σάρξ,n-s---fa-,OBJ
+9,Leuven|Genesis|88|10,10,ἀντ’,ἀντί,r--------,AuxP
+10,Leuven|Genesis|88|11,11,αὐτῆς,αὐτός,p-s---fg-,ADV

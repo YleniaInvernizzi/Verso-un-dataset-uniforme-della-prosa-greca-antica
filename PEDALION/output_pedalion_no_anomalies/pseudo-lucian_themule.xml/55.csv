@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|56|1,1,δοῦλοι,δοῦλος,n-p---mn-,SBJ
+1,Leuven|Ps-Luc|56|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|56|3,3,τὰ,ὁ,l-p---na-,OBJ
+3,Leuven|Ps-Luc|56|4,4,δεσποτῶν,δεσπότης,n-p---mg-,ATR
+4,Leuven|Ps-Luc|56|5,5,ἐπίστανται,ἐπίσταμαι,v3ppie---,PRED
+5,Leuven|Ps-Luc|56|6,6,καὶ,καί,c--------,AuxY
+6,Leuven|Ps-Luc|56|7,7,καλὰ,καλός,a-p---na-,ATR_CO
+7,Leuven|Ps-Luc|56|8,8,καὶ,καί,c--------,COORD
+8,Leuven|Ps-Luc|56|9,9,αἰσχρά,αἰσχρός,a-p---na-,ATR_CO

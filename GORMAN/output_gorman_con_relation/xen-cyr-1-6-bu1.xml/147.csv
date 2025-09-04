@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,Ἡράκλεις,Ἡρακλῆς,n-s---mv-,ExD
+3,",",punc1,u--------,AuxX
+4,οἷον,οἷος,a-s---ma-,ATR
+5,σὺ,σύ,p-s---mn-,SBJ
+6,λέγεις,λέγω3,v2spia---,PRED
+7,",",punc1,u--------,AuxX
+8,ὦ,ὦ,i--------,AuxZ
+9,πάτερ,πατήρ,n-s---mv-,ExD
+10,",",punc1,u--------,AuxX
+11,δεῖν,δεῖ,v--pna---,OBJ
+12,ἄνδρα,ἀνήρ,n-s---ma-,PNOM
+13,με,ἐγώ,p1s---ma-,SBJ
+14,γενέσθαι,γίγνομαι,v--anm---,SBJ
+15,.,punc1,u--------,AuxK

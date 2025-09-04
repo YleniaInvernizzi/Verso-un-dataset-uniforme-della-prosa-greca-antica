@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|4|1,1,λαβών,λαμβάνω,v-sapamn-,ADV
+Leuven|Genesis_deel3|4|2,2,ἀπότρεχε,ἀποτρέχω,v2spma---,PRED_CO
+Leuven|Genesis_deel3|4|3,3,",",",",u--------,AuxX
+Leuven|Genesis_deel3|4|4,4,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|4|5,5,ἔστω,εἰμί,v3spma---,PRED_CO
+Leuven|Genesis_deel3|4|6,6,γυνή,γυνή,n-s---fn-,PNOM
+Leuven|Genesis_deel3|4|7,7,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|4|8,8,υἱῷ,υἱός,n-s---md-,ADV
+Leuven|Genesis_deel3|4|9,9,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel3|4|10,10,κυρίου,κύριος,n-s---mg-,ATR
+Leuven|Genesis_deel3|4|11,11,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel3|4|12,12,",",",",u--------,AuxX
+Leuven|Genesis_deel3|4|13,13,καθά,καθά,d--------,AuxC
+Leuven|Genesis_deel3|4|14,14,ἐλάλησεν,λαλέω,v3saia---,ADV
+Leuven|Genesis_deel3|4|15,15,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis_deel3|4|16,16,.,.,u--------,AuxK

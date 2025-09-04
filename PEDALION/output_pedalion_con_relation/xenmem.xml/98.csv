@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|99|1,1,μαρτυρεῖ,μαρτυρέω,v3spia---,PRED
+Leuven|0032-002|99|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0032-002|99|3,3,καὶ,καί,d--------,AuxZ
+Leuven|0032-002|99|4,4,τῶν,ὁ,l-p---mg-,ATR
+Leuven|0032-002|99|5,5,ποιητῶν,ποιητής,n-p---mg-,ATR
+Leuven|0032-002|99|6,6,ὅ,ὁ,l-s---mn-,ATR
+Leuven|0032-002|99|7,7,τε,τε,d--------,AuxY
+Leuven|0032-002|99|8,8,λέγων,λέγω,v-sppamn-,SBJ
+Leuven|0032-002|99|9,9,·,·,u--------,AuxK

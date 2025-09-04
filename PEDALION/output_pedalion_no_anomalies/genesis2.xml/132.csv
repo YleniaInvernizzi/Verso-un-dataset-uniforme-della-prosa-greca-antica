@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|133|1,1,ἐγενήθη,γίγνομαι,v3saip---,PRED
+1,Leuven|Genesis_deel2|133|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|133|3,3,μοι,ἐγώ,p1s---cd-,ADV
+3,Leuven|Genesis_deel2|133|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|Genesis_deel2|133|5,5,γυναῖκα,γυνή,n-s---fa-,PNOM

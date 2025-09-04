@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|142|1,1,ἀλλά,ἀλλά,c--------,AuxY
+Leuven|0557-001|142|2,2,δεῖ,δέω,v3spia---,PRED
+Leuven|0557-001|142|3,3,με,ἐγώ,p1s---ca-,SBJ
+Leuven|0557-001|142|4,4,ἐξετάσαι,ἐξετάζω,v--ana---,SBJ
+Leuven|0557-001|142|5,5,.,.,u--------,AuxK

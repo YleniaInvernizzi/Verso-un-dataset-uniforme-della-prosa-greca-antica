@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|6|1,1,μὴ,μή,d--------,AuxZ
+Leuven|31346|6|2,2,ἆρα,ἆρα,d--------,AuxY
+Leuven|31346|6|3,3,παρέλκομαι,παρέλκω,v1spie---,PRED_CO
+Leuven|31346|6|4,4,ἢ,ἤ,b--------,AuxY
+Leuven|31346|6|5,5,καὶ,καί,b--------,COORD
+Leuven|31346|6|6,6,εἴργομαι,ἔργω,v1spie---,PRED_CO
+Leuven|31346|6|7,7,ἔστʼ,ἔστε,c--------,AuxC
+Leuven|31346|6|8,8,ἂν,ἄν,d--------,AuxY
+Leuven|31346|6|9,9,ὁ,ὁ,l-s---mn-,ATR
+Leuven|31346|6|10,10,θεὸς,θεός,n-s---mn-,SBJ
+Leuven|31346|6|11,11,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+Leuven|31346|6|12,12,ἐλεήσῃ,ἐλεέω,v3sasa---,ADV
+Leuven|31346|6|13,13,;,;,u--------,AuxK

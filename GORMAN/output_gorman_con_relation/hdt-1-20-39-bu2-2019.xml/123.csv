@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτον,οὗτος,p-s---ma-,OBJ
+2,προθυμεόμενοι,προθυμέομαι,v-pppemn-,ADV
+3,ἑλεῖν,αἱρέω,v--ana---,OBJ
+4,οὐ,οὐ,d--------,AuxZ
+5,δυνάμεθα,δύναμαι,v1ppie---,PRED
+6,.,punc1,u--------,AuxK

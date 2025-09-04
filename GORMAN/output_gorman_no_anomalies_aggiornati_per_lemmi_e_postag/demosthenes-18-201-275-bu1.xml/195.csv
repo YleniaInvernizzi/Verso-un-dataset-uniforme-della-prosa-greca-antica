@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγραμμάτευες;γραμματεύω;v2siia---;PRED_CO
+2;,;punc;u--------;AuxX
+3;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+4;δ᾽;δέ;c--------;COORD
+5;ἠκκλησίαζον;ἐκκλησιάζω;v1siia---;PRED_CO
+6;.;punc;u--------;AuxK

@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|7667|9|1,1,γράφε,γράφω,v2spma---,PRED
+Leuven|7667|9|2,2,δ’,δέ,d--------,AuxY
+Leuven|7667|9|3,3,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|7667|9|4,4,καί,καί,d--------,AuxZ
+Leuven|7667|9|5,5,σύ,σύ,p2s---cn-,SBJ
+Leuven|7667|9|6,6,ἵνα,ἵνα,c--------,AuxC
+Leuven|7667|9|7,7,εἰδῶμεν,οἶδα,v1prsa---,ADV_CO
+Leuven|7667|9|8,8,ἐν,ἐν,r--------,AuxP
+Leuven|7667|9|9,9,οἷς,ὅς,p-p---nd-,PNOM
+Leuven|7667|9|10,10,εἶ,εἰμί,v2spia---,OBJ
+Leuven|7667|9|11,11,καί,καί,b--------,COORD
+Leuven|7667|9|12,12,μή,μή,d--------,AuxZ
+Leuven|7667|9|13,13,ἀγωνιῶμεν,ἀγωνιάω,v1ppsa---,ADV_CO
+Leuven|7667|9|14,14,.,.,u--------,AuxK

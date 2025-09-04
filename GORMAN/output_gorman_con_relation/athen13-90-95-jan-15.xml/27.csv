@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰπόντος,εἶπον,v-sapamg-,ADV
+2,δ᾽,δέ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,τῇ,ὁ,l-s---fd-,OBJ
+5,τρίτῃ,τρίτος,a-s---fd-,ATR_CO
+6,καὶ,καί,c--------,COORD
+7,εἰκοστῇ,εἰκοστός,a-s---fd-,ATR_CO
+8,",",punc1,u--------,AuxX
+9,ὁ,ὁ,l-s---mn-,ATR
+10,Μυρτίλος,Μυρτίλος,n-s---mn-,SBJ
+11,ἔφη,φημί,v3siia---,PRED
+12,:,punc1,u--------,AuxK

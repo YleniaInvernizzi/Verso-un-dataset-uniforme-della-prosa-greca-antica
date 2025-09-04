@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27089|5|1,1,ἔπεμψέ,πέμπω,v3saia---,PRED_CO
+1,Leuven|27089|5|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|27089|5|3,3,φάσιν,φάσις,n-s---fa-,OBJ
+3,Leuven|27089|5|4,4,περὶ,περί,r--------,AuxP
+4,Leuven|27089|5|5,5,γυναικός,γυνή,n-s---fg-,ATR
+6,Leuven|27089|5|7,7,γνώμην,γνώμη,n-s---fa-,OBJ
+7,Leuven|27089|5|8,8,μου,ἐγώ,p1s---cg-,ATR
+8,Leuven|27089|5|9,9,λαμβάνων,λαμβάνω,v-sppamn-,ADV
+9,Leuven|27089|5|10,10,ἐωνεῖτό,ὠνέομαι,v3siie---,PRED_CO
+10,Leuven|27089|5|11,11,μοι,ἐγώ,p1s---cd-,OBJ

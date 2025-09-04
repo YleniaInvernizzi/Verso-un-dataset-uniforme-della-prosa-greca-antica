@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|40821|8|1,1,ἄσπασαι,ἀσπάζομαι,v2samm---,PRED
+1,Leuven|40821|8|2,2,Πολυδᾶν,Πολυδᾶς,n-s---ma-,OBJ_CO
+2,Leuven|40821|8|3,3,τόν,ὁ,l-s---ma-,ATR
+3,Leuven|40821|8|4,4,φίλον,φίλος,a-s---ma-,APOS
+4,Leuven|40821|8|5,5,καί,καί,c--------,COORD
+5,Leuven|40821|8|6,6,πάντας,πᾶς,a-p---ma-,ATR
+6,Leuven|40821|8|7,7,τούς,ὁ,l-p---ma-,ATR
+7,Leuven|40821|8|8,8,σούς,σός,a-p---ma-,OBJ_CO

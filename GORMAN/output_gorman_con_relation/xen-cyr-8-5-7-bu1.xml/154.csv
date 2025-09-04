@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐκάλεσε,καλέω,v3saia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxY
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,φίλους,φίλος,n-p---ma-,OBJ_CO
+6,καὶ,καί,c--------,COORD
+7,τὰς,ὁ,l-p---fa-,ATR
+8,Περσῶν,Πέρσης,n-p---mg-,ATR
+9,ἀρχάς,ἀρχή,n-p---fa-,OBJ_CO
+10,·,punc1,u--------,AuxK

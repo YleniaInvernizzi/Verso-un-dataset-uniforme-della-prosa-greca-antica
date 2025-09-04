@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|75|1,1,πρὸς,πρός,r--------,AuxP
+Leuven|0062-020|75|2,2,δὴ,δή,d--------,AuxY
+Leuven|0062-020|75|3,3,τί,τίς,p-s---na-,ADV
+Leuven|0062-020|75|4,4,τοῦτ’,οὗτος,p-s---na-,OBJ
+Leuven|0062-020|75|5,5,ἔφην,φημί,v1siia---,PRED
+Leuven|0062-020|75|6,6,;,;,u--------,AuxK

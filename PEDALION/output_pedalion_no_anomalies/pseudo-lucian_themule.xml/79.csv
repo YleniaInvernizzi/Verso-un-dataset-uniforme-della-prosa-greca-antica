@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|80|1,1,ὡς,ὡς,c--------,AuxC
+1,Leuven|Ps-Luc|80|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|80|3,3,τῶι,ὁ,l-s---nd-,ATR
+3,Leuven|Ps-Luc|80|4,4,ποτῶι,ποτόν,n-s---nd-,ADV
+4,Leuven|Ps-Luc|80|5,5,παρεσκευάσαμεν,παρασκευάζω,v1paia---,ADV
+5,Leuven|Ps-Luc|80|6,6,ἑαυτοὺς,ἑαυτοῦ,p-p---ma-,OBJ
+6,Leuven|Ps-Luc|80|7,7,εὖ,εὖ,d--------,ADV
+7,Leuven|Ps-Luc|80|8,8,πρὸς,πρός,r--------,AuxP
+8,Leuven|Ps-Luc|80|9,9,τὴν,ὁ,l-s---fa-,ATR
+9,Leuven|Ps-Luc|80|10,10,νύκτα,νύξ,n-s---fa-,ADV
+11,Leuven|Ps-Luc|80|12,12,λέγει,λέγω,v3spia---,PRED
+12,Leuven|Ps-Luc|80|13,13,πρός,πρός,r--------,AuxP
+13,Leuven|Ps-Luc|80|14,14,με,ἐγώ,p1s---ca-,OBJ
+14,Leuven|Ps-Luc|80|15,15,ἡ,ὁ,l-s---fn-,ATR
+15,Leuven|Ps-Luc|80|16,16,Παλαίστρα,Παλαίστρα,n-s---fn-,SBJ

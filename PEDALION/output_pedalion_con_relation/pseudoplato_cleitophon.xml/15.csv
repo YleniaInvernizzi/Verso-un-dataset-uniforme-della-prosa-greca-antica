@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|16|1,1,πῶς,πῶς,d--------,ADV
+Leuven|0059-00x|16|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0059-00x|16|3,3,δή,δή,d--------,AuxY
+Leuven|0059-00x|16|4,4,τις,τις,p-s---cn-,SBJ
+Leuven|0059-00x|16|5,5,τό,ὁ,l-s---na-,ATR
+Leuven|0059-00x|16|6,6,γε,γε,d--------,AuxZ
+Leuven|0059-00x|16|7,7,τοιοῦτον,τοιοῦτος,p-s---na-,ATR
+Leuven|0059-00x|16|8,8,κακὸν,κακός,a-s---na-,OBJ
+Leuven|0059-00x|16|9,9,ἑκὼν,ἑκών,a-s---mn-,ADV
+Leuven|0059-00x|16|10,10,αἱροῖτ’,αἱρέω,v3spoe---,PRED
+Leuven|0059-00x|16|11,11,ἄν,ἄν,d--------,AuxY
+Leuven|0059-00x|16|12,12,;,;,u--------,AuxK

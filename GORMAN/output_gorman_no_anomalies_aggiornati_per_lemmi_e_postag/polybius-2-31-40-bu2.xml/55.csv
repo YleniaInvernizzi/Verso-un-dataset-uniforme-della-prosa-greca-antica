@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ὃ;ὅς;p-s---na-;OBJ
+2;δὴ;δή;d--------;AuxY
+3;καὶ;καί;d--------;AuxY
+4;τέλος;τέλος;n-s---na-;ADV
+5;ἐποίησε;ποιέω;v3saia---;PRED
+6;,;punc;u--------;AuxX
+7;πάνυ;πάνυ;d--------;ADV
+8;βραχὺν;βραχύς;a-s---ma-;ATR
+9;ἐπισχὼν;ἐπώχατο;v-sapamn-;ADV
+10;χρόνον;χρόνος;n-s---ma-;OBJ
+11;.;punc;u--------;AuxK

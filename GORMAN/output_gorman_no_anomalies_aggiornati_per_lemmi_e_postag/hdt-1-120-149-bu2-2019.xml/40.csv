@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;εὑρὼν;εὑρίσκω;v-sapamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ἐν;ἐν;r--------;AuxP
+4;αὐτῷ;αὐτός;p-s---md-;ADV
+5;τὸ;ὁ;l-s---na-;ATR
+6;βυβλίον;βιβλίον;n-s---na-;OBJ
+7;ἐνεὸν;ἐνεός;a-s---na-;ATR
+8;λαβὼν;λαμβάνω;v-sapamn-;ADV
+9;ἐπελέγετο;ἐπιλέγω;v3siie---;PRED_CO
+10;,;punc;u--------;AuxX
+11;τὰ;ὁ;l-p---na-;ATR
+12;δὲ;δέ;c--------;COORD
+13;γράμματα;γράμμα;n-p---na-;OBJ
+14;ἔλεγε;λέγω;v3siia---;PRED_CO
+15;τάδε;ὅδε;a-p---na-;ATR
+16;.;punc;u--------;AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|99|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis_deel2|99|2,2,πατήρ,πατήρ,n-s---mn-,PNOM
+Leuven|Genesis_deel2|99|3,3,Μωαβιτῶν,Μωάβιτος,n-p---mg-,ATR
+Leuven|Genesis_deel2|99|4,4,ἕως,ἕως,r--------,AuxP
+Leuven|Genesis_deel2|99|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel2|99|6,6,σήμερον,σήμερον,d--------,ATR
+Leuven|Genesis_deel2|99|7,7,ἡμέρας,ἡμέρα,n-s---fg-,ADV
+Leuven|Genesis_deel2|99|8,8,.,.,u--------,AuxK
+Leuven|Genesis_deel2|99|9,9,[0],,,PRED

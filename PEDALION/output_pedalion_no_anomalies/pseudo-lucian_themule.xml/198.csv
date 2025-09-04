@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|199|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Ps-Luc|199|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|199|3,3,γραῦς,γραῦς,n-s---fn-,SBJ
+3,Leuven|Ps-Luc|199|4,4,ἐμοὶ,ἐγώ,p1s---cd-,OBJ_CO
+4,Leuven|Ps-Luc|199|5,5,καὶ,καί,c--------,COORD
+5,Leuven|Ps-Luc|199|6,6,τῶι,ὁ,l-s---md-,ATR
+6,Leuven|Ps-Luc|199|7,7,ἵππωι,ἵππος,n-s---md-,OBJ_CO
+7,Leuven|Ps-Luc|199|8,8,κριθὰς,κριθή,n-p---fa-,OBJ
+8,Leuven|Ps-Luc|199|9,9,παρέθηκεν,παρατίθημι,v3saia---,PRED

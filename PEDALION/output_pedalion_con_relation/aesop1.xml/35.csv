@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|36|1,1,ποδῶν,πούς,n-p---mg-,OBJ_CO
+Leuven|0096-00#|36|2,2,χελώνης,χελώνη,n-s---fg-,ATR
+Leuven|0096-00#|36|3,3,κατεγέλα,καταγελάω,v3siia---,PRED
+Leuven|0096-00#|36|4,4,λαγωός,λαγώς,n-s---mn-,SBJ
+Leuven|0096-00#|36|5,5,καί,καί,b--------,COORD
+Leuven|0096-00#|36|6,6,ἀργίας,ἀργία,n-s---fg-,OBJ_CO
+Leuven|0096-00#|36|7,7,·,·,u--------,AuxK

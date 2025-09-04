@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|163|1,1,φωνή,φωνή,n-s---fn-,SBJ
+Leuven|Genesis|163|2,2,αἵματος,αἷμα,n-s---ng-,ATR
+Leuven|Genesis|163|3,3,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|163|4,4,ἀδελφοῦ,ἀδελφός,n-s---mg-,ATR
+Leuven|Genesis|163|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|163|6,6,βοᾷ,βοάω,v3spia---,PRED
+Leuven|Genesis|163|7,7,πρός,πρός,r--------,AuxP
+Leuven|Genesis|163|8,8,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Genesis|163|9,9,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|163|10,10,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|163|11,11,γῆς,γῆ,n-s---fg-,ADV
+Leuven|Genesis|163|12,12,.,.,u--------,AuxK

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔστι;εἰμί;v3spia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;παραπλησίη;παραπλήσιος;a-s---fn-;PNOM
+4;ἡ;ὁ;l-s---fn-;ATR
+5;κάθαρσις;κάθαρσις;n-s---fn-;SBJ
+6;τοῖσι;ὁ;l-p---md-;ATR
+7;Λυδοῖσι;Λυδός;n-p---md-;ADV_CO
+8;καὶ;καί;c--------;COORD
+9;τοῖσι;ὁ;l-p---md-;ATR
+10;Ἕλλησι;Ἕλλην;n-p---md-;ADV_CO
+11;.;punc;u--------;AuxK

@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|239|1,1,ἐφθάρη,φθείρω,v3saip---,PRED_CO
+Leuven|Genesis|239|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|239|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|239|4,4,γῆ,γῆ,n-s---fn-,SBJ
+Leuven|Genesis|239|5,5,ἐναντίον,ἐναντίον,r--------,AuxP
+Leuven|Genesis|239|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|239|7,7,θεοῦ,θεός,n-s---mg-,ADV
+Leuven|Genesis|239|8,8,",",",",u--------,AuxX
+Leuven|Genesis|239|9,9,καί,καί,b--------,COORD
+Leuven|Genesis|239|10,10,ἐπλήσθη,πίμπλημι,v3saip---,PRED_CO
+Leuven|Genesis|239|11,11,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|239|12,12,γῆ,γῆ,n-s---fn-,SBJ
+Leuven|Genesis|239|13,13,ἀδικίας,ἀδικία,n-s---fg-,OBJ
+Leuven|Genesis|239|14,14,.,.,u--------,AuxK

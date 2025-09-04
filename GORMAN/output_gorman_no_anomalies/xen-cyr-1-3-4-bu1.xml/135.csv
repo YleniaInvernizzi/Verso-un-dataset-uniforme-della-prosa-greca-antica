@@ -1,0 +1,12 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὦ,ὦ,i--------,AuxZ
+1,2,πάππε,πάππος,n-s---mv-,ExD
+2,3,",",punc1,u--------,AuxX
+3,4,τί,τις,p-s---na-,ADV
+4,5,σε,σύ,p2s---ma-,SBJ
+5,6,δεῖ,δεῖ,v3siia---,PRED
+6,7,θηρία,θηρίον,n-p---na-,OBJ
+7,8,ζητοῦντα,ζητέω,v-pppana-,ATR
+8,9,πράγματʼ,πρᾶγμα,n-p---na-,OCOMP
+9,10,ἔχειν,ἔχω,v--pna---,SBJ
+10,11,;,punc1,u--------,AuxK

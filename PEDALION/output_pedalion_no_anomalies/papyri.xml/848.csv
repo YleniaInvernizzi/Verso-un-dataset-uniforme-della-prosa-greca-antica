@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|88690|5|1,1,οὐ,οὐ,d--------,AuxZ
+1,Leuven|88690|5|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|88690|5|3,3,ἔσμεν,εἰμί,v1ppia---,PRED
+3,Leuven|88690|5|4,4,πολλοὶ,πολύς,a-p---mn-,PNOM
+4,Leuven|88690|5|5,5,ἐνθάδε,ἐνθάδε,d--------,ADV

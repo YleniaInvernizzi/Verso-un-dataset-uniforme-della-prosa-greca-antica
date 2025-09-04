@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐρᾷ;ἐράω;v2spie---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;Λαὶς;Λαίς;n-s---fn-;SBJ
+4;οὐ;οὐ;d--------;AuxZ
+5;διὰ;διά;r--------;AuxP
+6;σὲ;σύ;p2s---ma-;ADV
+7;Φιλωνίδου;Φιλωνίδης;n-s---mg-;OBJ
+8;";";punc;u--------;AuxK

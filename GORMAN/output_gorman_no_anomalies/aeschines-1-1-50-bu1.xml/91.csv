@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τοὺς,ὁ,l-p---ma-,ATR
+1,2,αἰσχρῶς,αἰσχρός,d--------,ADV
+2,3,βεβιωκότας,βιόω,v-prpama-,OBJ
+3,4,:,punc1,u--------,AuxK

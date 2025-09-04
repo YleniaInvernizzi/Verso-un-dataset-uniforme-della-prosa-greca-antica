@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|367|1,1,ἄλλος,ἄλλος,p-s---mn-,SBJ
+Leuven|Ps-Luc|367|2,2,ἰσχάδας,ἰσχάς,n-p---fa-,OBJ_CO
+Leuven|Ps-Luc|367|3,3,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|367|4,4,τυροὺς,τυρός,n-p---ma-,OBJ_CO
+Leuven|Ps-Luc|367|5,5,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|367|6,6,οἴνου,οἶνος,n-s---mg-,ATR
+Leuven|Ps-Luc|367|7,7,κάδον,κάδος,n-s---ma-,OBJ_CO
+Leuven|Ps-Luc|367|8,8,ἐπέδωκε,ἐπιδίδωμι,v3saia---,PRED
+Leuven|Ps-Luc|367|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|367|10,10,πυροῦ,πυρός,n-s---mg-,ATR_CO
+Leuven|Ps-Luc|367|11,11,μέδιμνον,μέδιμνος,n-s---ma-,OBJ_CO
+Leuven|Ps-Luc|367|12,12,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|367|13,13,κριθῶν,κριθή,n-p---fg-,ATR_CO
+Leuven|Ps-Luc|367|14,14,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|367|15,15,ὄνωι,ὄνος,n-s---md-,ADV
+Leuven|Ps-Luc|367|16,16,.,.,u--------,AuxK

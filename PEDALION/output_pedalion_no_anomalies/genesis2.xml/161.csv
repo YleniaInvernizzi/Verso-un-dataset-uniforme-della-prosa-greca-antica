@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|162|1,1,σκληρόν,σκληρός,a-s---nn-,PNOM
+1,Leuven|Genesis_deel2|162|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|162|3,3,ἐφάνη,φαίνω,v3saip---,PRED
+3,Leuven|Genesis_deel2|162|4,4,τό,ὁ,l-s---nn-,ATR
+4,Leuven|Genesis_deel2|162|5,5,ῥῆμα,ῥῆμα,n-s---nn-,SBJ
+5,Leuven|Genesis_deel2|162|6,6,σφόδρα,σφόδρα,d--------,ADV
+6,Leuven|Genesis_deel2|162|7,7,ἐναντίον,ἐναντίον,r--------,AuxP
+7,Leuven|Genesis_deel2|162|8,8,Ἀβραάμ,Ἀβραάμ,n-s---mg-,ADV
+8,Leuven|Genesis_deel2|162|9,9,περί,περί,r--------,AuxP
+9,Leuven|Genesis_deel2|162|10,10,τοῦ,ὁ,l-s---mg-,ATR
+10,Leuven|Genesis_deel2|162|11,11,υἱοῦ,υἱός,n-s---mg-,ADV
+11,Leuven|Genesis_deel2|162|12,12,αὐτοῦ,αὐτός,p-s---mg-,ATR

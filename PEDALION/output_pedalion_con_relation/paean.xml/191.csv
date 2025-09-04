@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|193|1,1,ἔφασκον,φάσκω,v3piia---,PRED
+Leuven|PaeanBrev|193|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|PaeanBrev|193|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|193|4,4,ἕτερον,ἕτερος,a-s---ma-,SBJ
+Leuven|PaeanBrev|193|5,5,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|193|6,6,ὑπάτων,ὕπατος,a-p---mg-,ATR
+Leuven|PaeanBrev|193|7,7,ἐκ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|193|8,8,σφῶν,σφεῖς,p3p---cg-,ADV
+Leuven|PaeanBrev|193|9,9,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|PaeanBrev|193|10,10,χρῆναι,χρή,v--pna---,OBJ
+Leuven|PaeanBrev|193|11,11,χειροτονεῖσθαι,χειροτονέω,v--pne---,SBJ
+Leuven|PaeanBrev|193|12,12,.,.,u--------,AuxK

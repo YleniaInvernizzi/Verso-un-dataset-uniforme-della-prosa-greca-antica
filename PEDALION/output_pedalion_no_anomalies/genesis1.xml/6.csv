@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|7|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|7|2,2,διεχώρισεν,διαχωρίζω,v3saia---,PRED
+2,Leuven|Genesis|7|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|7|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|Genesis|7|5,5,ἀνά,ἀνά,r--------,AuxP
+5,Leuven|Genesis|7|6,6,μέσον,μέσος,a-s---ma-,OBJ_CO
+6,Leuven|Genesis|7|7,7,τοῦ,ὁ,l-s---ng-,ATR
+7,Leuven|Genesis|7|8,8,φωτός,φῶς,n-s---ng-,ATR
+8,Leuven|Genesis|7|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|7|10,10,ἀνά,ἀνά,r--------,AuxP
+10,Leuven|Genesis|7|11,11,μέσον,μέσος,a-s---ma-,OBJ_CO
+11,Leuven|Genesis|7|12,12,τοῦ,ὁ,l-s---ng-,ATR
+12,Leuven|Genesis|7|13,13,σκότους,σκότος,n-s---ng-,ATR

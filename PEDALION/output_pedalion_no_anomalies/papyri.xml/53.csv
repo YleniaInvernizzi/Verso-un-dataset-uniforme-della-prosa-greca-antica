@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|3|1,1,ἔρρωμαι,ῥώννυμι,v1srie---,PRED
+1,Leuven|1781|3|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|1781|3|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|1781|3|4,4,αὐτός,αὐτός,p-s---mn-,ADV

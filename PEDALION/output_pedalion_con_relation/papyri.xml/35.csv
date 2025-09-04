@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1731|3|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|1731|3|2,2,εἰς,εἰς,r--------,AuxP
+Leuven|1731|3|3,3,μεγάλην,μέγας,a-s---fa-,ATR
+Leuven|1731|3|4,4,δὲ,δέ,b--------,AuxY
+Leuven|1731|3|5,5,ἀρρωστίαν,ἀρρωστία,n-s---fa-,OBJ_CO
+Leuven|1731|3|6,6,ἐνέπεσον,ἐμπίπτω,v1saia---,PRED
+Leuven|1731|3|7,7,καὶ,καί,b--------,COORD
+Leuven|1731|3|8,8,εἰς,εἰς,r--------,AuxP
+Leuven|1731|3|9,9,ἀπορίαν,ἀπορία,n-s---fa-,OBJ_CO
+Leuven|1731|3|10,10,.,.,u--------,AuxK

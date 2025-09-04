@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|7|1,1,νῦν,νῦν,d--------,ADV
+Leuven|Genesis_deel2|7|2,2,ἠρξάμην,ἄρχω,v1saim---,PRED_CO
+Leuven|Genesis_deel2|7|3,3,λαλῆσαι,λαλέω,v--ana---,OBJ
+Leuven|Genesis_deel2|7|4,4,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|7|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|7|6,6,κύριον,κύριος,n-s---ma-,OBJ
+Leuven|Genesis_deel2|7|7,7,",",",",u--------,AuxX
+Leuven|Genesis_deel2|7|8,8,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis_deel2|7|9,9,δέ,δέ,b--------,COORD
+Leuven|Genesis_deel2|7|10,10,εἰμι,εἰμί,v1spia---,PRED_CO
+Leuven|Genesis_deel2|7|11,11,γῆ,γῆ,n-s---fn-,PNOM_CO
+Leuven|Genesis_deel2|7|12,12,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|7|13,13,σποδός,σποδός,n-s---mn-,PNOM_CO
+Leuven|Genesis_deel2|7|14,14,·,·,u--------,AuxK

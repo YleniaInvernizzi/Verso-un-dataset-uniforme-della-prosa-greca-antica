@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---na-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,πράξας,πράσσω,v-sapamn-,ADV
+4,διέβαινε,διαβαίνω,v3siia---,PRED
+5,πάλιν,πάλιν,d--------,ADV
+6,εἰς,εἰς,r--------,AuxP
+7,τὴν,ὁ,l-s---fa-,ATR
+8,Ἀσίαν,Ἀσία,n-s---fa-,OBJ
+9,.,punc1,u--------,AuxK

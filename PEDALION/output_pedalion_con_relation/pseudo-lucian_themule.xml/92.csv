@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|93|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|93|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|93|3,3,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|93|4,4,κόρρης,κόρση,n-s---fg-,ADV
+Leuven|Ps-Luc|93|5,5,πλήξασά,πλήσσω,v-sapafn-,ADV
+Leuven|Ps-Luc|93|6,6,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|93|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|93|8,8,ὡς,ὡς,d--------,AuxZ
+Leuven|Ps-Luc|93|9,9,φλύαρον,φλύαρος,n-s---ma-,OCOMP
+Leuven|Ps-Luc|93|10,10,",",",",u--------,AuxX
+Leuven|Ps-Luc|93|11,11,ἔφη,φημί,v3siia---,PRED
+Leuven|Ps-Luc|93|12,12,",",",",u--------,AuxX
+Leuven|Ps-Luc|93|13,13,παρέλαβον,παραλαμβάνω,v1saia---,OBJ
+Leuven|Ps-Luc|93|14,14,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|93|15,15,μαθητήν,μαθητής,n-s---ma-,OBJ
+Leuven|Ps-Luc|93|16,16,.,.,u--------,AuxK

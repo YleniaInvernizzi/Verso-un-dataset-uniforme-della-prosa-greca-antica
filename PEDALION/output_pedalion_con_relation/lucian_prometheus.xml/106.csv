@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|109|1,1,μὴ,μή,d--------,AuxZ
+Leuven|0062-020|109|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0062-020|109|3,3,ὀκνήσῃς,ὀκνέω,v2sasa---,PRED
+Leuven|0062-020|109|4,4,εἰπεῖν,λέγω,v--ana---,OBJ
+Leuven|0062-020|109|5,5,.,.,u--------,AuxK

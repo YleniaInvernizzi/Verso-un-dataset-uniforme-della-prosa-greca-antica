@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27092|9|1,1,ἀσπάζονταί,ἀσπάζομαι,v3ppie---,PRED
+1,Leuven|27092|9|2,2,σε,σύ,p2s---ca-,OBJ
+2,Leuven|27092|9|3,3,οἱ,ὁ,l-p---mn-,SBJ
+3,Leuven|27092|9|4,4,ἐμοί,ἐγώ,p1s---cd-,ATR

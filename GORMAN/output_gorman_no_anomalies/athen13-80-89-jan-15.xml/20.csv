@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,βούλει,βούλομαι,v2spie---,PRED
+1,2,με,ἐγώ,p1s---ma-,SBJ
+2,3,ἡδέως,ἡδέως,d--------,ADV
+3,4,πίνειν,πίνω,v--pna---,OBJ
+4,5,;,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28410|9|1,1,ἂν,ἐάν,c--------,AuxC
+1,Leuven|28410|9|2,2,μὴ,μή,d--------,AuxZ
+2,Leuven|28410|9|3,3,πέμψῃς,πέμπω,v2sasa---,ADV
+3,Leuven|28410|9|4,4,οὐ,οὐ,d--------,AuxZ
+4,Leuven|28410|9|5,5,μὴ,μή,d--------,AuxZ
+5,Leuven|28410|9|6,6,φάγω,ἐσθίω,v1sasa---,PRED_CO
+7,Leuven|28410|9|8,8,οὐ,οὐ,d--------,AuxZ
+8,Leuven|28410|9|9,9,μὴ,μή,d--------,AuxZ
+9,Leuven|28410|9|10,10,πίνω,πίνω,v1spsa---,PRED_CO

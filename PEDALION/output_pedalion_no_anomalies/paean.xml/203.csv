@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|205|1,1,ἐπί,ἐπί,r--------,AuxP
+1,Leuven|PaeanBrev|205|2,2,τούτοις,οὗτος,p-p---nd-,ADV
+2,Leuven|PaeanBrev|205|3,3,ψῆφον,ψῆφος,n-s---fa-,OBJ
+3,Leuven|PaeanBrev|205|4,4,ἐπήγαγεν,ἐπάγω,v3saia---,PRED
+4,Leuven|PaeanBrev|205|5,5,ὁ,ὁ,l-s---mn-,ATR
+5,Leuven|PaeanBrev|205|6,6,δικτάτωρ,δικτάτωρ,n-s---mn-,SBJ
+6,Leuven|PaeanBrev|205|7,7,αὐτῷ,αὐτός,p-s---md-,OBJ
+7,Leuven|PaeanBrev|205|8,8,θανάτου,θάνατος,n-s---mg-,ATR

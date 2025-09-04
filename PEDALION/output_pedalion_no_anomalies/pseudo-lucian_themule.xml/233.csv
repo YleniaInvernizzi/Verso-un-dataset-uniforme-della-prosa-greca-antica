@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|234|1,1,φυγῆι,φυγή,n-s---fd-,ADV
+1,Leuven|Ps-Luc|234|2,2,σῶιζε,σῴζω,v2spma---,PRED
+2,Leuven|Ps-Luc|234|3,3,σαυτὸν,σεαυτοῦ,p2s---ma-,ADV
+3,Leuven|Ps-Luc|234|4,4,ἀπὸ,ἀπό,r--------,AuxP
+4,Leuven|Ps-Luc|234|5,5,δεσποτῶν,δεσπότης,n-p---mg-,OBJ
+5,Leuven|Ps-Luc|234|6,6,ἀνδροφόνων,ἀνδροφόνος,a-p---mg-,ATR

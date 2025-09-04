@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|49|1,1,λαμπρὸς,λαμπρός,a-s---mn-,PNOM_CO
+1,Leuven|Ps-Luc|49|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|49|3,3,καὶ,καί,c--------,COORD
+3,Leuven|Ps-Luc|49|4,4,πολυτελὴς,πολυτελής,a-s---mn-,PNOM_CO
+4,Leuven|Ps-Luc|49|5,5,γέγονεν,γίγνομαι,v3sria---,PRED
+5,Leuven|Ps-Luc|49|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Ps-Luc|49|7,7,ἐμέ,ἐγώ,p1s---ca-,ATR
+8,Leuven|Ps-Luc|49|9,9,ὥστε,ὥστε,c--------,AuxC
+9,Leuven|Ps-Luc|49|10,10,καὶ,καί,c--------,AuxY
+10,Leuven|Ps-Luc|49|11,11,ἐγκαλέσαι,ἐγκαλέω,v3saoa---,ADV
+11,Leuven|Ps-Luc|49|12,12,ἄν,ἄν,d--------,AuxY
+12,Leuven|Ps-Luc|49|13,13,τις,τις,p-s---cn-,SBJ
+13,Leuven|Ps-Luc|49|14,14,τῆι,ὁ,l-s---fd-,ATR
+14,Leuven|Ps-Luc|49|15,15,τρυφῆι,τρυφή,n-s---fd-,ADV

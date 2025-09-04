@@ -1,0 +1,4 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|345|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|345|2,2,εἶπεν,λέγω,v3saia---,PRED
+2,Leuven|Genesis_deel2|345|3,3,μοι,ἐγώ,p1s---cd-,OBJ

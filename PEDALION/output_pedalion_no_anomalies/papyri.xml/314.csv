@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27112|10|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|27112|10|2,2,ποιήσεις,ποιέω,v2sfia---,PRED
+2,Leuven|27112|10|3,3,γράψαι,γράφω,v--ana---,OBJ
+3,Leuven|27112|10|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+4,Leuven|27112|10|5,5,καθώς,καθώς,c--------,AuxC
+5,Leuven|27112|10|6,6,σε,σύ,p2s---ca-,OBJ
+6,Leuven|27112|10|7,7,ἠρώτησα,ἐρωτάω,v1saia---,ADV

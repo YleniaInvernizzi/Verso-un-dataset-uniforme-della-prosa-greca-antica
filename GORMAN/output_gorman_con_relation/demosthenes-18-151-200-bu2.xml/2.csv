@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxZ
+2,προφάσεις,πρόφασις,n-p---fa-,OBJ
+3,εὐλόγους,εὔλογος,a-p---fa-,ATR
+4,εἰλήφεσαν,λαμβάνω,v3plia---,PRED
+5,:,punc1,u--------,AuxK

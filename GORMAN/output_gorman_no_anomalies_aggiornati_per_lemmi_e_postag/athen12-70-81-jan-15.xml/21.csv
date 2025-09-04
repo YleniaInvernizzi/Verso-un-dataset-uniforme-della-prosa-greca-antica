@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;παχὺς;παχύς;a-s---mn-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;ὗς;ὗς;n-s---mn-;SBJ
+4;ἔκειτ᾽;κεῖμαι;v3siie---;PRED
+5;ἐπὶ;ἐπί;r--------;AuxP
+6;στόμα;στόμα;n-s---na-;OBJ
+7;.;punc;u--------;AuxK

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;δωρησάμενος;δωρέω;v-sapemn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;τοὺς;ὁ;l-p---ma-;ATR
+4;Δελφοὺς;Δελφοί;n-p---ma-;OBJ
+5;ὁ;ὁ;l-s---mn-;ATR
+6;Κροῖσος;Κροῖσος;n-s---mn-;SBJ
+7;ἐχρηστηριάζετο;χρηστηριάζω;v3siie---;PRED
+8;τὸ;ὁ;l-s---na-;ATR
+9;τρίτον;τρίτος;a-s---na-;ADV
+10;:;punc;u--------;AuxK

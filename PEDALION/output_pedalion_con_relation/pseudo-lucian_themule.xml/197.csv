@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|198|1,1,λοιπὸν,λοιπός,a-s---na-,ADV
+Leuven|Ps-Luc|198|2,2,μετὰ,μετά,r--------,AuxP
+Leuven|Ps-Luc|198|3,3,τοῦτο,οὗτος,p-s---na-,ADV
+Leuven|Ps-Luc|198|4,4,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|198|5,5,ἄριστον,ἄριστον,n-s---nn-,SBJ_CO
+Leuven|Ps-Luc|198|6,6,δαψιλὲς,δαψιλής,a-s---nn-,ATR
+Leuven|Ps-Luc|198|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|198|8,8,λόγος,λόγος,n-s---mn-,SBJ_CO
+Leuven|Ps-Luc|198|9,9,πολὺς,πολύς,a-s---mn-,ATR
+Leuven|Ps-Luc|198|10,10,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|198|11,11,τῶι,ὁ,l-s---nd-,ATR
+Leuven|Ps-Luc|198|12,12,συμποσίωι,συμπόσιον,n-s---nd-,ADV
+Leuven|Ps-Luc|198|13,13,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|198|14,14,ἀνδροφόνων,ἀνδροφόνος,a-p---mg-,ATR
+Leuven|Ps-Luc|198|15,15,.,.,u--------,AuxK

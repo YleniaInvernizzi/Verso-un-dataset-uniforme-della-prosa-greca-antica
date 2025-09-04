@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|373|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|373|2,2,γέλως,γέλως,n-s---mn-,SBJ
+2,Leuven|Ps-Luc|373|3,3,ἐκ,ἐκ,r--------,AuxP
+3,Leuven|Ps-Luc|373|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|Ps-Luc|373|5,5,ἐπεισελθόντων,ἐπεισέρχομαι,v-papamg-,ADV
+5,Leuven|Ps-Luc|373|6,6,πολὺς,πολύς,a-s---mn-,ATR
+6,Leuven|Ps-Luc|373|7,7,γίνεται,γίγνομαι,v3spie---,PRED

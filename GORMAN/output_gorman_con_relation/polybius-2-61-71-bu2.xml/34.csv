@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃ,ὅς,a-s---na_,SBJ
+2,καὶ,καί,d--------,AuxY
+3,συνέβη,συμβαίνω,v3saia---,PRED
+4,γενέσθαι,γίγνομαι,v--anm---,SBJ
+5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|20442|6|1,1,εἴρηκας,λέγω,v2sria---,PRED
+Leuven|20442|6|2,2,δὲ,δέ,d--------,AuxY
+Leuven|20442|6|3,3,Ἀφροδισιάδι,Ἀφροδισιάς,n-s---fd-,OBJ
+Leuven|20442|6|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|20442|6|5,5,μή,μή,d--------,AuxZ
+Leuven|20442|6|6,6,με,ἐγώ,p1s---ca-,OBJ
+Leuven|20442|6|7,7,ἐπιλάθῃς,ἐπιλανθάνω,v2sasa---,OBJ
+Leuven|20442|6|8,8,·,·,u--------,AuxK

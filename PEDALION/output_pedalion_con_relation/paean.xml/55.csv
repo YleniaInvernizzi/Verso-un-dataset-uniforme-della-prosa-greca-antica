@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|56|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|56|2,2,νικᾷ,νικάω,v3spia---,PRED
+Leuven|PaeanBrev|56|3,3,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|56|4,4,Βολούσκους,Βόλουσκος,n-p---ma-,OBJ
+Leuven|PaeanBrev|56|5,5,",",",",u--------,AuxX
+Leuven|PaeanBrev|56|6,6,ἔθνος,ἔθνος,n-s---na-,APOS
+Leuven|PaeanBrev|56|7,7,ὄν,εἰμί,v-sppana-,ATR
+Leuven|PaeanBrev|56|8,8,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|56|9,9,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|56|10,10,Καμπανίαν,Καμπανία,n-s---fa-,ADV
+Leuven|PaeanBrev|56|11,11,",",",",u--------,AuxX
+Leuven|PaeanBrev|56|12,12,οὐ,οὐ,d--------,AuxZ
+Leuven|PaeanBrev|56|13,13,πόρρω,πόρρω,d--------,ADV
+Leuven|PaeanBrev|56|14,14,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|56|15,15,Ῥώμης,Ῥώμη,n-s---fg-,OBJ
+Leuven|PaeanBrev|56|16,16,·,·,u--------,AuxK

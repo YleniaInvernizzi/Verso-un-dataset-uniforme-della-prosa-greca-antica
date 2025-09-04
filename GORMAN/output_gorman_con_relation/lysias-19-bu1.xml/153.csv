@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,τῶν,ὁ,l-p---mg-,ATR
+2,μὲν,μέν,d--------,AuxY
+3,οὖν,οὖν,d--------,AuxY
+4,μαρτύρων,μάρτυς,n-p---mg-,OBJ
+5,ἀκηκόατε,ἀκούω,v2pria---,PRED
+6,:,punc1,u--------,AuxK

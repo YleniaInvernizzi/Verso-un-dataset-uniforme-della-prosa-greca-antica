@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27224|3|1,1,συγγνώσῃ,συγγιγνώσκω,v2sfim---,PRED
+Leuven|27224|3|2,2,",",",",u--------,AuxX
+Leuven|27224|3|3,3,ἄδελφε,ἀδελφός,n-s---mv-,ExD
+Leuven|27224|3|4,4,·,·,u--------,AuxK

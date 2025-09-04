@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|320|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|320|2,2,δραμοῦσα,τρέχω,v-sapafn-,ADV
+2,Leuven|Genesis_deel2|320|3,3,ἡ,ὁ,l-s---fn-,ATR
+3,Leuven|Genesis_deel2|320|4,4,παῖς,παῖς,n-s---cn-,SBJ
+4,Leuven|Genesis_deel2|320|5,5,ἀπήγγειλεν,ἀπαγγέλλω,v3saia---,PRED
+5,Leuven|Genesis_deel2|320|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Genesis_deel2|320|7,7,τόν,ὁ,l-s---ma-,ATR
+7,Leuven|Genesis_deel2|320|8,8,οἶκον,οἶκος,n-s---ma-,OBJ
+8,Leuven|Genesis_deel2|320|9,9,τῆς,ὁ,l-s---fg-,ATR
+9,Leuven|Genesis_deel2|320|10,10,μητρός,μήτηρ,n-s---fg-,ATR
+10,Leuven|Genesis_deel2|320|11,11,αὐτῆς,αὐτός,p-s---fg-,ATR
+11,Leuven|Genesis_deel2|320|12,12,κατά,κατά,r--------,AuxP
+12,Leuven|Genesis_deel2|320|13,13,τά,ὁ,l-p---na-,ATR
+13,Leuven|Genesis_deel2|320|14,14,ῥήματα,ῥῆμα,n-p---na-,ADV
+14,Leuven|Genesis_deel2|320|15,15,ταῦτα,οὗτος,p-p---na-,ATR

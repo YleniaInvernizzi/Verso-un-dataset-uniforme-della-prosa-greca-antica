@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,κριταὶ,κριτής,n-p---mn-,PNOM
+1,2,δʼ,δέ,d--------,AuxY
+2,3,ὑμεῖς,σύ,p2p---mn-,SBJ
+3,4,ἔσεσθε,εἰμί,v2pfim---,PRED
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|77953|1|1,1,Ἀπολλωνία,Ἀπολλωνία,n-s---fn-,SBJ_CO
+1,Leuven|77953|1|2,2,καί,καί,c--------,COORD
+2,Leuven|77953|1|3,3,Εὔπους,Εὔπους,n-s---mn-,SBJ_CO
+3,Leuven|77953|1|4,4,Ῥασίῳ,Ῥασίος,n-s---fd-,OBJ_CO
+4,Leuven|77953|1|5,5,καί,καί,c--------,COORD
+5,Leuven|77953|1|6,6,Δημαρίῳ,Δημάριον,n-s---fd-,OBJ_CO
+6,Leuven|77953|1|7,7,ταῖς,ὁ,l-p---fd-,ATR
+7,Leuven|77953|1|8,8,ἀδελφαῖς,ἀδελφή,n-p---fd-,APOS
+8,Leuven|77953|1|9,9,χαίρειν,χαίρω,v--pna---,OBJ

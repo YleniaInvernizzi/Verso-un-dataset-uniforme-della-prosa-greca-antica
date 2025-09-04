@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|181|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|181|2,2,ὄνομα,ὄνομα,n-s---na-,SBJ
+2,Leuven|Genesis|181|3,3,τῷ,ὁ,l-s---md-,ATR
+3,Leuven|Genesis|181|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,ATR
+4,Leuven|Genesis|181|5,5,αὐτοῦ,αὐτός,p-s---mg-,ATR
+5,Leuven|Genesis|181|6,6,Ιουβαλ,Ιουβαλ,n-s---mn-,PNOM
+6,Leuven|Genesis|181|7,7,·,·,u--------,AuxK

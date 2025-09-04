@@ -1,0 +1,4 @@
+@id,@form,@lemma,@postag,@relation
+1,Κόρινθον,Κόρινθος,n-s---fa-,OBJ
+2,ἦλθον,ἔρχομαι,v1saia---,PRED
+3,.,punc1,u--------,AuxK

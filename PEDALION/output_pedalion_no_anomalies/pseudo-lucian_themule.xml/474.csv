@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|475|1,1,ὑπέσχετο,ὑπισχνέομαι,v3saim---,PRED
+1,Leuven|Ps-Luc|475|2,2,τῆι,ὁ,l-s---fd-,ATR
+2,Leuven|Ps-Luc|475|3,3,πατρίδι,πατρίς,n-s---fd-,OBJ
+3,Leuven|Ps-Luc|475|4,4,θέαν,θέα,n-s---fa-,OBJ
+4,Leuven|Ps-Luc|475|5,5,παρέξειν,παρέχω,v--fna---,OBJ
+5,Leuven|Ps-Luc|475|6,6,ἀνδρῶν,ἀνήρ,n-p---mg-,ATR
+6,Leuven|Ps-Luc|475|7,7,ὅπλοις,ὅπλον,n-p---nd-,ADV
+7,Leuven|Ps-Luc|475|8,8,πρὸς,πρός,r--------,AuxP
+8,Leuven|Ps-Luc|475|9,9,ἀλλήλους,ἀλλήλων,p-p---ma-,OBJ
+9,Leuven|Ps-Luc|475|10,10,μονομαχεῖν,μονομαχέω,v--pna---,OBJ
+10,Leuven|Ps-Luc|475|11,11,εἰδότων,οἶδα,v-prpamg-,ATR

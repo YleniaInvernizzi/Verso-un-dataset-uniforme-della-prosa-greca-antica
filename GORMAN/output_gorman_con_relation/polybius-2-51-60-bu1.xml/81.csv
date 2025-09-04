@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---na-,OBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἂν,ἄν1,d--------,AuxY
+4,παθόντες,πάσχω,v-papamn-,ADV
+5,οὗτοι,οὗτος,p-p---mn-,SBJ
+6,δίκην,δίκη,n-s---fa-,OBJ
+7,δόξαιεν,δοκέω,v3paoa---,PRED
+8,ἁρμόζουσαν,ἁρμόζω,v-sppafa-,ATR
+9,δεδωκέναι,δίδωμι,v--rna---,OBJ
+10,;,punc1,u--------,AuxK

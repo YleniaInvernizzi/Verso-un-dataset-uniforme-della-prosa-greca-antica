@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|32546|8|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+1,Leuven|32546|8|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|32546|8|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+3,Leuven|32546|8|4,4,πολλοῖς,πολύς,a-p---md-,ATR
+4,Leuven|32546|8|5,5,χρόνοις,χρόνος,n-p---md-,ADV
+6,Leuven|32546|8|7,7,κύριε,κύριος,n-s---mv-,ExD
+7,Leuven|32546|8|8,8,ἡμῶν,ἐγώ,p1p---cg-,ATR
+8,Leuven|32546|8|9,9,ἀδελφέ,ἀδελφός,n-s---mv-,APOS

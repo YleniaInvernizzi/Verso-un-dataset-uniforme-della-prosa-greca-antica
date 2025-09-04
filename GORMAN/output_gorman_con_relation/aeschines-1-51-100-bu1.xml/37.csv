@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗτος,οὗτος,p-s---mn-,SBJ
+2,αὐτὸν,αὐτός,p-s---ma-,OBJ
+3,ἀφαιρεῖται,ἀφαιρέω,v3spie---,PRED
+4,εἰς,εἰς,r--------,AuxP
+5,ἐλευθερίαν,ἐλευθερία,n-s---fa-,ADV
+6,.,punc1,u--------,AuxK

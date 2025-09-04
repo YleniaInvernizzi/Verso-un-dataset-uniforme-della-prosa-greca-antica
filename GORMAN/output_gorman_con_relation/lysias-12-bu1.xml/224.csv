@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,φανερὰν,φανερός,a-s---fa-,OCOMP
+2,γὰρ,γάρ,d--------,AuxY
+3,τῇ,ὁ,l-s---fd-,ATR
+4,πόλει,πόλις,n-s---fd-,ADV
+5,τὴν,ὁ,l-s---fa-,ATR
+6,ὑμετέραν,ὑμέτερος,a-s---fa-,ATR
+7,γνώμην,γνώμη,n-s---fa-,OBJ
+8,ποιήσετε,ποιέω,v2pfia---,PRED
+9,.,punc1,u--------,AuxK

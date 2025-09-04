@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-002|524|1,1,πλούσιος,πλούσιος,a-s---mn-,PNOM
+Leuven|0096-002|524|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0096-002|524|3,3,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|0096-002|524|4,4,·,·,u--------,AuxK

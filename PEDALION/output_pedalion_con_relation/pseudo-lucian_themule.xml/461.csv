@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|462|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|462|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|462|3,3,δεσπότης,δεσπότης,n-s---mn-,SBJ
+Leuven|Ps-Luc|462|4,4,ἐκέλευσεν,κελεύω,v3saia---,PRED_CO
+Leuven|Ps-Luc|462|5,5,κ-,καί,b--------,COORD
+Leuven|Ps-Luc|462|6,6,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|462|7,7,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|462|8,8,προσενεχθὲν,προσφέρω,v-sappna-,OBJ
+Leuven|Ps-Luc|462|9,9,ἔπιον,πίνω,v1saia---,PRED_CO
+Leuven|Ps-Luc|462|10,10,.,.,u--------,AuxK

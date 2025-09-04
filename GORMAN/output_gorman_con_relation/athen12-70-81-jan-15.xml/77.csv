@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,παίζων,παίζω,v-sppamn-,ADV
+2,οὖν,οὖν,d--------,AuxY
+3,εἰς,εἰς,r--------,AuxP
+4,τὴν,ὁ,l-s---fa-,ATR
+5,ἰδέαν,ἰδέα,n-s---fa-,ADV
+6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+7,ἔφη,φημί,v3siia---,PRED
+8,Φθιῶτ᾽,Φθιώτης,n-s---mv-,ATR
+9,Ἀχιλλεῦ,Ἀχιλλεύς,n-s---mv-,OBJ
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐχόμεναι;ἔχω;v-pppefn-;PNOM
+2;δʼ;δέ;d--------;AuxY
+3;αἱ;ὁ;l-p---fn-;ATR
+4;τῶν;ὁ;l-p---mg-;ATR
+5;ταξιάρχων;ταξίαρχος;n-p---mg-;ATR
+6;δέκα;δέκα;m--------;SBJ
+7;,;punc;u--------;AuxX
+8;καὶ;καί;c--------;COORD
+9;αὐταὶ;αὐτός;p-p---fn-;SBJ
+10;ἐπὶ;ἐπί;r--------;AuxP
+11;μιᾶς;εἷς;a-s---fg-;PNOM
+12;·;punc;u--------;AuxK

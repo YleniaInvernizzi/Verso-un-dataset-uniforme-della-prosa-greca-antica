@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;καί;καί;d--------;AuxY
+2;μοι;ἐγώ;p1s---md-;OBJ
+3;ἀνάγνωθι;ἀναγιγνώσκω;v2sama---;PRED
+4;τὰ;ὁ;l-p---na-;ATR
+5;ψηφίσματα;ψήφισμα;n-p---na-;OBJ_CO
+6;καὶ;καί;c--------;COORD
+7;τὴν;ὁ;l-s---fa-;ATR
+8;μαρτυρίαν;μαρτυρία;n-s---fa-;OBJ_CO
+9;.;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|83|3|1,1,περί,περί,r--------,AuxP
+1,Leuven|83|3|2,2,ὧν,ὅς,p-p---ng-,ADV
+2,Leuven|83|3|3,3,ἄν,ἄν,d--------,AuxY
+3,Leuven|83|3|4,4,αἱρῆσθε,αἱρέω,v2ppse---,OBJ
+4,Leuven|83|3|5,5,γράφετε,γράφω,v2ppma---,PRED
+5,Leuven|83|3|6,6,μοι,ἐγώ,p1s---cd-,OBJ

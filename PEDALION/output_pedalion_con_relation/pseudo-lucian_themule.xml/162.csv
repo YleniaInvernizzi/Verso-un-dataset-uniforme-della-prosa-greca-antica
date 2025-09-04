@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|163|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|163|2,2,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|Ps-Luc|163|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|163|4,4,ἠρίστων,ἀριστάω,v3piia---,PRED_CO
+Leuven|Ps-Luc|163|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|163|6,6,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|163|7,7,δὲ,δέ,b--------,COORD
+Leuven|Ps-Luc|163|8,8,ἐπείνων,πεινάω,v1siia---,PRED_CO
+Leuven|Ps-Luc|163|9,9,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|163|10,10,κακῶς,κακός,d--------,ADV
+Leuven|Ps-Luc|163|11,11,·,·,u--------,AuxK

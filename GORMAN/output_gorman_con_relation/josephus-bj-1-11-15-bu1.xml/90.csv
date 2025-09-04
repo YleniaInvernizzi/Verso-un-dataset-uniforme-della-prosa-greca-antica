@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,αἰσθόμενοι,αἰσθάνομαι,v-pppemn-,ADV
+2,δ᾽,δέ,d--------,AuxY
+3,οἱ,ὁ,l-p---mn-,ATR
+4,Πάρθοι,Πάρθοι,n-p---mn-,SBJ
+5,κατεδίωκον,καταδιώκω,v3piia---,PRED
+6,.,punc1,u--------,AuxK

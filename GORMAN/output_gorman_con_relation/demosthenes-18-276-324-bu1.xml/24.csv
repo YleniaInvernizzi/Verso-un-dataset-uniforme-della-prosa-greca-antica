@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καίτοι,καίτοι,d--------,AuxY
+2,τίς,τις,p-s---mn-,SBJ
+3,ὁ,ὁ,l-s---mn-,ATR
+4,τὴν,ὁ,l-s---fa-,ATR
+5,πόλιν,πόλις,n-s---fa-,OBJ
+6,ἐξαπατῶν,ἐξαπατάω,v-sppamn-,PNOM
+7,;,punc1,u--------,AuxK
+8,ἐστιν,εἰμί,v3spia---,PRED

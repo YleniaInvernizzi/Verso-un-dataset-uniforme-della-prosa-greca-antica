@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,πότερον,πότερος,a-s---na-,AuxY
+2,3,τῷ,ὁ,l-s---md-,ATR
+3,4,τυχόντι,τυγχάνω,v-sapamd-,PNOM_CO
+4,5,ἢ,ἢ,c--------,COORD
+5,6,τισίν,τις,p-p---md-,PNOM_CO
+6,7,;,punc1,u--------,AuxK
+7,8,εἰσιν,εἰμί,v3ppia---,PRED

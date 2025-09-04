@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|165|1,1,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|165|2,2,ἐργᾷ,ἐργάζομαι,v2sfim---,ADV_CO
+Leuven|Genesis|165|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|165|4,4,γῆν,γῆ,n-s---fa-,OBJ
+Leuven|Genesis|165|5,5,",",",",u--------,AuxX
+Leuven|Genesis|165|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|165|7,7,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|165|8,8,προσθήσει,προστίθημι,v3sfia---,ADV_CO
+Leuven|Genesis|165|9,9,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|165|10,10,ἰσχύν,ἰσχύς,n-s---fa-,OBJ
+Leuven|Genesis|165|11,11,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis|165|12,12,δοῦναι,δίδωμι,v--ana---,OBJ
+Leuven|Genesis|165|13,13,σοι,σύ,p2s---cd-,OBJ
+Leuven|Genesis|165|14,14,·,·,u--------,AuxK
+Leuven|Genesis|165|15,15,[0],,,PRED

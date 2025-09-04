@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;οὓς;ὅς;p-p---ma-;OBJ
+2;ὁ;ὁ;l-s---mn-;ATR
+3;Γνάιος;Γνάιος;n-s---mn-;SBJ
+4;φιλανθρώπως;φιλάνθρωπος;d--------;ADV
+5;ὑπεδέξατο;ὑποδέχομαι;v3saim---;PRED
+6;.;punc;u--------;AuxK

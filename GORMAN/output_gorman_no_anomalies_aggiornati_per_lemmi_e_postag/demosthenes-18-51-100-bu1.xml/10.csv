@@ -1,0 +1,5 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀκούεις;ἀκούω;v2spia---;PRED
+2;ἃ;ὅς;p-p---na-;OBJ
+3;λέγουσιν;λέγω;v3ppia---;OBJ
+4;.;punc;u--------;AuxK

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|32904|9|1,1,ἐρρωμένην,ῥώννυμι,v-srpefa-,ADV
+Leuven|32904|9|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|32904|9|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|32904|9|4,4,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|32904|9|5,5,διαφυλάττοι,διαφυλάσσω,v3spoa---,PRED
+Leuven|32904|9|6,6,μακροῖς,μακρός,a-p---md-,ATR_CO
+Leuven|32904|9|7,7,καί,καί,b--------,COORD
+Leuven|32904|9|8,8,εἰρηνικοῖς,εἰρηνικός,a-p---md-,ATR_CO
+Leuven|32904|9|9,9,χρόνοις,χρόνος,n-p---md-,ADV
+Leuven|32904|9|10,10,",",",",u--------,AuxX
+Leuven|32904|9|11,11,κυρία,κυρία,n-s---fv-,ExD
+Leuven|32904|9|12,12,μου,ἐγώ,p1s---cg-,ATR
+Leuven|32904|9|13,13,.,.,u--------,AuxK

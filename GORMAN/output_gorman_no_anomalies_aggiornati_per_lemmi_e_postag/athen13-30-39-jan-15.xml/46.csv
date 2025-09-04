@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;Ἀλκιβιάδης;Ἀλκιβιάδης;n-s---mn-;ExD
+2;δὲ;δέ;d--------;AuxY
+3;ὁ;ὁ;l-s---mn-;ATR
+4;καλός;καλός;a-s---mn-;ATR
+5;,;punc;u--------;AuxX
+6;ἐφ᾽;ἐπί;r--------;AuxP
+7;οὗ;ὅς;p-s---mg-;ADV
+8;τις;τις;p-s---cn-;SBJ
+9;τῶν;ὁ;l-p---mg-;ATR
+10;κωμικῶν;κωμικός;a-p---mg-;ATR
+11;ἔφη;φημί;v3siia---;ATR
+12;:;punc;u--------;AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|485|1,1,δώδεκα,δώδεκα,m--------,ATR
+Leuven|Genesis|485|2,2,ἔτη,ἔτος,n-p---na-,ADV
+Leuven|Genesis|485|3,3,ἐδούλευον,δουλεύω,v3piia---,PRED_CO
+Leuven|Genesis|485|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|485|5,5,Χοδολλογομορ,Χοδολλογομορ,n-s---md-,ADV
+Leuven|Genesis|485|6,6,",",",",u--------,AuxX
+Leuven|Genesis|485|7,7,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis|485|8,8,δέ,δέ,b--------,COORD
+Leuven|Genesis|485|9,9,τρισκαιδεκάτῳ,τρισκαιδέκατος,a-s---nd-,ATR
+Leuven|Genesis|485|10,10,ἔτει,ἔτος,n-s---nd-,ADV
+Leuven|Genesis|485|11,11,ἀπέστησαν,ἀφίστημι,v3paia---,PRED_CO
+Leuven|Genesis|485|12,12,.,.,u--------,AuxK

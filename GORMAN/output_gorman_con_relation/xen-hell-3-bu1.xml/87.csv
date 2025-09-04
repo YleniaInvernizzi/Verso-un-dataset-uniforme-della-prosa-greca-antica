@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+2,μὲν,μέν,d--------,AuxY
+3,τοίνυν,τοίνυν,d--------,AuxY
+4,ἄπειμι,ἄπειμι1,v1spia---,OBJ
+5,",",punc1,u--------,AuxX
+6,ἔφη,φημί,v3siia---,PRED
+7,",",punc1,u--------,AuxX
+8,ξένιά,ξένιος,a-p---na-,OBJ
+9,σοι,σοι,p-s---md-,OBJ
+10,παρασκευάσων,παρασκευάζω,v-sfpamn-,ADV
+11,.,punc1,u--------,AuxK

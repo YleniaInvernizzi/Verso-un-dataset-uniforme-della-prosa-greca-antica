@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,τέτταρας,τέσσαρες,a-p---ma_,ATR
+2,δέ,δέ,d--------,AuxY
+3,φησιν,φημί,v3spia---,PRED
+4,Αἰνείᾳ,Αἰνείας,n-s---md-,PNOM
+5,γενέσθαι,γίγνομαι,v--anm---,OBJ
+6,παῖδας,παῖς,n-p---ma-,SBJ_AP
+7,",",punc1,u--------,APOS
+8,Ἀσκάνιον,Ἀσκάνιος,n-s---ma-,SBJ_AP_CO
+9,",",punc1,u--------,AuxX
+10,Εὐρυλέοντα,Εὐρυλέων,n-s---ma-,SBJ_AP_CO
+11,",",punc1,u--------,AuxX
+12,Ῥωμύλον,Ῥωμύλος,n-s---ma-,SBJ_AP_CO
+13,",",punc1,u--------,COORD
+14,Ῥῶμον,Ῥῶμος,n-s---ma-,SBJ_AP_CO
+15,.,punc1,u--------,AuxK

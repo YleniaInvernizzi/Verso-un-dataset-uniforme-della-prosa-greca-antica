@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢ,ἤ1,d--------,AuxY
+2,διαφέρει,διαφέρω,v3spia---,PRED
+3,τοῦτο,οὗτος,p-s---na-,ADV
+4,πλεῖστον,πλεῖστος,a-s---na-,ADV
+5,;,punc1,u--------,AuxK

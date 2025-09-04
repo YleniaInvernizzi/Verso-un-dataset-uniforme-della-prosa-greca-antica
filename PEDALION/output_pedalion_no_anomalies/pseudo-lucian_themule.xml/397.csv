@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|398|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|398|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|398|3,3,ὁρῶν,ὁράω,v-sppamn-,ADV
+3,Leuven|Ps-Luc|398|4,4,τοῦ,ὁ,l-s---ng-,ATR
+4,Leuven|Ps-Luc|398|5,5,δεινοῦ,δεινός,a-s---ng-,ATR
+5,Leuven|Ps-Luc|398|6,6,τὸ,ὁ,l-s---na-,ATR
+6,Leuven|Ps-Luc|398|7,7,μέγεθος,μέγεθος,n-s---na-,OBJ
+7,Leuven|Ps-Luc|398|8,8,δρόμωι,δρόμος,n-s---md-,ADV
+8,Leuven|Ps-Luc|398|9,9,εἴσω,εἴσω,d--------,OBJ
+9,Leuven|Ps-Luc|398|10,10,παρέρχομαι,παρέρχομαι,v1spie---,PRED
+10,Leuven|Ps-Luc|398|11,11,ἔνθα,ἔνθα,d--------,ADV
+11,Leuven|Ps-Luc|398|12,12,οἱ,ὁ,l-p---mn-,ATR
+12,Leuven|Ps-Luc|398|13,13,ἐμοὶ,ἐμός,a-p---mn-,ATR
+13,Leuven|Ps-Luc|398|14,14,δεσπόται,δεσπότης,n-p---mn-,SBJ
+14,Leuven|Ps-Luc|398|15,15,κοιμηθήσεσθαι,κοιμάω,v--fnp---,OBJ
+15,Leuven|Ps-Luc|398|16,16,ἔμελλον,μέλλω,v3piia---,ATR

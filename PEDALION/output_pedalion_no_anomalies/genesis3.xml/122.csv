@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|123|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|123|2,2,ὑψώθη,ὑψόω,v3saip---,PRED_CO
+2,Leuven|Genesis_deel3|123|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis_deel3|123|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,SBJ
+4,Leuven|Genesis_deel3|123|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis_deel3|123|6,6,προβαίνων,προβαίνω,v-sppamn-,ADV
+6,Leuven|Genesis_deel3|123|7,7,μείζων,μέγας,a-s---mnc,PNOM
+7,Leuven|Genesis_deel3|123|8,8,ἐγίνετο,γίγνομαι,v3siie---,PRED_CO
+9,Leuven|Genesis_deel3|123|10,10,ἕως,ἕως,r--------,AuxC
+10,Leuven|Genesis_deel3|123|11,11,οὗ,ὅς,p-s---mg-,ADV
+11,Leuven|Genesis_deel3|123|12,12,μέγας,μέγας,a-s---mn-,PNOM
+12,Leuven|Genesis_deel3|123|13,13,ἐγένετο,γίγνομαι,v3saim---,ADV
+13,Leuven|Genesis_deel3|123|14,14,σφόδρα,σφόδρα,d--------,ADV

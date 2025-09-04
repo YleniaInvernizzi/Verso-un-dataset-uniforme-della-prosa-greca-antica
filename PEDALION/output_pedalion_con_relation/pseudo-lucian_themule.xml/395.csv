@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|396|1,1,ἀλλά,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|396|2,2,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|396|3,3,τοῦτο,οὗτος,p-s---nn-,ATR
+Leuven|Ps-Luc|396|4,4,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|396|5,5,κομψὸν,κομψός,a-s---nn-,SBJ
+Leuven|Ps-Luc|396|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|396|7,7,ἔσχατον,ἔσχατος,a-s---ma-,OBJ
+Leuven|Ps-Luc|396|8,8,ἤνεγκεν,φέρω,v3saia---,PRED
+Leuven|Ps-Luc|396|9,9,κινδύνου,κίνδυνος,n-s---mg-,ATR
+Leuven|Ps-Luc|396|10,10,.,.,u--------,AuxK

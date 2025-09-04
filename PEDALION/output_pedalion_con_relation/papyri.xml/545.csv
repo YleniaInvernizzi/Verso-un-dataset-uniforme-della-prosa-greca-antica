@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|304|3|1,1,καλῶς,καλός,d--------,ADV
+Leuven|304|3|2,2,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|304|3|3,3,συντηρῶν,συντηρέω,v-sppamn-,ADV_CO
+Leuven|304|3|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|304|3|5,5,τόπον,τόπος,n-s---ma-,OBJ
+Leuven|304|3|6,6,καί,καί,b--------,COORD
+Leuven|304|3|7,7,προιστάμενος,προΐστημι,v-sppemn-,ADV_CO
+Leuven|304|3|8,8,·,·,u--------,AuxK

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,γνωστὴ,γνωστός,a-s---fn-,PNOM
+2,δ᾽,δέ,d--------,COORD
+3,ἐστὶ,εἰμί,v3spia---,PRED
+4,καὶ,καί,d-------_,AuxZ
+5,εἰν,ἐν,r--------,AuxP
+6,Ἀίδῃ,Ἅιδης,n-s---md-,ADV
+7,.,punc1,u--------,AuxK

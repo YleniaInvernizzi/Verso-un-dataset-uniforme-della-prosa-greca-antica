@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;γυμνή;γυμνός;a-s---fn-;AtvV
+2;δ᾽;δέ;d--------;AuxY
+3;αἰθέρος;αἰθήρ;n-s---mg-;ATR
+4;θεάμασιν;θέαμα;n-p---nd-;OBJ
+5;ζῶσαν;ζάω;v-sppafa-;ATR
+6;γραφὴν;γραφή;n-s---fa-;OBJ
+7;ἔφαινε;φαίνω;v3siia---;PRED
+8;:;punc;u--------;AuxK

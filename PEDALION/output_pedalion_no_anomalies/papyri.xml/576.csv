@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31314|3|1,1,ἀφῆκες,ἀφίημι,v2saia---,PRED
+1,Leuven|31314|3|2,2,αὐτόν,αὐτός,p-s---ma-,OBJ
+2,Leuven|31314|3|3,3,μή,μή,d--------,AuxZ
+3,Leuven|31314|3|4,4,κηδεῦσαι,κηδεύω,v--ana---,OBJ
+4,Leuven|31314|3|5,5,αὐτόν,αὐτός,p-s---ma-,OBJ

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;ἔδοξε;δοκέω;v3saia---;PRED
+3;τῷ;ὁ;l-s---md-;ATR
+4;δικαστηρίῳ;δικαστήριον;n-s---nd-;OBJ
+5;δῆσαι;δέω;v2samm---;SBJ
+6;τὸν;ὁ;l-s---ma-;ATR
+7;Ἐρασινίδην;Ἐρασινίδης;n-s---ma-;OBJ
+8;.;punc;u--------;AuxK

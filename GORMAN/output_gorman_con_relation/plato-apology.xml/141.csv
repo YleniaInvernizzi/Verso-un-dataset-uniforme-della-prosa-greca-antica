@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τούτου,οὗτος,a-s---ng_,ATR
+2,δὲ,δέ,d--------,AuxY
+3,τοῦ,ὁ,l-s---ng-,ATR
+4,ἐγκλήματος,ἔγκλημα,n-s---ng-,ATR
+5,ἓν,εἷς,a-s---na_,OBJ
+6,ἕκαστον,ἕκαστος,a-s---na-,ATR
+7,ἐξετάσωμεν,ἐξετάζω,v1pasa---,PRED
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|1|1,1,Ἰσιδώρα,Ἰσιδώρα,n-s---fn-,SBJ
+Leuven|30514|1|2,2,Σαραπιάδι,Σαραπιάς,n-s---fd-,OBJ
+Leuven|30514|1|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|30514|1|4,4,θυγατρί,θυγάτηρ,n-s---fd-,APOS
+Leuven|30514|1|5,5,πολλά,πολύς,a-p---na-,ADV
+Leuven|30514|1|6,6,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|30514|1|7,7,.,.,u--------,AuxK
+Leuven|30514|1|8,8,[0],,---------,PRED

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τίνα,τις,a-s---ma_,ATR
+2,δὲ,δέ,d--------,AuxY
+3,τρόπον,τρόπος,n-s---ma-,ADV
+4,ὑπάρχειν,ὑπάρχω,v--pna---,SBJ
+5,",",punc1,u--------,AuxX
+6,οὐ,οὐ,d-------_,AuxZ
+7,ῥᾴδιον,ῥᾴδιος,a-s---nn-,PNOM
+8,λαβεῖν,λαμβάνω,v--ana---,ADV
+9,.,punc1,u--------,AuxK
+10,ἐστιν,εἰμί,v3spia---,PRED
+11,δεῖ,δεῖ,v3siia---,SBJ

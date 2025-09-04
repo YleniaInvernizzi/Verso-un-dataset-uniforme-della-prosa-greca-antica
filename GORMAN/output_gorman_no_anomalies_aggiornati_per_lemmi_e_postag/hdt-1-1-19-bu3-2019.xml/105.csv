@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἄλλα;ἄλλος;a-p---na-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;ἔργα;ἔργον;n-p---na-;OBJ_CO
+4;ἀπεδέξατο;ἀποδέχομαι;v3saim---;PRED
+5;ἐὼν;εἰμί;v-sppamn-;ADV
+6;ἐν;ἐν;r--------;AuxP
+7;τῇ;ὁ;l-s---fd-;ATR
+8;ἀρχῇ;ἀρχή;n-s---fd-;PNOM
+9;ἀξιαπηγητότατα;ἀξιαπήγητος;a-p---nas;ATR
+10;τάδε;ὅδε;p-p---na-;OBJ_CO
+11;.;punc;u--------;AuxK

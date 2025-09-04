@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,ATR
+2,μὲν,μέν,d--------,AuxY
+3,οὖν,οὖν,d--------,AuxY
+4,πρῶτον,πρῶτος,a-s---na-,ADV
+5,ὥρμησεν,ὁρμάω,v3saia---,PRED
+6,ὡς,ὡς,d-------_,AuxZ
+7,καταταχήσων,καταταχέω,v-sfpamn-,ADV
+8,:,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|147|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|147|2,2,ἐλύπησεν,λυπέω,v3saia---,PRED_CO
+Leuven|Genesis|147|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|147|4,4,Καιν,Καιν,n-s---ma-,OBJ
+Leuven|Genesis|147|5,5,λίαν,λίαν,d--------,ADV
+Leuven|Genesis|147|6,6,",",",",u--------,AuxX
+Leuven|Genesis|147|7,7,καί,καί,b--------,COORD
+Leuven|Genesis|147|8,8,συνέπεσεν,συμπίπτω,v3saia---,PRED_CO
+Leuven|Genesis|147|9,9,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis|147|10,10,προσώπῳ,πρόσωπον,n-s---nd-,OBJ
+Leuven|Genesis|147|11,11,.,.,u--------,AuxK

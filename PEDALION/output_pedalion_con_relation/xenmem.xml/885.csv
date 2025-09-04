@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|886|1,1,ναὶ,ναί,i--------,ExD
+Leuven|0032-002|886|2,2,μὰ,μά,r--------,AuxP
+Leuven|0032-002|886|3,3,Δί’,Ζεύς,n-s---ma-,ExD
+Leuven|0032-002|886|4,4,·,·,u--------,AuxK
+Leuven|0032-002|886|5,5,[0],,,PRED

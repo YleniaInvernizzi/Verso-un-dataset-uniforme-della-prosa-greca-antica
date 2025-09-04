@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|75|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|75|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|75|3,3,ποταμός,ποταμός,n-s---mn-,SBJ
+Leuven|Genesis|75|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|75|5,5,τρίτος,τρίτος,a-s---mn-,ATR
+Leuven|Genesis|75|6,6,Τίγρις,Τίγρις,n-s----n-,PNOM
+Leuven|Genesis|75|7,7,·,·,u--------,AuxK
+Leuven|Genesis|75|8,8,[0],,,PRED

@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ταῦτʼ;οὗτος;p-p---na-;OBJ
+2;ἀκούσαντες;ἀκούω;v-papamn-;ADV
+3;οἱ;ὁ;l-p---mn-;ATR
+4;τελῶναι;τελώνης;n-p---mn-;SBJ
+5;ἐξηπορήθησαν;ἐξαπορέω;v3paip---;PRED
+6;.;punc;u--------;AuxK

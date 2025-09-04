@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|54|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|54|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|54|3,3,πυθόμενος,πυνθάνομαι,v-sapmmn-,ADV
+3,Leuven|Ps-Luc|54|4,4,ὅτι,ὅτι,c--------,AuxC
+4,Leuven|Ps-Luc|54|5,5,τὸ,ὁ,l-s---nn-,ATR
+5,Leuven|Ps-Luc|54|6,6,πάλαι,πάλαι,d--------,ADV
+6,Leuven|Ps-Luc|54|7,7,μοι,ἐγώ,p1s---cd-,OBJ
+7,Leuven|Ps-Luc|54|8,8,ζητούμενον,ζητέω,v-sppenn-,SBJ
+8,Leuven|Ps-Luc|54|9,9,οἴκοι,οἴκοι,d--------,ADV
+9,Leuven|Ps-Luc|54|10,10,παρ’,παρά,r--------,AuxP
+10,Leuven|Ps-Luc|54|11,11,ἐμοὶ,ἐγώ,p1s---cd-,ADV
+11,Leuven|Ps-Luc|54|12,12,κάθηται,κάθημαι,v3spie---,OBJ
+13,Leuven|Ps-Luc|54|14,14,προσεῖχον,προσέχω,v1siia---,PRED
+14,Leuven|Ps-Luc|54|15,15,οὐδὲν,οὐδείς,p-s---na-,OBJ
+15,Leuven|Ps-Luc|54|16,16,αὐτῆι,αὐτός,p-s---fd-,OBJ
+16,Leuven|Ps-Luc|54|17,17,ἔτι,ἔτι,d--------,ADV

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|173|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|173|2,2,ἐκάθισεν,καθίζω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|173|3,3,ἀπέναντι,ἀπέναντι,r--------,AuxP
+Leuven|Genesis_deel2|173|4,4,αὐτοῦ,αὐτός,p-s---mg-,ADV
+Leuven|Genesis_deel2|173|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|173|6,6,ἀναβοῆσαν,ἀναβοάω,v-sapann-,PRED_CO
+Leuven|Genesis_deel2|173|7,7,δέ,δέ,b--------,COORD
+Leuven|Genesis_deel2|173|8,8,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis_deel2|173|9,9,παιδίον,παιδίον,n-s---nn-,SBJ
+Leuven|Genesis_deel2|173|10,10,ἔκλαυσεν,κλαίω,v3saia---,PRED
+Leuven|Genesis_deel2|173|11,11,.,.,u--------,AuxK

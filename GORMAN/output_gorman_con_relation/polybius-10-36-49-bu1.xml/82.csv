@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,διὰ,διά,r--------,AuxP
+2,γὰρ,γάρ,d--------,AuxY
+3,συνθημάτων,σύνθημα,n-p---ng-,ADV
+4,ὡρισμένων,ὁρίζω,v-prpeng-,ATR
+5,ἔδει,δεῖ,v3siia---,PRED
+6,τὴν,ὁ,l-s---fa-,ATR
+7,χρείαν,χρεία,n-s---fa-,OBJ
+8,συντελεῖν,συντελέω,v--pna---,SBJ
+9,·,punc1,u--------,AuxK

@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;ὡς;ὡς;c--------;AuxC
+3;ἦν;εἰμί;v3siia---;ATR_AP
+4;Ἀρεθουσίου;Ἀρεθούσιος;n-s---mg-;PNOM
+5;,;punc;u--------;APOS
+6;τούτων;οὗτος;p-p---ng-;ATR_AP
+7;ὑμῖν;σύ;p2p---md-;OBJ
+8;τοὺς;ὁ;l-p---ma-;ATR
+9;εἰδότας;οἶδα;v-prpama-;OBJ
+10;μάρτυρας;μάρτυς;n-p---ma-;OCOMP
+11;παρέξομαι;παρέχω;v1sfim---;PRED
+12;.;punc;u--------;AuxK

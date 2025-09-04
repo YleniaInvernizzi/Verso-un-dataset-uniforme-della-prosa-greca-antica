@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|236|1,1,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis_deel2|236|2,2,εἶδεν,ὁράω,v3saia---,PRED
+Leuven|Genesis_deel2|236|3,3,",",",",u--------,AuxX
+Leuven|Genesis_deel2|236|4,4,ἵνα,ἵνα,c--------,AuxC
+Leuven|Genesis_deel2|236|5,5,εἴπωσιν,λέγω,v3pasa---,ADV
+Leuven|Genesis_deel2|236|6,6,σήμερον,σήμερον,d--------,ADV
+Leuven|Genesis_deel2|236|7,7,·,·,u--------,AuxK

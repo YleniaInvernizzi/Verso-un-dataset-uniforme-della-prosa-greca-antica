@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|199|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Genesis_deel3|199|2,2,μέν,μέν,d--------,AuxY
+2,Leuven|Genesis_deel3|199|3,3,φωνή,φωνή,n-s---fn-,SBJ
+3,Leuven|Genesis_deel3|199|4,4,φωνή,φωνή,n-s---fn-,PNOM
+4,Leuven|Genesis_deel3|199|5,5,Ιακωβ,Ἰακώβ,n-s---mg-,ATR
+6,Leuven|Genesis_deel3|199|7,7,αἱ,ὁ,l-p---fn-,ATR
+7,Leuven|Genesis_deel3|199|8,8,δέ,δέ,d--------,COORD
+8,Leuven|Genesis_deel3|199|9,9,χεῖρες,χείρ,n-p---fn-,SBJ
+9,Leuven|Genesis_deel3|199|10,10,χεῖρες,χείρ,n-p---fn-,PNOM
+10,Leuven|Genesis_deel3|199|11,11,Ησαυ,Ησαυ,n-s---mg-,ATR

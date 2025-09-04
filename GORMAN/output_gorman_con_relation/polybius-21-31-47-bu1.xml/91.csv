@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔχοντες,ἔχω,v-pppamn-,ADV
+2,γὰρ,γάρ,d--------,AuxY
+3,π...,,,ExD
+4,...διετε,,,ExD
+5,...,punc1,u--------,AuxK
+6,οι,,,ExD
+7,τοῖς,ὁ,l-p---md-,ATR
+8,πολεμίοις,πολέμιος,n-p---md-,PNOM
+9,ἐγένοντο,γίγνομαι,v3paim---,PRED
+10,.,punc1,u--------,AuxK

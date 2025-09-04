@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Αἰζειοῦ,Αἰζειός,n-s---mg-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,υἱὸς,υἱός,n-s---mn-,PNOM
+3,4,Λυκάων,Λυκάων,n-s---mn-,SBJ
+4,5,:,punc1,u--------,AuxK
+5,6,γίνεται,γίγνομαι,v3spie---,PRED

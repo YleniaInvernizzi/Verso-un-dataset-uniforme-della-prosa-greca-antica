@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|20442|8|1,1,ἐρωτῶ,ἐρωτάω,v1spia---,PRED
+Leuven|20442|8|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|20442|8|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|20442|8|4,4,ἵνα,ἵνα,c--------,AuxC
+Leuven|20442|8|5,5,μὴ,μή,d--------,AuxZ
+Leuven|20442|8|6,6,ἀγωνιάσῃς,ἀγωνιάω,v2sasa---,ADV
+Leuven|20442|8|7,7,.,.,u--------,AuxK

@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|32|1,1,ἰδών,ὁράω,v-sapamn-,ADV
+1,Leuven|Genesis_deel2|32|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|32|3,3,Λωτ,Λωτ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|32|4,4,ἐξανέστη,ἐξανίστημι,v3saia---,PRED_CO
+4,Leuven|Genesis_deel2|32|5,5,εἰς,εἰς,r--------,AuxP
+5,Leuven|Genesis_deel2|32|6,6,συνάντησιν,συνάντησις,n-s---fa-,OBJ
+6,Leuven|Genesis_deel2|32|7,7,αὐτοῖς,αὐτός,p-p---md-,ATR
+7,Leuven|Genesis_deel2|32|8,8,καί,καί,c--------,AuxY
+8,Leuven|Genesis_deel2|32|9,9,προσεκύνησεν,προσκυνέω,v3saia---,PRED_CO
+9,Leuven|Genesis_deel2|32|10,10,τῷ,ὁ,l-s---nd-,ATR
+10,Leuven|Genesis_deel2|32|11,11,προσώπῳ,πρόσωπον,n-s---nd-,OBJ
+11,Leuven|Genesis_deel2|32|12,12,ἐπί,ἐπί,r--------,AuxP
+12,Leuven|Genesis_deel2|32|13,13,τήν,ὁ,l-s---fa-,ATR
+13,Leuven|Genesis_deel2|32|14,14,γῆν,γῆ,n-s---fa-,OBJ
+14,Leuven|Genesis_deel2|32|15,15,καί,καί,c--------,COORD
+15,Leuven|Genesis_deel2|32|16,16,εἶπεν,λέγω,v3saia---,PRED_CO

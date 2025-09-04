@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢ,ἤ1,d--------,AuxY
+2,τὰ,ὁ,l-p---na-,ATR
+3,πατρῷα,πατρῷος,a-p---na-,OBJ_CO
+4,",",punc1,u--------,AuxX
+5,φησί,φημί,v3spia---,PRED
+6,",",punc1,u--------,AuxX
+7,κατεδηδοκώς,κατεσθίω,v-srpamn-,OBJ
+8,",",punc1,u--------,AuxX
+9,ἢ,ἤ1,c--------,COORD
+10,ὧν,ὅς,p-p---ng-,ATR
+11,ἂν,ἄν1,d--------,AuxY
+12,κληρονόμος,κληρονόμος,n-s---mn-,PNOM
+13,γένηται,γίγνομαι,v3sasm---,OBJ_CO
+14,:,punc1,u--------,AuxK

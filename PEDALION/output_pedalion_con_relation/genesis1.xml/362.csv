@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|363|1,1,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|Genesis|363|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|363|3,3,πόλις,πόλις,n-s---fn-,PNOM
+Leuven|Genesis|363|4,4,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|363|5,5,μεγάλη,μέγας,a-s---fn-,ATR
+Leuven|Genesis|363|6,6,.,.,u--------,AuxK
+Leuven|Genesis|363|7,7,[0],,,PRED

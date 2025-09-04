@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|20442|7|1,1,πῶς,πῶς,d--------,ADV
+1,Leuven|20442|7|2,2,δύναμαί,δύναμαι,v1spie---,PRED
+2,Leuven|20442|7|3,3,σε,σύ,p2s---ca-,OBJ
+3,Leuven|20442|7|4,4,ἐπιλαθεῖν,ἐπιλανθάνω,v--ana---,OBJ

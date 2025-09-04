@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδέν,οὐδείς,p-s---na-,ADV
+2,",",punc1,u--------,AuxX
+3,εἶπε,εἶπον,v3saia---,PRED
+4,",",punc1,u--------,AuxX
+5,πάντα,πᾶς,a-p---nn-,SBJ
+6,γάρ,γάρ,d--------,AuxY
+7,ἐστιν,εἰμί,v3spia---,PRED
+8,ἐν,ἐν,r--------,AuxP
+9,τῷ,ὁ,l-s---nd-,ATR
+10,βασιλικῶς,βασιλικῶς,d-------_,PNOM
+11,.,punc1,u--------,AuxK

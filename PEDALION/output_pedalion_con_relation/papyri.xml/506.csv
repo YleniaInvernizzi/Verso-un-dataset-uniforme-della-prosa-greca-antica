@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30269|1|1,1,Ἡλιοδώρᾳ,Ἡλιοδώρα,n-s---fd-,OBJ
+Leuven|30269|1|2,2,τῇ,ὁ,l-s---fd-,ATR
+Leuven|30269|1|3,3,μητρί,μήτηρ,n-s---fd-,ATR
+Leuven|30269|1|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|30269|1|5,5,πολλά,πολύς,a-p---na-,ADV
+Leuven|30269|1|6,6,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|30269|1|7,7,.,.,u--------,AuxK
+Leuven|30269|1|8,8,[0],,---------,PRED

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,μὴ,μή,d--------,AuxZ
+2,αὐτὸν,αὐτός,p-s---ma-,SBJ
+3,οἴει,οἴομαι,v2spie---,PRED
+4,φροντίσαι,φροντίζω,v--ana---,OBJ
+5,θανάτου,θάνατος,n-s---mg-,OBJ_CO
+6,καὶ,καί,c--------,COORD
+7,κινδύνου,κίνδυνος,n-s---mg-,OBJ_CO
+8,;,punc1,u--------,AuxX

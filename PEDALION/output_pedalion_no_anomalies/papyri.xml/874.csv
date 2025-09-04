@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|11099|3|1,1,τοῦτο,οὗτος,p-s---na-,OBJ
+1,Leuven|11099|3|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|11099|3|3,3,ἐκέλευσεν,κελεύω,v3saia---,PRED
+3,Leuven|11099|3|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|11099|3|5,5,κύριός,κύριος,n-s---mn-,ATR
+5,Leuven|11099|3|6,6,μου,ἐγώ,p1s---cg-,ATR
+6,Leuven|11099|3|7,7,Σύρος,Σύρος,n-s---mn-,SBJ

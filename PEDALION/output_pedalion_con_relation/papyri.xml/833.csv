@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|24168|2|1,1,ἀπέσταλκες,ἀπoστέλλω,v2sria---,PRED
+Leuven|24168|2|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|24168|2|3,3,ἤδη,ἤδη,d--------,ADV
+Leuven|24168|2|4,4,τρίς,τρίς,d--------,ADV
+Leuven|24168|2|5,5,ὑπέρ,ὑπέρ,r--------,AuxP
+Leuven|24168|2|6,6,τῶν,ὁ,l-p---ng-,ATR
+Leuven|24168|2|7,7,ἱματίων,ἱμάτιον,n-p---ng-,ADV
+Leuven|24168|2|8,8,σου,σύ,p2s---cg-,ATR
+Leuven|24168|2|9,9,ὅτι,ὅτι,c--------,AuxC
+Leuven|24168|2|10,10,φορεῖται,φορέω,v3spie---,OBJ
+Leuven|24168|2|11,11,.,.,u--------,AuxK

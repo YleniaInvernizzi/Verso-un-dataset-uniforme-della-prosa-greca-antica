@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,γαμεῖς,γαμέω,v2sfia---,PRED
+3,",",punc1,u--------,AuxX
+4,ἂν,ἐάν,c--------,AuxC
+5,νοῦν,νόος,n-s---ma-,OBJ
+6,ἔχῃς,ἔχω,v2spsa---,ADV
+7,",",punc1,u--------,AuxX
+8,τοῦτον,οὗτος,p-s---ma-,ATR
+9,καταλείπων,καταλιμπάνω,v-sppamn-,ADV
+10,τὸν,ὁ,l-s---ma-,ATR
+11,βίον,βίος,n-s---ma-,OBJ
+12,.,punc1,u--------,AuxK

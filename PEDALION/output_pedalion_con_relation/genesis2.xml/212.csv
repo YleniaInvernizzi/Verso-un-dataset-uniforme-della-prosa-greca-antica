@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|213|1,1,ἔλαβεν,λαμβάνω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|213|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|213|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|213|4,4,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel2|213|5,5,ξύλα,ξύλον,n-p---na-,OBJ
+Leuven|Genesis_deel2|213|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel2|213|7,7,ὁλοκαρπώσεως,ὁλοκάρπωσις,n-s---fg-,ATR
+Leuven|Genesis_deel2|213|8,8,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|213|9,9,ἐπέθηκεν,ἐπιτίθημι,v3saia---,PRED_CO
+Leuven|Genesis_deel2|213|10,10,Ισαακ,Ισαακ,n-s---md-,OBJ
+Leuven|Genesis_deel2|213|11,11,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel2|213|12,12,υἱῷ,υἱός,n-s---md-,APOS
+Leuven|Genesis_deel2|213|13,13,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel2|213|14,14,·,·,u--------,AuxK

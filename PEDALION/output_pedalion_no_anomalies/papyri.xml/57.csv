@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|7|1,1,ἔγραψα,γράφω,v1saia---,PRED
+1,Leuven|1781|7|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|1781|7|3,3,σοι,σύ,p2s---cd-,OBJ
+3,Leuven|1781|7|4,4,ἵνα,ἵνα,c--------,AuxC
+4,Leuven|1781|7|5,5,εἰδῆις,οἶδα,v2srsa---,ADV
+5,Leuven|1781|7|6,6,ὅτι,ὅτι,c--------,AuxC
+6,Leuven|1781|7|7,7,Κρότος,Κρότος,n-s---mn-,SBJ
+7,Leuven|1781|7|8,8,αἴτιος,αἴτιος,a-s---mn-,PNOM

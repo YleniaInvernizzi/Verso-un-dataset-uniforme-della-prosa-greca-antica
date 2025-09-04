@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔχων,ἔχω,v-sppamn-,ADV
+2,γὰρ,γάρ,d--------,AuxY
+3,ἐξουσίαν,ἐξουσία,n-s---fa-,OBJ
+4,ἅπαντα,ἅπας,a-p---na-,OBJ
+5,λαβεῖν,λαμβάνω,v--ana---,ATR
+6,τὰ,ὁ,l-p---na-,ATR
+7,ἡμίση,ἥμισυς,a-p---na-,OBJ
+8,κατέλιπεν,καταλείπω,v3saia---,PRED
+9,.,punc1,u--------,AuxK

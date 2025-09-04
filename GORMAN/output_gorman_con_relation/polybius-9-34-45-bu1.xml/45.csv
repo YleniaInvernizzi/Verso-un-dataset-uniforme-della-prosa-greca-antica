@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπὶ,ἐπί,r--------,AuxP
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,συνέχον,συνέχω,v-sppanap,OBJ
+5,",",punc1,u--------,AuxX
+6,ὡς,ὡς,c--------,AuxC
+7,οὗτοί,οὗτος,p-p---mn-,SBJ
+8,φασιν,φημί,v3ppia---,ADV
+9,",",punc1,u--------,AuxX
+10,ἐπάνιμεν,ἐπάνειμι,v1ppia---,PRED
+11,.,punc1,u--------,AuxK

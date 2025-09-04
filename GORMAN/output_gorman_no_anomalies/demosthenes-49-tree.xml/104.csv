@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μισθωτοὶ,μισθωτός,n-p---mn-,SBJ_CO
+1,2,ἢ,ἤ1,c--------,COORD
+2,3,οἰκέται,οἰκέτης,n-p---mn-,SBJ_CO
+3,4,;,;,u--------,AuxK
+4,5,ἦσαν,εἰμί,v3piia---,PRED

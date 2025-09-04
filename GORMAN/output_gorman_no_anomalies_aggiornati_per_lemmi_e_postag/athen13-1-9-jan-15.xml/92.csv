@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;Ξέναρχος;Ξέναρχος;n-s---mn-;SBJ
+2;δ᾽;δέ;d--------;AuxY
+3;ἐν;ἐν;r--------;AuxP
+4;Ὕπνῳ;ὕπνος;n-s---md-;ADV
+5;φησὶν;φημί;v3spia---;PRED
+6;:;punc;u--------;AuxK

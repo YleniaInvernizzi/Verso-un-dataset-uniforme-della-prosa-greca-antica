@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τούτου,οὗτος,p-s---ng-,SBJ
+2,μέντοι,μέντοι,d--------,AuxY
+3,φανέντος,φαίνω,v-sappng-,ADV
+4,στρέψας,στρέφω,v-sapamn-,ADV
+5,ἐπορεύετο,ἐφορεύω,v3siie---,PRED
+6,ἐπὶ,ἐπί,r--------,AuxP
+7,θάλατταν,θάλασσα,n-s---fa-,OBJ
+8,.,punc1,u--------,AuxK

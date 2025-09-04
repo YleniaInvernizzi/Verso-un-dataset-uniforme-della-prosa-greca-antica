@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|55|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|55|2,2,ταῦτα,οὗτος,p-p---nn-,SBJ
+2,Leuven|Genesis_deel3|55|3,3,τά,ὁ,l-p---nn-,ATR
+3,Leuven|Genesis_deel3|55|4,4,ἔτη,ἔτος,n-p---nn-,PNOM
+4,Leuven|Genesis_deel3|55|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Genesis_deel3|55|6,6,ζωῆς,ζωή,n-s---fg-,ATR
+6,Leuven|Genesis_deel3|55|7,7,Ισμαηλ,Ισμαηλ,n-s---mg-,ATR

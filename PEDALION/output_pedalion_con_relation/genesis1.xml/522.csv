@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|523|1,1,ἐξήγαγεν,ἐξάγω,v3saia---,PRED_CO
+Leuven|Genesis|523|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|523|3,3,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|523|4,4,ἔξω,ἔξω,d--------,ADV
+Leuven|Genesis|523|5,5,καί,καί,b--------,COORD
+Leuven|Genesis|523|6,6,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis|523|7,7,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis|523|8,8,·,·,u--------,AuxK

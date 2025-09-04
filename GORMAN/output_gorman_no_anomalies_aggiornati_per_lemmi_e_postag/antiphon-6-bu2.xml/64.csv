@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;εἰ;εἰ;c--------;AuxC
+3;τὸν;ὁ;l-s---ma-;PNOM
+4;δόντα;δίδωμι;v-sapama-;SBJ
+5;τὸ;ὁ;l-s---na-;PNOM
+6;φάρμακόν;φάρμακον;n-s---na-;OBJ
+7;φασιν;φημί;v3ppia---;ADV
+8;αἴτιον;αἴτιος;a-s---ma-;PNOM
+9;εἶναι;εἰμί;v--pna---;OBJ
+10;,;punc;u--------;AuxX
+11;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+12;οὐκ;οὐ;d--------;AuxZ
+13;αἴτιος;αἴτιος;a-s---mn-;PNOM
+14;:;punc;u--------;AuxK
+15;εἰμί;εἰμί;v1spia---;PRED

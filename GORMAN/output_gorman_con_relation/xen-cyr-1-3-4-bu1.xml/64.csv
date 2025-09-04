@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,σὸς,σός,a-s---mn-,ATR
+4,πατήρ,πατήρ,n-s---mn-,SBJ
+5,",",punc1,u--------,AuxX
+6,ὦ,ὦ,i--------,AuxZ
+7,παῖ,παῖς,n-s---mv-,ExD
+8,",",punc1,u--------,AuxX
+9,πίνων,πίνω,v-sppamn-,ADV
+10,οὐ,οὐ,d--------,AuxZ
+11,μεθύσκεται,μεθύσκω,v3spie---,PRED
+12,;,punc1,u--------,AuxK

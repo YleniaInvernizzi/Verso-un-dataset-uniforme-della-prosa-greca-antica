@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;παρελθὼν;παρέρχομαι;v-sapamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ἔφραζε;φράζω;v3siia---;PRED
+4;τῇ;ὁ;l-s---fd-;ATR
+5;ἑωυτοῦ;ἑαυτοῦ;p-s---mg-;ATR
+6;γυναικὶ;γυνή;n-s---fd-;OBJ
+7;τὸν;ὁ;l-s---ma-;ATR
+8;πάντα;πᾶς;a-s---ma-;ATR
+9;Ἀστυάγεος;Ἀστυάγης;n-s---mg-;ATR
+10;ῥηθέντα;λέγω;v-sappma-;ATR
+11;λόγον;λόγος;n-s---ma-;OBJ
+12;.;punc;u--------;AuxK

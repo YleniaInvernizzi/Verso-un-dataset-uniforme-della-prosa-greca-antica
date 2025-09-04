@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ψεύσῃ,ψεύδω,v2sasm---,PRED_CO
+1,2,δὲ,δέ,d--------,AuxY
+2,3,μηδέν,μηδείς,p-s---na-,ADV
+3,4,",",punc1,u--------,AuxX
+4,5,ἀλλὰ,ἀλλά,c--------,COORD
+5,6,πάντα,πᾶς,a-p---na-,OBJ_CO
+6,7,τ-,τε,c--------,COORD
+7,8,ἀληθῆ,ἀληθής,a-p---na-,OBJ_CO
+8,9,λέγε,λέγω2,v2spma---,PRED_CO
+9,10,.,punc1,u--------,AuxK

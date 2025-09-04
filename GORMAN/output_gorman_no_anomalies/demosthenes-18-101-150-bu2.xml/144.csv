@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἕτερον,ἕτερος,a-s---na-,OBJ
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,ἀναμιμνῄσκεσθε,ἀναμιμνήσκω,v2ppie---,PRED
+3,4,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|25|1,1,ἀσπάζετε,ἀσπάζομαι,v2ppma---,PRED
+Leuven|21342|25|2,2,Γέμελλον,Γέμελλος,n-s---ma-,OBJ_CO
+Leuven|21342|25|3,3,καὶ,καί,b--------,COORD
+Leuven|21342|25|4,4,G,G,n-s---fa-,OBJ_CO
+Leuven|21342|25|5,5,τὴν,ὁ,l-s---fa-,ATR
+Leuven|21342|25|6,6,γυναῖκα,γυνή,n-s---fa-,APOS
+Leuven|21342|25|7,7,G,G,n-s---mg-,ATR
+Leuven|21342|25|8,8,.,.,u--------,AuxK

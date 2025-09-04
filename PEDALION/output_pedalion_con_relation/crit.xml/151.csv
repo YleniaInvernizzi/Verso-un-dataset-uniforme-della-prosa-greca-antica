@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|151|1,1,φαμὲν,φημί,v1ppia---,PRED_CO
+Leuven|0059-003|151|2,2,ἢ,ἤ,c--------,COORD
+Leuven|0059-003|151|3,3,οὔ,οὐ,d--------,AuxZ
+Leuven|0059-003|151|4,4,;,;,u--------,AuxK
+Leuven|0059-003|151|5,5,[0],,,PRED_CO

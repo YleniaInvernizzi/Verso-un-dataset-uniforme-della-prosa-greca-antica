@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|509|1,1,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|509|2,2,ἐπλούτισα,πλουτίζω,v1saia---,PRED
+Leuven|Genesis|509|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|509|4,4,Αβραμ,Αβραμ,n-s---ma-,OBJ
+Leuven|Genesis|509|5,5,·,·,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|634|1,1,ποῦ,ποῦ,d--------,PNOM
+Leuven|Genesis|634|2,2,Σαρρα,Σαρρα,n-s---fn-,SBJ
+Leuven|Genesis|634|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|634|4,4,γυνή,γυνή,n-s---fn-,APOS
+Leuven|Genesis|634|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|634|6,6,;,;,u--------,AuxK
+Leuven|Genesis|634|7,7,[0],,,PRED

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|177|1,1,οὐκ,οὐ,d--------,AuxZ
+Leuven|0554-001|177|2,2,ἀφήσω,ἀφίημι,v1sfia---,PRED
+Leuven|0554-001|177|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|0554-001|177|4,4,κέρδος,κέρδος,n-s---na-,OBJ
+Leuven|0554-001|177|5,5,.,.,u--------,AuxK

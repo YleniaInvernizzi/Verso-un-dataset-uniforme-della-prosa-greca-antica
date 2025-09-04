@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦν;εἰμί;v3siia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;τοῦ;ὁ;l-s---mg-;ATR
+4;ἀνδρὸς;ἀνήρ;n-s---mg-;SBJ
+5;ἀποθανόντος;ἀποθνῄσκω;v-sapamg-;ADV
+6;γυνὴ;γυνή;n-s---fn-;SBJ
+7;τῶν;ὁ;l-p---mg-;ATR
+8;Μασσαγετέων;Μασσαγέται;n-p---mg-;ATR
+9;βασίλεια;βασίλεια;n-s---fn-;PNOM
+10;.;punc;u--------;AuxK

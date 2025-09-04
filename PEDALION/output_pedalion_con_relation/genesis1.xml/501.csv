@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|502|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|502|2,2,ηὐλόγησεν,εὐλογέω,v3saia---,PRED_CO
+Leuven|Genesis|502|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|502|4,4,Αβραμ,Αβραμ,n-s---ma-,OBJ
+Leuven|Genesis|502|5,5,καί,καί,b--------,COORD
+Leuven|Genesis|502|6,6,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis|502|7,7,·,·,u--------,AuxK

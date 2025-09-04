@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1925|2|1,1,εἰ,εἰ,c--------,AuxC
+1,Leuven|1925|2|2,2,ἔρρωσαι,ῥώννυμι,v2srie---,ADV_CO
+2,Leuven|1925|2|3,3,καὶ,καί,c--------,COORD
+3,Leuven|1925|2|4,4,τὰ,ὁ,l-p---nn-,ATR
+4,Leuven|1925|2|5,5,λοιπά,λοιπός,a-p---nn-,SBJ
+5,Leuven|1925|2|6,6,σοί,σύ,p2s---cd-,OBJ
+6,Leuven|1925|2|7,7,ἐστι,εἰμί,v3spia---,ADV_CO
+7,Leuven|1925|2|8,8,πάντα,πᾶς,a-p---nn-,ATR
+8,Leuven|1925|2|9,9,κατὰ,κατά,r--------,AuxP
+9,Leuven|1925|2|10,10,γνώμην,γνώμη,n-s---fa-,PNOM
+11,Leuven|1925|2|12,12,ἔχοιμι,ἔχω,v1spoa---,PRED
+12,Leuven|1925|2|13,13,ἂν,ἄν,d--------,AuxY
+13,Leuven|1925|2|14,14,τοῖς,ὁ,l-p---md-,ATR
+14,Leuven|1925|2|15,15,θεοῖς,θεός,n-p---md-,OBJ
+15,Leuven|1925|2|16,16,πολλὴν,πολύς,a-s---fa-,ATR
+16,Leuven|1925|2|17,17,χάριν,χάρις,n-s---fa-,OBJ

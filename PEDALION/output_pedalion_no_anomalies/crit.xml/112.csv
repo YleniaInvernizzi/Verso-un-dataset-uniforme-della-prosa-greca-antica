@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-003|112|1,1,οἶμαι,οἴομαι,v1spie---,PRED
+1,Leuven|0059-003|112|2,2,ἔγωγε,ἐγώ,p1s---cn-,SBJ
+3,Leuven|0059-003|112|4,4,ὦ,ὦ,i--------,AuxZ
+4,Leuven|0059-003|112|5,5,Σώκρατες,Σωκράτης,n-s---mv-,ExD

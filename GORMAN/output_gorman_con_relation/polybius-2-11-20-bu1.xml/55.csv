@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,σπανίως,σπάνιος,d-------p,ADV
+2,δὲ,δέ,d--------,AuxY
+3,τοῦθʼ,οὗτος,p-p---na-,OBJ
+4,ὑπερβαίνουσι,ὑπερβαίνω,v3ppia---,PRED
+5,.,punc1,u--------,AuxK

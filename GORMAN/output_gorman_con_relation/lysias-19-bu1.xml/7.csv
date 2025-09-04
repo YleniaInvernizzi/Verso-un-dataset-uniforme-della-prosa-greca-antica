@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰκὸς,ἔοικα,v-srpann-,PNOM
+2,οὖν,οὖν,d--------,AuxY
+3,ὑμᾶς,σύ,p-p---ma-,SBJ
+4,εὔνοιαν,εὔνοια,n-s---fa-,OBJ
+5,πλείω,πλείων,a-s---fac,ATR
+6,ἔχειν,ἔχω,v--pna---,SBJ
+7,τοῖς,ὁ,l-p---md-,ATR
+8,ἀπολογουμένοις,ἀπολογέομαι,v-pppemd-,OBJ
+9,.,punc1,u--------,AuxK
+10,ἐστιν,εἰμί,v3spia---,PRED

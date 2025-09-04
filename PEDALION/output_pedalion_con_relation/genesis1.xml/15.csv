@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|16|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|16|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+Leuven|Genesis|16|3,3,ἑσπέρα,ἑσπέρα,n-s---fn-,SBJ
+Leuven|Genesis|16|4,4,καί,καί,b--------,COORD
+Leuven|Genesis|16|5,5,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+Leuven|Genesis|16|6,6,πρωί,πρωΐ,d--------,SBJ
+Leuven|Genesis|16|7,7,",",",",u--------,AuxX
+Leuven|Genesis|16|8,8,ἡμέρα,ἡμέρα,n-s---fn-,ExD
+Leuven|Genesis|16|9,9,δευτέρα,δεύτερος,a-s---fn-,ATR
+Leuven|Genesis|16|10,10,.,.,u--------,AuxK

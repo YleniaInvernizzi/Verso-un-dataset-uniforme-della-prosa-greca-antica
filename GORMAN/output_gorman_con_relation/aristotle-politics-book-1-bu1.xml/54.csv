@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,δικαιοσύνη,δικαιοσύνη,n-s---fn-,SBJ
+4,πολιτικόν,πολιτικός,a-s---nn-,PNOM
+5,:,punc1,u--------,AuxK
+6,ἐστιν,εἰμί,v3spia---,PNOM

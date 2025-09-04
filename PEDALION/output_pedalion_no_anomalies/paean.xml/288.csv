@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|290|1,1,καίτοι,καίτοι,c--------,AuxY
+1,Leuven|PaeanBrev|290|2,2,παρά,παρά,r--------,AuxG
+2,Leuven|PaeanBrev|290|3,3,πάντα,πᾶς,a-s---ma-,ADV
+3,Leuven|PaeanBrev|290|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|PaeanBrev|290|5,5,ἔμπροσθεν,ἔμπροσθεν,r--------,AuxP
+5,Leuven|PaeanBrev|290|6,6,χρόνον,χρόνος,n-s---ma-,ADV
+6,Leuven|PaeanBrev|290|7,7,οὐδεμιᾶς,οὐδείς,p-s---fg-,PNOM
+7,Leuven|PaeanBrev|290|8,8,γενομένης,γίγνομαι,v-sapmfg-,PRED
+8,Leuven|PaeanBrev|290|9,9,ἀνακωχῆς,ἀνοκωχή,n-s---fg-,SBJ
+9,Leuven|PaeanBrev|290|10,10,πολέμου,πόλεμος,n-s---mg-,ATR

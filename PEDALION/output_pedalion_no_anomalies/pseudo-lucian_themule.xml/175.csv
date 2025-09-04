@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|176|1,1,ὀπίσω,ὀπίσω,d--------,ADV
+1,Leuven|Ps-Luc|176|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|176|3,3,ἀπήιειν,ἄπειμι,v1siia---,ADV_CO
+3,Leuven|Ps-Luc|176|4,4,καὶ,καί,c--------,COORD
+4,Leuven|Ps-Luc|176|5,5,εἴσειμι,εἴσειμι,v1spia---,ADV_CO
+5,Leuven|Ps-Luc|176|6,6,αὖθις,αὖθις,d--------,ADV
+6,Leuven|Ps-Luc|176|7,7,εἰς,εἰς,r--------,AuxP
+7,Leuven|Ps-Luc|176|8,8,τὴν,ὁ,l-s---fa-,ATR
+8,Leuven|Ps-Luc|176|9,9,ἔπαυλιν,ἔπαυλις,n-s---fa-,OBJ

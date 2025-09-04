@@ -1,0 +1,4 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,-,punc1,u--------,AuxX
+1,2,ναί,ναί,d--------,ExD
+2,3,.,punc1,u--------,AuxK

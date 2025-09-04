@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|316|1,1,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+1,Leuven|PaeanBrev|316|2,2,λοιπόν,λοιπός,d--------,ADV
+2,Leuven|PaeanBrev|316|3,3,οἱ,ὁ,l-p---mn-,ATR
+3,Leuven|PaeanBrev|316|4,4,Ἄφροι,Ἄφρος,n-p---mn-,SBJ
+4,Leuven|PaeanBrev|316|5,5,κεκμηκότων,κάμνω,v-prpang-,ADV
+5,Leuven|PaeanBrev|316|6,6,αὐτοῖς,αὐτός,p-p---md-,ADV
+6,Leuven|PaeanBrev|316|7,7,τῶν,ὁ,l-p---ng-,ATR
+7,Leuven|PaeanBrev|316|8,8,πραγμάτων,πρᾶγμα,n-p---ng-,SBJ
+8,Leuven|PaeanBrev|316|9,9,εἰρήνην,εἰρήνη,n-s---fa-,OBJ
+9,Leuven|PaeanBrev|316|10,10,αἰτοῦσιν,αἰτέω,v3ppia---,PRED

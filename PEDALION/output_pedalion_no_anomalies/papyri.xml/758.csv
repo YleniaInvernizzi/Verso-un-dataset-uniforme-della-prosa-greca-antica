@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|76|5|1,1,οὐθέν,οὐδείς,p-s---na-,ATR
+1,Leuven|76|5|2,2,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+2,Leuven|76|5|3,3,κακόν,κακός,a-s---na-,OBJ
+3,Leuven|76|5|4,4,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+4,Leuven|76|5|5,5,ἀλλ’,ἀλλά,c--------,COORD
+5,Leuven|76|5|6,6,ἐκ,ἐκ,r--------,AuxP
+6,Leuven|76|5|7,7,τῶν,ὁ,l-p---ng-,ATR
+7,Leuven|76|5|8,8,ἐναντίων,ἐναντίος,a-p---ng-,ADV
+8,Leuven|76|5|9,9,ἐπιμεμέληται,ἐπιμελέομαι,v3srie---,PRED_CO
+10,Leuven|76|5|11,11,περί,περί,r--------,AuxP
+11,Leuven|76|5|12,12,ὧν,ὅς,p-p---ng-,ADV
+13,Leuven|76|5|14,14,ἐάν,ἐάν,c--------,AuxC
+14,Leuven|76|5|15,15,αἱρῆτε,αἱρέω,v2ppsa---,ADV
+16,Leuven|76|5|17,17,γράψατε,γράφω,v2pama---,ADV
+17,Leuven|76|5|18,18,μοι,ἐγώ,p1s---cd-,OBJ

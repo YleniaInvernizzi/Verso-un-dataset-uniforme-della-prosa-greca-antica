@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|516|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|516|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|516|3,3,ἓν,εἷς,m-s---na-,OBJ
+Leuven|Ps-Luc|516|4,4,ἐξ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|516|5,5,ἑνὸς,εἷς,m-s---ng-,ATR
+Leuven|Ps-Luc|516|6,6,ἐπιτρέχων,ἐπιτρέχω,v-sppamn-,ADV_CO
+Leuven|Ps-Luc|516|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|516|8,8,ἀπανθιζόμενος,ἀπανθίζω,v-sppemn-,ADV_CO
+Leuven|Ps-Luc|516|9,9,ἀπ’,ἀπό,r--------,AuxP
+Leuven|Ps-Luc|516|10,10,αὐτῶν,αὐτός,p-p---ng-,ATR
+Leuven|Ps-Luc|516|11,11,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|516|12,12,ἀνθῶν,ἄνθος,n-p---ng-,OBJ
+Leuven|Ps-Luc|516|13,13,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|516|14,14,ῥόδα,ῥόδον,n-p---na-,OBJ
+Leuven|Ps-Luc|516|15,15,κατέπινον,καταπίνω,v1siia---,PRED
+Leuven|Ps-Luc|516|16,16,.,.,u--------,AuxK

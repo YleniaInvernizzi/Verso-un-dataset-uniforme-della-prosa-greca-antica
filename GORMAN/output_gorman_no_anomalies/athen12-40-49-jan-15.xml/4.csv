@@ -1,0 +1,12 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,χεῖρες,χείρ,n-p---fn-,SBJ
+1,2,μὲν,μέν,d--------,AuxY
+2,3,ἁγναί,ἁγνός,a-p---fn-,PNOM
+3,4,",",punc1,u--------,AuxX
+4,5,φρὴν,φρήν,n-s---fn-,SBJ
+5,6,δ᾽,δέ,c--------,COORD
+6,7,ἔχει,ἔχω,v3spia---,PRED_CO
+7,8,μίασμά,μίασμα,n-s---na-,OBJ
+8,9,τι,τις,a-s---na-,ATR
+9,10,.,punc1,u--------,AuxK
+10,11,εἰσιν,εἰμί,v3ppia---,PRED_CO

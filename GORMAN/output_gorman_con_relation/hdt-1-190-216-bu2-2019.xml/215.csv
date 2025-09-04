@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,γαλακτοπόται,γαλακτοπότης,n-p---mn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,εἰσί,εἰμί,v3ppia---,PRED
+4,.,punc1,u--------,AuxK

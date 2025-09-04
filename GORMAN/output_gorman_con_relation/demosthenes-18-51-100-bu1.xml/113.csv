@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀλλὰ,ἀλλά,d--------,AuxY
+2,τίς,τις,p-s---mn-,SBJ
+3,ἦν,εἰμί,v3siia---,PRED
+4,ὁ,ὁ,l-s---mn-,ATR
+5,βοηθήσας,βοηθέω,v-sapamn-,PNOM_CO
+6,τοῖς,ὁ,l-p---md-,ATR
+7,Βυζαντίοις,Βυζάντιος,n-p---md-,OBJ
+8,καὶ,καί,c--------,COORD
+9,σώσας,σώζω,v-sapamn-,PNOM_CO
+10,αὐτούς,αὐτός,p-p---ma-,OBJ
+11,;,punc1,u--------,AuxK

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|94|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|94|2,2,ἦσαν,εἰμί,v3piia---,PRED_CO
+2,Leuven|Genesis|94|3,3,οἱ,ὁ,l-p---mn-,ATR
+3,Leuven|Genesis|94|4,4,δύο,δύο,m--------,SBJ
+4,Leuven|Genesis|94|5,5,γυμνοί,γυμνός,a-p---mn-,PNOM
+6,Leuven|Genesis|94|7,7,ὅ,ὅς,p-s---nn-,ATR
+7,Leuven|Genesis|94|8,8,τε,τε,c--------,AuxY
+8,Leuven|Genesis|94|9,9,Αδαμ,Αδαμ,n-s---mn-,APOS_CO
+9,Leuven|Genesis|94|10,10,καί,καί,c--------,COORD
+10,Leuven|Genesis|94|11,11,ἡ,ὁ,l-s---fn-,ATR
+11,Leuven|Genesis|94|12,12,γυνή,γυνή,n-s---fn-,SBJ_CO
+12,Leuven|Genesis|94|13,13,αὐτοῦ,αὐτός,p-s---mg-,ATR
+14,Leuven|Genesis|94|15,15,καί,καί,c--------,COORD
+15,Leuven|Genesis|94|16,16,οὐκ,οὐ,d--------,AuxZ
+16,Leuven|Genesis|94|17,17,ᾐσχύνοντο,αἰσχύνω,v3piie---,PRED_CO

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|108|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|108|2,2,εἰσῆλθεν,εἰσέρχομαι,v3saia---,PRED_CO
+Leuven|Genesis_deel2|108|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|108|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis_deel2|108|5,5,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|108|6,6,Αβιμελεχ,Αβιμελεχ,n-s---ma-,OBJ
+Leuven|Genesis_deel2|108|7,7,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|108|8,8,ὕπνῳ,ὕπνος,n-s---md-,ADV
+Leuven|Genesis_deel2|108|9,9,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|108|10,10,νύκτα,νύξ,n-s---fa-,ADV
+Leuven|Genesis_deel2|108|11,11,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|108|12,12,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|108|13,13,·,·,u--------,AuxK

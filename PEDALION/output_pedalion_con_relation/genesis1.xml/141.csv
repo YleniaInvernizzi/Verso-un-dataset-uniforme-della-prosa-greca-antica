@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|142|1,1,ἐκτησάμην,κτάομαι,v1saim---,PRED
+Leuven|Genesis|142|2,2,ἄνθρωπον,ἄνθρωπος,n-s---ma-,OBJ
+Leuven|Genesis|142|3,3,διά,διά,r--------,AuxP
+Leuven|Genesis|142|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|142|5,5,θεοῦ,θεός,n-s---mg-,ADV
+Leuven|Genesis|142|6,6,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Μεγαρέας,Μεγαρεύς,n-p---ma-,OBJ
+2,Πτοιόδωρος,Πτοιόδωρος,n-s---mn-,SBJ_CO
+3,",",punc1,u--------,AuxX
+4,Ἕλιξος,Ἕλιξος,n-s---mn-,SBJ_CO
+5,",",punc1,u--------,COORD
+6,Πέριλλος,Πέριλλος,n-s---mn-,SBJ_CO
+7,:,punc1,u--------,AuxK
+8,[0],,,PRED

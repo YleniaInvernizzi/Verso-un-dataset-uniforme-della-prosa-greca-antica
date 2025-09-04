@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|312|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|312|2,2,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|312|3,3,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Ps-Luc|312|4,4,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|312|5,5,ἀμύνειν,ἀμύνω,v--pna---,SBJ
+Leuven|Ps-Luc|312|6,6,ἀδύνατον,ἀδύνατος,a-s---nn-,PNOM
+Leuven|Ps-Luc|312|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|312|8,8,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|312|9,9,τιτρωσκόντων,τιτρώσκω,v-pppang-,SBJ
+Leuven|Ps-Luc|312|10,10,ἀεί,ἀεί,d--------,ADV
+Leuven|Ps-Luc|312|11,11,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|312|12,12,ἑπομένων,ἕπομαι,v-pppeng-,ADV_CO
+Leuven|Ps-Luc|312|13,13,κ-,καί,b--------,COORD
+Leuven|Ps-Luc|312|14,14,ἐμοῦ,ἐγώ,p1s---cg-,OBJ
+Leuven|Ps-Luc|312|15,15,ἠρτημένων,ἀρτάω,v-prpeng-,ADV_CO
+Leuven|Ps-Luc|312|16,16,.,.,u--------,AuxK

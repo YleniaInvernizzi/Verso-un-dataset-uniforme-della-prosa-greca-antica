@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|253|1,1,ἐπεὶ,ἐπεί,c--------,AuxC
+1,Leuven|Ps-Luc|253|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|253|3,3,εἴσω,εἴσω,d--------,ADV
+3,Leuven|Ps-Luc|253|4,4,πάλιν,πάλιν,d--------,ADV
+4,Leuven|Ps-Luc|253|5,5,ἀνεστρέψαμεν,ἀναστρέφω,v1paia---,ADV
+6,Leuven|Ps-Luc|253|7,7,τὴν,ὁ,l-s---fa-,ATR
+7,Leuven|Ps-Luc|253|8,8,μὲν,μέν,d--------,AuxY
+8,Leuven|Ps-Luc|253|9,9,γραῦν,γραῦς,n-s---fa-,SBJ
+9,Leuven|Ps-Luc|253|10,10,εὕρομεν,εὑρίσκω,v1paia---,PRED
+10,Leuven|Ps-Luc|253|11,11,ἐκ,ἐκ,r--------,AuxP
+11,Leuven|Ps-Luc|253|12,12,τῆς,ὁ,l-s---fg-,ATR
+12,Leuven|Ps-Luc|253|13,13,πέτρας,πέτρα,n-s---fg-,ADV
+13,Leuven|Ps-Luc|253|14,14,κρεμαμένην,κρεμάννυμι,v-sppefa-,OBJ
+14,Leuven|Ps-Luc|253|15,15,ἐν,ἐν,r--------,AuxP
+15,Leuven|Ps-Luc|253|16,16,καλωδίωι,καλῴδιον,n-s---nd-,ADV

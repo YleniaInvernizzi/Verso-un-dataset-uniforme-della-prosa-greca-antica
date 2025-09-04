@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|540|1,1,μετά,μετά,r--------,AuxP
+Leuven|Genesis|540|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|540|3,3,ταῦτα,οὗτος,p-p---na-,ADV
+Leuven|Genesis|540|4,4,ἐξελεύσονται,ἐξέρχομαι,v3pfim---,PRED
+Leuven|Genesis|540|5,5,ὧδε,ὧδε,d--------,ADV
+Leuven|Genesis|540|6,6,μετά,μετά,r--------,AuxP
+Leuven|Genesis|540|7,7,ἀποσκευῆς,ἀποσκευή,n-s---fg-,ADV
+Leuven|Genesis|540|8,8,πολλῆς,πολύς,a-s---fg-,ATR
+Leuven|Genesis|540|9,9,.,.,u--------,AuxK

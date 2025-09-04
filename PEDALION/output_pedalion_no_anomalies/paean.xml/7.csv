@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|8|1,1,ἐπειδή,ἐπεί,c--------,AuxC
+1,Leuven|PaeanBrev|8|2,2,σένης,σένηξ,n-p---mn-,PNOM
+2,Leuven|PaeanBrev|8|3,3,ἐκεῖνοι,ἐκεῖνος,p-p---mn-,SBJ
+3,Leuven|PaeanBrev|8|4,4,καλοῦσι,καλέω,v3ppia---,PRED
+4,Leuven|PaeanBrev|8|5,5,τούς,ὁ,l-p---ma-,ATR
+5,Leuven|PaeanBrev|8|6,6,γέροντας,γέρων,n-p---ma-,OCOMP

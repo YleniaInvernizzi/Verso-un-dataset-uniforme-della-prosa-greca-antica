@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀποθωμάσας,ἀποθαυμάζω,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,Κροῖσος,Κροῖσος,n-s---mn-,SBJ
+4,τὸ,ὁ,l-s---na-,ATR
+5,λεχθὲν,λέγω3,v-sappna-,OBJ
+6,εἴρετο,ἔρομαι,v3siie---,PRED
+7,ἐπιστρεφέως,ἐπιστρεφής,d--------,ADV
+8,:,punc1,u--------,AuxK

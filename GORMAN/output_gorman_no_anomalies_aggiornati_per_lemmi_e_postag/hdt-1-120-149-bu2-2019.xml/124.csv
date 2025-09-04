@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;προέβαινε;προβαίνω;v3siia---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;δὴ;δή;d--------;AuxY
+4;τὸ;ὁ;l-s---nn-;ATR
+5;ἔθνος;ἔθνος;n-s---nn-;SBJ
+6;ἄρχον;ἄρχω;n-s---mv-;OBJ_CO
+7;τε;τε;d--------;AuxY
+8;καὶ;καί;c--------;COORD
+9;ἐπιτροπεῦον;ἐπιτροπεύω;v-sppana-;OBJ_CO
+10;.;punc;u--------;AuxK

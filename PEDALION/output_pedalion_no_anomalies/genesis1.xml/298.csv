@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|299|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|299|2,2,αὐξάνεσθε,αὐξάνω,v2ppme---,PRED_CO
+2,Leuven|Genesis|299|3,3,καί,καί,c--------,COORD
+3,Leuven|Genesis|299|4,4,πληθύνεσθε,πληθύνω,v2ppme---,PRED_CO
+4,Leuven|Genesis|299|5,5,ἐπί,ἐπί,r--------,AuxP
+5,Leuven|Genesis|299|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|Genesis|299|7,7,γῆς,γῆ,n-s---fg-,ADV

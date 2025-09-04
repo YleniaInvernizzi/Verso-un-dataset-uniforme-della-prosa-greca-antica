@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καὶ,d-------_,AuxY
+2,τὰ,ὁ,l-p---nn-,ATR
+3,σοφὰ,σοφός,a-p---nn-,SBJ_CO
+4,καὶ,καί,c--------,COORD
+5,τὰ,ὁ,l-p---nn-,ATR
+6,περισσὰ,περισσός,a-p---nn-,SBJ_CO
+7,ἐπὶ,ἐπί,r--------,AuxP
+8,ταύτην,οὗτος,p-s---fa-,ATR
+9,ἔχει,ἔχω,v3spia---,PRED
+10,τὴν,ὁ,l-s---fa-,ATR
+11,ἀναφοράν,ἀναφορά,n-s---fa-,OBJ
+12,.,punc1,u--------,AuxK

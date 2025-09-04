@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|453|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|453|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|453|3,3,τότε,τότε,d--------,ADV
+Leuven|Ps-Luc|453|4,4,μηδὲν,μηδείς,p-s---na-,OBJ
+Leuven|Ps-Luc|453|5,5,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|453|6,6,δόλου,δόλος,n-s---mg-,ATR
+Leuven|Ps-Luc|453|7,7,εἰδὼς,οἶδα,v-srpamn-,ADV
+Leuven|Ps-Luc|453|8,8,ἠρίστων,ἀριστάω,v1siia---,PRED
+Leuven|Ps-Luc|453|9,9,προσελθών,προσέρχομαι,v-sapamn-,ADV
+Leuven|Ps-Luc|453|10,10,.,.,u--------,AuxK

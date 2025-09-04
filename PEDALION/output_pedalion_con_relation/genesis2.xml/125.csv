@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|126|1,1,ἔργον,ἔργον,n-s---na-,OBJ
+Leuven|Genesis_deel2|126|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|126|3,3,ὅ,ὅς,p-s---na-,OBJ
+Leuven|Genesis_deel2|126|4,4,οὐδείς,οὐδείς,p-s---mn-,SBJ
+Leuven|Genesis_deel2|126|5,5,ποιήσει,ποιέω,v3sfia---,ATR
+Leuven|Genesis_deel2|126|6,6,",",",",u--------,AuxX
+Leuven|Genesis_deel2|126|7,7,πεποίηκας,ποιέω,v2sria---,PRED
+Leuven|Genesis_deel2|126|8,8,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis_deel2|126|9,9,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔπειτα;ἔπειτα;d--------;AuxY
+2;εἴ;εἰ;c--------;AuxC
+3;τῳ;τις;p-s---md-;PNOM
+4;συνοικία;συνοικία;n-s---fn-;SBJ
+5;ἐστίν;εἰμί;v3spia---;ADV
+6;,;punc;u--------;AuxX
+7;ἄμεινον;ἀγαθός;a-s---nac;ADV
+8;πράττει;πράσσω;v3spia---;PRED
+9;:;punc;u--------;AuxK

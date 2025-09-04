@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;τὰ;ὁ;l-p---na-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;κείμενα;κεῖμαι;v-prpena-;OBJ
+4;ὡς;ὡς;c--------;AuxC
+5;μὴ;μή;d--------;AuxZ
+6;ῥᾴδια;ῥαίδιος;a-p---na-;PNOM
+7;εἶναι;εἰμί;v--pna---;ADV
+8;ἰδεῖν;ὁράω;v--pna---;ADV
+9;διηγεῖτο;διηγέομαι;v3siie---;PRED
+10;·;punc;u--------;AuxK

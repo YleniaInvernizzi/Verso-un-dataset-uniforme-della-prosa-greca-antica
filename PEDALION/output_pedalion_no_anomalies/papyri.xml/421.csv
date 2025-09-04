@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28065|6|1,1,ϛ,ϛ,m--------,ATR
+1,Leuven|28065|6|2,2,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+2,Leuven|28065|6|3,3,δ’,δέ,d--------,AuxY
+3,Leuven|28065|6|4,4,εἰσί,εἰμί,v3ppia---,PRED

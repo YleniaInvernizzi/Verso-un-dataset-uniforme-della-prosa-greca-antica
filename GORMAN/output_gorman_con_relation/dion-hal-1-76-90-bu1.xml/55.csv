@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,αὐξομένοις,αὐξάνω,v-pppemd-,ATV
+2,δὲ,δέ,d--------,AuxY
+3,αὐτοῖς,αὐτός,p-p---md-,OBJ_CO
+4,ὄνομα,ὄνομα,n-s---na-,OBJ_CO
+5,τίθεται,τίθημι,v3spie---,PRED_AP
+6,τῷ,ὁ,l-s---md-,OBJ_CO
+7,μὲν,μέν,d--------,AuxY
+8,Ῥωμύλον,Ῥωμύλος,n-s---ma-,OBJ_CO
+9,",",punc1,u--------,AuxX
+10,τῷ,ὁ,l-s---md-,OBJ_CO
+11,δὲ,δέ,c--------,COORD
+12,Ῥῶμον,Ῥῶμος,n-s---ma-,OBJ_CO
+13,.,punc1,u--------,AuxK
+14,τίθεται,τίθημι,v3spie---,PRED_AP_CO
+15,τίθεται,τίθημι,v3spie---,PRED_AP_CO
+16,[0],,,APOS

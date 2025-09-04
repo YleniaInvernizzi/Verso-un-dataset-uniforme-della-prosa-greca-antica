@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|139|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|139|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis_deel2|139|3,3,Αβιμελεχ,Αβιμελεχ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|139|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel2|139|5,5,Ἀβραάμ,Ἀβραάμ,n-s---md-,OBJ
+Leuven|Genesis_deel2|139|6,6,·,·,u--------,AuxK

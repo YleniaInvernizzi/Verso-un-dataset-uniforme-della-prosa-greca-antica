@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|247|1,1,οὐδὲ,οὐδέ,d--------,AuxZ
+1,Leuven|Ps-Luc|247|2,2,τὰ,ὁ,l-p---na-,ATR
+2,Leuven|Ps-Luc|247|3,3,δαιμόνια,δαιμόνιον,n-p---na-,OBJ
+3,Leuven|Ps-Luc|247|4,4,δέδοικας,δείδω,v2sria---,PRED

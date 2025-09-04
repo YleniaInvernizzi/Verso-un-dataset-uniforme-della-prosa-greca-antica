@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|135|1,1,σπεύσασα,σπεύδω,v-sapafn-,ADV
+1,Leuven|Ps-Luc|135|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|135|3,3,ἥμαρτον,ἁμαρτάνω,v1saia---,ADV_CO
+3,Leuven|Ps-Luc|135|4,4,ἐν,ἐν,r--------,AuxP
+4,Leuven|Ps-Luc|135|5,5,τῆι,ὁ,l-s---fd-,ATR
+5,Leuven|Ps-Luc|135|6,6,ὁμοιότητι,ὁμοιότης,n-s---fd-,OBJ
+6,Leuven|Ps-Luc|135|7,7,τῶν,ὁ,l-p---fg-,ATR
+7,Leuven|Ps-Luc|135|8,8,πυξίδων,πυξίς,n-p---fg-,ATR
+8,Leuven|Ps-Luc|135|9,9,καὶ,καί,c--------,COORD
+9,Leuven|Ps-Luc|135|10,10,ἄλλην,ἄλλος,p-s---fa-,OBJ
+10,Leuven|Ps-Luc|135|11,11,ἔλαβον,λαμβάνω,v3paia---,ADV_CO
+11,Leuven|Ps-Luc|135|12,12,οὐχὶ,οὐ,d--------,AuxZ
+12,Leuven|Ps-Luc|135|13,13,τὴν,ὁ,l-s---fa-,ATR
+13,Leuven|Ps-Luc|135|14,14,τὰ,ὁ,l-p---na-,ATR
+14,Leuven|Ps-Luc|135|15,15,πτερὰ,πτερόν,n-p---na-,OBJ
+15,Leuven|Ps-Luc|135|16,16,φύουσαν,φύω,v-sppafa-,APOS

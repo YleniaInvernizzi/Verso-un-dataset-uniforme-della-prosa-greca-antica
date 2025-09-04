@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτο,οὗτος,p-s---na-,OBJ
+2,ἱστορεῖ,ἱστορέω,v3spia---,PRED
+3,Ἡγήσανδρος,Ἡγήσανδρος,n-s---mn-,SBJ
+4,.,punc1,u--------,AuxK

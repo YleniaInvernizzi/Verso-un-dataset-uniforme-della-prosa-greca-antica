@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0544-002|175|1,1,ἄπειρα,ἄπειρος1,a-p---nn-,PNOM
+1,Leuven|0544-002|175|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|0544-002|175|3,3,ἐστι,εἰμί,v3spia---,PRED
+3,Leuven|0544-002|175|4,4,ταῦτα,οὗτος,p-p---nn-,SBJ

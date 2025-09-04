@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|236|1,1,τοῦτό,οὗτος,p-s---nn-,SBJ
+Leuven|Ps-Luc|236|2,2,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|236|3,3,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|236|4,4,παρώξυνεν,παροξύνω,v3saia---,PRED_CO
+Leuven|Ps-Luc|236|5,5,ὡς,ὡς,d--------,AuxZ
+Leuven|Ps-Luc|236|6,6,μάλιστα,μάλα,d-------s,ADV
+Leuven|Ps-Luc|236|7,7,ἐς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|236|8,8,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|236|9,9,φυγήν,φυγή,n-s---fa-,OBJ
+Leuven|Ps-Luc|236|10,10,",",",",u--------,AuxX
+Leuven|Ps-Luc|236|11,11,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|236|12,12,δρόμωι,δρόμος,n-s---md-,ADV
+Leuven|Ps-Luc|236|13,13,ἐξιὼν,ἔξειμι,v-sppamn-,ADV
+Leuven|Ps-Luc|236|14,14,ἀπήιειν,ἄπειμι,v1siia---,PRED_CO
+Leuven|Ps-Luc|236|15,15,.,.,u--------,AuxK

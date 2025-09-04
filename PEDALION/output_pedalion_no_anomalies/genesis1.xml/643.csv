@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|644|1,1,τί,τίς,p-s---na-,PNOM
+1,Leuven|Genesis|644|2,2,ὅτι,ὅτι,c--------,AuxC
+2,Leuven|Genesis|644|3,3,ἐγέλασεν,γελάω,v3saia---,SBJ
+3,Leuven|Genesis|644|4,4,Σαρρα,Σαρρα,n-s---fn-,SBJ
+4,Leuven|Genesis|644|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Genesis|644|6,6,ἑαυτῇ,ἑαυτοῦ,p-s---fd-,ADV
+6,Leuven|Genesis|644|7,7,λέγουσα,λέγω,v-sppafn-,ADV
+7,Leuven|Genesis|644|8,8,·,·,u--------,AuxK

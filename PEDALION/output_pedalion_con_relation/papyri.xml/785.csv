@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|77953|10|1,1,ἐπιμέλου,ἐπιμελέομαι,v2spme---,PRED
+Leuven|77953|10|2,2,δέ,δέ,d--------,AuxY
+Leuven|77953|10|3,3,Τιτόας,Τιτόα,n-s---mg-,OBJ_CO
+Leuven|77953|10|4,4,καί,καί,b--------,COORD
+Leuven|77953|10|5,5,Σφαίρου,Σφαῖρος,n-s---mg-,OBJ_CO
+Leuven|77953|10|6,6,.,.,u--------,AuxK

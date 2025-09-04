@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|25932|5|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|25932|5|2,2,τά,ὁ,l-p---nn-,ATR
+2,Leuven|25932|5|3,3,κτήνη,κτῆνος,n-p---nn-,SBJ
+3,Leuven|25932|5|4,4,ἐξέρχηται,ἐξέρχομαι,v3spse---,ADV
+4,Leuven|25932|5|5,5,ἐπί,ἐπί,r--------,AuxP
+5,Leuven|25932|5|6,6,γράστιν,γράστις,n-s---fa-,OBJ
+7,Leuven|25932|5|8,8,πέμψω,πέμπω,v1sfia---,PRED
+8,Leuven|25932|5|9,9,σοι,σύ,p2s---cd-,OBJ
+9,Leuven|25932|5|10,10,ἐλαίαν,ἐλαία,n-s---fa-,OBJ

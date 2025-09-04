@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;τὰς;ὁ;l-p---fa-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;χεῖρας;χείρ;n-p---fa-;OBJ
+4;ἔξω;ἔξω;r--------;AuxP
+5;τῶν;ὁ;l-p---fg-;ATR
+6;χειρίδων;χειρίς;n-p---fg-;ADV
+7;εἶχε;ἔχω;v3siia---;PRED
+8;.;punc;u--------;AuxK

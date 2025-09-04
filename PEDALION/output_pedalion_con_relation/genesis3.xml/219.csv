@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|220|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|220|2,2,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|220|3,3,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|220|4,4,αὐτός,αὐτός,p-s---mn-,OCOMP
+Leuven|Genesis_deel3|220|5,5,ἐδέσματα,ἔδεσμα,n-p---na-,OBJ
+Leuven|Genesis_deel3|220|6,6,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|220|7,7,προσήνεγκεν,προσφέρω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|220|8,8,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|220|9,9,πατρί,πατήρ,n-s---md-,OBJ
+Leuven|Genesis_deel3|220|10,10,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel3|220|11,11,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|220|12,12,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|220|13,13,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|220|14,14,πατρί,πατήρ,n-s---md-,OBJ
+Leuven|Genesis_deel3|220|15,15,·,·,u--------,AuxK

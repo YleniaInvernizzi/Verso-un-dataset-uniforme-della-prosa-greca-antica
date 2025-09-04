@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τοσοῦτοι,τοσοῦτος,p-p---mn-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,ἦσαν,εἰμί,v3piia---,PRED
+4,",",punc1,u--------,AuxX
+5,ὡς,ὡς,c--------,AuxC
+6,Ἀριστόβουλός,Ἀριστόβουλος,n-s---mn-,SBJ
+7,φησιν,φημί,v3spia---,AuxY
+8,.,punc1,u--------,AuxK

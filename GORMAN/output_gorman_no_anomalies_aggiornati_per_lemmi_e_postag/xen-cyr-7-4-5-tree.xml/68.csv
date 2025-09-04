@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἄνδρες;ἀνήρ;n-p---mv-;ExD
+2;σύμμαχοι;σύμμαχος;a-p---mv-;ATR
+3;,;punc;u--------;AuxX
+4;τεθεάμεθα;θεάομαι;v1prie---;PRED
+5;μὲν;μέν;d--------;AuxY
+6;κύκλῳ;κύκλος;n-s---md-;ADV
+7;τὴν;ὁ;l-s---fa-;ATR
+8;πόλιν;πόλις;n-s---fa-;OBJ
+9;·;punc;u--------;AuxK

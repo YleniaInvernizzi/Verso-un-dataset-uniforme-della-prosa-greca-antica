@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|559|1,1,εἶπεν,λέγω,v3saia---,PRED
+1,Leuven|Genesis|559|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|559|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+3,Leuven|Genesis|559|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|Genesis|559|5,5,Σαραν,Σαρα,n-s---fa-,OBJ
+5,Leuven|Genesis|559|6,6,·,·,u--------,AuxK

@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|71|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|71|2,2,ἐπειδὴ,ἐπειδή,c--------,AuxC
+2,Leuven|Ps-Luc|71|3,3,ἀφίκετό,ἀφικνέομαι,v3saim---,ADV
+3,Leuven|Ps-Luc|71|4,4,ποτε,ποτέ,d--------,ADV
+4,Leuven|Ps-Luc|71|5,5,ὁ,ὁ,l-s---mn-,ATR
+5,Leuven|Ps-Luc|71|6,6,Ἵππαρχος,Ἵππαρχος,n-s---mn-,SBJ
+7,Leuven|Ps-Luc|71|8,8,λουσάμενοι,λούω,v-papmmn-,ADV
+8,Leuven|Ps-Luc|71|9,9,ἐδειπνοῦμεν,δειπνέω,v1piia---,PRED_CO
+9,Leuven|Ps-Luc|71|10,10,καὶ,καί,c--------,COORD
+10,Leuven|Ps-Luc|71|11,11,πότος,πότος,n-s---mn-,SBJ
+11,Leuven|Ps-Luc|71|12,12,ἦν,εἰμί,v3siia---,PRED_CO
+12,Leuven|Ps-Luc|71|13,13,συχνὸς,συχνός,a-s---mn-,ATR
+13,Leuven|Ps-Luc|71|14,14,ἡμῶν,ἐγώ,p1p---cg-,SBJ
+14,Leuven|Ps-Luc|71|15,15,ὁμιλούντων,ὁμιλέω,v-pppamg-,ADV

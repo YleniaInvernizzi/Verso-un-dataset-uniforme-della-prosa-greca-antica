@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|40|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|40|2,2,εἶδεν,ὁράω,v3saia---,PRED
+2,Leuven|Genesis|40|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|40|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|Genesis|40|5,5,ὅτι,ὅτι,c--------,AuxC
+5,Leuven|Genesis|40|6,6,καλά,καλός,a-p---na-,PNOM

@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐλελήθει;λανθάνω;v3slia---;PRED
+2;δʼ;δέ;d--------;AuxY
+3;ἄρα;ἄρα;d--------;AuxY
+4;προδότης;προδότης;n-s---mn-;SBJ
+5;προδότῃ;προδότης;n-s---md-;OBJ
+6;διαλεγόμενος;διαλέγω;v-sppemn-;PNOM
+7;.;punc;u--------;AuxK

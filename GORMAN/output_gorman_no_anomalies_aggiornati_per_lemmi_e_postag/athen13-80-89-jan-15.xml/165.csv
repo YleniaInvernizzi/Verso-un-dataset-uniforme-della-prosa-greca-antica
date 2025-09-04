@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ὦ;ὦ;i--------;AuxZ
+2;πόνηρε;πονηρός;a-s---mv-;ExD
+3;,;punc;u--------;AuxX
+4;τοῖς;ὁ;l-p---md-;ATR
+5;ὀφθαλμοῖς;ὀφθαλμός;n-p---md-;ADV_CO
+6;γαμεῖς;γαμέω;v2spia---;PRED
+7;καὶ;καί;c--------;COORD
+8;οὐ;οὐ;d--------;AuxZ
+9;τῷ;ὁ;l-s---md-;ATR
+10;νῷ;νόος;n-s---md-;ADV_CO
+11;.;punc;u--------;AuxK

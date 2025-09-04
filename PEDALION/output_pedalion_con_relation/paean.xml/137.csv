@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|138|1,1,Φιδῆναι,Φιδήνη,n-p---fn-,APOS
+Leuven|PaeanBrev|138|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|138|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|138|4,4,πόλις,πόλις,n-s---fn-,SBJ
+Leuven|PaeanBrev|138|5,5,ἑάλω,ἁλίσκομαι,v3saia---,PRED_CO
+Leuven|PaeanBrev|138|6,6,καί,καί,b--------,COORD
+Leuven|PaeanBrev|138|7,7,κατεσκάφη,κατασκάπτω,v3saip---,PRED_CO
+Leuven|PaeanBrev|138|8,8,.,.,u--------,AuxK

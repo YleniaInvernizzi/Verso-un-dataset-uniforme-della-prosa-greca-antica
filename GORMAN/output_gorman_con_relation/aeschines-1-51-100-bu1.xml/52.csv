@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡσαύτως,ὡσαύτως,d--------,ADV
+2,Ἀμφισθένης,Ἀμφισθένης,n-s---mn-,SBJ
+3,μαρτυρεῖ,μαρτυρέω,v3spia---,PRED
+4,.,punc1,u--------,AuxK

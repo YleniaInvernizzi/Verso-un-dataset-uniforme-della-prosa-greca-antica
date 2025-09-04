@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|285|1,1,ἐχρῆν,χρή,v3siia---,PRED
+1,Leuven|Ps-Luc|285|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|285|3,3,ἄρα,ἄρα,d--------,AuxY
+3,Leuven|Ps-Luc|285|4,4,κ-,καί,d--------,AuxZ
+4,Leuven|Ps-Luc|285|5,5,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+5,Leuven|Ps-Luc|285|6,6,ὥσπερ,ὥσπερ,c--------,AuxC
+6,Leuven|Ps-Luc|285|7,7,Κανδαύληι,Κανδαύλης,n-s---md-,ADV
+7,Leuven|Ps-Luc|285|8,8,κ-,καί,d--------,AuxZ
+8,Leuven|Ps-Luc|285|9,9,ἐμοὶ,ἐγώ,p1s---cd-,ADV
+9,Leuven|Ps-Luc|285|10,10,γενέσθαι,γίγνομαι,v--anm---,SBJ

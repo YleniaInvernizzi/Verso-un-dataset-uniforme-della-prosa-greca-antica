@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|19|1,1,καθιερώθη,καθιερόω,v3saip---,PRED
+Leuven|PaeanBrev|19|2,2,οὗν,οὖν,d--------,AuxY
+Leuven|PaeanBrev|19|3,3,παρά,παρά,r--------,AuxP
+Leuven|PaeanBrev|19|4,4,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|19|5,5,ἀρχομένων,ἄρχω,v-pppemg-,OBJ
+Leuven|PaeanBrev|19|6,6,ἔτη,ἔτος,n-p---na-,ADV
+Leuven|PaeanBrev|19|7,7,βασιλεύσας,βασιλεύω,v-sapamn-,ADV
+Leuven|PaeanBrev|19|8,8,αὐτῶν,αὐτός,p-p---mg-,OBJ
+Leuven|PaeanBrev|19|9,9,ἑπτά,ἑπτά,m--------,ATR_CO
+Leuven|PaeanBrev|19|10,10,καί,καί,b--------,COORD
+Leuven|PaeanBrev|19|11,11,τριάκοντα,τριάκοντα,m--------,ATR_CO
+Leuven|PaeanBrev|19|12,12,.,.,u--------,AuxK

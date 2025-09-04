@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,σπουδάζει,σπουδάζω,v3spia---,PRED
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,πρός,πρός,r--------,AuxP
+3,4,τινας,τις,p-p---ca-,ADV
+4,5,·,punc1,u--------,AuxK

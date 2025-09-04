@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;τοῦτον;οὗτος;a-s---ma-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;ἐφύλαττον;φυλάσσω;v3piia---;PRED
+4;τὸν;ὁ;l-s---ma-;ATR
+5;καιρὸν;καιρός;n-s---ma-;ADV
+6;τὸ;ὁ;l-s---na-;ATR
+7;τεῖχος;τεῖχος;n-s---na-;OBJ
+8;οἱ;ὁ;l-p---mn-;ATR
+9;συμπράττοντες;συμπράσσω;v-pppamn-;SBJ
+10;αὐτῷ;αὐτός;p-s---md-;OBJ
+11;.;punc;u--------;AuxK

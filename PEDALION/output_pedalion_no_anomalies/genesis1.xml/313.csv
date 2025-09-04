@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|314|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Genesis|314|2,2,ἐκχέων,ἐκχέω,v-sppamn-,SBJ
+2,Leuven|Genesis|314|3,3,αἷμα,αἷμα,n-s---na-,OBJ
+3,Leuven|Genesis|314|4,4,ἀνθρώπου,ἄνθρωπος,n-s---mg-,ATR
+4,Leuven|Genesis|314|5,5,ἀντί,ἀντί,r--------,AuxP
+5,Leuven|Genesis|314|6,6,τοῦ,ὁ,l-s---ng-,ATR
+6,Leuven|Genesis|314|7,7,αἵματος,αἷμα,n-s---ng-,ADV
+7,Leuven|Genesis|314|8,8,αὐτοῦ,αὐτός,p-s---mg-,ATR
+8,Leuven|Genesis|314|9,9,ἐκχυθήσεται,ἐκχέω,v3sfip---,PRED
+10,Leuven|Genesis|314|11,11,ὅτι,ὅτι,c--------,AuxC
+11,Leuven|Genesis|314|12,12,ἐν,ἐν,r--------,AuxP
+12,Leuven|Genesis|314|13,13,εἰκόνι,εἰκών,n-s---fd-,ADV
+13,Leuven|Genesis|314|14,14,θεοῦ,θεός,n-s---mg-,ATR
+14,Leuven|Genesis|314|15,15,ἐποίησα,ποιέω,v1saia---,ADV
+15,Leuven|Genesis|314|16,16,τόν,ὁ,l-s---ma-,ATR
+16,Leuven|Genesis|314|17,17,ἄνθρωπον,ἄνθρωπος,n-s---ma-,OBJ

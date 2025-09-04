@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|153|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|153|2,2,οὕτως,οὕτως,d--------,ADV
+2,Leuven|Ps-Luc|153|3,3,μέγα,μέγας,a-s---na-,ATR
+3,Leuven|Ps-Luc|153|4,4,ἄχθος,ἄχθος,n-s---na-,OBJ
+4,Leuven|Ps-Luc|153|5,5,φέροντας,φέρω,v-pppama-,ADV
+5,Leuven|Ps-Luc|153|6,6,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+6,Leuven|Ps-Luc|153|7,7,ξύλοις,ξύλον,n-p---nd-,OBJ
+7,Leuven|Ps-Luc|153|8,8,παίοντες,παίω,v-pppamn-,ADV
+8,Leuven|Ps-Luc|153|9,9,ἤλαυνον,ἐλαύνω,v3piia---,PRED
+9,Leuven|Ps-Luc|153|10,10,εἰς,εἰς,r--------,AuxP
+10,Leuven|Ps-Luc|153|11,11,τὸ,ὁ,l-s---na-,ATR
+11,Leuven|Ps-Luc|153|12,12,ὄρος,ὄρος,n-s---na-,OBJ
+12,Leuven|Ps-Luc|153|13,13,ἀτρίπτωι,ἄτριπτος,a-s---fd-,ATR
+13,Leuven|Ps-Luc|153|14,14,ὁδῶι,ὁδός,n-s---fd-,ADV
+14,Leuven|Ps-Luc|153|15,15,φεύγειν,φεύγω,v--pna---,OBJ
+15,Leuven|Ps-Luc|153|16,16,πειρώμενοι,πειράω,v-pppemn-,ADV

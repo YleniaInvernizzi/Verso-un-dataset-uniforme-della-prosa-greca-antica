@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀναγκαῖον;ἀναγκαῖος;a-s---nn-;PNOM
+2;δὲ;δέ;d--------;AuxY
+3;διαφέρειν;διαφέρω;v--pna---;SBJ
+4;:;punc;u--------;AuxK
+5;ἐστιν;εἰμί;v3spia---;PRED

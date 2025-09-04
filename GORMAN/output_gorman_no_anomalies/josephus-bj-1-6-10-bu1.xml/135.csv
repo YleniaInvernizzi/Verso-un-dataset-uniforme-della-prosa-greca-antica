@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἦσαν,εἰμί,v3piia---,PRED
+1,2,δὲ,δέ,d--------,AuxY
+2,3,Ἰουδαῖοι,Ἰουδαῖος,n-p---mn-,SBJ
+3,4,Αἰγύπτιοι,Αἰγύπτιος,n-p---mn-,PNOM
+4,5,.,punc1,u--------,AuxK

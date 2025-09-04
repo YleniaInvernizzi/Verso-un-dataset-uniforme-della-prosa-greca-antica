@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|17|1,1,καὶ,καί,d--------,AuxZ
+Leuven|27086|17|2,2,σύ,σύ,p2s---cn-,SBJ
+Leuven|27086|17|3,3,.,.,u--------,AuxK
+Leuven|27086|17|4,4,[0],_,_,PRED

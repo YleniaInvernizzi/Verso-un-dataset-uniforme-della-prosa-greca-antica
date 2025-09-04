@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|353|1,1,τάς,ὁ,l-p---fa-,ATR
+1,Leuven|PaeanBrev|353|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|353|3,3,ἄλλας,ἄλλος,p-p---fa-,SBJ
+3,Leuven|PaeanBrev|353|4,4,τάς,ὁ,l-p---fa-,SBJ
+4,Leuven|PaeanBrev|353|5,5,μέν,μέν,d--------,AuxY
+5,Leuven|PaeanBrev|353|6,6,καταποντισθῆναι,καταποντίζω,v--anp---,ADV_CO
+7,Leuven|PaeanBrev|353|8,8,τάς,ὁ,l-p---fa-,SBJ
+8,Leuven|PaeanBrev|353|9,9,δέ,δέ,d--------,COORD
+9,Leuven|PaeanBrev|353|10,10,ὑπό,ὑπό,r--------,AuxP
+10,Leuven|PaeanBrev|353|11,11,τοῖς,ὁ,l-p---md-,ATR
+11,Leuven|PaeanBrev|353|12,12,πολεμίοις,πολέμιος,a-p---md-,ADV
+12,Leuven|PaeanBrev|353|13,13,μετά,μετά,r--------,AuxP
+13,Leuven|PaeanBrev|353|14,14,τῶν,ὁ,l-p---mg-,ATR
+14,Leuven|PaeanBrev|353|15,15,ἐμπλεόντων,ἐμπλέω,v-pppamg-,ATR
+15,Leuven|PaeanBrev|353|16,16,πολεμιστῶν,πολεμιστής,n-p---mg-,ADV
+16,Leuven|PaeanBrev|353|17,17,γενέσθαι,γίγνομαι,v--anm---,ADV_CO

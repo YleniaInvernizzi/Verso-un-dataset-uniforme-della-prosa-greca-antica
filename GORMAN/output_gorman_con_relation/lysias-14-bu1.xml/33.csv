@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδεὶς,οὐδείς,p-s---mn-,SBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,εἴσεται,οἶδα,v3sfim---,PRED
+4,τὰ,ὁ,l-p---na-,ATR
+5,ὑφʼ,ὑπό,r--------,AuxP
+6,ὑμῶν,σύ,p2p---mg-,OBJ
+7,καταψηφισθέντα,καταψηφίζομαι,v-papena-,OBJ
+8,·,punc1,u--------,AuxK

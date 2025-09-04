@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28820|16|1,1,ἔρρωσό,ῥώννυμι,v2srme---,PRED
+1,Leuven|28820|16|2,2,μοι,ἐγώ,p1s---cd-,ADV
+3,Leuven|28820|16|4,4,ἡ,ὁ,l-s---fv-,ATR
+4,Leuven|28820|16|5,5,κυρία,κυρία,n-s---fv-,ExD
+5,Leuven|28820|16|6,6,μου,ἐγώ,p1s---cg-,ATR
+6,Leuven|28820|16|7,7,διὰ,διά,r--------,AuxP
+7,Leuven|28820|16|8,8,παντός,πᾶς,a-s---ng-,ADV

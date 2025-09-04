@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἦσαν,εἰμί,v3piia---,PRED
+2,δʼ,δέ,d--------,AuxY
+3,αἱ,ὁ,l-p---fn-,ATR
+4,πᾶσαι,πᾶς,a-p---fn-,ATR
+5,νῆες,ναῦς,n-p---fn-,SBJ
+6,ἐν,ἐν,r--------,AuxP
+7,Σάμῳ,Σάμος,n-s---fd-,ATR
+8,πλείους,πλείων,a-p---fnc,PNOM
+9,τῶν,ὁ,l-p---fg-,ATR
+10,τετρακοσίων,τετρακόσιοι,a-p---fg-,ADV
+11,.,punc1,u--------,AuxK

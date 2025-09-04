@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31917|6|1,1,καί,καί,c--------,AuxY
+1,Leuven|31917|6|2,2,περί,περί,r--------,AuxP
+2,Leuven|31917|6|3,3,ὧν,ὅς,p-p---ng-,OBJ
+3,Leuven|31917|6|4,4,χρῄζεις,χρῄζω,v2spia---,ADV
+4,Leuven|31917|6|5,5,γράψον,γράφω,v2sama---,OBJ
+5,Leuven|31917|6|6,6,μοι,ἐγώ,p1s---cd-,OBJ
+7,Leuven|31917|6|8,8,ἀδελφή,ἀδελφή,n-s---fv-,ExD

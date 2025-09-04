@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,φίλη,φίλος,a-s---fn-,PNOM
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἡ,ὁ,l-s---fn-,ATR
+3,4,Θεωρίς,θεωρίς,n-s---fn-,SBJ
+4,5,.,punc1,u--------,AuxK

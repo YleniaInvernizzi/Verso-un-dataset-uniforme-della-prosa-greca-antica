@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;Κῦρος;Κῦρος;n-s---mn-;SBJ
+2;μὲν;μέν;d--------;AuxY
+3;ἐπέων;ἔπος;n-p---ng-;SBJ
+4;οὐδένα;οὐδείς;p-s---ma-;OCOMP
+5;τούτων;οὗτος;a-p---ng-;ATR
+6;ἀνενειχθέντων;ἀναφέρω;v-pappng-;ADV
+7;ἐποιέετο;ποιέω;v3siie---;PRED
+8;λόγον;λόγος;n-s---ma-;OBJ
+9;:;punc;u--------;AuxK

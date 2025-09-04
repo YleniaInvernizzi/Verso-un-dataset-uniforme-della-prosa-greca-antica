@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|28|1,1,νικῶνται,νικάω,v3ppie---,PRED
+1,Leuven|PaeanBrev|28|2,2,γοῦν,γοῦν,d--------,AuxY
+2,Leuven|PaeanBrev|28|3,3,Ἀλβανοί,Ἀλβανός,n-p---mn-,SBJ
+3,Leuven|PaeanBrev|28|4,4,μάχῃ,μάχη,n-s---fd-,ADV
+5,Leuven|PaeanBrev|28|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|PaeanBrev|28|7,7,Ῥώμης,Ῥώμη,n-s---fg-,OBJ
+7,Leuven|PaeanBrev|28|8,8,δυοκαίδεκα,δυοκαίδεκα,m--------,ATR
+8,Leuven|PaeanBrev|28|9,9,διεστῶτες,διίστημι,v-prpamn-,ATR
+9,Leuven|PaeanBrev|28|10,10,σημείοις,σημεῖον,n-p---nd-,ADV
+10,Leuven|PaeanBrev|28|11,11,̔,̔,u--------,AuxG
+11,Leuven|PaeanBrev|28|12,12,μίλια,μίλιον,n-p---na-,OCOMP
+12,Leuven|PaeanBrev|28|13,13,καλοῦσιν,καλέω,v3ppia---,ExD
+13,Leuven|PaeanBrev|28|14,14,αὐτά,αὐτός,p-p---na-,OBJ
+14,Leuven|PaeanBrev|28|15,15,Ῥωμαῖοι,Ῥωμαῖος,a-p---mn-,SBJ

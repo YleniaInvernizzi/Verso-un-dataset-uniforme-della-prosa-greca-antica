@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+2,μέν,μέν,d--------,AuxY
+3,μιν,μιν,p-s---ma-,OBJ
+4,οὐκ,οὐ,d--------,AuxZ
+5,εἶδον,εἶδον,v1saia---,PRED_CO
+6,",",punc1,u--------,AuxX
+7,τὰ,ὅς,p-p---nn-,SBJ
+8,δὲ,δέ,c--------,COORD
+9,λέγεται,λέγω3,v3spie---,ATR
+10,ὑπὸ,ὑπό,r--------,AuxP
+11,Χαλδαίων,χαλδαῖος,n-p---mg-,OBJ
+12,",",punc1,u--------,AuxX
+13,ταῦτα,οὗτος,p-p---na-,OBJ
+14,λέγω,λέγω3,v1spia---,PRED_CO
+15,.,punc1,u--------,AuxK

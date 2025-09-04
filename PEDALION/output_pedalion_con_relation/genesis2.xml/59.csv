@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|60|1,1,ἀνάστητε,ἀνίστημι,v2pama---,PRED_CO
+Leuven|Genesis_deel2|60|2,2,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|60|3,3,ἐξέλθατε,ἐξέρχομαι,v2pama---,PRED_CO
+Leuven|Genesis_deel2|60|4,4,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis_deel2|60|5,5,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|60|6,6,τόπου,τόπος,n-s---mg-,OBJ
+Leuven|Genesis_deel2|60|7,7,τούτου,οὗτος,p-s---mg-,ATR
+Leuven|Genesis_deel2|60|8,8,",",",",u--------,AuxX
+Leuven|Genesis_deel2|60|9,9,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis_deel2|60|10,10,ἐκτρίβει,ἐκτρίβω,v3spia---,OBJ
+Leuven|Genesis_deel2|60|11,11,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis_deel2|60|12,12,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|60|13,13,πόλιν,πόλις,n-s---fa-,OBJ
+Leuven|Genesis_deel2|60|14,14,.,.,u--------,AuxK

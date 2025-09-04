@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|36|1,1,ὅπερ,ὅσπερ,p-s---nn-,SBJ
+Leuven|0544-002|36|2,2,ἀλογώτατον,ἄλογος,a-s---nns,PNOM
+Leuven|0544-002|36|3,3,ὑπάρχει,ὑπάρχω,v3spia---,PRED
+Leuven|0544-002|36|4,4,.,.,u--------,AuxK

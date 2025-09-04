@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,προκινδυνεύσω,προκινδυνεύω,v1sfia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,κ-,καί,d--------,AuxZ
+4,ἀγὼ,ἐγώ,p-s---mn-,SBJ
+5,χρώμενος,χράομαι,v-sppemn-,ADV
+6,ὑμῖν,σύ,p-p---md-,OBJ
+7,πειθηνίοις,πειθήνιος,a-p---mdp,ATV
+8,:,punc1,u--------,AuxK

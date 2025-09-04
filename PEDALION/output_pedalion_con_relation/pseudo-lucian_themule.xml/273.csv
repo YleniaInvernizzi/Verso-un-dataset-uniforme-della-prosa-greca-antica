@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|274|1,1,παραλαβὼν,παραλαμβάνω,v-sapamn-,ADV_CO
+Leuven|Ps-Luc|274|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Ps-Luc|274|3,3,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|274|4,4,παρθένον,παρθένος,n-s---fa-,OBJ
+Leuven|Ps-Luc|274|5,5,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|274|6,6,καθίσας,καθίζω,v-sapamn-,ADV_CO
+Leuven|Ps-Luc|274|7,7,ἐπ’,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|274|8,8,ἐμὲ,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|274|9,9,οὕτως,οὕτως,d--------,ADV
+Leuven|Ps-Luc|274|10,10,ἦγεν,ἄγω,v3siia---,PRED
+Leuven|Ps-Luc|274|11,11,οἴκαδε,οἴκαδε,d--------,OBJ
+Leuven|Ps-Luc|274|12,12,.,.,u--------,AuxK

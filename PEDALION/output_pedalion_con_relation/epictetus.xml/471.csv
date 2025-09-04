@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|472|1,1,ἤνοικται,ἀνοίγνυμι,v3slie---,PRED
+Leuven|0557-001|472|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0557-001|472|3,3,θύρα,θύρα,n-s---fn-,SBJ
+Leuven|0557-001|472|4,4,.,.,u--------,AuxK

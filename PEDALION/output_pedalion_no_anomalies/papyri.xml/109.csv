@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|20442|5|1,1,ἐὰν,ἐάν,c--------,AuxC
+1,Leuven|20442|5|2,2,πολλὰ,πολύς,a-p---na-,ADV
+2,Leuven|20442|5|3,3,πολλῶν,πολύς,a-p---ng-,ATR
+3,Leuven|20442|5|4,4,τέκῃς,τίκτω,v2sasa---,ADV
+4,Leuven|20442|5|5,5,ἐὰν,ἐάν,c--------,AuxC
+5,Leuven|20442|5|6,6,ἦν,εἰμί,v3siia---,ADV
+6,Leuven|20442|5|7,7,ἄρσεν,ἄρσενος,a-s---nn-,PNOM
+7,Leuven|20442|5|8,8,ἄφες,ἀφίημι,v2sama---,PRED_CO
+9,Leuven|20442|5|10,10,ἐὰν,ἐάν,c--------,AuxC
+10,Leuven|20442|5|11,11,ἦν,εἰμί,v3siia---,ADV
+11,Leuven|20442|5|12,12,θήλεα,θῆλυς,a-s---fn-,PNOM
+12,Leuven|20442|5|13,13,ἔκβαλε,ἐκβάλλω,v2sama---,PRED_CO

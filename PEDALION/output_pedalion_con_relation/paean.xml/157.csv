@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|159|1,1,πᾶν,πᾶς,a-s---na-,ATR
+Leuven|PaeanBrev|159|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|159|3,3,τοῦτο,οὗτος,p-s---na-,ATR
+Leuven|PaeanBrev|159|4,4,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|159|5,5,ἔργον,ἔργον,n-s---na-,OBJ
+Leuven|PaeanBrev|159|6,6,εἴκοσιν,εἴκοσι,m--------,ATR
+Leuven|PaeanBrev|159|7,7,ἐπετέλεσεν,ἐπιτελέω,v3saia---,PRED_CO
+Leuven|PaeanBrev|159|8,8,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|PaeanBrev|159|9,9,πάσαις,πᾶς,a-p---fd-,ATR
+Leuven|PaeanBrev|159|10,10,ἡμέραις,ἡμέρα,n-p---fd-,ADV
+Leuven|PaeanBrev|159|11,11,καί,καί,b--------,COORD
+Leuven|PaeanBrev|159|12,12,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|159|13,13,τούτοις,οὗτος,p-p---nd-,ADV
+Leuven|PaeanBrev|159|14,14,ἐθριάμβευσεν,θριαμβεύω,v3saia---,PRED_CO
+Leuven|PaeanBrev|159|15,15,.,.,u--------,AuxK

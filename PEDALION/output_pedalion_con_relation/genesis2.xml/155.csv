@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|156|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|Genesis_deel2|156|2,2,ἀναγγελεῖ,ἀναγγέλλω,v3sfia---,PRED
+Leuven|Genesis_deel2|156|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel2|156|4,4,Ἀβραάμ,Ἀβραάμ,n-s---md-,OBJ
+Leuven|Genesis_deel2|156|5,5,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis_deel2|156|6,6,θηλάζει,θηλάζω,v3spia---,OBJ
+Leuven|Genesis_deel2|156|7,7,παιδίον,παιδίον,n-s---na-,OBJ
+Leuven|Genesis_deel2|156|8,8,Σαρρα,Σαρρα,n-s---fn-,SBJ
+Leuven|Genesis_deel2|156|9,9,;,;,u--------,AuxK

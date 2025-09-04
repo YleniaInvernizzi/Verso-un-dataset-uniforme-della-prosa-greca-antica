@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|181|1,1,τοσαύτη,τοσοῦτος,p-s---fn-,PNOM
+1,Leuven|PaeanBrev|181|2,2,τῶν,ὁ,l-p---mg-,ATR
+2,Leuven|PaeanBrev|181|3,3,στρατιωτικῶν,στρατιωτικός,a-p---mg-,ATR
+3,Leuven|PaeanBrev|181|4,4,ἦν,εἰμί,v3siia---,PRED
+4,Leuven|PaeanBrev|181|5,5,ἐπιθυμία,ἐπιθυμία,n-s---fn-,SBJ_CO
+5,Leuven|PaeanBrev|181|6,6,καί,καί,c--------,COORD
+6,Leuven|PaeanBrev|181|7,7,τῶν,ὁ,l-p---mg-,ATR
+7,Leuven|PaeanBrev|181|8,8,πολιτῶν,πολίτης,n-p---mg-,ATR
+8,Leuven|PaeanBrev|181|9,9,ἀνδρεία,ἀνδρεία,n-s---fn-,SBJ_CO

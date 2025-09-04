@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἕτερος,ἕτερος,a-s---mn-,ATR
+2,δέ,δέ,d--------,AuxY
+3,τις,τις,p-s---mn-,SBJ
+4,προσέθηκε,προστίθημι,v3saia---,PRED
+5,τῶν,ὁ,l-p---ng-,ATR
+6,Εὐριπίδου,Εὐριπίδης,n-s---mg-,ATR
+7,τάδε,ὅδε,p-p---na-,OBJ
+8,:,punc1,u--------,AuxK

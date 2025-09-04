@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|223|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Genesis_deel2|223|2,2,θεός,θεός,n-s---mn-,SBJ
+2,Leuven|Genesis_deel2|223|3,3,ὄψεται,ὁράω,v3sfim---,PRED
+3,Leuven|Genesis_deel2|223|4,4,ἑαυτῷ,ἑαυτοῦ,p-s---md-,OBJ
+4,Leuven|Genesis_deel2|223|5,5,πρόβατον,πρόβατον,n-s---na-,OBJ
+5,Leuven|Genesis_deel2|223|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Genesis_deel2|223|7,7,ὁλοκάρπωσιν,ὁλοκάρπωσις,n-s---fa-,ATR
+8,Leuven|Genesis_deel2|223|9,9,τέκνον,τέκνον,n-s---nv-,ExD

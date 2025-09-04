@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|421|1,1,ὁ,ὁ,l-s---mn-,SBJ
+Leuven|Ps-Luc|421|2,2,δέ,δέ,d--------,AuxY
+Leuven|Ps-Luc|421|3,3,",",",",u--------,AuxX
+Leuven|Ps-Luc|421|4,4,οἶμαι,οἴομαι,v1spie---,ExD
+Leuven|Ps-Luc|421|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|421|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|421|7,7,φωνῆς,φωνή,n-s---fg-,ATR
+Leuven|Ps-Luc|421|8,8,ἀνόητος,ἀνόητος,a-s---mn-,PNOM
+Leuven|Ps-Luc|421|9,9,ὢν,εἰμί,v-sppamn-,ADV
+Leuven|Ps-Luc|421|10,10,οὐδὲν,οὐδείς,p-s---na-,OBJ
+Leuven|Ps-Luc|421|11,11,ἀπεκρίνατο,ἀποκρίνω,v3saim---,ATR
+Leuven|Ps-Luc|421|12,12,·,·,u--------,AuxK

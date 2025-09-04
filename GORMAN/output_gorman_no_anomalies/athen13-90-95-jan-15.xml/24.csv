@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,ὁ,ὁ,l-s---mn-,ATR
+2,3,Μυρτίλος,Μυρτίλος,n-s---mn-,SBJ
+3,4,:,punc1,u--------,AuxK

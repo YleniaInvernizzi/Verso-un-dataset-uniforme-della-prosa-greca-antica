@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;εἷς;εἷς;a-s---mn-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;μοι;ἐγώ;p1s---md-;ADV
+4;μοῦνος;μόνος;a-s---mn-;ATV
+5;τυγχάνεις;τυγχάνω;v2spia---;PRED
+6;ἐὼν;εἰμί;v-sppamn-;PNOM
+7;παῖς;παῖς;n-s---mn-;PNOM
+8;:;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,βασίλειον,βασίλειον,n-s---nn-,PNOM
+1,2,αὕτη,οὗτος,p-s---fn-,SBJ
+2,3,τῆς,ὁ,l-s---fg-,ATR
+3,4,Ἀραβίας,Ἀραβία,n-s---fg-,ATR
+4,5,ἐστίν,εἰμί,v3spia---,PRED
+5,6,.,punc1,u--------,AuxK

@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1728|4|1,1,ἀλλʼ,ἀλλά,d--------,AuxY
+Leuven|1728|4|2,2,ἐπιπαραγενόμενος,ἐπιπαραγίγνομαι,v-sapmmn-,ADV
+Leuven|1728|4|3,3,Ὀλυμπιχὸς,Ὀλυμπιχός,n-s---mn-,SBJ
+Leuven|1728|4|4,4,ἔφη,φημί,v3siia---,PRED_CO
+Leuven|1728|4|5,5,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|1728|4|6,6,τύπτων,τύπτω,v-sppamn-,ADV
+Leuven|1728|4|7,7,σαπρὸν,σαπρός,a-s---na-,ADV
+Leuven|1728|4|8,8,ποιήσειν,ποιέω,v--fna---,OBJ
+Leuven|1728|4|9,9,ἢ,ἤ,b--------,COORD
+Leuven|1728|4|10,10,πεποίηκεν,ποιέω,v3sria---,PRED_CO
+Leuven|1728|4|11,11,ὃς,ὅς,p-s---mn-,SBJ
+Leuven|1728|4|12,12,ἤδη,ἤδη,d--------,ADV
+Leuven|1728|4|13,13,σχεδὸν,σχεδόν,d--------,ADV
+Leuven|1728|4|14,14,ἦν,εἰμί,v3siia---,OBJ
+Leuven|1728|4|15,15,εὐπρεπής,εὐπρεπής,a-s---mn-,PNOM
+Leuven|1728|4|16,16,.,.,u--------,AuxK

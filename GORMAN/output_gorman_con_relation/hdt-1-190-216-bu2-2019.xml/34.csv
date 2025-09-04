@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,χρέωνται,χράω2,v3ppse---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,οὐδὲν,οὐδείς,p-s---na-,ADV_CO
+4,ἐλαίῳ,ἔλαιον,n-s---nd-,OBJ
+5,ἀλλ᾽,ἀλλά,c--------,COORD
+6,ἐκ,ἐκ,r--------,AuxP
+7,τῶν,ὁ,l-p---ng-,ATR
+8,σησάμων,σήσαμον,n-p---ng-,ADV
+9,ποιεῦντες,ποιέω,v-pppamn-,ADV_CO
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,Παλαιὰ,Παλαιά,n-s---fn-,PNOM
+4,προσαγορευομένη,προσαγορεύω,v-sppefn-,SBJ
+5,τούτου,οὗτος,p-s---ng-,SBJ
+6,συμβάντος,συμβαίνω,v-sapang-,ADV
+7,ἐκινδύνευσεν,κινδυνεύω,v3saia---,PRED
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἔγχαλκα,ἔγχαλκος,a-p---nn-,PNOM
+1,2,",",punc1,u--------,AuxX
+2,3,ἔφη,φημί,v3siia---,PRED
+3,4,παιδίον,παιδίον,n-s---nv-,ExD
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|325|1,1,ἀλλ’,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|325|2,2,ἕτερον,ἕτερος,a-s---na-,OBJ
+Leuven|Ps-Luc|325|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|325|4,4,ἀκάθαρτος,ἀκάθαρτος,a-s---mn-,ATR
+Leuven|Ps-Luc|325|5,5,παῖς,παῖς,n-s---cn-,SBJ
+Leuven|Ps-Luc|325|6,6,ἐξεῦρεν,ἐξευρίσκω,v3saia---,PRED
+Leuven|Ps-Luc|325|7,7,ἐπ’,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|325|8,8,ἐμὲ,ἐγώ,p1s---ca-,ADV
+Leuven|Ps-Luc|325|9,9,μακρῶι,μακρός,a-s---nd-,ADV
+Leuven|Ps-Luc|325|10,10,κάκιον,κακός,a-s---nac,ATR
+Leuven|Ps-Luc|325|11,11,·,·,u--------,AuxK

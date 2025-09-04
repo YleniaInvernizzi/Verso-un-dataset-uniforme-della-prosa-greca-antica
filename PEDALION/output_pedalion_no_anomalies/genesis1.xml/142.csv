@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|143|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|143|2,2,προσέθηκεν,προστίθημι,v3saia---,PRED
+2,Leuven|Genesis|143|3,3,τεκεῖν,τίκτω,v--ana---,OBJ
+3,Leuven|Genesis|143|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|Genesis|143|5,5,ἀδελφόν,ἀδελφός,n-s---ma-,OBJ
+5,Leuven|Genesis|143|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+6,Leuven|Genesis|143|7,7,τόν,ὁ,l-s---ma-,ATR
+7,Leuven|Genesis|143|8,8,Αβελ,Αβελ,n-s---ma-,APOS

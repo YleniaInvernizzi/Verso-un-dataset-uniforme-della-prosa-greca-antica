@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|442|1,1,ἔσται,εἰμί,v3sfim---,PRED
+1,Leuven|Genesis|442|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Genesis|442|3,3,ὡς,ὡς,c--------,AuxC
+3,Leuven|Genesis|442|4,4,ἄν,ἄν,d--------,AuxY
+4,Leuven|Genesis|442|5,5,ἴδωσιν,ὁράω,v3pasa---,ADV
+5,Leuven|Genesis|442|6,6,σε,σύ,p2s---ca-,OBJ
+6,Leuven|Genesis|442|7,7,οἱ,ὁ,l-p---mn-,ATR
+7,Leuven|Genesis|442|8,8,Αἰγύπτιοι,Αἰγύπτιος,a-p---mn-,SBJ
+9,Leuven|Genesis|442|10,10,ἐροῦσιν,λέγω,v3pfia---,OBJ
+10,Leuven|Genesis|442|11,11,ὅτι,ὅτι,c--------,AuxC
+11,Leuven|Genesis|442|12,12,·,·,u--------,AuxK

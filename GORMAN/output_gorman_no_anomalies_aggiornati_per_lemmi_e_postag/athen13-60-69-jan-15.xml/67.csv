@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐκαλεῖτο;καλέω;v3siie---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxZ
+4;Χαριτοβλέφαρος;Χαριτοβλέφαρος;a-s---mn-;PNOM
+5;.;punc;u--------;AuxK

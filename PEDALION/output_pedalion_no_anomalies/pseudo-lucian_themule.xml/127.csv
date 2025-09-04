@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|128|1,1,ἠβουλόμην,βούλομαι,v1siie---,PRED
+1,Leuven|Ps-Luc|128|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|128|3,3,πείραι,πεῖρα,n-s---fd-,ADV
+3,Leuven|Ps-Luc|128|4,4,μαθεῖν,μανθάνω,v--ana---,OBJ
+4,Leuven|Ps-Luc|128|5,5,εἰ,εἰ,c--------,AuxC
+5,Leuven|Ps-Luc|128|6,6,μεταμορφωθεὶς,μεταμορφόω,v-sappmn-,ADV
+6,Leuven|Ps-Luc|128|7,7,ἐκ,ἐκ,r--------,AuxP
+7,Leuven|Ps-Luc|128|8,8,τοῦ,ὁ,l-s---mg-,ATR
+8,Leuven|Ps-Luc|128|9,9,ἀνθρώπου,ἄνθρωπος,n-s---mg-,ADV
+9,Leuven|Ps-Luc|128|10,10,καὶ,καί,d--------,AuxZ
+10,Leuven|Ps-Luc|128|11,11,τὴν,ὁ,l-s---fa-,ATR
+11,Leuven|Ps-Luc|128|12,12,ψυχὴν,ψυχή,n-s---fa-,ADV
+12,Leuven|Ps-Luc|128|13,13,ὄρνις,ὄρνις,n-s---fn-,PNOM
+13,Leuven|Ps-Luc|128|14,14,ἔσομαι,εἰμί,v1sfim---,OBJ

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|128|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|128|2,2,πρός,πρός,r--------,AuxP
+Leuven|Genesis|128|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|128|4,4,ἄνδρα,ἀνήρ,n-s---ma-,PNOM
+Leuven|Genesis|128|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|128|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|128|7,7,ἀποστροφή,ἀποστροφή,n-s---fn-,SBJ
+Leuven|Genesis|128|8,8,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|128|9,9,",",",",u--------,AuxX
+Leuven|Genesis|128|10,10,καί,καί,b--------,COORD
+Leuven|Genesis|128|11,11,αὐτός,αὐτός,p-s---mn-,SBJ_CO
+Leuven|Genesis|128|12,12,σου,σύ,p2s---cg-,OBJ
+Leuven|Genesis|128|13,13,κυριεύσει,κυριεύω,v3sfia---,PRED_CO
+Leuven|Genesis|128|14,14,.,.,u--------,AuxK
+Leuven|Genesis|128|15,15,[0],,,PRED_CO

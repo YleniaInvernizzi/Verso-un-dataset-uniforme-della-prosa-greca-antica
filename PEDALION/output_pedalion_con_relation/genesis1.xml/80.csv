@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|81|1,1,ᾗ,ὅς,p-s---fd-,ATR
+Leuven|Genesis|81|2,2,δ’,δέ,d--------,AuxY
+Leuven|Genesis|81|3,3,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis|81|4,4,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+Leuven|Genesis|81|5,5,φάγητε,ἐσθίω,v2pasa---,ADV
+Leuven|Genesis|81|6,6,ἀπ’,ἀπό,r--------,AuxP
+Leuven|Genesis|81|7,7,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+Leuven|Genesis|81|8,8,",",",",u--------,AuxX
+Leuven|Genesis|81|9,9,θανάτῳ,θάνατος,n-s---md-,ADV
+Leuven|Genesis|81|10,10,ἀποθανεῖσθε,ἀποθνῄσκω,v2pfim---,PRED
+Leuven|Genesis|81|11,11,.,.,u--------,AuxK

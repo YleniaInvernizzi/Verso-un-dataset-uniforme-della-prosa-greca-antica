@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;σὺν;σύν;r--------;AuxP
+3;τοῖσδε;ὅδε;p-p---md-;ADV
+4;Κλοέντιος;Κλοέντιος;n-s---mn-;SBJ
+5;ἀγωνιζόμενος;ἀγωνίζομαι;v-sppemn-;ADV
+6;ἔπεσε;πίπτω;v3saia---;PRED
+7;.;punc;u--------;AuxK

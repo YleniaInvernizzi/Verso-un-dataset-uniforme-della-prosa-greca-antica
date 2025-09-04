@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;τέλος;τέλος;n-s---na-;ADV
+2;δʼ;δέ;d--------;AuxY
+3;οὖν;οὖν;d--------;AuxY
+4;πολλὰ;πολύς;a-p---na-;ATR
+5;θηρία;θηρίον;n-p---na-;OBJ
+6;ἔχων;ἔχω;v-sppamn-;ADV
+7;ὁ;ὁ;l-s---mn-;ATR
+8;Ἀστυάγης;Ἀστυάγης;n-s---mn-;SBJ
+9;ἀπῄει;ἄπειμι;v3siia---;PRED
+10;.;punc;u--------;AuxK

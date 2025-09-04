@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|234|1,1,δικαίως,δικαίως,d--------,ADV
+Leuven|Genesis_deel3|234|2,2,ἐκλήθη,καλέω,v3saip---,PRED
+Leuven|Genesis_deel3|234|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis_deel3|234|4,4,ὄνομα,ὄνομα,n-s---nn-,SBJ
+Leuven|Genesis_deel3|234|5,5,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel3|234|6,6,Ιακωβ,Ἰακώβ,n-s---mn-,OCOMP
+Leuven|Genesis_deel3|234|7,7,·,·,u--------,AuxK

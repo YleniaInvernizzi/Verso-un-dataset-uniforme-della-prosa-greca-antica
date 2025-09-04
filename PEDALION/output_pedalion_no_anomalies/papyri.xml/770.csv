@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|7667|6|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+1,Leuven|7667|6|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|7667|6|3,3,με,ἐγώ,p1s---ca-,SBJ
+3,Leuven|7667|6|4,4,ἔχοντα,ἔχω,v-sppama-,OBJ
+4,Leuven|7667|6|5,5,παρά,παρά,r--------,AuxP
+5,Leuven|7667|6|6,6,Φιλωνίδου,Φιλωνίδης,n-s---mg-,ADV
+6,Leuven|7667|6|7,7,δραχμάς,δραχμή,n-p---fa-,OBJ
+7,Leuven|7667|6|8,8,ο,ο,n--------,ATR

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|44|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|44|2,2,τῆς,ὁ,l-s---fg-,ATR
+2,Leuven|PaeanBrev|44|3,3,τοῦ,ὁ,l-s---ng-,ATR
+3,Leuven|PaeanBrev|44|4,4,Καπιτωλίου,Καπετώλιον,n-s---ng-,ATR
+4,Leuven|PaeanBrev|44|5,5,κατασκευῆς,κατασκευή,n-s---fg-,OBJ
+5,Leuven|PaeanBrev|44|6,6,ἤρξατο,ἄρχω,v3saim---,PRED

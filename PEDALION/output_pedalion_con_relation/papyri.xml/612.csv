@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31649|3|1,1,οὐδέν,οὐδείς,p-s---nn-,SBJ
+Leuven|31649|3|2,2,δύσκολον,δύσκολος,a-s---nn-,ATR
+Leuven|31649|3|3,3,ἔνι,ἔνειμι,v3spia---,PRED
+Leuven|31649|3|4,4,ἐπί,ἐπί,r--------,AuxP
+Leuven|31649|3|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|31649|3|6,6,οἰκίας,οἰκία,n-s---fg-,ADV
+Leuven|31649|3|7,7,σου,σύ,p2s---cg-,ATR
+Leuven|31649|3|8,8,.,.,u--------,AuxK

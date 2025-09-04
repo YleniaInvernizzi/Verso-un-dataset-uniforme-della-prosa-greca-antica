@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃ,ὅς,p-s---na-,OBJ
+2,νῦν,νῦν,d--------,ADV
+3,Αἰτωλοὶ,Αἰτωλοί,n-p---mn-,SBJ
+4,πάρεισιν,πάρειμι1,v3ppia---,PRED
+5,ὑμᾶς,σύ,p-p---ma-,OBJ
+6,ἀξιοῦντες,ἀξιόω,v-pppamn-,ADV
+7,.,punc1,u--------,AuxK

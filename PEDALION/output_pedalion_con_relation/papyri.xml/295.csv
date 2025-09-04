@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27107|8|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+Leuven|27107|8|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|27107|8|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+Leuven|27107|8|4,4,",",",",u--------,AuxX
+Leuven|27107|8|5,5,τιμιώτατε,τίμιος,a-s---mvs,ExD
+Leuven|27107|8|6,6,GGαGρωςGG,,,
+Leuven|27107|8|7,7,.,.,u--------,AuxK

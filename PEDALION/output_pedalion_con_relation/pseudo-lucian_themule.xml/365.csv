@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|366|1,1,ἐπειδὰν,ἐπειδάν,c--------,AuxC
+Leuven|Ps-Luc|366|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|366|3,3,κατακόψειαν,κατακόπτω,v3paoa---,ADV
+Leuven|Ps-Luc|366|4,4,οὕτως,οὕτως,d--------,ADV
+Leuven|Ps-Luc|366|5,5,ἑαυτούς,ἑαυτοῦ,p-p---ma-,OBJ
+Leuven|Ps-Luc|366|6,6,",",",",u--------,AuxX
+Leuven|Ps-Luc|366|7,7,ἐκ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|366|8,8,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|366|9,9,περιεστηκότων,περιΐστημι,v-prpamg-,ATR
+Leuven|Ps-Luc|366|10,10,θεατῶν,θεατής,n-p---mg-,ADV
+Leuven|Ps-Luc|366|11,11,συνέλεγον,συλλέγω,v3piia---,PRED
+Leuven|Ps-Luc|366|12,12,ὀβολοὺς,ὀβολός,n-p---ma-,OBJ_CO
+Leuven|Ps-Luc|366|13,13,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|366|14,14,δραχμάς,δραχμή,n-p---fa-,OBJ_CO
+Leuven|Ps-Luc|366|15,15,·,·,u--------,AuxK

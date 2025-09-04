@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|158|1,1,μαθὼν,μανθάνω,v-sapamn-,ADV
+1,Leuven|Ps-Luc|158|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|158|3,3,ὅτι,ὅτι,c--------,AuxC
+3,Leuven|Ps-Luc|158|4,4,ἄλλως,ἄλλος,d--------,ADV
+4,Leuven|Ps-Luc|158|5,5,ἐβόων,βοάω,v1siia---,ADV
+6,Leuven|Ps-Luc|158|7,7,ἔγνων,γιγνώσκω,v1saia---,PRED
+7,Leuven|Ps-Luc|158|8,8,σιγῆι,σιγή,n-s---fd-,ADV
+8,Leuven|Ps-Luc|158|9,9,προϊέναι,πρόειμι,v--pna---,OBJ_CO
+9,Leuven|Ps-Luc|158|10,10,καὶ,καί,c--------,COORD
+10,Leuven|Ps-Luc|158|11,11,κερδαίνειν,κερδαίνω,v--pna---,OBJ_CO
+11,Leuven|Ps-Luc|158|12,12,τὸ,ὁ,l-s---nn-,ATR
+12,Leuven|Ps-Luc|158|13,13,μὴ,μή,d--------,AuxZ
+13,Leuven|Ps-Luc|158|14,14,παίεσθαι,παίω,v--pne---,SBJ

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἄγων;ἄγω;v-sppamn-;ADV_CO
+2;Γλυκέραν;Γλυκέρα;n-s---fa-;OBJ
+3;τε;τε;d--------;AuxZ
+4;τὴν;ὁ;l-s---fa-;ATR
+5;Θαλασσίδος;Θαλασσίς;n-s---fg-;ATR
+6;,;punc;u--------;COORD
+7;ζεῦγος;ζεῦγος;n-s---na-;OBJ
+8;ἔχων;ἔχω;v-sppamn-;ADV_CO
+9;.;punc;u--------;AuxK

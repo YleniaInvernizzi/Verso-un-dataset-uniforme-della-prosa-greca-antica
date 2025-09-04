@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|198|1,1,λοιπὸν,λοιπός,a-s---na-,ADV
+1,Leuven|Ps-Luc|198|2,2,μετὰ,μετά,r--------,AuxP
+2,Leuven|Ps-Luc|198|3,3,τοῦτο,οὗτος,p-s---na-,ADV
+3,Leuven|Ps-Luc|198|4,4,ἦν,εἰμί,v3siia---,PRED
+4,Leuven|Ps-Luc|198|5,5,ἄριστον,ἄριστον,n-s---nn-,SBJ_CO
+5,Leuven|Ps-Luc|198|6,6,δαψιλὲς,δαψιλής,a-s---nn-,ATR
+6,Leuven|Ps-Luc|198|7,7,καὶ,καί,c--------,COORD
+7,Leuven|Ps-Luc|198|8,8,λόγος,λόγος,n-s---mn-,SBJ_CO
+8,Leuven|Ps-Luc|198|9,9,πολὺς,πολύς,a-s---mn-,ATR
+9,Leuven|Ps-Luc|198|10,10,ἐν,ἐν,r--------,AuxP
+10,Leuven|Ps-Luc|198|11,11,τῶι,ὁ,l-s---nd-,ATR
+11,Leuven|Ps-Luc|198|12,12,συμποσίωι,συμπόσιον,n-s---nd-,ADV
+12,Leuven|Ps-Luc|198|13,13,τῶν,ὁ,l-p---mg-,ATR
+13,Leuven|Ps-Luc|198|14,14,ἀνδροφόνων,ἀνδροφόνος,a-p---mg-,ATR

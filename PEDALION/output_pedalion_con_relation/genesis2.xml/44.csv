@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|45|1,1,ἐξάξω,ἐξάγω,v1sfia---,PRED_CO
+Leuven|Genesis_deel2|45|2,2,αὐτάς,αὐτός,p-p---fa-,OBJ
+Leuven|Genesis_deel2|45|3,3,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|45|4,4,ὑμᾶς,σύ,p2p---ca-,OBJ
+Leuven|Genesis_deel2|45|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|45|6,6,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|45|7,7,χρήσασθε,χράω,v2pamm---,PRED_CO
+Leuven|Genesis_deel2|45|8,8,αὐταῖς,αὐτός,p-p---fd-,OBJ
+Leuven|Genesis_deel2|45|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel2|45|10,10,καθά,καθά,d--------,ADV
+Leuven|Genesis_deel2|45|11,11,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis_deel2|45|12,12,ἀρέσκῃ,ἀρέσκω,v3spsa---,PRED_CO
+Leuven|Genesis_deel2|45|13,13,ὑμῖν,σύ,p2p---cd-,OBJ
+Leuven|Genesis_deel2|45|14,14,·,·,u--------,AuxK

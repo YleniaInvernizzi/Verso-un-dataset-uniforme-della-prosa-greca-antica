@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|284|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|284|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+Leuven|Genesis_deel3|284|3,3,Ιακωβ,Ἰακώβ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|284|4,4,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel3|284|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+Leuven|Genesis_deel3|284|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel3|284|7,7,τόπου,τόπος,n-s---mg-,ATR
+Leuven|Genesis_deel3|284|8,8,ἐκείνου,ἐκεῖνος,p-s---mg-,ATR
+Leuven|Genesis_deel3|284|9,9,Οἶκος,οἶκος,n-s---mn-,OCOMP
+Leuven|Genesis_deel3|284|10,10,θεοῦ,θεός,n-s---mg-,ATR
+Leuven|Genesis_deel3|284|11,11,·,·,u--------,AuxK

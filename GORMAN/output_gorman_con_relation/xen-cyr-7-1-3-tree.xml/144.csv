@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,εἰσπεσόντες,εἰσπίπτω,v-papamn-,ADV
+3,παίουσιν,παίω,v3ppia---,PRED_CO
+4,ἀφορῶντας,ἀφοράω,v-pppama-,OBJ
+5,καὶ,καί,c--------,COORD
+6,πολλοὺς,πολύς,a-p---ma-,OBJ
+7,κατακαίνουσιν,κατακαίνω,v3ppia---,PRED_CO
+8,.,.,u--------,AuxK

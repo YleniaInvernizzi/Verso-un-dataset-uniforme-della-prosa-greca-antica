@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|70|1,1,δύο,δύο,m-d---mn-,PNOM_CO
+Leuven|PaeanBrev|70|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|70|3,3,ἦσαν,εἰμί,v3piia---,PRED
+Leuven|PaeanBrev|70|4,4,οὗτοι,οὗτος,p-p---mn-,SBJ
+Leuven|PaeanBrev|70|5,5,καί,καί,b--------,COORD
+Leuven|PaeanBrev|70|6,6,ἐτήσιοι,ἐτήσιος,a-p---mn-,PNOM_CO
+Leuven|PaeanBrev|70|7,7,·,·,u--------,AuxK

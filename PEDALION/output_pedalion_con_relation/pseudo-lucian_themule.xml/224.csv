@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|225|1,1,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|225|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|225|3,3,σκευῶν,σκεῦος,n-p---ng-,ATR
+Leuven|Ps-Luc|225|4,4,ἃ,ὅς,p-p---na-,OBJ
+Leuven|Ps-Luc|225|5,5,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|225|6,6,ἡμεῖς,ἐγώ,p1p---cn-,SBJ
+Leuven|Ps-Luc|225|7,7,οἴσομεν,φέρω,v1pfia---,PRED_CO
+Leuven|Ps-Luc|225|8,8,",",",",u--------,AuxX
+Leuven|Ps-Luc|225|9,9,ἃ,ὅς,p-p---na-,OBJ
+Leuven|Ps-Luc|225|10,10,δὲ,δέ,b--------,COORD
+Leuven|Ps-Luc|225|11,11,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|225|12,12,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|225|13,13,ἵππος,ἵππος,n-s---mn-,SBJ
+Leuven|Ps-Luc|225|14,14,.,.,u--------,AuxK
+Leuven|Ps-Luc|225|15,15,[0],_,-,PRED_CO

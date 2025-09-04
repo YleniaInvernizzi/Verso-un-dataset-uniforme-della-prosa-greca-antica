@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|221|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|221|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|221|3,3,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|221|4,4,θανάτου,θάνατος,n-s---mg-,ATR
+Leuven|Ps-Luc|221|5,5,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|221|6,6,φόβος,φόβος,n-s---mn-,SBJ
+Leuven|Ps-Luc|221|7,7,ἀναίσθητον,ἀναίσθητος,a-s---ma-,OCOMP
+Leuven|Ps-Luc|221|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|221|9,9,ὀδύνης,ὀδύνη,n-s---fg-,ADV
+Leuven|Ps-Luc|221|10,10,ἔθηκεν,τίθημι,v3saia---,PRED
+Leuven|Ps-Luc|221|11,11,.,.,u--------,AuxK

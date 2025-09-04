@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,παρασκευάζεσθε,παρασκευάζω,v2ppme---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τὸν,ὁ,l-s---ma-,ATR
+4,πόλεμον,πόλεμος,n-s---ma-,OBJ
+5,ἅμα,ἅμα,d--------,ADV
+6,.,punc1,u--------,AuxK

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|305|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|305|2,2,κατήιειν,κάτειμι,v1siia---,PRED
+2,Leuven|Ps-Luc|305|3,3,ἄθλιος,ἄθλιος,a-s---mn-,ADV
+3,Leuven|Ps-Luc|305|4,4,τοῖς,ὁ,l-p---nd-,ATR
+4,Leuven|Ps-Luc|305|5,5,ξύλοις,ξύλον,n-p---nd-,ADV
+5,Leuven|Ps-Luc|305|6,6,ὁμοῦ,ὁμοῦ,r--------,AuxP
+6,Leuven|Ps-Luc|305|7,7,καὶ,καί,d--------,AuxZ
+7,Leuven|Ps-Luc|305|8,8,λίθους,λίθος,n-p---ma-,OBJ
+8,Leuven|Ps-Luc|305|9,9,ἀχρείους,ἀχρεῖος,a-p---ma-,ATR
+9,Leuven|Ps-Luc|305|10,10,περιφέρων,περιφέρω,v-sppamn-,ADV

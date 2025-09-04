@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|178|1,1,ἀνάστηθι,ἀνίστημι,v2sama---,PRED
+Leuven|Genesis_deel2|178|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|178|3,3,λαβέ,λαμβάνω,v2sama---,PRED_CO
+Leuven|Genesis_deel2|178|4,4,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|178|5,5,παιδίον,παιδίον,n-s---na-,OBJ
+Leuven|Genesis_deel2|178|6,6,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|178|7,7,κράτησον,κρατέω,v2sama---,PRED_CO
+Leuven|Genesis_deel2|178|8,8,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel2|178|9,9,χειρί,χείρ,n-s---fd-,ADV
+Leuven|Genesis_deel2|178|10,10,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|178|11,11,αὐτό,αὐτός,p-s---na-,OBJ
+Leuven|Genesis_deel2|178|12,12,·,·,u--------,AuxK

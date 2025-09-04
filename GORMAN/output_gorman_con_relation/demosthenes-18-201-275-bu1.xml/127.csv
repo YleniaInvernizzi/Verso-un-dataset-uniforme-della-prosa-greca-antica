@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,οὑτωσὶ,οὑτωσί,d--------,ADV
+2,δὲ,δέ,d--------,AuxY
+3,λογίζεσθε,λογίζομαι,v2ppme---,PRED
+4,.,punc1,u--------,AuxK

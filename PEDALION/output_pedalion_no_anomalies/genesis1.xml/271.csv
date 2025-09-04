@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|272|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|272|2,2,ἔκλεισεν,κλείω,v3saia---,PRED
+2,Leuven|Genesis|272|3,3,κύριος,κύριος,n-s---mn-,SBJ
+3,Leuven|Genesis|272|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|272|5,5,θεός,θεός,n-s---mn-,APOS
+5,Leuven|Genesis|272|6,6,ἔξωθεν,ἔξωθεν,r--------,AuxP
+6,Leuven|Genesis|272|7,7,αὐτοῦ,αὐτός,p-s---mg-,ADV
+7,Leuven|Genesis|272|8,8,τήν,ὁ,l-s---fa-,ATR
+8,Leuven|Genesis|272|9,9,κιβωτόν,κιβωτός,n-s---fa-,OBJ

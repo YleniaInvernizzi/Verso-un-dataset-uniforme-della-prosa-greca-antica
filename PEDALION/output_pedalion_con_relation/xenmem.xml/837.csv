@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|838|1,1,οὔτ’,οὔτι,d--------,AuxZ
+Leuven|0032-002|838|2,2,ἀπὸ,ἀπό,r--------,AuxP
+Leuven|0032-002|838|3,3,τῶν,ὁ,l-p---fg-,ATR
+Leuven|0032-002|838|4,4,οἰκιῶν,οἰκία,n-p---fg-,ADV
+Leuven|0032-002|838|5,5,·,·,u--------,AuxK
+Leuven|0032-002|838|6,6,[0],,,PRED

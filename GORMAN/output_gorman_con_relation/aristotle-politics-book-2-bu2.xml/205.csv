@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,φησὶ,φημί,v3spia---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,δεῖν,δεῖ,v--pna---,OBJ
+4,ἴσας,ἴσος,a-p---fa-,PNOM
+5,εἶναι,εἰμί,v--pna---,SBJ
+6,τὰς,ὁ,l-p---fa-,ATR
+7,κτήσεις,κτῆσις,n-p---fa-,SBJ
+8,τῶν,ὁ,l-p---mg-,ATR
+9,πολιτῶν,πολίτης,n-p---mg-,ATR
+10,.,punc1,u--------,AuxK

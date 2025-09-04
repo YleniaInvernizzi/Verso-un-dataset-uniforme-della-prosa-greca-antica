@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔλεγε;λέγω;v3siia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;εἴτε;εἴτε;d--------;AuxY
+4;ἀληθεύων;ἀληθεύω;v-sppamn-;ADV_CO
+5;εἴθʼ;εἴτε;c--------;COORD
+6;ἵνα;ἵνα;c--------;AuxC
+7;σῶος;σῶς;a-s---mn-;AtvV
+8;ἀχθείη;ἄγω;v3saop---;ADV_CO
+9;πρὸς;πρός;r--------;AuxP
+10;αὐτόν;αὐτός;p-s---ma-;OBJ
+11;.;punc;u--------;AuxK

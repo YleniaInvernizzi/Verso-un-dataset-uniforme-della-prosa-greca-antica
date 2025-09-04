@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|189|1,1,Κορβῖνος,Κορβῖνος,n-s---mn-,OCOMP
+1,Leuven|PaeanBrev|189|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|189|3,3,ὠνομάσθη,ὀνομάζω,v3saip---,PRED
+3,Leuven|PaeanBrev|189|4,4,ἀπό,ἀπό,r--------,AuxP
+4,Leuven|PaeanBrev|189|5,5,τοῦ,ὁ,l-s---mg-,ATR
+5,Leuven|PaeanBrev|189|6,6,κόρακος,κόραξ,n-s---mg-,ADV
+6,Leuven|PaeanBrev|189|7,7,οὕτω,οὕτως,d--------,ADV
+7,Leuven|PaeanBrev|189|8,8,κατά,κατά,r--------,AuxP
+8,Leuven|PaeanBrev|189|9,9,τήν,ὁ,l-s---fa-,ATR
+9,Leuven|PaeanBrev|189|10,10,τῶν,ὁ,l-p---mg-,ATR
+10,Leuven|PaeanBrev|189|11,11,Ἰταλῶν,Ἰταλός,n-p---mg-,ATR
+11,Leuven|PaeanBrev|189|12,12,ὀνομαζομένου,ὀνομάζω,v-sppemg-,ATR
+12,Leuven|PaeanBrev|189|13,13,φωνήν,φωνή,n-s---fa-,ADV

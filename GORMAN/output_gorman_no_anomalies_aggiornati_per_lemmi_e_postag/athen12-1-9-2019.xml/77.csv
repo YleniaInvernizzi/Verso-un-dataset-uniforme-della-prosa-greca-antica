@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τοιοῦτός;τοιοῦτος;a-s---mn-;PNOM
+2;ἐστιν;εἰμί;v3spia---;PRED
+3;καὶ;καί;d--------;AuxZ
+4;ὁ;ὁ;l-s---mn-;ATR
+5;παραινῶν;παραινέω;v-sppamn-;SBJ
+6;Ἀμφιλόχῳ;Ἀμφίλοχος;n-s---md-;ATR
+7;τῷ;ὁ;l-s---md-;ATR
+8;παιδί;παῖς;n-s---md-;OBJ
+9;:;punc;u--------;AuxK

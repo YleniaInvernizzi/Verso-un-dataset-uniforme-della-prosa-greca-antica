@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,θᾶττον,θάσσων,a-s---nac,ADV
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,θανάτου,θάνατος,n-s---mg-,ADV
+3,4,θεῖ,θέω,v3spia---,PRED
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|470|1,1,εἰ,εἰ,c--------,AuxC
+1,Leuven|Genesis|470|2,2,σύ,σύ,p2s---cn-,SBJ
+2,Leuven|Genesis|470|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|Genesis|470|4,4,ἀριστερά,ἀριστερός,a-p---na-,OBJ
+5,Leuven|Genesis|470|6,6,ἐγώ,ἐγώ,p1s---cn-,SBJ
+6,Leuven|Genesis|470|7,7,εἰς,εἰς,r--------,AuxP
+7,Leuven|Genesis|470|8,8,δεξιά,δεξιός,a-p---na-,OBJ
+8,Leuven|Genesis|470|9,9,·,·,u--------,AuxK

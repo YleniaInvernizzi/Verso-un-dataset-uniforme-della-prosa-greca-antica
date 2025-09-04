@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,γελώντων,γελάω,v-pppamg-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ἅμα,ἅμα,d--------,ADV
+4,εἶπεν,εἶπον,v3saia---,PRED
+5,ὁ,ὁ,l-s---mn-,ATR
+6,Ὑστάσπας,Ὑστάσπης,n-s---mn-,SBJ
+7,·,punc1,u--------,AuxK

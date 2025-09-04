@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,τοιαῦτα,τοιοῦτος,p-p---na-,OBJ
+2,λέγοντες,λέγω3,v-pppamn-,ADV
+3,ἔπειθον,πείθω,v3piia---,PRED
+4,τὸν,ὁ,l-s---ma-,ATR
+5,δῆμον,δῆμος,n-s---ma-,OBJ
+6,·,punc1,u--------,AuxK

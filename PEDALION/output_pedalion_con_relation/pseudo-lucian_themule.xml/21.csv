@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|22|1,1,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|Ps-Luc|22|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|22|3,3,αὐτὸ,αὐτός,p-s---na-,OBJ
+Leuven|Ps-Luc|22|4,4,σὺ,σύ,p2s---cn-,SBJ
+Leuven|Ps-Luc|22|5,5,μεγάλην,μέγας,a-s---fa-,ATR
+Leuven|Ps-Luc|22|6,6,οἰκίαν,οἰκία,n-s---fa-,OCOMP
+Leuven|Ps-Luc|22|7,7,ἀνεξικάκως,ἀνεξίκακος,d--------,ADV
+Leuven|Ps-Luc|22|8,8,οἰκήσας,οἰκέω,v-sapamn-,ADV
+Leuven|Ps-Luc|22|9,9,.,.,u--------,AuxK

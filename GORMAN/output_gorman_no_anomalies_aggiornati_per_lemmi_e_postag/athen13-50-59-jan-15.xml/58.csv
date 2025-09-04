@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;γομφίους;γομφίος;n-p---ma-;OBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;οὐκ;οὐ;d--------;AuxZ
+4;ἔχει;ἔχω;v3spia---;PRED
+5;.;punc;u--------;AuxK

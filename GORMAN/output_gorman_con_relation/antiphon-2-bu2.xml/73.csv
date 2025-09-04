@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---na-,OBJ
+2,μὲν,μέν,d--------,AuxY
+3,οὖν,οὖν,d--------,AuxY
+4,ἐπιεικέστερον,ἐπιεικής,a-s---nac,ADV_CO
+5,ἢ,ἢ,c--------,COORD
+6,δικαιότερον,δίκαιος,a-s---nac,ADV_CO
+7,παρήσω,παρίημι,v1sfia---,PRED
+8,:,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;διψῶν;διψάω;v-sppamn-;ADV
+2;παύεται;παύω;v3spie---;PRED_CO
+3;,;punc;u--------;AuxX
+4;ἄλλο;ἄλλος;a-s---na-;ATR
+5;δὲ;δέ;c--------;COORD
+6;κακὸν;κακός;a-s---na-;ATR
+7;οὐδὲν;οὐδείς;p-s---na-;OBJ
+8;πάσχει;πάσχω;v3spia---;PRED_CO
+9;·;punc;u--------;AuxK

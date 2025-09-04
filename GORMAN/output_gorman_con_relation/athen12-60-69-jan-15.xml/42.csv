@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁποῖον,ὁποῖος,a-s---na-,OBJ
+2,καὶ,καὶ,d-------_,ADV
+3,οἱ,ὁ,l-p---mn-,ATR
+4,τρυφῶντες,τρυφάω,v-pppamn-,SBJ
+5,πάσχουσι,πάσχω,v3ppia---,PRED
+6,τὸ,ὁ,l-s---na-,ATR
+7,παρὸν,πηρός,a-s---na-,SBJ
+8,εὖ,εὖ,d--------,ATR
+9,ποιεῖν,ποιέω,v--pna---,OBJ
+10,ἀξιοῦντες,ἀξιόω,v-pppamn-,ADV
+11,.,punc1,u--------,AuxK

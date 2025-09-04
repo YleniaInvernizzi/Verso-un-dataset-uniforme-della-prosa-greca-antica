@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀνοητότατοι,ἀνόητος,a-p---mns,PNOM
+1,2,γάρ,γάρ,d--------,AuxY
+2,3,εἰσιν,εἰμί,v3ppia---,PRED
+3,4,οἱ,ὁ,l-p---mn-,ATR
+4,5,λογοποιοῦντες,λογοποιέω,v-pppamn-,SBJ
+5,6,.,punc1,u--------,AuxK

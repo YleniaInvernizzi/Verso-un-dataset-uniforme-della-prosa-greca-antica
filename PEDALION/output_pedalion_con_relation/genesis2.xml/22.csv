@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|23|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|23|2,2,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|23|3,3,ἀπολέσω,ἀπόλλυμι,v1sasa---,PRED
+Leuven|Genesis_deel2|23|4,4,ἕνεκεν,ἕνεκα,r--------,AuxP
+Leuven|Genesis_deel2|23|5,5,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Genesis_deel2|23|6,6,εἴκοσι,εἴκοσι,m--------,ADV
+Leuven|Genesis_deel2|23|7,7,.,.,u--------,AuxK

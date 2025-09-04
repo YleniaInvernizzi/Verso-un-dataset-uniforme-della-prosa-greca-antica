@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|149|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|149|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+2,Leuven|Genesis_deel2|149|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|149|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis_deel2|149|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+5,Leuven|Genesis_deel2|149|6,6,τοῦ,ὁ,l-s---mg-,ATR
+6,Leuven|Genesis_deel2|149|7,7,υἱοῦ,υἱός,n-s---mg-,ATR
+7,Leuven|Genesis_deel2|149|8,8,αὐτοῦ,αὐτός,p-s---mg-,ATR
+8,Leuven|Genesis_deel2|149|9,9,τοῦ,ὁ,l-s---mg-,ATR
+9,Leuven|Genesis_deel2|149|10,10,γενομένου,γίγνομαι,v-sapmmg-,APOS
+10,Leuven|Genesis_deel2|149|11,11,αὐτῷ,αὐτός,p-s---md-,ADV
+12,Leuven|Genesis_deel2|149|13,13,ὅν,ὅς,p-s---ma-,OBJ
+13,Leuven|Genesis_deel2|149|14,14,ἔτεκεν,τίκτω,v3saia---,ATR
+14,Leuven|Genesis_deel2|149|15,15,αὐτῷ,αὐτός,p-s---md-,OBJ
+15,Leuven|Genesis_deel2|149|16,16,Σαρρα,Σαρρα,n-s---fn-,SBJ
+17,Leuven|Genesis_deel2|149|18,18,Ισαακ,Ισαακ,n-s---ma-,OCOMP

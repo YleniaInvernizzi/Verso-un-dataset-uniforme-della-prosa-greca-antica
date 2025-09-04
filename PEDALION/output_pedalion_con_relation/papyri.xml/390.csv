@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|15|1,1,μὰ,μά,r--------,AuxP
+Leuven|27679|15|2,2,τοὺς,ὁ,l-p---ma-,ATR
+Leuven|27679|15|3,3,θεούς,θεός,n-p---ma-,ExD
+Leuven|27679|15|4,4,",",",",u--------,AuxX
+Leuven|27679|15|5,5,G,G,---------,GAP
+Leuven|27679|15|6,6,ἐλυπήθην,λυπέω,v1saip---,PRED
+Leuven|27679|15|7,7,ἀκούσας,ἀκούω,v-sapamn-,ADV
+Leuven|27679|15|8,8,ποῖ,ποῖ,d--------,ADV
+Leuven|27679|15|9,9,ἀπὸ,ἀπό,r--------,AuxP
+Leuven|27679|15|10,10,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|27679|15|11,11,μικροῦ,μικρός,a-s---mg-,ATR
+Leuven|27679|15|12,12,χαλκοῦ,χαλκός,n-s---mg-,ADV
+Leuven|27679|15|13,13,ἤχθη,ἄγω,v3saip---,OBJ
+Leuven|27679|15|14,14,.,.,u--------,AuxK

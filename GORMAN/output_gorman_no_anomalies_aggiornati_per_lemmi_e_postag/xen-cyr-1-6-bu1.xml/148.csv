@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;οἷος;οἷος;a-s---mn-;PNOM
+2;ἂν;ἄν;d--------;AuxY
+3;ὤν;εἰμί;v-sppamn-;ADV
+4;,;punc;u--------;AuxX
+5;ἔφη;φημί;v3siia---;PRED
+6;,;punc;u--------;AuxX
+7;ὦ;ὦ;i--------;AuxZ
+8;παῖ;παῖς;n-s---mv-;ExD
+9;,;punc;u--------;AuxX
+10;δικαιότατός;δίκαιος;a-s---mns;ATR_CO
+11;τε;τε;d--------;AuxY
+12;καὶ;καί;c--------;COORD
+13;νομιμώτατος;νόμιμος;a-s---mns;ATR_CO
+14;ἀνὴρ;ἀνήρ;n-s---mn-;PNOM
+15;εἴης;εἰμί;v2spoa---;OBJ
+16;.;punc;u--------;AuxK

@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1872|5|1,1,Ἀμύνανδρος,Ἀμύνανδρος,n-s---mn-,SBJ
+1,Leuven|1872|5|2,2,ἐστι,εἰμί,v3spia---,PRED
+2,Leuven|1872|5|3,3,τριήραρχος,τριήραρχος,n-s---mn-,PNOM
+3,Leuven|1872|5|4,4,τῆς,ὁ,l-s---fg-,ATR
+4,Leuven|1872|5|5,5,ἐννήρους,ἐννήρης,n-s---fg-,ATR

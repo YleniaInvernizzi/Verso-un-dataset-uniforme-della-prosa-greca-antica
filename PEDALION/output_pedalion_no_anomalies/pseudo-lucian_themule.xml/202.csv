@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|203|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|203|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|203|3,3,ἔστενον,στένω,v1siia---,PRED
+3,Leuven|Ps-Luc|203|4,4,ἐμαυτὸν,ἐμαυτοῦ,p-s---ma-,OBJ_CO
+4,Leuven|Ps-Luc|203|5,5,καὶ,καί,c--------,COORD
+5,Leuven|Ps-Luc|203|6,6,τὴν,ὁ,l-s---fa-,ATR
+6,Leuven|Ps-Luc|203|7,7,ἀκριβῆ,ἀκριβής,a-s---fa-,ATR
+7,Leuven|Ps-Luc|203|8,8,φρουράν,φρουρά,n-s---fa-,OBJ_CO

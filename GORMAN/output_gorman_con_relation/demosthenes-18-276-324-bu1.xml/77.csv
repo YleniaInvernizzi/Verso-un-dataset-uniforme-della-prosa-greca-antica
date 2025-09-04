@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Θηβαίους,Θηβαῖος,n-p---ma-,OBJ
+2,Τιμόλαος,Τιμόλαος,n-s---mn-,SBJ_CO
+3,",",punc1,u--------,AuxX
+4,Θεογείτων,Θεογείτων,n-s---mn-,SBJ_CO
+5,",",punc1,u--------,COORD
+6,Ἀνεμοίτας,Ἀνεμοίτας,n-s---mn-,SBJ_CO
+7,:,punc1,u--------,AuxK
+8,[0],,,PRED

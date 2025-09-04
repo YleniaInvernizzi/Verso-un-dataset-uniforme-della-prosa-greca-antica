@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,συγγνώμην,συγγνώμη,n-s---fa-,OBJ
+2,ἀντὶ,ἀντί,r--------,AuxP
+3,τῆς,ὁ,l-s---fg-,ATR
+4,τιμωρίας,τιμωρία,n-s---fg-,ADV
+5,τούτῳ,οὗτος,p-s---md-,OBJ
+6,.,punc1,u--------,AuxK
+7,[0],,,PRED

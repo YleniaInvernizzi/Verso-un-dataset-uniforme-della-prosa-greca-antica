@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτ’,οὗτος,p-p---na-,OBJ
+2,εἰπὼν,εἶπον,v-sapamn-,ADV_CO
+3,καὶ,καί,c--------,COORD
+4,ξύνθημα,σύνθημα,n-s---na-,OCOMP
+5,παρεγγυήσας,παρεγγυάω,v-sapamn-,ADV_CO
+6,Ζεὺς,Ζεύς,n-s---mn-,OBJ
+7,σωτὴρ,σωτήρ,n-s---mn-,ATR_CO
+8,καὶ,καί,c--------,COORD
+9,ἡγεμὼν,ἡγεμών,n-s---mn-,ATR_CO
+10,ἐπορεύετο,πορεύω,v3siie---,PRED
+11,.,.,u--------,AuxK

@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|223|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|PaeanBrev|223|2,2,ἡττᾶται,ἡσσάομαι,v3spie---,PRED_CO
+Leuven|PaeanBrev|223|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|223|4,4,μάχην,μάχη,n-s---fa-,OBJ
+Leuven|PaeanBrev|223|5,5,καί,καί,b--------,COORD
+Leuven|PaeanBrev|223|6,6,τρισχιλίους,τρισχίλιοι,m-p---ma-,OBJ
+Leuven|PaeanBrev|223|7,7,ἀποβάλλει,ἀποβάλλω,v3spia---,PRED_CO
+Leuven|PaeanBrev|223|8,8,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|223|9,9,μαχιμωτάτων,μάχιμος,a-p---mgs,ATR
+Leuven|PaeanBrev|223|10,10,.,.,u--------,AuxK

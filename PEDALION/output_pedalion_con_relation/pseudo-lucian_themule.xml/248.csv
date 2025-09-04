@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|249|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|249|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|249|3,3,περὶ,περί,r--------,AuxP
+Leuven|Ps-Luc|249|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|249|5,5,ποδὸς,πούς,n-s---mg-,OBJ_CO
+Leuven|Ps-Luc|249|6,6,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|249|7,7,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Ps-Luc|249|8,8,τραύματος,τραῦμα,n-s---ng-,OBJ_CO
+Leuven|Ps-Luc|249|9,9,ἀναμνησθεὶς,ἀναμιμνῄσκω,v-sappmn-,ADV
+Leuven|Ps-Luc|249|10,10,ἐχώλευον,χωλεύω,v1siia---,PRED
+Leuven|Ps-Luc|249|11,11,·,·,u--------,AuxK

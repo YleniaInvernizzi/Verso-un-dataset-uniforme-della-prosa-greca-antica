@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|237|1,1,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|237|2,2,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis_deel2|237|3,3,ὄρει,ὄρος,n-s---nd-,ADV
+Leuven|Genesis_deel2|237|4,4,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis_deel2|237|5,5,ὤφθη,ὁράω,v3saip---,PRED
+Leuven|Genesis_deel2|237|6,6,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|27|1,1,ἐφίλει,φιλέω,v3siia---,PRED
+Leuven|0554-001|27|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0554-001|27|3,3,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|0554-001|27|4,4,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0554-001|27|5,5,νεολαία,νεολαία,n-s---fn-,SBJ
+Leuven|0554-001|27|6,6,.,.,u--------,AuxK

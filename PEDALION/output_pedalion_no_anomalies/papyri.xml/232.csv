@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27086|21|1,1,ἐθλίβην,θλίβω,v1saip---,PRED_CO
+1,Leuven|27086|21|2,2,λυπηθείς,λυπέω,v-sappmn-,ADV
+2,Leuven|27086|21|3,3,ὑπʼ,ὑπό,r--------,AuxP
+3,Leuven|27086|21|4,4,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+5,Leuven|27086|21|6,6,ἐχάρην,χαίρω,v1saip---,PRED_CO
+6,Leuven|27086|21|7,7,ὅλως,ὅλος,d--------,ADV
+7,Leuven|27086|21|8,8,ὅτι,ὅτι,c--------,AuxC
+8,Leuven|27086|21|9,9,ἔζηκεν,ζήω,v3sria---,OBJ

@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|488|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|488|2,2,ἐκεῖνος,ἐκεῖνος,p-s---mn-,SBJ
+2,Leuven|Ps-Luc|488|3,3,οὐδὲν,οὐδείς,p-s---na-,ADV
+3,Leuven|Ps-Luc|488|4,4,φροντίσας,φροντίζω,v-sapamn-,ADV
+5,Leuven|Ps-Luc|488|6,6,εἴτε,εἴτε,c--------,AuxY
+6,Leuven|Ps-Luc|488|7,7,ἀνύσει,ἀνύω,v3sfia---,ADV_CO
+7,Leuven|Ps-Luc|488|8,8,τι,τις,p-s---na-,OBJ
+8,Leuven|Ps-Luc|488|9,9,ἐκείνη,ἐκεῖνος,p-s---fn-,SBJ
+9,Leuven|Ps-Luc|488|10,10,ἐξ,ἐκ,r--------,AuxP
+10,Leuven|Ps-Luc|488|11,11,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+11,Leuven|Ps-Luc|488|12,12,εἴτε,εἴτε,c--------,COORD
+12,Leuven|Ps-Luc|488|13,13,καὶ,καί,d--------,AuxZ
+13,Leuven|Ps-Luc|488|14,14,μή,μή,d--------,AuxZ
+15,Leuven|Ps-Luc|488|16,16,λαμβάνει,λαμβάνω,v3spia---,PRED
+16,Leuven|Ps-Luc|488|17,17,τὸν,ὁ,l-s---ma-,ATR
+17,Leuven|Ps-Luc|488|18,18,μισθόν,μισθός,n-s---ma-,OBJ

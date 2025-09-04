@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|435|1,1,αἴρω,αἴρω,v1spia---,PRED
+Leuven|0557-001|435|2,2,τάς,ὁ,l-p---fa-,ATR
+Leuven|0557-001|435|3,3,δυνάμεις,δύναμις,n-p---fa-,OBJ
+Leuven|0557-001|435|4,4,ταύτας,οὗτος,p-p---fa-,ATR
+Leuven|0557-001|435|5,5,;,;,u--------,AuxK

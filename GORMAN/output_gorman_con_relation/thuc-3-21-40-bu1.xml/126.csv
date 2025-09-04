@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄκοντες,ἀέκων,a-p---mn-,AtvV
+2,μὲν,μέν,d--------,AuxY
+3,γὰρ,γάρ,d--------,AuxY
+4,οὐκ,οὐ,d--------,AuxZ
+5,ἔβλαψαν,βλάπτω,v3paia---,PRED_CO
+6,",",punc1,u--------,AuxX
+7,εἰδότες,οἶδα,v-prpamn-,AtvV
+8,δὲ,δέ,c--------,COORD
+9,ἐπεβούλευσαν,ἐπιβουλεύω,v3paia---,PRED_CO
+10,:,punc1,u--------,AuxK

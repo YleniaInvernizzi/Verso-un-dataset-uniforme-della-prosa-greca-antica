@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|13|1,1,ἔνδον,ἔνδον,d--------,OBJ
+Leuven|Ps-Luc|13|2,2,",",",",u--------,AuxX
+Leuven|Ps-Luc|13|3,3,ἔφη,φημί,v3siia---,PRED
+Leuven|Ps-Luc|13|4,4,·,·,u--------,AuxK

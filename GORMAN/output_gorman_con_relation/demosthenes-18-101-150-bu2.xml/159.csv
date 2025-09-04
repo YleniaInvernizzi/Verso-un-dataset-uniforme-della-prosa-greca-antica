@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,δότε,δίδωμι,v2pama---,PRED_CO
+2,δ᾽,δέ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,εἰ,εἰ,c--------,AuxC
+5,βούλεσθε,βούλομαι,v2ppie---,ADV
+6,",",punc1,u--------,COORD
+7,δότ᾽,δίδωμι,v2pama---,PRED_CO
+8,αὐτῷ,αὐτός,p-s---md-,OBJ
+9,τοῦτο,οὗτος,p-s---na-,OBJ
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|140|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis_deel2|140|2,2,ἡ,ὁ,l-s---fn-,ATR
+2,Leuven|Genesis_deel2|140|3,3,γῆ,γῆ,n-s---fn-,SBJ
+3,Leuven|Genesis_deel2|140|4,4,μου,ἐγώ,p1s---cg-,ATR
+4,Leuven|Genesis_deel2|140|5,5,ἐναντίον,ἐναντίον,r--------,AuxP
+5,Leuven|Genesis_deel2|140|6,6,σου,σύ,p2s---cg-,ADV

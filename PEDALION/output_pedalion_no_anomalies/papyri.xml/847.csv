@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|88690|4|1,1,περὶ,περί,r--------,AuxP
+1,Leuven|88690|4|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|88690|4|3,3,ἐμαυτοῦ,ἐμαυτοῦ,p1s---mg-,ADV
+3,Leuven|88690|4|4,4,φοβοῦμαι,φοβέω,v1spie---,PRED

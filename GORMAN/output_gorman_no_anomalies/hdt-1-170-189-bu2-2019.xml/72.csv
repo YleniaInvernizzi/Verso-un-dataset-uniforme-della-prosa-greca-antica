@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἔνθα,ἔνθα,d--------,ADV
+1,2,ἐστὶ,εἰμί,v3spia---,PRED
+2,3,ποταμὸς,ποταμός,n-s---mn-,SBJ
+3,4,οὐ,οὐ,d--------,AuxZ
+4,5,μέγας,μέγας,a-s---mn-,PNOM
+5,6,:,punc1,u--------,AuxK

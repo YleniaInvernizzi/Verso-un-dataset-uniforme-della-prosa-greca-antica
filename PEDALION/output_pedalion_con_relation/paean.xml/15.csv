@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|16|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|16|2,2,ταύταις,οὗτος,p-p---fd-,ATR
+Leuven|PaeanBrev|16|3,3,ἔτι,ἔτι,d--------,ADV
+Leuven|PaeanBrev|16|4,4,καί,καί,c--------,AuxX
+Leuven|PaeanBrev|16|5,5,νῦν,νῦν,d--------,ADV_CO
+Leuven|PaeanBrev|16|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|16|7,7,Ῥώμη,Ῥώμη,n-s---fn-,SBJ
+Leuven|PaeanBrev|16|8,8,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|PaeanBrev|16|9,9,πόλεσι,πόλις,n-p---fd-,OBJ
+Leuven|PaeanBrev|16|10,10,περιστεφανοῦται,περιστεφανόω,v3spie---,PRED
+Leuven|PaeanBrev|16|11,11,.,.,u--------,AuxK

@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;τί;τις;p-s---nn-;SBJ
+2;τῶν;ὁ;l-p---ng-;ATR
+3;οἰκείων;οἰκεῖος;a-p---ng-;ATR_CO
+4;ἢ;ἤ;c--------;COORD
+5;τῶν;ὁ;l-p---ng-;ATR
+6;Ἑλληνικῶν;Ἑλληνικός;a-p---ng-;ATR_CO
+7;καὶ;καί;c--------;COORD
+8;ξενικῶν;ξενικός;a-p---ng-;ATR_CO
+9;,;punc;u--------;AuxX
+10;οἷς;ὅς;p-p---nd-;OBJ
+11;ἐπέστης;ἐφίστημι;v2saia---;ATR
+12;,;punc;u--------;AuxX
+13;ἐπηνώρθωται;ἐπανορθόω;v3srip---;PRED
+14;";";punc;u--------;AuxK

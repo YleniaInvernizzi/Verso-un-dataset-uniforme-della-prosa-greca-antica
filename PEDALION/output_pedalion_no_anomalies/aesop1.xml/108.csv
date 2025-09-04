@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-002|564|1,1,καί,καί,c--------,AuxY
+1,Leuven|0096-002|564|2,2,τῇ,ὁ,l-s---fd-,ATR
+2,Leuven|0096-002|564|3,3,συνεύνῳ,σύνευνος,n-s---fd-,ADV
+3,Leuven|0096-002|564|4,4,φησί,φημί,v3spia---,PRED

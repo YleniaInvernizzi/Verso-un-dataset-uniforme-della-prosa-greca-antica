@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅθεν,ὅθεν,d--------,AuxZ
+2,βαρεῖαν,βαρύς,a-s---fa-,PNOM
+3,αὐτῶν,αὐτός,p-p---mg-,ATR
+4,γενέσθαι,γίγνομαι,v--anm---,OBJ
+5,τὴν,ὁ,l-s---fa-,ATR
+6,ἀρχήν,ἀρχή,n-s---fa-,SBJ
+7,.,punc1,u--------,AuxK
+8,[0],,,PRED

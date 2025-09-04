@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὀλίγοι,ὀλίγος,a-p---mn-,PNOM
+2,μέντοι,μέντοι,d--------,AuxY
+3,τινές,τις,p-p---mn-,SBJ
+4,<,punc1,u--------,AuxX
+5,εἰσιν,εἰμί,v3ppia---,PRED
+6,>,punc1,u--------,AuxX
+7,:,punc1,u--------,AuxK

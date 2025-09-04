@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27489|3|1,1,Ἀπολλῶς,Ἀπολλῶς,n-s---mn-,SBJ
+Leuven|27489|3|2,2,αὐτός,αὐτός,p-s---mn-,ATR
+Leuven|27489|3|3,3,εἴρηκε,λέγω,v3sria---,PRED
+Leuven|27489|3|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|27489|3|5,5,ἐλθών,ἔρχομαι,v-sapamn-,ADV
+Leuven|27489|3|6,6,μεθ’,μετά,r--------,AuxP
+Leuven|27489|3|7,7,ὑγιείας,ὑγίεια,n-s---fg-,OBJ
+Leuven|27489|3|8,8,ἔλθου,ἔρχομαι,v2samm---,OBJ
+Leuven|27489|3|9,9,εἰς,εἰς,r--------,AuxP
+Leuven|27489|3|10,10,οἶκον,οἶκος,n-s---ma-,OBJ
+Leuven|27489|3|11,11,σου,σύ,p2s---cg-,ATR
+Leuven|27489|3|12,12,ὡς,ὡς,c--------,AuxC
+Leuven|27489|3|13,13,τέκῃς,τίκτω,v2sasa---,ADV
+Leuven|27489|3|14,14,.,.,u--------,AuxK

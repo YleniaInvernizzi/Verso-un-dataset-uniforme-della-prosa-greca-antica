@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,τούτου,οὗτος,p-s---mg-,PNOM_CO
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,c--------,COORD
+4,Κλυτοδώρας,Κλυτοδώρα,n-s---fg-,PNOM_CO
+5,τῆς,ὁ,l-s---fg-,ATR
+6,Λαομέδοντος,Λαομέδων,n-s---mg-,ATR
+7,Κάπυς,Κάπυς,n-s---mn-,SBJ
+8,:,punc1,u--------,AuxK
+9,ἦν,εἰμί,v3siia---,PRED

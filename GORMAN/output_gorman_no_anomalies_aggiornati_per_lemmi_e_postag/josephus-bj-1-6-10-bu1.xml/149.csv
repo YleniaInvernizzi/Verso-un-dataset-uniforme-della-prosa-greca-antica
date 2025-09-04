@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;κεκραγέναι;κράζω;v--rna---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;τὸ;ὁ;l-s---na-;ATR
+4;σῶμα;σῶμα;n-s---na-;SBJ
+5;σιωπῶντος;σιωπάω;v-sppamg-;ADV
+6;:;punc;u--------;AuxK

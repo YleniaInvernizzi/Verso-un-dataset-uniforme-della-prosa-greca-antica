@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|606|1,1,Ισμαηλ,Ισμαηλ,n-s---mn-,APOS
+Leuven|Genesis|606|2,2,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|606|3,3,ζήτω,ζάω,v3spma---,PRED
+Leuven|Genesis|606|4,4,ἐναντίον,ἐναντίον,r--------,AuxP
+Leuven|Genesis|606|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|606|6,6,.,.,u--------,AuxK

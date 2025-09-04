@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢν,ἐάν,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,μὴ,μή,d--------,AuxZ
+4,δύνηται,δύναμαι,v3spse---,ADV
+5,",",punc1,u--------,AuxX
+6,βασιλεῖ,βασιλεύς,n-s---md-,OBJ
+7,ἀπαγγέλλῃ,ἀπαγγέλλω,v3spsa---,PRED
+8,·,punc1,u--------,AuxK

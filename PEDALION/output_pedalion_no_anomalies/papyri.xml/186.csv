@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|25080|12|1,1,Λεωνᾶς,Λεωνᾶς,n-s---mn-,ADV
+1,Leuven|25080|12|2,2,ἀσπάζομαί,ἀσπάζομαι,v1spie---,PRED
+2,Leuven|25080|12|3,3,σε,σύ,p2s---ca-,OBJ_CO
+4,Leuven|25080|12|5,5,δέσποτα,δεσπότης,n-s---mv-,ExD
+6,Leuven|25080|12|7,7,καὶ,καί,c--------,COORD
+7,Leuven|25080|12|8,8,τοὺς,ὁ,l-p---ma-,ATR
+8,Leuven|25080|12|9,9,σοὺς,σός,a-p---ma-,ATR
+9,Leuven|25080|12|10,10,πάντας,πᾶς,a-p---ma-,OBJ_CO

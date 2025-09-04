@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|368|1,1,λάβε,λαμβάνω,v2sama---,PRED
+Leuven|0554-001|368|2,2,τῶν,ὁ,l-p---ng-,ATR
+Leuven|0554-001|368|3,3,σῶν,σός,a-p---ng-,ATR
+Leuven|0554-001|368|4,4,ὅ,ὅς,p-s---na-,OBJ
+Leuven|0554-001|368|5,5,τι,τις,p-s---na-,ATR
+Leuven|0554-001|368|6,6,ἂν,ἄν,d--------,AuxY
+Leuven|0554-001|368|7,7,θέλῃς,ἐθέλω,v2spsa---,OBJ
+Leuven|0554-001|368|8,8,·,·,u--------,AuxK

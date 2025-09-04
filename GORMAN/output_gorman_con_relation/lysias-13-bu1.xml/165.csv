@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τούτου,οὗτος,p-s---ng-,ATR
+3,θάνατος,θάνατος,n-s---mn-,PNOM
+4,ἡ,ὁ,l-s---fn-,ATR
+5,ζημία,ζημία,n-s---fn-,SBJ
+6,ἐστίν,εἰμί,v3spia---,PRED
+7,.,punc1,u--------,AuxK

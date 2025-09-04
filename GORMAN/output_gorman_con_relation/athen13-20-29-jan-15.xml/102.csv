@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐκ,οὐ,d--------,AuxZ
+2,εὖ,εὖ,d--------,ADV
+3,σεαυτοῦ,σαυτοῦ,p-s---mg-,OBJ
+4,τυγχάνεις,τυγχάνω,v2spia---,PRED
+5,ἔχων,ἔχω,v-sppamn-,PNOM
+6,:,punc1,u--------,AuxK

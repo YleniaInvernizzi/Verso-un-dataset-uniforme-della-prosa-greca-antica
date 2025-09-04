@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,διὸ,διό,d--------,AuxY
+2,ποιεῖν,ποιέω,v--pna---,OBJ
+3,τὸν,ὁ,l-s---ma-,ATR
+4,Ὅμηρον,ὅμηρος,n-s---ma-,SBJ
+5,τῷ,ὁ,l-s---md-,ATR
+6,Ἀγαμέμνονι,Ἀγαμέμνων,n-s---md-,OBJ
+7,λοιδορούμενον,λοιδορέω,v-sppema-,OCOMP_CO
+8,τὸν,ὁ,l-s---ma-,ATR
+9,Ἀχιλλέα,Ἀχιλλεύς,n-s---ma-,OBJ
+10,καὶ,καί,c--------,COORD
+11,λέγοντα,λέγω3,v-sppama-,OCOMP_CO
+12,:,punc1,u--------,AuxK
+13,[0],,,PRED

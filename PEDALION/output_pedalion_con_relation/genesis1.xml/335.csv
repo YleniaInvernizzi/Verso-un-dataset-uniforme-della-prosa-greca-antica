@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|336|1,1,παῖς,παῖς,n-s---cn-,PNOM
+Leuven|Genesis|336|2,2,οἰκέτης,οἰκέτης,n-s---mn-,PNOM
+Leuven|Genesis|336|3,3,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|Genesis|336|4,4,τοῖς,ὁ,l-p---md-,ATR
+Leuven|Genesis|336|5,5,ἀδελφοῖς,ἀδελφός,n-p---md-,ATR
+Leuven|Genesis|336|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|336|7,7,.,.,u--------,AuxK

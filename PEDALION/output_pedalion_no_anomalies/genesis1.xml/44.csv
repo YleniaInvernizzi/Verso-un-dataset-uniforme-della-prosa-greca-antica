@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|45|1,1,ἐξαγαγέτω,ἐξάγω,v3sama---,PRED
+1,Leuven|Genesis|45|2,2,ἡ,ὁ,l-s---fn-,ATR
+2,Leuven|Genesis|45|3,3,γῆ,γῆ,n-s---fn-,SBJ
+3,Leuven|Genesis|45|4,4,ψυχήν,ψυχή,n-s---fa-,OBJ
+4,Leuven|Genesis|45|5,5,ζῶσαν,ζάω,v-sppafa-,ATR
+5,Leuven|Genesis|45|6,6,κατά,κατά,r--------,AuxP
+6,Leuven|Genesis|45|7,7,γένος,γένος,n-s---na-,ADV
+8,Leuven|Genesis|45|9,9,τετράποδα,τετράποδος,a-p---na-,APOS_CO
+9,Leuven|Genesis|45|10,10,καί,καί,c--------,AuxY
+10,Leuven|Genesis|45|11,11,ἑρπετά,ἑρπετόν,n-p---na-,APOS_CO
+11,Leuven|Genesis|45|12,12,καί,καί,c--------,COORD
+12,Leuven|Genesis|45|13,13,θηρία,θηρίον,n-p---na-,APOS_CO
+13,Leuven|Genesis|45|14,14,τῆς,ὁ,l-s---fg-,ATR
+14,Leuven|Genesis|45|15,15,γῆς,γῆ,n-s---fg-,ATR
+15,Leuven|Genesis|45|16,16,κατά,κατά,r--------,AuxP
+16,Leuven|Genesis|45|17,17,γένος,γένος,n-s---na-,ADV

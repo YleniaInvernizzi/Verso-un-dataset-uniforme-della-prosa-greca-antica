@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,δοκιμασία,δοκιμασία,n-s---fn-,OBJ
+1,2,",",punc1,u--------,AuxX
+2,3,φησί,φημί,v3spia---,PRED
+3,4,",",punc1,u--------,AuxX
+4,5,ῥητόρων,ῥήτωρ,n-p---mg-,ATR
+5,6,:,punc1,u--------,AuxK

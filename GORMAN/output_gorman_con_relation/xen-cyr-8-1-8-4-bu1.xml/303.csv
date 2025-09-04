@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔπειτα,ἔπειτα,d--------,AuxY
+2,Γῇ,Γαῖα,n-s---fd-,OBJ
+3,σφάξαντες,σφάζω,v-papamn-,ADV
+4,ὡς,ὡς,c--------,AuxC
+5,ἐξηγήσαντο,ἐξηγέομαι,v3paie---,ADV
+6,οἱ,ὁ,l-p---mn-,ATR
+7,μάγοι,Μάγος,n-p---mn-,SBJ
+8,ἐποίησαν,ποιέω,v3paia---,PRED
+9,·,punc1,u--------,AuxK

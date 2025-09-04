@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31651|2|1,1,ἀνέπεμψα,ἀναπέμπω,v1saia---,PRED
+Leuven|31651|2|2,2,σοι,σύ,p2s---cd-,OBJ
+Leuven|31651|2|3,3,διά,διά,r--------,AuxP
+Leuven|31651|2|4,4,σημειώσεως,σημείωσις,n-s---fg-,ADV
+Leuven|31651|2|5,5,τό,ὁ,l-s---na-,OBJ
+Leuven|31651|2|6,6,καθ’,κατά,r--------,AuxP
+Leuven|31651|2|7,7,ἡμέραν,ἡμέρα,n-s---fa-,ATR
+Leuven|31651|2|8,8,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|31651|2|9,9,ἀναλώματος,ἀνάλωμα,n-s---ng-,ATR
+Leuven|31651|2|10,10,ἵν’,ἵνα,c--------,AuxC
+Leuven|31651|2|11,11,εἰδῇς,οἶδα,v2srsa---,ADV
+Leuven|31651|2|12,12,.,.,u--------,AuxK

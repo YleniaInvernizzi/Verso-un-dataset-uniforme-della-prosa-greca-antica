@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀπογράφοντος,ἀπογράφω,v-sppamg-,ADV
+2,δʼ,δέ,d--------,AuxY
+3,αὐτοῦ,αὐτός,p-s---mg-,SBJ
+4,οἱ,ὁ,l-p---mn-,SBJ
+5,παρόντες,πάρειμι1,v-pppamn-,ATR
+6,τῶν,ὁ,l-p---mg-,ATR
+7,Σκηψίων,Σκήψιος,n-p---mg-,ATR
+8,εἶπον,εἶπον,v3paia---,PRED
+9,·,punc1,u--------,AuxK

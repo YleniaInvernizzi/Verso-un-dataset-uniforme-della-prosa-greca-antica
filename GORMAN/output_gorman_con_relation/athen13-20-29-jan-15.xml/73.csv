@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτο,οὗτος,p-s---na-,OBJ
+2,γυμνὸν,γυμνός,a-s---na-,ATV
+3,δείκνυται,δείκνυμι,v3spie---,PRED
+4,.,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Ἀλεξάνδρῳ,Ἀλέξανδρος,n-s---md-,ATR
+2,δ᾽,δέ,d--------,AuxY
+3,οὐδὲν,οὐδείς,p-s---na-,ADV
+4,ἦν,εἰμί,v3siia---,PRED
+5,ὄφελος,ὄφελος,n-s---nn-,PNOM
+6,:,punc1,u--------,AuxK

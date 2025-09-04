@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Σταγόνιον,Σταγόνιον,n-s---fn-,SBJ_CO
+1,2,καὶ,καί,c--------,COORD
+2,3,Ἄνθις,̓́Ανθις,n-s---fn-,SBJ_CO
+3,4,ἀδελφαί,ἀδελφή,n-p---fn-,PNOM
+4,5,:,punc1,u--------,AuxK

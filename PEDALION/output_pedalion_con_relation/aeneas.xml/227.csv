@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0058-001|228|1,1,παράδειγμα,παράδειγμα,n-s---na-,OCOMP
+Leuven|0058-001|228|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0058-001|228|3,3,ἐξοίσω,ἐκφέρω,v1sfia---,PRED
+Leuven|0058-001|228|4,4,γενόμενον,γίγνομαι,v-sapmna-,ATR
+Leuven|0058-001|228|5,5,πάθος,πάθος,n-s---na-,OBJ
+Leuven|0058-001|228|6,6,.,.,u--------,AuxK

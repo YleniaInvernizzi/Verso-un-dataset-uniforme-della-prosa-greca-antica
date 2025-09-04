@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|125|1,1,αὐτός,αὐτός,p-s---mn-,SBJ
+Leuven|Genesis|125|2,2,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|125|3,3,τηρήσει,τηρέω,v3sfia---,PRED_CO
+Leuven|Genesis|125|4,4,κεφαλήν,κεφαλή,n-s---fa-,OBJ
+Leuven|Genesis|125|5,5,",",",",u--------,AuxX
+Leuven|Genesis|125|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|125|7,7,σύ,σύ,p2s---cn-,SBJ
+Leuven|Genesis|125|8,8,τηρήσεις,τηρέω,v2sfia---,PRED_CO
+Leuven|Genesis|125|9,9,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|125|10,10,πτέρναν,πτέρνα,n-s---fa-,OBJ
+Leuven|Genesis|125|11,11,.,.,u--------,AuxK

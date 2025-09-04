@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,γνῶμαι,γνώμη,n-p---fn-,SBJ
+1,2,μὲν,μέν,d--------,AuxY
+2,3,αὗται,οὗτος,a-p---fn-,ATR
+3,4,συνέστασαν,συνίστημι,v3plia---,PRED
+4,5,:,punc1,u--------,AuxK

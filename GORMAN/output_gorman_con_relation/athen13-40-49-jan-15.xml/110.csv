@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔπειτεν,ἔπειτα,d--------,ADV
+2,ὁ,ὁ,l-s---mn-,ATR
+3,βασιλεὺς,βασιλεύς,n-s---mn-,SBJ
+4,λέγει,λέγω3,v3spia---,PRED
+5,:,punc1,u--------,AuxK

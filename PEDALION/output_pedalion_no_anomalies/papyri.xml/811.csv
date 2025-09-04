@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|83|9|1,1,ἄλυποι,ἄλυπος,a-p---mn-,PNOM
+1,Leuven|83|9|2,2,γίνεσθε,γίγνομαι,v2ppme---,PRED_CO
+2,Leuven|83|9|3,3,περί,περί,r--------,AuxP
+3,Leuven|83|9|4,4,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+4,Leuven|83|9|5,5,εἰκῇ,εἰκῇ,d--------,ADV
+5,Leuven|83|9|6,6,ἐφ’,ἐπί,r--------,AuxP
+6,Leuven|83|9|7,7,ἀλλαχῇ,ἀλλαχῆ,n-s---fd-,ADV
+7,Leuven|83|9|8,8,βαδίζετε,βαδίζω,v2ppia---,PRED_CO

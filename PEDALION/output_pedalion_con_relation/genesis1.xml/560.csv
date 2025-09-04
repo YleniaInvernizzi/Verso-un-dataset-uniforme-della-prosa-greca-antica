@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|561|1,1,χρῶ,χράω,v2spme---,PRED
+Leuven|Genesis|561|2,2,αὐτῇ,αὐτός,p-s---fd-,OBJ
+Leuven|Genesis|561|3,3,",",",",u--------,AuxX
+Leuven|Genesis|561|4,4,ὡς,ὡς,c--------,AuxC
+Leuven|Genesis|561|5,5,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis|561|6,6,σοι,σύ,p2s---cd-,ADV
+Leuven|Genesis|561|7,7,ἀρεστόν,ἀρεστός,a-s---nn-,PNOM
+Leuven|Genesis|561|8,8,ᾖ,εἰμί,v3spsa---,ADV
+Leuven|Genesis|561|9,9,.,.,u--------,AuxK

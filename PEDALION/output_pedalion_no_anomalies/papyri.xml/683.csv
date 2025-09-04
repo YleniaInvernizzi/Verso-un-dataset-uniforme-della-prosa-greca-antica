@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33668|6|1,1,ἀπαντᾷ,ἀπαντάω,v3spia---,PRED
+1,Leuven|33668|6|2,2,πρός,πρός,r--------,AuxP
+2,Leuven|33668|6|3,3,σέ,σύ,p2s---ca-,OBJ
+3,Leuven|33668|6|4,4,Φῖβις,Φῖβις,n-s---mn-,SBJ
+4,Leuven|33668|6|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|33668|6|6,6,τῇ,ὁ,l-s---fd-,ATR
+6,Leuven|33668|6|7,7,αὔριον,αὔριον,d--------,ADV

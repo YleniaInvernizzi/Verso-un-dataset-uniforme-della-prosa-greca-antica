@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|190|1,1,γραῦς,γραῦς,n-s---fn-,ATR
+Leuven|Ps-Luc|190|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|190|3,3,γυνὴ,γυνή,n-s---fn-,SBJ
+Leuven|Ps-Luc|190|4,4,ἔνδον,ἔνδον,d--------,ADV
+Leuven|Ps-Luc|190|5,5,καθῆστο,κάθημαι,v3slie---,PRED_CO
+Leuven|Ps-Luc|190|6,6,",",",",u--------,AuxX
+Leuven|Ps-Luc|190|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|190|8,8,πῦρ,πῦρ,n-s---nn-,SBJ
+Leuven|Ps-Luc|190|9,9,πολὺ,πολύς,a-s---nn-,ATR
+Leuven|Ps-Luc|190|10,10,ἐκαίετο,καίω,v3siie---,PRED_CO
+Leuven|Ps-Luc|190|11,11,.,.,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Καδουσίων,Καδούσιος,n-p---mg-,OBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ἐνίκα,νικάω,v3siia---,PRED
+3,4,Ῥαθίνης,Ῥαθίνης,n-s---mn-,SBJ
+4,5,.,punc1,u--------,AuxK

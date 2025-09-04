@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|34|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|34|2,2,διηγήσατο,διηγέομαι,v3saim---,PRED
+Leuven|Genesis_deel3|34|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel3|34|4,4,παῖς,παῖς,n-s---mn-,SBJ
+Leuven|Genesis_deel3|34|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|34|6,6,Ισαακ,Ισαακ,n-s---md-,OBJ
+Leuven|Genesis_deel3|34|7,7,πάντα,πᾶς,a-p---na-,ATR
+Leuven|Genesis_deel3|34|8,8,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel3|34|9,9,ῥήματα,ῥῆμα,n-p---na-,OBJ
+Leuven|Genesis_deel3|34|10,10,",",",",u--------,AuxX
+Leuven|Genesis_deel3|34|11,11,ἅ,ὅς,p-p---na-,OBJ
+Leuven|Genesis_deel3|34|12,12,ἐποίησεν,ποιέω,v3saia---,ATR
+Leuven|Genesis_deel3|34|13,13,.,.,u--------,AuxK

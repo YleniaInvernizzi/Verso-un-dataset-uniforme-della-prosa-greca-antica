@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|6|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|21347|6|2,2,μὲν,μέν,d--------,AuxY
+Leuven|21347|6|3,3,οὐ,οὐ,d--------,AuxZ
+Leuven|21347|6|4,4,θέλεις,ἐθέλω,v2spia---,ADV
+Leuven|21347|6|5,5,ἀναβῆναι,ἀναβαίνω,v--ana---,OBJ
+Leuven|21347|6|6,6,πρὸς,πρός,r--------,AuxP
+Leuven|21347|6|7,7,ἐμέ,ἐγώ,p1s---ca-,OBJ
+Leuven|21347|6|8,8,",",",",u--------,AuxX
+Leuven|21347|6|9,9,οὐδείς,οὐδείς,p-s---mn-,SBJ
+Leuven|21347|6|10,10,σε,σύ,p2s---ca-,OBJ
+Leuven|21347|6|11,11,ἀναγκάζει,ἀναγκάζω,v3spia---,PRED
+Leuven|21347|6|12,12,.,.,u--------,AuxK

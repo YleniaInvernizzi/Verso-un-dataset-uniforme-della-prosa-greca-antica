@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|237|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Ps-Luc|237|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|237|3,3,γραῦς,γραῦς,n-s---fn-,SBJ
+4,Leuven|Ps-Luc|237|5,5,ἐπεὶ,ἐπεί,c--------,AuxC
+5,Leuven|Ps-Luc|237|6,6,εἶδεν,ὁράω,v3saia---,ADV
+6,Leuven|Ps-Luc|237|7,7,ἀποδιδράσκειν,ἀποδιδράσκω,v--pna---,ADV
+7,Leuven|Ps-Luc|237|8,8,ἕτοιμον,ἑτοῖμος,a-s---ma-,OBJ
+9,Leuven|Ps-Luc|237|10,10,λαμβάνεταί,λαμβάνω,v3spie---,PRED_CO
+10,Leuven|Ps-Luc|237|11,11,με,ἐγώ,p1s---ca-,OBJ
+11,Leuven|Ps-Luc|237|12,12,ἐκ,ἐκ,r--------,AuxP
+12,Leuven|Ps-Luc|237|13,13,τῆς,ὁ,l-s---fg-,ATR
+13,Leuven|Ps-Luc|237|14,14,οὐρᾶς,οὐρά,n-s---fg-,OBJ
+14,Leuven|Ps-Luc|237|15,15,καὶ,καί,c--------,COORD
+15,Leuven|Ps-Luc|237|16,16,εἴχετο,ἔχω,v3siie---,PRED_CO

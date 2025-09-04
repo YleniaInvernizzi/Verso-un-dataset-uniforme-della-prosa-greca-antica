@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,νοσήσας,νοσέω,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,τελευτᾷ,τελευτάω,v3spia---,PRED
+4,τὸν,ὁ,l-s---ma-,ATR
+5,βίον,βίος,n-s---ma-,OBJ
+6,:,punc1,u--------,AuxK

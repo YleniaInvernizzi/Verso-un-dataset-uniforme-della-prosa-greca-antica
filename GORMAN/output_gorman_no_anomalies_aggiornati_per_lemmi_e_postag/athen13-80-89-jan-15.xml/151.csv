@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;χορῶν;χορός;n-p---mg-;ATR
+2;ἐραστὴς;ἐραστής;n-s---mn-;ExD_AP_CO
+3;κισσός;κισσός;n-s---mn-;APOS
+4;,;punc;u--------;APOS
+5;ἐνιαυτοῦ;ἐνιαυτός;n-s---mg-;ATR
+6;δὲ;δέ;c--------;COORD
+7;παῖς;παῖς;n-s---mn-;ExD_AP_CO
+8;.;punc;u--------;AuxK

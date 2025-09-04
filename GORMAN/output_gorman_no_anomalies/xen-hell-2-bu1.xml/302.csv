@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὗτοι,οὗτος,p-p---mn-,SBJ
+1,2,μέντοι,μέντοι,d--------,AuxY
+2,3,συχνοὶ,συχνός,a-p---mn-,PNOM
+3,4,ἦσαν,εἰμί,v3piia---,PRED
+4,5,·,punc1,u--------,AuxK

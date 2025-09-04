@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὰ,ὁ,l-p---na-,ATR
+1,2,αὐτὰ,αὐτός,p-p---na-,OBJ
+2,3,ἱστορεῖ,ἱστορέω,v3spia---,PRED
+3,4,καὶ,καί,d--------,AuxZ
+4,5,Δοῦρις,Δοῦρις,n-s---fn-,SBJ
+5,6,.,punc1,u--------,AuxK

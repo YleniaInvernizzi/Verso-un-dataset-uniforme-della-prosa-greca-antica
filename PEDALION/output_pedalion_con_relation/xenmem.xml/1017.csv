@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|1018|1,1,ἔγωγ’,ἐγώ,p1s---cn-,SBJ
+Leuven|0032-002|1018|2,2,",",",",u--------,AuxX
+Leuven|0032-002|1018|3,3,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|1018|4,4,.,.,u--------,AuxK
+Leuven|0032-002|1018|5,5,[0],,,OBJ

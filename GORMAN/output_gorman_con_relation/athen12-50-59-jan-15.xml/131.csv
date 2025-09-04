@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὕστερον,ὕστερος,a-s---na-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,αὕτη,οὗτος,p-s---fn-,SBJ
+4,διεφθάρη,διαφθείρω,v3saip---,PRED
+5,καταχωσθεῖσα,καταχώννυμι,v-sappfn_-----,ADV
+6,.,punc1,u--------,AuxK

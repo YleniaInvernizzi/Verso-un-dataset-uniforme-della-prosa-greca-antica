@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,πολλὰ,πολύς,a-p---nn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,ἐστὶ,εἰμί,v3spia---,PRED
+4,τὰ,ὁ,l-p---nn-,ATR
+5,συμβαλλόμενα,συμβάλλω,v-pppenn-,SBJ
+6,τοῖς,ὁ,l-p---md-,ATR
+7,βουλομένοις,βούλομαι,v-pppemd-,ADV
+8,τῶν,ὁ,l-p---mg-,ATR
+9,ἀλλοτρίων,ἀλλότριος,a-p---mg-,OBJ
+10,ἐφίεσθαι,ἐφίημι,v--pne---,OBJ
+11,.,punc1,u--------,AuxK

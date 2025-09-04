@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|602|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|602|2,2,εὐλογήσω,εὐλογέω,v1sfia---,PRED_CO
+Leuven|Genesis|602|3,3,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|602|4,4,",",",",u--------,AuxX
+Leuven|Genesis|602|5,5,καί,καί,b--------,AuxY
+Leuven|Genesis|602|6,6,ἔσται,εἰμί,v3sfim---,PRED_CO
+Leuven|Genesis|602|7,7,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|602|8,8,ἔθνη,ἔθνος,n-p---na-,PNOM
+Leuven|Genesis|602|9,9,",",",",u--------,AuxX
+Leuven|Genesis|602|10,10,καί,καί,b--------,COORD
+Leuven|Genesis|602|11,11,βασιλεῖς,βασιλεύς,n-p---mn-,SBJ
+Leuven|Genesis|602|12,12,ἐθνῶν,ἔθνος,n-p---ng-,ATR
+Leuven|Genesis|602|13,13,ἐξ,ἐκ,r--------,AuxP
+Leuven|Genesis|602|14,14,αὐτοῦ,αὐτός,p-s---mg-,PNOM
+Leuven|Genesis|602|15,15,ἔσονται,εἰμί,v3pfim---,PRED_CO
+Leuven|Genesis|602|16,16,.,.,u--------,AuxK

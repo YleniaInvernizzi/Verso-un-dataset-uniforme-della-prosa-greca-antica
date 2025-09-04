@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,πῶς,πῶς2,d--------,ADV
+2,λέγεις,λέγω3,v2spia---,PRED
+3,",",punc1,u--------,AuxX
+4,ὦ,ὦ,i--------,AuxZ
+5,Μέλητε,Μέλητος,n-s---mv-,ExD
+6,;,punc1,u--------,AuxK

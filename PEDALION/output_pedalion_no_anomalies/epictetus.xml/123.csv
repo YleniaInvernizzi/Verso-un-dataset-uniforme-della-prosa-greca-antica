@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|124|1,1,θάνατος,θάνατος,n-s---mn-,SBJ
+1,Leuven|0557-001|124|2,2,αἱρετώτερον,αἱρετός,a-s---nnc,PNOM
+2,Leuven|0557-001|124|3,3,ἐστιν,εἰμί,v3spia---,PRED
+3,Leuven|0557-001|124|4,4,ἤ,ἤ,c--------,AuxC
+4,Leuven|0557-001|124|5,5,ζωή,ζωή,n-s---fn-,OBJ_CO

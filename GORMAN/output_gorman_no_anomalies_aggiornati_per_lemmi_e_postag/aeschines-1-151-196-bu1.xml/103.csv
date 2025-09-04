@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐᾶτε;ἐάω;v2ppia---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;τοὺς;ὁ;l-p---ma-;ATR
+4;ἀπολογουμένους;ἀπολογέομαι;v-pppema-;SBJ
+5;ἀντικατηγορεῖν;ἀντικατηγορέω;v--pna---;OBJ
+6;τῶν;ὁ;l-p---mg-;ATR
+7;κατηγορούντων;κατηγορέω;v-pppamg-;OBJ
+8;.;punc;u--------;AuxK

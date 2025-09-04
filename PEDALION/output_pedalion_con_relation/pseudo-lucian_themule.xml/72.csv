@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|73|1,1,πάντα,πᾶς,a-p---nn-,ATR
+Leuven|Ps-Luc|73|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|73|3,3,τὰ,ὁ,l-p---nn-,SBJ
+Leuven|Ps-Luc|73|4,4,ἔνδον,ἔνδον,d--------,ATR
+Leuven|Ps-Luc|73|5,5,εὖ,εὖ,d--------,ADV
+Leuven|Ps-Luc|73|6,6,παρεσκεύαστο,παρασκευάζω,v3slie---,PRED
+Leuven|Ps-Luc|73|7,7,·,·,u--------,AuxK

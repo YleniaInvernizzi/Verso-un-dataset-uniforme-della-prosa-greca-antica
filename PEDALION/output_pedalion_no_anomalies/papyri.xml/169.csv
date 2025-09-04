@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21347|9|1,1,ἄλλα,ἄλλος,p-p---na-,OBJ
+1,Leuven|21347|9|2,2,ἤκουσα,ἀκούω,v1saia---,PRED
+2,Leuven|21347|9|3,3,τὰ,ὁ,l-p---na-,ATR
+3,Leuven|21347|9|4,4,μὴ,μή,d--------,AuxZ
+4,Leuven|21347|9|5,5,ἀνήκοντά,ἀνήκω,v-pppana-,ATR
+5,Leuven|21347|9|6,6,σοι,σύ,p2s---cd-,OBJ

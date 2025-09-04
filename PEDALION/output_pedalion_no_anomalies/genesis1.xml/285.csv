@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|286|1,1,ἐν,ἐν,r--------,AuxP
+1,Leuven|Genesis|286|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|286|3,3,τῷ,ὁ,l-s---md-,ATR
+3,Leuven|Genesis|286|4,4,ἑνδεκάτῳ,ἑνδέκατος,a-s---md-,ATR
+4,Leuven|Genesis|286|5,5,μηνί,μήν,n-s---md-,ADV
+6,Leuven|Genesis|286|7,7,τῇ,ὁ,l-s---fd-,ATR
+7,Leuven|Genesis|286|8,8,πρώτῃ,πρῶτος,a-s---fd-,ATR
+8,Leuven|Genesis|286|9,9,τοῦ,ὁ,l-s---mg-,ATR
+9,Leuven|Genesis|286|10,10,μηνός,μήν,n-s---mg-,ATR
+11,Leuven|Genesis|286|12,12,ὤφθησαν,ὁράω,v3paip---,PRED
+12,Leuven|Genesis|286|13,13,αἱ,ὁ,l-p---fn-,ATR
+13,Leuven|Genesis|286|14,14,κεφαλαί,κεφαλή,n-p---fn-,SBJ
+14,Leuven|Genesis|286|15,15,τῶν,ὁ,l-p---ng-,ATR
+15,Leuven|Genesis|286|16,16,ὀρέων,ὄρος,n-p---ng-,ATR

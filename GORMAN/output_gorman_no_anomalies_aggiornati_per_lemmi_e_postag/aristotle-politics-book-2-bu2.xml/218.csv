@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;οἴεται;οἴομαι;v3spie---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;δυοῖν;δύο;a-d---ng-;ATR_AP
+4;τούτοιν;οὗτος;p-d---nd-;ADV_AP
+5;ἰσότητα;ἰσότης;n-s---fa-;OBJ
+6;δεῖν;δέω;v-spp-nn-;OBJ
+7;ὑπάρχειν;ὑπάρχω;v--pna---;SBJ
+8;ταῖς;ὁ;l-p---fd-;ATR_AP
+9;πόλεσιν;πόλις;n-p---fd-;OBJ
+10;,;punc;u--------;APOS
+11;κτήσεως;κτῆσις;n-s---fg-;ADV_AP_CO
+12;καὶ;καί;c--------;COORD
+13;παιδείας;παιδεία;n-s---fg-;ADV_AP_CO
+14;.;punc;u--------;AuxK

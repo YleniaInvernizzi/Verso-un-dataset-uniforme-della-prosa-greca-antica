@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὅπερ,ὅσπερ,p-s---na-,OBJ
+1,2,ἥκιστα,ἥκιστος,a-p---na-,ADV
+2,3,φαίνεσθαι,φαίνω,v--pne---,OBJ
+3,4,πράττων,πράσσω,v-sppamn-,PNOM
+4,5,ἐβούλετο,βούλομαι,v3siie---,PRED
+5,6,.,punc1,u--------,AuxK

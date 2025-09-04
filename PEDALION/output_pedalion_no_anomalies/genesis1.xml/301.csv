@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|302|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|302|2,2,ὠσφράνθη,ὀσφραίνομαι,v3saip---,PRED_CO
+2,Leuven|Genesis|302|3,3,κύριος,κύριος,n-s---mn-,SBJ
+3,Leuven|Genesis|302|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|302|5,5,θεός,θεός,n-s---mn-,APOS
+5,Leuven|Genesis|302|6,6,ὀσμήν,ὀσμή,n-s---fa-,OBJ
+6,Leuven|Genesis|302|7,7,εὐωδίας,εὐωδία,n-s---fg-,ATR
+8,Leuven|Genesis|302|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|302|10,10,εἶπεν,λέγω,v3saia---,PRED_CO
+10,Leuven|Genesis|302|11,11,κύριος,κύριος,n-s---mn-,SBJ
+11,Leuven|Genesis|302|12,12,ὁ,ὁ,l-s---mn-,ATR
+12,Leuven|Genesis|302|13,13,θεός,θεός,n-s---mn-,APOS
+13,Leuven|Genesis|302|14,14,διανοηθείς,διανοέω,v-sappmn-,ADV
+14,Leuven|Genesis|302|15,15,·,·,u--------,AuxK

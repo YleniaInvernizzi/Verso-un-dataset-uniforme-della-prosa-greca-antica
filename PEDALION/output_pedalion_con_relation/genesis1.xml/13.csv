@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|14|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|14|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+Leuven|Genesis|14|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|14|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|14|5,5,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|14|6,6,στερέωμα,στερέωμα,n-s---na-,OBJ
+Leuven|Genesis|14|7,7,οὐρανόν,οὐρανός,n-s---ma-,OCOMP
+Leuven|Genesis|14|8,8,.,.,u--------,AuxK

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|310|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|310|2,2,πᾶν,πᾶς,a-s---nn-,ATR
+Leuven|Genesis|310|3,3,ἑρπετόν,ἑρπετόν,n-s---nn-,SBJ
+Leuven|Genesis|310|4,4,",",",",u--------,AuxX
+Leuven|Genesis|310|5,5,ὅ,ὅς,p-s---nn-,SBJ
+Leuven|Genesis|310|6,6,ἐστιν,εἰμί,v3spia---,ATR
+Leuven|Genesis|310|7,7,ζῶν,ζάω,v-sppann-,PNOM
+Leuven|Genesis|310|8,8,",",",",u--------,AuxX
+Leuven|Genesis|310|9,9,ὑμῖν,σύ,p2p---cd-,ADV
+Leuven|Genesis|310|10,10,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|Genesis|310|11,11,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|310|12,12,βρῶσιν,βρῶσις,n-s---fa-,ADV
+Leuven|Genesis|310|13,13,·,·,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;κρινομένη;κρίνω;v-sppefn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ὑπὸ;ὑπό;r--------;AuxP
+4;Εὐθίου;Εὐθίας;n-s---mg-;OBJ
+5;τὴν;ὁ;l-s---fa-;OBJ
+6;ἐπὶ;ἐπί;r--------;AuxP
+7;θανάτῳ;θάνατος;n-s---md-;ATR
+8;ἀπέφυγεν;ἀποφεύγω;v3saia---;PRED
+9;:;punc;u--------;AuxK

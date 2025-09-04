@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|362|1,1,θυγάτηρ,θυγάτηρ,n-s---fn-,PNOM
+Leuven|Genesis_deel2|362|2,2,Βαθουηλ,Βαθουηλ,n-s---mg-,ATR
+Leuven|Genesis_deel2|362|3,3,εἰμί,εἰμί,v1spia---,PRED
+Leuven|Genesis_deel2|362|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|362|5,5,υἱοῦ,υἱός,n-s---mg-,APOS
+Leuven|Genesis_deel2|362|6,6,Ναχωρ,Ναχωρ,n-s---mg-,ATR
+Leuven|Genesis_deel2|362|7,7,",",",",u--------,AuxX
+Leuven|Genesis_deel2|362|8,8,ὅν,ὅς,p-s---ma-,OBJ
+Leuven|Genesis_deel2|362|9,9,ἔτεκεν,τίκτω,v3saia---,ATR
+Leuven|Genesis_deel2|362|10,10,αὐτῷ,αὐτός,p-s---md-,ADV
+Leuven|Genesis_deel2|362|11,11,Μελχα,Μελχα,n-s---fn-,SBJ
+Leuven|Genesis_deel2|362|12,12,.,.,u--------,AuxK

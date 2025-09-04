@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|141|1,1,οὗ,οὗ,c--------,ADV
+Leuven|Genesis_deel2|141|2,2,ἐάν,ἐάν,c--------,AuxC
+Leuven|Genesis_deel2|141|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|Genesis_deel2|141|4,4,ἀρέσκῃ,ἀρέσκω,v3spsa---,ATR
+Leuven|Genesis_deel2|141|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|141|6,6,κατοίκει,κατοικέω,v2spma---,PRED
+Leuven|Genesis_deel2|141|7,7,.,.,u--------,AuxK
+Leuven|Genesis_deel2|141|8,8,[0],,,ADV

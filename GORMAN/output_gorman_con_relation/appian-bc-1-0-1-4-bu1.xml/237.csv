@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,βραδύνοντος,βραδύνω,v-sppamg-,ADV
+3,ἕτεροι,ἕτερος,a-p---mn-,SBJ
+4,τὸ,ὁ,l-s---na-,ATR
+5,ὕδωρ,ὕδωρ,n-s---na-,OBJ
+6,τὸ,ὁ,l-s---na-,ATR
+7,ἐπιρρέον,ἐπιρρέω,v-sppana-,ATR
+8,ἐς,εἰς,r--------,AuxP
+9,τὸ,ὁ,l-s---na-,ATR
+10,ἱερὸν,ἱερόν,n-s---na-,OBJ
+11,διέτεμον,διατέμνω,v3paia---,PRED
+12,.,punc1,u--------,AuxK

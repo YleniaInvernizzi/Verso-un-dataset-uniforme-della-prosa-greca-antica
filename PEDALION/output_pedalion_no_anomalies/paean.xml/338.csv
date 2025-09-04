@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|340|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|340|2,2,σύμβουλος,σύμβουλος,n-s---mn-,PNOM
+2,Leuven|PaeanBrev|340|3,3,γίνεται,γίγνομαι,v3spie---,PRED
+3,Leuven|PaeanBrev|340|4,4,Ρωμαίοις,Ρωμαῖος,a-p---md-,ADV
+4,Leuven|PaeanBrev|340|5,5,μή,μή,d--------,AuxZ
+5,Leuven|PaeanBrev|340|6,6,προσέσθαι,προσίημι,v--anm---,ADV
+6,Leuven|PaeanBrev|340|7,7,τούς,ὁ,l-p---ma-,ATR
+7,Leuven|PaeanBrev|340|8,8,Ἄφρους,Ἄφρος,n-p---ma-,OBJ
+8,Leuven|PaeanBrev|340|9,9,ἐπαγγέλλοντας,ἐπαγγέλλω,v-pppama-,ADV
+9,Leuven|PaeanBrev|340|10,10,εἰρήνην,εἰρήνη,n-s---fa-,OBJ

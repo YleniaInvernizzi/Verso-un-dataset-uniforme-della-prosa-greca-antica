@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,Τουδιτανὸς,Τουδιτανὸς,n-s---mn-,SBJ
+3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+4,ὑπατεύων,ὑπατεύω,v-sppamn-,ATR
+5,ἐδόθη,δίδωμι,v3saip---,PRED
+6,δικάζειν,δικάζω,v--pna---,ADV
+7,.,punc1,u--------,AuxK

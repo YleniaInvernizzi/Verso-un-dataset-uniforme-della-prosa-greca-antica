@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,τὰ,ὁ,l-p---na-,ATR
+2,δ’,δέ,d-------_,AuxY
+3,ἄλλα,ἄλλος,p-p---na-,OBJ
+4,συνομολογήσαντες,συνομολογέω,v-papamn-,ADV
+5,ἔδοσαν,δίδωμι,v3paia---,PRED_CO
+6,πίστιν,πίστις,n-s---fa-,OBJ
+7,καὶ,καί,c--------,COORD
+8,ἔλαβον,λαμβάνω,v3paia---,PRED_CO
+9,.,.,u--------,AuxK

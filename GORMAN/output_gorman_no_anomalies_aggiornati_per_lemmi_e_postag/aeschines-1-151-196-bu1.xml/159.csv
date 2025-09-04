@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐδίδαξα;διδάσκω;v1saia---;PRED_CO
+2;τοὺς;ὁ;l-p---ma-;ATR
+3;νόμους;νόμος;n-p---ma-;OBJ
+4;,;punc;u--------;COORD
+5;ἐξήτασα;ἐξετάζω;v1saia---;PRED_CO
+6;τὸν;ὁ;l-s---ma-;ATR
+7;βίον;βίος;n-s---ma-;OBJ
+8;τοῦ;ὁ;l-s---mg-;ATR
+9;κρινομένου;κρίνω;v-sppemg-;ATR
+10;.;punc;u--------;AuxK

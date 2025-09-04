@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;οὐ;οὐ;d--------;AuxZ
+2;δυνάμενοι;δύναμαι;v-pppemn-;ADV
+3;οὖν;οὖν;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;φησίν;φημί;v3spia---;PRED
+6;,;punc;u--------;AuxX
+7;φέρειν;φέρω;v--pna---;OBJ
+8;τὴν;ὁ;l-s---fa-;ATR
+9;παροῦσαν;πάρειμι;v-sppafa-;ATR
+10;εὐδαιμονίαν;εὐδαιμονία;n-s---fa-;OBJ
+11;ἐκάλουν;καλέω;v3piia---;OBJ
+12;τὸν;ὁ;l-s---ma-;ATR
+13;Ἀννίβαν;Ἀννίβας;n-s---ma-;OBJ
+14;:;punc;u--------;AuxK

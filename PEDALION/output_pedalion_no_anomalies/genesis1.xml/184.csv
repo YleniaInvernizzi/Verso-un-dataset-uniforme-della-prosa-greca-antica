@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|185|1,1,εἶπεν,λέγω,v3saia---,PRED
+1,Leuven|Genesis|185|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|185|3,3,Λαμεχ,Λαμεχ,n-s---mn-,SBJ
+3,Leuven|Genesis|185|4,4,ταῖς,ὁ,l-p---fd-,ATR
+4,Leuven|Genesis|185|5,5,ἑαυτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+5,Leuven|Genesis|185|6,6,γυναιξίν,γυνή,n-p---fd-,OBJ
+6,Leuven|Genesis|185|7,7,·,·,u--------,AuxK

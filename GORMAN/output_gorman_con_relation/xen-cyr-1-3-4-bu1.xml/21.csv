@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,γευόμενος,γεύω,v-sppemn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,σύ,σύ,p-s---mn-,SBJ
+5,",",punc1,u--------,AuxX
+6,ἔφη,φημί,v3siia---,PRED
+7,",",punc1,u--------,AuxX
+8,γνώσῃ,γιγνώσκω,v2sfim---,OBJ
+9,ὅτι,ὅτι2,c--------,AuxC
+10,ἡδέα,ἡδύς,a-p---nn-,PNOM
+11,ἐστίν,εἰμί,v3spia---,OBJ
+12,.,punc1,u--------,AuxK

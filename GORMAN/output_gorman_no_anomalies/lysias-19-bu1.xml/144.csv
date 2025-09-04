@@ -1,0 +1,10 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀκούετε,ἀκούω,v2ppia---,PRED
+1,2,",",punc1,u--------,AuxX
+2,3,ὦ,ὦ,i--------,AuxZ
+3,4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+4,5,δικασταί,δικαστής,n-p---mv-,ATR
+5,6,",",punc1,u--------,AuxX
+6,7,τὸ,ὁ,l-s---na-,ATR
+7,8,πλῆθος,πλῆθος,n-s---na-,OBJ
+8,9,.,punc1,u--------,AuxK

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;θεῶν;θέα;n-p---fg-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;μοῦνον;μόνος;a-s---ma-;ATV
+4;ἥλιον;ἥλιος;n-s---ma-;OBJ
+5;σέβονται;σέβομαι;v3ppie---;PRED
+6;,;punc;u--------;AuxX
+7;τῷ;ὁ;p-s---md-;OBJ
+8;θύουσι;θύω;v3ppia---;ATR
+9;ἵππους;ἵππος;n-p---ma-;OBJ
+10;.;punc;u--------;AuxK

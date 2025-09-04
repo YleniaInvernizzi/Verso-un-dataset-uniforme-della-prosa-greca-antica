@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28820|16|1,1,ἔρρωσό,ῥώννυμι,v2srme---,PRED
+Leuven|28820|16|2,2,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|28820|16|3,3,",",",",u--------,AuxX
+Leuven|28820|16|4,4,ἡ,ὁ,l-s---fv-,ATR
+Leuven|28820|16|5,5,κυρία,κυρία,n-s---fv-,ExD
+Leuven|28820|16|6,6,μου,ἐγώ,p1s---cg-,ATR
+Leuven|28820|16|7,7,διὰ,διά,r--------,AuxP
+Leuven|28820|16|8,8,παντός,πᾶς,a-s---ng-,ADV
+Leuven|28820|16|9,9,.,.,u--------,AuxK

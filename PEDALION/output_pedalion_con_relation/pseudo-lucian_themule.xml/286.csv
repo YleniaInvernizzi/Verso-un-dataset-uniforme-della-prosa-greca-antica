@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|287|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|287|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|287|3,3,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|287|4,4,μύληι,μύλη,n-s---fd-,OBJ
+Leuven|Ps-Luc|287|5,5,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|287|6,6,ὑπεζεύγνυεν,ὑποζεύγνυμι,v3siia---,PRED
+Leuven|Ps-Luc|287|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|287|8,8,ὥστε,ὥστε,c--------,AuxC
+Leuven|Ps-Luc|287|9,9,ἀλεῖν,ἀλέω,v--pna---,ADV
+Leuven|Ps-Luc|287|10,10,αὐτῆι,αὐτός,p-s---fd-,ADV
+Leuven|Ps-Luc|287|11,11,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|287|12,12,πυροὺς,πυρός,n-p---ma-,ADV_CO
+Leuven|Ps-Luc|287|13,13,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|287|14,14,κριθὰς,κριθή,n-p---fa-,ADV_CO
+Leuven|Ps-Luc|287|15,15,ὅλας,ὅλος,a-p---fa-,ATR
+Leuven|Ps-Luc|287|16,16,.,.,u--------,AuxK

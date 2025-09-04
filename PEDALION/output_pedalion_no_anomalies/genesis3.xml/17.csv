@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|18|1,1,πορεύσῃ,πορεύω,v2sfim---,PRED
+1,Leuven|Genesis_deel3|18|2,2,μετά,μετά,r--------,AuxP
+2,Leuven|Genesis_deel3|18|3,3,τοῦ,ὁ,l-s---mg-,ATR
+3,Leuven|Genesis_deel3|18|4,4,ἀνθρώπου,ἄνθρωπος,n-s---mg-,ADV
+4,Leuven|Genesis_deel3|18|5,5,τούτου,οὗτος,p-s---mg-,ATR

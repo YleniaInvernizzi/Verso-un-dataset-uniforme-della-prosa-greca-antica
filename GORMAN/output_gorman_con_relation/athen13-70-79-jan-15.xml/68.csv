@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὄμβρος,ὄμβρος,n-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἀπ᾽,ἀπό,r--------,AuxP
+4,εὐνάοντος,εὐνάων,a-s---mg-,ATR
+5,οὐρανοῦ,οὐρανός,n-s---mg-,ADV
+6,πεσὼν,πίπτω,v-sapamn-,ADV
+7,ἔκυσε,κύω,v3saia---,PRED
+8,γαῖαν,γαῖα,n-s---fa-,OBJ
+9,:,punc1,u--------,AuxK

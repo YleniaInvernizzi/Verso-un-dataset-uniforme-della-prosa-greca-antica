@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-00#|1066|2,1,ὅν,ὅς,p-s---ma-,OBJ
+1,Leuven|0096-00#|1066|3,2,καί,καί,d--------,AuxZ
+2,Leuven|0096-00#|1066|4,3,λαβών,λαμβάνω,v-sapamn-,ADV
+3,Leuven|0096-00#|1066|5,4,παρῆγεν,παράγω,v3siia---,PRED

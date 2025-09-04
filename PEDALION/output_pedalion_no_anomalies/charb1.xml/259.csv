@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|260|1,1,ἀλλ’,ἀλλά,c--------,AuxY
+1,Leuven|0554-001|260|2,2,ἀδικήσει,ἀδικέω,v3sfia---,PRED
+2,Leuven|0554-001|260|3,3,τὰ,ὁ,l-p---na-,ATR
+3,Leuven|0554-001|260|4,4,μέγιστα,μέγας,a-p---nas,OBJ

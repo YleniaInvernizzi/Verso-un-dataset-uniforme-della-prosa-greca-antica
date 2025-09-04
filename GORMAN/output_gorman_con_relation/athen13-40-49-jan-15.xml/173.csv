@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ὃς,ὅς,p-s---mn-,SBJ
+3,παιδὸς,παῖς,n-s---mg-,PNOM
+4,ὄντος,εἰμί,v-sppamg-,ADV
+5,μου,ἐγώ,p1s---mg-,SBJ
+6,ζωμὸς,ζωμός,n-s---mn-,SBJ
+7,κατεχύθη,καταχέω,v3saip---,OBJ
+8,.,punc1,u--------,AuxK
+9,[0],,,PRED

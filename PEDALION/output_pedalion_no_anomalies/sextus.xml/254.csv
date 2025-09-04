@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0544-002|255|2,2,μέρη,μέρος,n-p---nn-,PNOM
+2,Leuven|0544-002|255|3,3,τοῦ,ὁ,l-s---mg-,ATR
+3,Leuven|0544-002|255|4,4,ἀνθρώπου,ἄνθρωπος,n-s---mg-,ATR
+4,Leuven|0544-002|255|5,5,ψυχὴ,ψυχή,n-s---fn-,SBJ_CO
+5,Leuven|0544-002|255|6,6,καὶ,καί,c--------,COORD
+6,Leuven|0544-002|255|7,7,σῶμα,σῶμα,n-s---nn-,SBJ_CO

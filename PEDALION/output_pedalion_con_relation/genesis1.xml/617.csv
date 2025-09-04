@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|618|1,1,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|618|2,2,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|618|3,3,καιρῷ,καιρός,n-s---md-,ADV
+Leuven|Genesis|618|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|618|5,5,ἡμέρας,ἡμέρα,n-s---fg-,ATR
+Leuven|Genesis|618|6,6,ἐκείνης,ἐκεῖνος,p-s---fg-,ATR
+Leuven|Genesis|618|7,7,περιετμήθη,περιτέμνω,v3saip---,PRED
+Leuven|Genesis|618|8,8,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ_CO
+Leuven|Genesis|618|9,9,καί,καί,b--------,COORD
+Leuven|Genesis|618|10,10,Ισμαηλ,Ισμαηλ,n-s---mn-,SBJ_CO
+Leuven|Genesis|618|11,11,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|618|12,12,υἱός,υἱός,n-s---mn-,APOS
+Leuven|Genesis|618|13,13,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|618|14,14,·,·,u--------,AuxK

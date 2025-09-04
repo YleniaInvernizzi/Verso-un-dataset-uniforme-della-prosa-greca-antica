@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|163|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|163|2,2,οἱ,ὁ,l-p---mn-,SBJ
+2,Leuven|Ps-Luc|163|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|163|4,4,ἠρίστων,ἀριστάω,v3piia---,PRED_CO
+5,Leuven|Ps-Luc|163|6,6,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+6,Leuven|Ps-Luc|163|7,7,δὲ,δέ,d--------,COORD
+7,Leuven|Ps-Luc|163|8,8,ἐπείνων,πεινάω,v1siia---,PRED_CO
+8,Leuven|Ps-Luc|163|9,9,μὲν,μέν,d--------,AuxY
+9,Leuven|Ps-Luc|163|10,10,κακῶς,κακός,d--------,ADV

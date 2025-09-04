@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1575|4|1,1,τά,ὁ,l-p---nn-,ATR
+Leuven|1575|4|2,2,δέ,δέ,d--------,AuxY
+Leuven|1575|4|3,3,λοιπά,λοιπός,a-p---nn-,SBJ
+Leuven|1575|4|4,4,κατά,κατά,r--------,AuxP
+Leuven|1575|4|5,5,λόγον,λόγος,n-s---ma-,ADV
+Leuven|1575|4|6,6,προχωρεῖ,προχωρέω,v3spia---,PRED
+Leuven|1575|4|7,7,.,.,u--------,AuxK

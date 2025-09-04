@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0041-001|87|1,1,νοεῖ,νοέω,v3spia---,PRED
+Leuven|0041-001|87|2,2,δ’,δέ,d--------,AuxY
+Leuven|0041-001|87|3,3,ἀεὶ,ἀεί,d--------,ADV
+Leuven|0041-001|87|4,4,τὰ,ὁ,l-p---na-,ATR
+Leuven|0041-001|87|5,5,μωρότατα,μωρός,a-p---nas,OBJ
+Leuven|0041-001|87|6,6,.,.,u--------,AuxK

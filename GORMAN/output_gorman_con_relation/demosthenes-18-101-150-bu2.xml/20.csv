@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ἐπεχειροτόνησεν,ἐπιχειροτονέω,v3saia---,PRED
+3,ἡ,ὁ,l-s---fn-,ATR
+4,βουλὴ,βουλή,n-s---fn-,SBJ_CO
+5,καὶ,καί,c--------,COORD
+6,ὁ,ὁ,l-s---mn-,ATR
+7,δῆμος,δῆμος,n-s---mn-,SBJ_CO
+8,:,punc1,u--------,AuxK

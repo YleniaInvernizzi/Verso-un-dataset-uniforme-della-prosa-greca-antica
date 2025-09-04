@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|348|1,1,ἐπανελθών,ἐπανέρχομαι,v-sapamn-,ADV
+1,Leuven|PaeanBrev|348|2,2,οὗν,οὖν,d--------,AuxY
+2,Leuven|PaeanBrev|348|3,3,πρός,πρός,r--------,AuxP
+3,Leuven|PaeanBrev|348|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|PaeanBrev|348|5,5,Ἀφρικήν,Ἀφρική,n-s---fa-,OBJ
+5,Leuven|PaeanBrev|348|6,6,πολυτρόποις,πολυτρόπος,a-p---fd-,ATR
+6,Leuven|PaeanBrev|348|7,7,ἐξεδόθη,ἐκδίδωμι,v3saip---,PRED
+7,Leuven|PaeanBrev|348|8,8,κολάσεσιν,κόλασις,n-p---fd-,OBJ
+9,Leuven|PaeanBrev|348|10,10,ἅς,ὅς,p-p---fa-,OBJ
+10,Leuven|PaeanBrev|348|11,11,ἄλλοι,ἄλλος,p-p---mn-,SBJ
+11,Leuven|PaeanBrev|348|12,12,ἄλλως,ἄλλος,d--------,ADV
+12,Leuven|PaeanBrev|348|13,13,ἐκδεδώκασιν,ἐκδίδωμι,v3pria---,ATR

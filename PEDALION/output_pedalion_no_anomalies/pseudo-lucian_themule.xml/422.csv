@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|423|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|Ps-Luc|423|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|423|3,3,τὰ,ὁ,l-p---na-,ATR
+3,Leuven|Ps-Luc|423|4,4,πρῶτα,πρῶτος,a-p---na-,ADV
+4,Leuven|Ps-Luc|423|5,5,καὶ,καί,c--------,AuxY
+5,Leuven|Ps-Luc|423|6,6,ἀντεμάχετο,ἀντιμάχομαι,v3siie---,PRED_CO
+6,Leuven|Ps-Luc|423|7,7,καὶ,καί,c--------,COORD
+7,Leuven|Ps-Luc|423|8,8,ἠπείλει,ἀπειλέω,v3siia---,PRED_CO
+9,Leuven|Ps-Luc|423|10,10,εἰ,εἰ,c--------,AuxC
+10,Leuven|Ps-Luc|423|11,11,ἀνασταίη,ἀνίστημι,v3saoa---,ADV
+12,Leuven|Ps-Luc|423|13,13,ἀποκτενεῖν,ἀποκτείνω,v--fna---,OBJ
+13,Leuven|Ps-Luc|423|14,14,τῆι,ὁ,l-s---fd-,ATR
+14,Leuven|Ps-Luc|423|15,15,μαχαίραι,μάχαιρα,n-s---fd-,ADV

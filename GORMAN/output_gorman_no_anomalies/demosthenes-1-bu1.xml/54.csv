@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μὰ,μά,r--------,AuxP
+1,2,Δί’,Ζεύς,n-s---ma-,ExD
+2,3,οὐκ,οὐ,d--------,AuxZ
+3,4,ἔγωγε,ἐγώ,p1s---mn-,SBJ
+4,5,.,.,u--------,AuxK
+5,6,γράφω,γράφω,v1spia---,PRED

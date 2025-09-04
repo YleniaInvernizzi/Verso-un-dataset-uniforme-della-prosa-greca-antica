@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τὰ,ὁ,l-p---nn-,ATR
+3,μὲν,μέν,d--------,AuxY
+4,κατὰ,κατά,r--------,AuxP
+5,τὴν,ὁ,l-s---fa-,ATR
+6,Ἑλλάδα,Ἑλλάς,n-s---fa-,ATR
+7,πραχθέντα,πράσσω,v-pappnn-,SBJ
+8,ἐν,ἐν,r--------,AuxP
+9,τούτοις,οὗτος,p-p---nd-,PNOM
+10,ἦν,εἰμί,v3siia---,PRED
+11,.,punc1,u--------,AuxK

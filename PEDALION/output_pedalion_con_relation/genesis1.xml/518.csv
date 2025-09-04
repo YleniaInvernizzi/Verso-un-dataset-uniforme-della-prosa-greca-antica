@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|519|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|519|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|519|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|519|4,4,·,·,u--------,AuxK

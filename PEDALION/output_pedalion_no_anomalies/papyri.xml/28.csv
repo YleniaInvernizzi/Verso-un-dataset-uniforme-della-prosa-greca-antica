@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1728|10|1,1,τὰ,ὁ,l-p---na-,ATR
+1,Leuven|1728|10|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|1728|10|3,3,λοιπὰ,λοιπός,a-p---na-,OBJ
+3,Leuven|1728|10|4,4,πυνθάνου,πυνθάνομαι,v2spme---,PRED
+4,Leuven|1728|10|5,5,τοῦ,ὁ,l-s---mg-,ATR
+5,Leuven|1728|10|6,6,φέροντός,φέρω,v-sppamg-,OBJ
+6,Leuven|1728|10|7,7,σοι,σύ,p2s---cd-,OBJ
+7,Leuven|1728|10|8,8,τὰ,ὁ,l-p---na-,ATR
+8,Leuven|1728|10|9,9,γράμματα,γράμμα,n-p---na-,OBJ

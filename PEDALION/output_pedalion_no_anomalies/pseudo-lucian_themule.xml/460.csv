@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|461|1,1,καί,καί,c--------,AuxY
+1,Leuven|Ps-Luc|461|2,2,τις,τις,p-s---cn-,SBJ
+2,Leuven|Ps-Luc|461|3,3,εἶπεν,λέγω,v3saia---,PRED
+4,Leuven|Ps-Luc|461|5,5,καὶ,καί,c--------,AuxY
+5,Leuven|Ps-Luc|461|6,6,πίεται,πίνω,v3sfim---,OBJ
+6,Leuven|Ps-Luc|461|7,7,οἶνον,οἶνος,n-s---ma-,OBJ
+7,Leuven|Ps-Luc|461|8,8,οὗτος,οὗτος,p-s---mn-,ATR
+8,Leuven|Ps-Luc|461|9,9,ὁ,ὁ,l-s---mn-,ATR
+9,Leuven|Ps-Luc|461|10,10,ὄνος,ὄνος,n-s---mn-,SBJ
+11,Leuven|Ps-Luc|461|12,12,ἤν,ἐάν,c--------,AuxC
+12,Leuven|Ps-Luc|461|13,13,τις,τις,p-s---cn-,SBJ
+13,Leuven|Ps-Luc|461|14,14,αὐτῶι,αὐτός,p-s---md-,OBJ
+14,Leuven|Ps-Luc|461|15,15,ἐγκερασάμενος,ἐγκεράννυμι,v-sapmmn-,ADV
+15,Leuven|Ps-Luc|461|16,16,ἐπιδῶι,ἐπιδίδωμι,v3sasa---,ADV

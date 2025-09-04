@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|426|1,1,Πλάτων,Πλάτων,n-s---mn-,SBJ
+1,Leuven|0557-001|426|2,2,φιλόσοφος,φιλόσοφος,n-s---mn-,PNOM
+2,Leuven|0557-001|426|3,3,οὐκʼ,οὐ,d--------,AuxZ
+3,Leuven|0557-001|426|4,4,ἦν,εἰμί,v3siia---,PRED

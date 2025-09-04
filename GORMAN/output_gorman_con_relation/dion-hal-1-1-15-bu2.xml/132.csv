@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---fg-,ATR
+2,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+3,τὰς,ὁ,l-p---fa-,ATR
+4,ἐπιφανεστάτας,ἐπιφανής,a-p---fas,OBJ
+5,",",punc1,u--------,AuxX
+6,ὡς,ὡς,c--------,AuxC
+7,ἐκεῖνος,ἐκεῖνος,p-s---mn-,SBJ
+8,ἱστορεῖ,ἱστορέω,v3spia---,ADV
+9,",",punc1,u--------,AuxX
+10,διηγήσομαι,διηγέομαι,v1sfie---,PRED
+11,.,punc1,u--------,AuxK

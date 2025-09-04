@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|5|1,1,ἰδοὺ,ἰδού,i--------,ExD
+Leuven|21347|5|2,2,τρεῖς,τρεῖς,m-p---ca-,ATR
+Leuven|21347|5|3,3,ἐπιστολὰς,ἐπιστολή,n-p---fa-,OBJ
+Leuven|21347|5|4,4,ἔπεμψά,πέμπω,v1saia---,PRED_CO
+Leuven|21347|5|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|21347|5|6,6,καὶ,καί,b--------,COORD
+Leuven|21347|5|7,7,οὐδὲ,οὐδέ,d--------,AuxZ
+Leuven|21347|5|8,8,μίαν,εἷς,m-s---fa-,OBJ
+Leuven|21347|5|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|21347|5|10,10,ἔγραψας,γράφω,v2saia---,PRED_CO
+Leuven|21347|5|11,11,.,.,u--------,AuxK

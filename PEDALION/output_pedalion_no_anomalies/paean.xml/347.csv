@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|349|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|349|2,2,παρʼ,παρά,r--------,AuxP
+2,Leuven|PaeanBrev|349|3,3,αὐταῖς,αὐτός,p-p---fd-,ADV
+3,Leuven|PaeanBrev|349|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|PaeanBrev|349|5,5,βίον,βίος,n-s---ma-,OBJ
+5,Leuven|PaeanBrev|349|6,6,ἐτελεύτησεν,τελευτάω,v3saia---,PRED

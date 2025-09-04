@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὴν,ὁ,l-s---fa-,ATR
+1,2,κεφαλὴν,κεφαλή,n-s---fa-,OBJ
+2,3,κόλακος,κόλαξ,n-s---mg-,ATR
+3,4,ἔχει,ἔχω,v3spia---,PRED
+4,5,.,punc1,u--------,AuxX

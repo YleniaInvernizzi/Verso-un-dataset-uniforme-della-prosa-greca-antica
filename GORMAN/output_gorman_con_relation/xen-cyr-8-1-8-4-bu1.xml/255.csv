@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,συμβουλεύσας,συμβουλεύω,v-sapamn-,PNOM_CO
+4,ἂν,ἄν1,d--------,AuxY
+5,ὁπότερος,ὁπότερος,a-s---mn-,SBJ
+6,βελτίων,βελτίων,a-s---mnc,PNOM
+7,εἴη,εἰμί,v3spoa---,ATR
+8,καὶ,καί,c--------,COORD
+9,εἰπών,εἶπον,v-sapamn-,PNOM_CO
+10,·,punc1,u--------,AuxK
+11,ἦν,εἰμί,v3siia---,PRED

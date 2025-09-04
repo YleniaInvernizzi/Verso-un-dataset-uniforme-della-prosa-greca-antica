@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|36|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|36|2,2,παρεκλήθη,παρακαλέω,v3saip---,PRED
+Leuven|Genesis_deel3|36|3,3,Ισαακ,Ισαακ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|36|4,4,περί,περί,r--------,AuxP
+Leuven|Genesis_deel3|36|5,5,Σαρρας,Σαρρα,n-s---fg-,ADV
+Leuven|Genesis_deel3|36|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel3|36|7,7,μητρός,μήτηρ,n-s---fg-,APOS
+Leuven|Genesis_deel3|36|8,8,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel3|36|9,9,.,.,u--------,AuxK

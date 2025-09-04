@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|46|1,1,ἕκτος,ἕκτος,a-s---mn-,ADV
+Leuven|PaeanBrev|46|2,2,ὑποδέχεται,ὑποδέχομαι,v3spie---,PRED
+Leuven|PaeanBrev|46|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|46|4,4,ἀρχήν,ἀρχή,n-s---fa-,OBJ
+Leuven|PaeanBrev|46|5,5,Σερούιος,Σερούϊος,n-s---mn-,SBJ
+Leuven|PaeanBrev|46|6,6,Τούλλιος,Τούλλιος,n-s---mn-,APOS
+Leuven|PaeanBrev|46|7,7,",",",",u--------,AuxX
+Leuven|PaeanBrev|46|8,8,ἐξ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|46|9,9,ἐπισήμου,ἐπίσημος,a-s---fg-,ATR
+Leuven|PaeanBrev|46|10,10,γεγονώς,γίγνομαι,v-srpamn-,ATR
+Leuven|PaeanBrev|46|11,11,μητρός,μήτηρ,n-s---fg-,ADV
+Leuven|PaeanBrev|46|12,12,·,·,u--------,AuxK

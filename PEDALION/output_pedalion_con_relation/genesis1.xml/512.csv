@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|513|1,1,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|513|2,2,ὑπερασπίζω,ὑπερασπίζω,v1spia---,PRED
+Leuven|Genesis|513|3,3,σου,σύ,p2s---cg-,OBJ
+Leuven|Genesis|513|4,4,·,·,u--------,AuxK

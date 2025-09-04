@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|33|1,1,μή,μή,d--------,AuxZ
+Leuven|0557-001|33|2,2,τι,τις,p-s---na-,ADV
+Leuven|0557-001|33|3,3,μικρά,μικρός,a-p---nn-,PNOM
+Leuven|0557-001|33|4,4,σοι,σύ,p2s---cd-,ADV
+Leuven|0557-001|33|5,5,φαίνεται,φαίνω,v3spie---,PRED
+Leuven|0557-001|33|6,6,ταῦτα,οὗτος,p-p---nn-,SBJ
+Leuven|0557-001|33|7,7,;,;,u--------,AuxK

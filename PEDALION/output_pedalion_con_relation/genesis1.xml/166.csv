@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|167|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|167|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|167|3,3,Καιν,Καιν,n-s---mn-,SBJ
+Leuven|Genesis|167|4,4,πρός,πρός,r--------,AuxP
+Leuven|Genesis|167|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|167|6,6,κύριον,κύριος,n-s---ma-,OBJ
+Leuven|Genesis|167|7,7,·,·,u--------,AuxK

@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28784|4|1,1,καί,καί,d--------,AuxY
+Leuven|28784|4|2,2,ἔγραψας,γράφω,v2saia---,PRED
+Leuven|28784|4|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|28784|4|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|28784|4|5,5,οὐ,οὐ,d--------,AuxZ
+Leuven|28784|4|6,6,καθάπαξ,καθάπαξ,d--------,ADV
+Leuven|28784|4|7,7,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|28784|4|8,8,ἔτι,ἔτι,d--------,ADV
+Leuven|28784|4|9,9,γράφεις,γράφω,v2spia---,OBJ
+Leuven|28784|4|10,10,·,·,u--------,AuxK

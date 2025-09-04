@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|33637|3|1,1,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED
+Leuven|33637|3|2,2,σοι,σύ,p2s---cd-,OBJ
+Leuven|33637|3|3,3,πολλά,πολύς,a-p---na-,ADV
+Leuven|33637|3|4,4,Θῶνις,Θῶνις,n-s---mn-,SBJ
+Leuven|33637|3|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|33637|3|6,6,ἀδελφός,ἀδελφός,n-s---mn-,APOS
+Leuven|33637|3|7,7,σου,σύ,p2s---cg-,ATR
+Leuven|33637|3|8,8,.,.,u--------,AuxK

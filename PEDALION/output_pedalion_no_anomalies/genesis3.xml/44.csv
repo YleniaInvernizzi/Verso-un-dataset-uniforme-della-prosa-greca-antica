@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|45|1,1,ταῦτα,οὗτος,p-p---nn-,SBJ
+1,Leuven|Genesis_deel3|45|2,2,δέ,δέ,d--------,AUX
+2,Leuven|Genesis_deel3|45|3,3,τά,ὁ,l-p---nn-,ATR
+3,Leuven|Genesis_deel3|45|4,4,ἔτη,ἔτος,n-p---nn-,PNOM
+4,Leuven|Genesis_deel3|45|5,5,ἡμερῶν,ἡμέρα,n-p---fg-,ATR
+5,Leuven|Genesis_deel3|45|6,6,ζωῆς,ζωή,n-s---fg-,ATR
+6,Leuven|Genesis_deel3|45|7,7,Αβρααμ,Αβρααμ,n-s---mg-,ATR
+8,Leuven|Genesis_deel3|45|9,9,ὅσα,ὅσος,p-p---na-,OBJ
+9,Leuven|Genesis_deel3|45|10,10,ἔζησεν,ζάω,v3saia---,ATR

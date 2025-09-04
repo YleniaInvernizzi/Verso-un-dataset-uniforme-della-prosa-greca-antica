@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τούτοις;οὗτος;p-p---md-;OBJ
+2;δὲ;δέ;d--------;AuxY
+3;τὸ;ὁ;l-s---nn-;ATR
+4;τῶν;ὁ;l-p---mg-;ATR
+5;συμμάχων;σύμμαχος;n-p---mg-;ATR
+6;δεξιὸν;δεξιός;a-s---nn-;ATR
+7;ἐπιβάλλει;ἐπιβάλλω;v3spia---;PRED
+8;κέρας;κέρας;n-s---nn-;SBJ
+9;·;punc;u--------;AuxK

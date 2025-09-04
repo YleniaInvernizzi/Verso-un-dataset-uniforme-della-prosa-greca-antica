@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅπερ,ὅσπερ,p-s---nn-,SBJ
+2,ἐστὶν,εἰμί,v3spia---,PRED
+3,οὐδαμῶς,οὐδαμός,d--------,ADV
+4,εἰκός,εἰκός,v-srpann-,PNOM
+5,.,punc1,u--------,AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28410|5|1,1,καὶ,καί,d--------,AuxY
+Leuven|28410|5|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|28410|5|3,3,μήτηρ,μήτηρ,n-s---fn-,SBJ
+Leuven|28410|5|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|28410|5|5,5,εἶπε,λέγω,v3saia---,PRED
+Leuven|28410|5|6,6,Ἀρχελάῳ,Ἀρχέλαος,n-s---md-,OBJ
+Leuven|28410|5|7,7,ὅτι,ὅτι,c--------,AuxC
+Leuven|28410|5|8,8,ἀναστατοῖ,ἀναστατόω,v3spia---,OBJ
+Leuven|28410|5|9,9,μὴ,μή,d--------,AuxZ
+Leuven|28410|5|10,10,αἴρων,αἴρω,v-sppamn-,ADV
+Leuven|28410|5|11,11,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|28410|5|12,12,.,.,u--------,AuxK

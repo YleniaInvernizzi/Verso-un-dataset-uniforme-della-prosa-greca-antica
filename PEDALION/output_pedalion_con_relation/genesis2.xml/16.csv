@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|17|1,1,ἐάν,ἐάν,c--------,AuxC
+Leuven|Genesis_deel2|17|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|17|3,3,εὑρεθῶσιν,εὑρίσκω,v3pasp---,ADV
+Leuven|Genesis_deel2|17|4,4,ἐκεῖ,ἐκεῖ,d--------,ATR
+Leuven|Genesis_deel2|17|5,5,τριάκοντα,τριάκοντα,m--------,OBJ
+Leuven|Genesis_deel2|17|6,6,;,;,u--------,AuxK
+Leuven|Genesis_deel2|17|7,7,[0],,,PRED

@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,τεκμηριοῖ,τεκμηριόω,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,μάλιστα,μάλιστα,d--------,ADV
+4,Ὅμηρος,Ὅμηρος,n-s---mn-,SBJ
+5,:,punc1,u--------,AuxK

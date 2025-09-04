@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|450|1,1,τί,τίς,p-s---na-,ADV
+Leuven|Genesis|450|2,2,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|Genesis|450|3,3,ἐποίησας,ποιέω,v2saia---,PRED
+Leuven|Genesis|450|4,4,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis|450|5,5,",",",",u--------,AuxX
+Leuven|Genesis|450|6,6,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|450|7,7,οὐκ,οὐ,d--------,AuxZ
+Leuven|Genesis|450|8,8,ἀπήγγειλας,ἀπαγγέλλω,v2saia---,APOS
+Leuven|Genesis|450|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis|450|10,10,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|450|11,11,γυνή,γυνή,n-s---fn-,PNOM
+Leuven|Genesis|450|12,12,σού,σύ,p2s---cg-,ATR
+Leuven|Genesis|450|13,13,ἐστιν,εἰμί,v3spia---,OBJ
+Leuven|Genesis|450|14,14,;,;,u--------,AuxK

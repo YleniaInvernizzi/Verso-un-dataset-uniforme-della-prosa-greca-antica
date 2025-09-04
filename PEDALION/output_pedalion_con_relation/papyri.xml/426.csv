@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28133|3|1,1,γινώσκειν,γιγνώσκω,v--pna---,OBJ
+Leuven|28133|3|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|28133|3|3,3,θέλω,ἐθέλω,v1spia---,PRED
+Leuven|28133|3|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|28133|3|5,5,μόνη,μόνος,a-s---fn-,PNOM
+Leuven|28133|3|6,6,εἰμί,εἰμί,v1spia---,OBJ
+Leuven|28133|3|7,7,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|28133|3|8,8,.,.,u--------,AuxK

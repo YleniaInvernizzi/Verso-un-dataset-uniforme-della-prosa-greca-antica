@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,σοὶ,σύ,p-s---md-,OBJ
+2,δέ,δέ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,AuxY
+5,",",punc1,u--------,AuxX
+6,ὦ,ὦ,i--------,AuxZ
+7,Γωβρύα,Γωβρύης,n-s---mv-,ExD
+8,",",punc1,u--------,AuxX
+9,δώσω,δίδωμι,v1sfia---,PRED
+10,ἄνδρα,ἀνήρ,n-s---ma-,OBJ
+11,τῇ,ὁ,l-s---fd-,ATR
+12,θυγατρί,θυγάτηρ,n-s---fd-,ATR
+13,.,punc1,u--------,AuxK

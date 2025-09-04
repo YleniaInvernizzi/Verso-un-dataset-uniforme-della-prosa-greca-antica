@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|70|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|70|2,2,λαός,λαός,n-s---mn-,SBJ
+2,Leuven|Genesis_deel3|70|3,3,λαοῦ,λαός,n-s---mg-,OBJ
+3,Leuven|Genesis_deel3|70|4,4,ὑπερέξει,ὑπερέχω,v3sfia---,PRED_CO
+5,Leuven|Genesis_deel3|70|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel3|70|7,7,ὁ,ὁ,l-s---mn-,ATR
+7,Leuven|Genesis_deel3|70|8,8,μείζων,μέγας,a-s---mnc,SBJ
+8,Leuven|Genesis_deel3|70|9,9,δουλεύσει,δουλεύω,v3sfia---,PRED_CO
+9,Leuven|Genesis_deel3|70|10,10,τῷ,ὁ,l-s---md-,ATR
+10,Leuven|Genesis_deel3|70|11,11,ἐλάσσονι,ἐλαχύς,a-s---mdc,OBJ

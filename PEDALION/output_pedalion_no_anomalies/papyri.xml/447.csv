@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28784|6|1,1,ἡμεῖς,ἐγώ,p1p---cn-,SBJ
+1,Leuven|28784|6|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|28784|6|3,3,καθάπαξ,καθάπαξ,d--------,ADV
+3,Leuven|28784|6|4,4,γράφομεν,γράφω,v1ppia---,PRED
+4,Leuven|28784|6|5,5,σοι,σύ,p2s---cd-,OBJ

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,τὸν,ὁ,l-s---ma-,ATR
+2,3,Μῆδον,Μῆδος,n-s---ma-,SBJ
+3,4,φιληθέντα,φιλέω,v-sappma-,ADV
+4,5,ἐρέσθαι,ἔρομαι,v--anm---,PRED
+5,6,·,punc1,u--------,AuxK

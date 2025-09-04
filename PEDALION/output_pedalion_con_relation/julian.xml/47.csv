@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|2003-001|48|1,1,τί,τίς,p-s---na-,OBJ
+Leuven|2003-001|48|2,2,δέ,δέ,d--------,AuxY
+Leuven|2003-001|48|3,3,ἄλλος,ἄλλος,p-s---mn-,ATR
+Leuven|2003-001|48|4,4,τις,τις,p-s---cn-,SBJ
+Leuven|2003-001|48|5,5,εἰπεῖν,λέγω,v--ana---,OBJ
+Leuven|2003-001|48|6,6,ἔχει,ἔχω,v3spia---,PRED
+Leuven|2003-001|48|7,7,;,;,u--------,AuxK

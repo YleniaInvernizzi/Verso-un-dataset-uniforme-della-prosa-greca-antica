@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τῷ,ὁ,l-s---md-,ATR
+2,λιμῷ,λιμός,n-s---md-,ADV
+3,ἄν,ἄν,d--------,AuxY
+4,",",punc1,u--------,AuxX
+5,ἔφη,φημί,v3siia---,PRED
+6,",",punc1,u--------,AuxX
+7,ἀπέθανες,ἀποθνήσκω,v2saia---,OBJ
+8,.,punc1,u--------,AuxK

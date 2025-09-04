@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἠσκήκεις;ἀσκέω;v2slia---;PRED
+2;δὲ;δέ;d--------;OBJ
+3;φθάνων;φθάνω;v-sppamn-;ADV
+4;ἕλκειν;ἕλκω;v--pna---;OBJ
+5;ἢ;ἤ;c--------;AuxC
+6;τὰ;ὁ;l-p---na-;ATR
+7;πτηνὰ;πτηνός;a-p---na-;SBJ
+8;φεύγειν;φεύγω;v--pna---;ADV
+9;.;punc;u--------;AuxK

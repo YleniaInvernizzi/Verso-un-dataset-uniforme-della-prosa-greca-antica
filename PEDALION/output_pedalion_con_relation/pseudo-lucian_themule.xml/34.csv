@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|35|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|35|2,2,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|Ps-Luc|35|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|35|4,4,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|35|5,5,σκῆψις,σκῆψις,n-s---fn-,PNOM
+Leuven|Ps-Luc|35|6,6,.,.,u--------,AuxK

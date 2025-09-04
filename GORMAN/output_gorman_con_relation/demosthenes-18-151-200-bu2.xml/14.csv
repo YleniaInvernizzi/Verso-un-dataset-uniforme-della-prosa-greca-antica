@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,λέγε,λέγω3,v2spma---,PRED
+2,δὴ,δή,d--------,AuxZ
+3,καὶ,καί,d--------,AuxZ
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,χρόνους,χρόνος,n-p---ma-,OBJ
+6,ἐν,ἐν,r--------,AuxP
+7,οἷς,ὅς,p-p---md-,ADV
+8,ταῦτ᾽,οὗτος,p-p---nn-,SBJ
+9,ἐγίγνετο,γίγνομαι,v3siie---,ATR
+10,:,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|511|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|511|2,2,παῖδες,παῖς,n-p---cn-,ATR
+2,Leuven|Ps-Luc|511|3,3,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+3,Leuven|Ps-Luc|511|4,4,παρειστήκεισαν,παρίστημι,v3plia---,PRED
+4,Leuven|Ps-Luc|511|5,5,οἰνοχόοι,οἰνοχόος,n-p---mn-,SBJ
+5,Leuven|Ps-Luc|511|6,6,καλοὶ,καλός,a-p---mn-,ATR
+6,Leuven|Ps-Luc|511|7,7,τὸν,ὁ,l-s---ma-,ATR
+7,Leuven|Ps-Luc|511|8,8,οἶνον,οἶνος,n-s---ma-,OBJ
+8,Leuven|Ps-Luc|511|9,9,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+9,Leuven|Ps-Luc|511|10,10,χρυσίωι,χρυσίον,n-s---nd-,ADV
+10,Leuven|Ps-Luc|511|11,11,διακονούμενοι,διακονέω,v-pppemn-,ADV

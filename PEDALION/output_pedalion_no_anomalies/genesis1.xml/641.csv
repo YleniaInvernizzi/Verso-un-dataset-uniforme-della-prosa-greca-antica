@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|642|1,1,οὔπω,οὔπω,d--------,AuxZ
+1,Leuven|Genesis|642|2,2,μέν,μέν,d--------,AuxY
+2,Leuven|Genesis|642|3,3,μοι,ἐγώ,p1s---cd-,ADV
+3,Leuven|Genesis|642|4,4,γέγονεν,γίγνομαι,v3sria---,PRED_CO
+4,Leuven|Genesis|642|5,5,ἕως,ἕως,r--------,AuxP
+5,Leuven|Genesis|642|6,6,τοῦ,ὁ,l-s---ng-,ATR
+6,Leuven|Genesis|642|7,7,νῦν,νῦν,d--------,ADV
+8,Leuven|Genesis|642|9,9,ὁ,ὁ,l-s---mn-,ATR
+9,Leuven|Genesis|642|10,10,δέ,δέ,d--------,COORD
+10,Leuven|Genesis|642|11,11,κύριος,κύριος,n-s---mn-,SBJ
+11,Leuven|Genesis|642|12,12,μου,ἐγώ,p1s---cg-,ATR
+12,Leuven|Genesis|642|13,13,πρεσβύτερος,πρεσβύτερος,a-s---mnc,PNOM

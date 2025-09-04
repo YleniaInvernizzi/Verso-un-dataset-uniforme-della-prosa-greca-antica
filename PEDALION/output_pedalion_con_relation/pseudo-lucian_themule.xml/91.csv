@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|92|1,1,ἄλλα,ἄλλος,p-p---na-,OBJ
+Leuven|Ps-Luc|92|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|92|3,3,ἐξ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|92|4,4,ἄλλων,ἄλλος,p-p---ng-,ADV
+Leuven|Ps-Luc|92|5,5,ἐπιτάττεις,ἐπιτάσσω,v2spia---,PRED
+Leuven|Ps-Luc|92|6,6,.,.,u--------,AuxK

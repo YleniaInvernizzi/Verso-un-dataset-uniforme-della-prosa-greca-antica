@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Ἰσθμὸν,ἰσθμός,n-s---ma-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,μὴ,μή,d--------,AuxZ
+4,πυργοῦτε,πυργόω,v2ppma---,PRED_CO
+5,μη,μηδέ,d--------,AuxZ
+6,-δ᾽,δέ,c--------,COORD
+7,ὀρύσσετε,ὀρύσσω,v2ppma---,PRED_CO
+8,:,punc1,u--------,AuxK

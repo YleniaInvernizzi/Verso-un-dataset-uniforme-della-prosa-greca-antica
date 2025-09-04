@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀρκοῦν,ἀρκέω,v-sppann-,PNOM
+1,2,ἂν,ἄν1,d--------,AuxZ
+2,3,εἴη,εἰμί,v3spoa---,PRED
+3,4,κἂν,ἐάν,c--------,AuxC
+4,5,γυναῖκ᾽,γυνή,n-s---fa-,OBJ
+5,6,εἴπῃς,εἶπον,v2sasa---,SBJ
+6,7,μόνον,μόνος,a-s---na-,ADV
+7,8,.,punc1,u--------,AuxK

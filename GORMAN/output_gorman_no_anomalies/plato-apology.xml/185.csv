@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὦ,ὦ,i--------,AuxZ
+1,2,τάν,τάν,i--------,ExD
+2,3,",",punc1,u--------,AuxX
+3,4,ἀπόκριναι,ἀποκρίνω,v2samm---,PRED
+4,5,·,punc1,u--------,AuxK

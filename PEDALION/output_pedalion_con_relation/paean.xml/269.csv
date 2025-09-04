@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|271|1,1,δέχονται,δέχομαι,v3ppie---,PRED
+Leuven|PaeanBrev|271|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|271|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|271|4,4,ὑπατείαν,ὑπατεία,n-s---fa-,OBJ
+Leuven|PaeanBrev|271|5,5,Μάρκος,Μάρκος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|271|6,6,Κούριος,Κούριος,n-s---mn-,APOS
+Leuven|PaeanBrev|271|7,7,Δεντάτος,Δεντάτος,n-s---mn-,APOS
+Leuven|PaeanBrev|271|8,8,καί,καί,b--------,COORD
+Leuven|PaeanBrev|271|9,9,Κορνήλιος,Κορνήλιος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|271|10,10,Λέντουλος,Λέντουλος,n-s---mn-,APOS
+Leuven|PaeanBrev|271|11,11,·,·,u--------,AuxK

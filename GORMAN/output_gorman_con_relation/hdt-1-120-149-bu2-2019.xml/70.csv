@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,νῦν,νῦν,d--------,ADV
+2,ὦν,οὖν,d--------,AuxY
+3,ἐμέο,ἐγώ,p1s---mg-,OBJ
+4,πειθόμενοι,πείθω,v-pppemn-,PNOM
+5,γίνεσθε,γίγνομαι,v2ppme---,PRED
+6,ἐλεύθεροι,ἐλεύθερος,a-p---mn-,PNOM
+7,.,punc1,u--------,AuxK

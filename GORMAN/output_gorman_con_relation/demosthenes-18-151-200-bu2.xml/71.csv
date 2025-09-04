@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,θορύβου,θόρυβος,n-s---mg-,ATR
+3,πλήρης,πλήρης,a-s---fn-,PNOM
+4,ἦν,εἰμί,v3siia---,PRED
+5,ἡ,ὁ,l-s---fn-,ATR
+6,πόλις,πόλις,n-s---fn-,SBJ
+7,.,punc1,u--------,AuxK

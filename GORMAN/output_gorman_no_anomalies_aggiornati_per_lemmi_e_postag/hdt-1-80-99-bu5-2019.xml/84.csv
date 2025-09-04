@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;Κύρῳ;Κῦρος;n-s---md-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;ἐπιμελὲς;ἐπιμελής;a-s---nn-;PNOM
+4;ἐγένετο;γίγνομαι;v3saim---;PRED
+5;τὰ;ὁ;p-p---na-;OBJ
+6;Κροῖσος;Κροῖσος;n-s---mn-;SBJ
+7;εἶπε;λέγω;v3saia---;SBJ
+8;:;punc;u--------;AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|40|1,1,τίς,τίς,p-s---cn-,ATR
+Leuven|0557-001|40|2,2,ἄνεμος,ἄνεμος,n-s---mn-,SBJ
+Leuven|0557-001|40|3,3,πνεῖ,πνέω,v3spia---,PRED
+Leuven|0557-001|40|4,4,;,;,u--------,AuxK

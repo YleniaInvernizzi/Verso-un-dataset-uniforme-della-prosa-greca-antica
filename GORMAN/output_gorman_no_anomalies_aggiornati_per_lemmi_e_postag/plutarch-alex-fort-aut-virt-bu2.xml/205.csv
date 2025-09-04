@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀρκεῖ;ἀρκέω;v3spia---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;ἑνὸς;εἷς;a-s---mg-;ATR
+4;βασιλέως;βασιλεύς;n-s---mg-;ATR
+5;ἐνυβρίσαντος;ἐνυβρίζω;v-sapamg-;ATR
+6;εἶναι;εἰμί;v--pna---;SBJ
+7;μνημεῖον;μνημεῖον;n-s---na-;PNOM
+8;.;punc;u--------;AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27107|7|1,1,ἀσπαάζονταί,ἀσπάζομαι,v3ppie---,PRED
+Leuven|27107|7|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|27107|7|3,3,οἱ,ὁ,l-p---mn-,ATR
+Leuven|27107|7|4,4,παρ’,παρά,r--------,AuxP
+Leuven|27107|7|5,5,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|27107|7|6,6,πάντες,πᾶς,a-p---mn-,SBJ_CO
+Leuven|27107|7|7,7,καὶ,καί,b--------,COORD
+Leuven|27107|7|8,8,αἱ,ὁ,l-p---fn-,ATR
+Leuven|27107|7|9,9,παρ’,παρά,r--------,AuxP
+Leuven|27107|7|10,10,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|27107|7|11,11,πᾶσαι,πᾶς,a-p---fn-,SBJ_CO
+Leuven|27107|7|12,12,.,.,u--------,AuxK

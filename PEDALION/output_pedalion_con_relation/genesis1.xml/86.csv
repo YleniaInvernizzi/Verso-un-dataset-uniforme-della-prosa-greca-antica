@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|87|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|87|2,2,ἐπέβαλεν,ἐπιβάλλω,v3saia---,PRED_CO
+Leuven|Genesis|87|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|87|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|87|5,5,ἔκστασιν,ἔκστασις,n-s---fa-,OBJ
+Leuven|Genesis|87|6,6,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|87|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|87|8,8,Αδαμ,Αδαμ,n-s---ma-,OBJ
+Leuven|Genesis|87|9,9,",",",",u--------,AuxX
+Leuven|Genesis|87|10,10,καί,καί,b--------,COORD
+Leuven|Genesis|87|11,11,ὕπνωσεν,ὑπνόω,v3saia---,PRED_CO
+Leuven|Genesis|87|12,12,·,·,u--------,AuxK

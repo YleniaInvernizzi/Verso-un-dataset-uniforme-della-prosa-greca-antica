@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐδόκει,δοκέω,v3siia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,λιθιᾶν,λιθιάω,v--pna---,OBJ
+4,",",punc1,u--------,AuxX
+5,ὡς,ὡς,c--------,AuxC
+6,ἔοιχ᾽,ἔοικα,v3sria---,ADV
+7,",",punc1,u--------,AuxX
+8,ἡ,ὁ,l-s---fn-,ATR
+9,Μανία,Μανία,n-s---fn-,SBJ
+10,:,punc1,u--------,AuxK

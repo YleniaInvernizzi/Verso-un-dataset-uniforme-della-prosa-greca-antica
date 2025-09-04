@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|28|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|28|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|28|3,3,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Ps-Luc|28|4,4,ἔφερε,φέρω,v3siia---,PRED_CO
+Leuven|Ps-Luc|28|5,5,λαβοῦσα,λαμβάνω,v-sapafn-,ADV
+Leuven|Ps-Luc|28|6,6,εἴσω,εἴσω,d--------,ADV
+Leuven|Ps-Luc|28|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|28|8,8,κατέθηκεν,κατατίθημι,v3saia---,PRED_CO
+Leuven|Ps-Luc|28|9,9,.,.,u--------,AuxK

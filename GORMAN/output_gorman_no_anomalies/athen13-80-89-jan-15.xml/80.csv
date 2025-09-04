@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,Φιλήμων,Φιλήμων,n-s---mn-,SBJ
+2,3,τοῦ,ὁ,l-s---ng-,ATR
+3,4,αὐτοῦ,αὐτός,p-s---ng-,OBJ
+4,5,μνημονεύων,μνημονεύω,v-sppamn-,ADV
+5,6,φησὶν,φημί,v3spia---,PRED
+6,7,:,punc1,u--------,AuxK

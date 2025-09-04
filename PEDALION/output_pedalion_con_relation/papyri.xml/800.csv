@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|80117|5|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+Leuven|80117|5|2,2,ὑμᾶς,σύ,p2p---ca-,SBJ
+Leuven|80117|5|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+Leuven|80117|5|4,4,.,.,u--------,AuxK

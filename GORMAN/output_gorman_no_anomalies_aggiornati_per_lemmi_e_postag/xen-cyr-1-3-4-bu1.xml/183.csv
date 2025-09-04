@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;τίς;τις;p-s---cn-;SBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;ἄν;ἄν;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;ἔφασαν;φημί;v3piia---;PRED
+6;,;punc;u--------;AuxX
+7;σοῦ;σύ;p2s---mg-;ADV
+8;γε;γε;d--------;AuxZ
+9;ἱκανώτερος;ἱκανός;a-s---mnc;PNOM
+10;πεῖσαι;πείθω;v--ana---;ADV
+11;";";punc;u--------;AuxK
+12;ἐστιν;εἰμί;v3spia---;OBJ

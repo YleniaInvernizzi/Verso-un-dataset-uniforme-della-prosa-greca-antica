@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,πράττεταί,πράσσω,v3spie---,PRED
+2,τι,τις,p-s---nn-,SBJ
+3,τῶν,ὁ,l-p---ng-,ATR
+4,ὑμῖν,σύ,p-p---md-,OBJ
+5,δοκούντων,δοκέω,v-pppang-,ATR
+6,συμφέρειν,συμφέρω,v--pna---,OBJ
+7,:,punc1,u--------,AuxK

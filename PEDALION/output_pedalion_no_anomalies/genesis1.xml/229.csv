@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|230|1,1,ἐκεῖνοι,ἐκεῖνος,p-p---mn-,SBJ
+1,Leuven|Genesis|230|2,2,ἦσαν,εἰμί,v3piia---,PRED
+2,Leuven|Genesis|230|3,3,οἱ,ὁ,l-p---mn-,ATR
+3,Leuven|Genesis|230|4,4,γίγαντες,γίγας,n-p---mn-,PNOM
+4,Leuven|Genesis|230|5,5,οἱ,ὁ,l-p---mn-,ATR
+5,Leuven|Genesis|230|6,6,ἀπ’,ἀπό,r--------,AuxP
+6,Leuven|Genesis|230|7,7,αἰῶνος,αἰών,n-s---mg-,ATR
+8,Leuven|Genesis|230|9,9,οἱ,ὁ,l-p---mn-,ATR
+9,Leuven|Genesis|230|10,10,ἄνθρωποι,ἄνθρωπος,n-p---mn-,APOS
+10,Leuven|Genesis|230|11,11,οἱ,ὁ,l-p---mn-,ATR
+11,Leuven|Genesis|230|12,12,ὀνομαστοί,ὀνομαστός,a-p---mn-,ATR

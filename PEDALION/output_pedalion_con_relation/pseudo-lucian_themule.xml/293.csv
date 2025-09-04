@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|294|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|294|2,2,μὴν,μήν,d--------,AuxZ
+Leuven|Ps-Luc|294|3,3,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|294|4,4,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|294|5,5,πολλὰ,πολύς,a-p---na-,ADV
+Leuven|Ps-Luc|294|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|294|7,7,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|294|8,8,ὄρος,ὄρος,n-s---na-,OBJ
+Leuven|Ps-Luc|294|9,9,ἄνω,ἄνω,d--------,ADV
+Leuven|Ps-Luc|294|10,10,ἐπεμπόμην,πέμπω,v1siie---,PRED_CO
+Leuven|Ps-Luc|294|11,11,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|294|12,12,ξύλα,ξύλον,n-p---na-,OBJ
+Leuven|Ps-Luc|294|13,13,τοῖς,ὁ,l-p---md-,ATR
+Leuven|Ps-Luc|294|14,14,ὤμοις,ὦμος,n-p---md-,ADV
+Leuven|Ps-Luc|294|15,15,ἐκόμιζον,κομίζω,v1siia---,PRED_CO
+Leuven|Ps-Luc|294|16,16,.,.,u--------,AuxK

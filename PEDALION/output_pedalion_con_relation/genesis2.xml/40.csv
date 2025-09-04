@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|41|1,1,ἐξῆλθεν,ἐξέρχομαι,v3saia---,PRED_CO
+Leuven|Genesis_deel2|41|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|41|3,3,Λωτ,Λωτ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|41|4,4,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|41|5,5,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|Genesis_deel2|41|6,6,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|41|7,7,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|41|8,8,πρόθυρον,πρόθυρον,n-s---na-,OBJ
+Leuven|Genesis_deel2|41|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel2|41|10,10,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|41|11,11,δέ,δέ,b--------,COORD
+Leuven|Genesis_deel2|41|12,12,θύραν,θύρα,n-s---fa-,OBJ
+Leuven|Genesis_deel2|41|13,13,προσέῳξεν,προσοίγνυμι,v3saia---,PRED_CO
+Leuven|Genesis_deel2|41|14,14,ὀπίσω,ὀπίσω,r--------,AuxP
+Leuven|Genesis_deel2|41|15,15,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+Leuven|Genesis_deel2|41|16,16,.,.,u--------,AuxK

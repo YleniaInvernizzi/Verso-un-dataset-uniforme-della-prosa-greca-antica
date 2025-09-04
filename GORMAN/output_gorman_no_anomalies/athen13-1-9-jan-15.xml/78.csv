@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἡ,ὁ,l-s---fn-,ATR
+1,2,Θεανὼ,Θεανώ,n-s---fn-,ATR
+2,3,δ᾽,δέ,d--------,AuxY
+3,4,οὐχὶ,οὐ,d--------,AuxZ
+4,5,Σειρήν,σειρήν,n-s---fn-,SBJ
+5,6,ἐστιν,εἰμί,v3spia---,PRED
+6,7,ἀποτετιλμένη,ἀποτίλλω,v-srpefn-,PNOM
+7,8,;,punc1,u--------,AuxK

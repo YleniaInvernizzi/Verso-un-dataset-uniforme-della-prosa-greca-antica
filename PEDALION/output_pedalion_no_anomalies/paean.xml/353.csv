@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|355|1,1,ἐπʼ,ἐπί,r--------,AuxP
+1,Leuven|PaeanBrev|355|2,2,αὐτῇ,αὐτός,p-s---fd-,ATR
+2,Leuven|PaeanBrev|355|3,3,γάρ,γάρ,d--------,AuxY
+3,Leuven|PaeanBrev|355|4,4,τῇ,ὁ,l-s---fd-,ATR
+4,Leuven|PaeanBrev|355|5,5,χέρσῳ,χέρσος,n-s---fd-,ADV
+5,Leuven|PaeanBrev|355|6,6,ἐφθάρησαν,φθείρω,v3paip---,PRED
+6,Leuven|PaeanBrev|355|7,7,αἱ,ὁ,l-p---fn-,ATR
+7,Leuven|PaeanBrev|355|8,8,νῆες,ναῦς,n-p---fn-,SBJ
+9,Leuven|PaeanBrev|355|10,10,ὥστε,ὥστε,c--------,AuxC
+10,Leuven|PaeanBrev|355|11,11,τούς,ὁ,l-p---ma-,ATR
+11,Leuven|PaeanBrev|355|12,12,ἄνδρας,ἀνήρ,n-p---ma-,SBJ
+12,Leuven|PaeanBrev|355|13,13,ἄνευ,ἄνευ,r--------,AuxP
+13,Leuven|PaeanBrev|355|14,14,πόνου,πόνος,n-s---mg-,ADV
+14,Leuven|PaeanBrev|355|15,15,τῆς,ὁ,l-s---fg-,ATR
+15,Leuven|PaeanBrev|355|16,16,γῆς,γῆ,n-s---fg-,OBJ
+16,Leuven|PaeanBrev|355|17,17,ἐφικέσθαι,ἐφικνέομαι,v--anm---,ADV

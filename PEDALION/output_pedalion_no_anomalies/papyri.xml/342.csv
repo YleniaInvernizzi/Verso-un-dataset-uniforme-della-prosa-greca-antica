@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27296|6|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|27296|6|2,2,ἔλθῃ,ἔρχομαι,v3sasa---,ADV
+2,Leuven|27296|6|3,3,Ἀπολλώνιος,Ἀπολλώνιος,n-s---mn-,SBJ_CO
+3,Leuven|27296|6|4,4,καί,καί,c--------,COORD
+4,Leuven|27296|6|5,5,Ἀπλονία,Ἀπλονία,n-s---fn-,SBJ_CO
+6,Leuven|27296|6|7,7,καταλάβετε,καταλαμβάνω,v2pama---,PRED
+7,Leuven|27296|6|8,8,ὑμεῖς,σύ,p2p---cn-,SBJ

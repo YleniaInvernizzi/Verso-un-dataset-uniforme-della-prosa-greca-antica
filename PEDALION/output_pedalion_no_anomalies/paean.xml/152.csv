@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|154|1,1,ἐντεῦθεν,ἐντεῦθεν,d--------,ADV
+1,Leuven|PaeanBrev|154|2,2,καί,καί,d--------,AuxZ
+2,Leuven|PaeanBrev|154|3,3,τά,ὁ,l-p---nn-,ATR
+3,Leuven|PaeanBrev|154|4,4,τῆς,ὁ,l-s---fg-,ATR
+4,Leuven|PaeanBrev|154|5,5,Ῥώμης,Ῥώμη,n-s---fg-,ATR
+5,Leuven|PaeanBrev|154|6,6,ηὐξήθη,αὐξάνω,v3saip---,PRED
+6,Leuven|PaeanBrev|154|7,7,πράγματα,πρᾶγμα,n-p---nn-,SBJ

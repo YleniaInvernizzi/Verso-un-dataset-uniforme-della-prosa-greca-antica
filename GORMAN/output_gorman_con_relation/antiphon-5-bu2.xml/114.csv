@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,προσέχετε,προσέχω,v2ppma---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τὸν,ὁ,l-s---ma-,ATR
+4,νοῦν,νόος,n-s---ma-,OBJ
+5,αὐτῇ,αὐτός,a-s---fd_,ATR
+6,τῇ,ὁ,l-s---fd-,ATR
+7,βασάνῳ,βάσανος,n-s---fd-,OBJ
+8,",",punc1,u--------,AuxX
+9,οἵα,οἷος,a-s---fn-,SBJ
+10,γεγένηται,γίγνομαι,v3srie---,ATR
+11,.,punc1,u--------,AuxK

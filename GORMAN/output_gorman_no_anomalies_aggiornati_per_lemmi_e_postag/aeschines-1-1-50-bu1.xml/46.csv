@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;τὸν;ὁ;l-s---ma-;OBJ
+2;τῆς;ὁ;l-s---fg-;ATR
+3;ὕβρεως;ὕβρις;n-s---fg-;ATR
+4;,;punc;u--------;AuxX
+5;ὃς;ὅς;p-s---mn-;SBJ
+6;ἑνὶ;εἷς;a-s---nd-;ATR
+7;κεφαλαίῳ;κεφάλαιος;a-s---nd-;ADV
+8;ἅπαντα;ἅπας;a-p---na-;ATR
+9;τὰ;ὁ;l-p---na-;ATR
+10;τοιαῦτα;τοιοῦτος;p-p---na-;OBJ
+11;συλλαβὼν;συλλαμβάνω;v-sapamn-;ADV
+12;ἔχει;ἔχω;v3spia---;ATR
+13;:;punc;u--------;AuxK
+14;ἔθηκε;τίθημι;v3saia---;PRED

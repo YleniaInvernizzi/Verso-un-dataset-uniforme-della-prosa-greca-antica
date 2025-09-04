@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,δοκεῖν,δοκέω,v--pna---,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,εἰδέναι,οἶδα,v--rna---,OBJ
+4,ἐστὶν,εἰμί,v3spia---,PRED
+5,ἃ,ὅς,p-p---na-,OBJ
+6,οὐκ,οὐ,d--------,AuxZ
+7,οἶδεν,οἶδα,v3sria---,OBJ
+8,.,punc1,u--------,AuxK

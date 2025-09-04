@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,λαβὼν,λαμβάνω,v-sapamn-,ADV
+2,γάρ,γάρ,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,AuxY
+5,",",punc1,u--------,AuxX
+6,ταῦτα,οὗτος,p-p---na-,OBJ
+7,πάντα,πᾶς,a-p---na-,ATR
+8,κέκτησο,κτάομαι,v2srme---,PRED_CO
+9,",",punc1,u--------,AuxX
+10,καὶ,καί,c--------,COORD
+11,χρῶ,χράομαι,v2spme---,PRED_CO
+12,ὅπως,ὅπως,c--------,AuxC
+13,βούλει,βούλομαι,v2spie---,ADV
+14,αὐτοῖς,αὐτός,p-p---nd-,OBJ
+15,·,punc1,u--------,AuxK

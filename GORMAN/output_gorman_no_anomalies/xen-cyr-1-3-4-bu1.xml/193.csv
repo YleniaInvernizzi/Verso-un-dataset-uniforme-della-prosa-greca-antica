@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τί,τις,p-s---na-,OBJ
+1,2,ἄλλο,ἄλλος,a-s---na-,ATR
+2,3,",",punc1,u--------,AuxX
+3,4,ἔφη,φημί,v3siia---,PRED
+4,5,",",punc1,u--------,AuxX
+5,6,ἢ,ἤ1,c--------,AuxC
+6,7,δήσας,δέω1,v-sapamn-,ADV
+7,8,ἐργάζεσθαι,ἐργάζομαι,v--pne---,OBJ
+8,9,ἀναγκάσω,ἀναγκάζω,v1sfia---,ADV
+9,10,;,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οἷς,ὅς,p-p---md-,OBJ
+2,οὐκέτι,οὐκέτι,d--------,ADV
+3,ἐφίεσαν,ἐφίημι,v3piia---,PRED
+4,οἱ,ὁ,l-p---mn-,ATR
+5,ξύμμαχοι,σύμμαχος,n-p---mn-,SBJ
+6,τὴν,ὁ,l-s---fa-,ATR
+7,ἡγεμονίαν,ἡγεμονία,n-s---fa-,OBJ
+8,.,punc1,u--------,AuxK

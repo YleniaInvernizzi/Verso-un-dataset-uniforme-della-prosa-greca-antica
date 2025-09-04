@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μικρὸς,μικρός,a-s---mn-,PNOM
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,καὶ,καί,d--------,AuxZ
+3,4,αὐτὸς,αὐτός,p-s---mn-,SBJ
+4,5,εἶ,εἰμί,v2spia---,PRED
+5,6,·,punc1,u--------,AuxK

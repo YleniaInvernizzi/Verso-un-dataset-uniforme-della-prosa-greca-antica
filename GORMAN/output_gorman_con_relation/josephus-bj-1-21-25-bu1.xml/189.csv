@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,δεινῆς,δεινός,a-s---fg-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,ἀνομίας,ἀνομία,n-s---fg-,OBJ
+4,ἐνεπλήσθη,ἐμπίπλημι,v3saip---,PRED
+5,τὸ,ὁ,l-s---nn-,ATR
+6,βασίλειον,βασίλειον,n-s---nn-,SBJ
+7,:,punc1,u--------,AuxK

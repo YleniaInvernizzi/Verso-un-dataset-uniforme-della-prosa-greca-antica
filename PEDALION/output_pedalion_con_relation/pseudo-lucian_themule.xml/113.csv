@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|114|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|114|2,2,τότε,τότε,d--------,ADV
+Leuven|Ps-Luc|114|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|114|4,4,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|114|5,5,τούτοις,οὗτος,p-p---nd-,ADV
+Leuven|Ps-Luc|114|6,6,ἐκοιμήθημεν,κοιμάω,v1paip---,PRED
+Leuven|Ps-Luc|114|7,7,.,.,u--------,AuxK

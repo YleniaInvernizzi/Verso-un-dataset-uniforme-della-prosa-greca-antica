@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|76|6|1,1,ἠκούσαμεν,ἀκούω,v1paia---,PRED
+Leuven|76|6|2,2,τόν,ὁ,l-s---ma-,ATR
+Leuven|76|6|3,3,μῦν,μῦς,n-s---ma-,SBJ
+Leuven|76|6|4,4,καταβεβρωκέναι,καταβιβρώσκω,v--rna---,OBJ
+Leuven|76|6|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|76|6|6,6,σπόρον,σπόρος,n-s---ma-,OBJ
+Leuven|76|6|7,7,.,.,u--------,AuxK

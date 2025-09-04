@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31917|9|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|31917|9|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|31917|9|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|31917|9|5,5,ἀδελφή,ἀδελφή,n-s---fv-,ExD

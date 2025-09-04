@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|4|1,1,ἐπορευόμην,πορεύω,v1siie---,PRED
+1,Leuven|Ps-Luc|4|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|4|3,3,τὴν,ὁ,l-s---fa-,ATR
+3,Leuven|Ps-Luc|4|4,4,προκειμένην,πρόκειμαι,v-sppefa-,ATR
+4,Leuven|Ps-Luc|4|5,5,ὁδόν,ὁδός,n-s---fa-,OBJ

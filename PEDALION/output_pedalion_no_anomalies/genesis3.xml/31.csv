@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|32|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis_deel3|32|2,2,ἐστιν,εἰμί,v3spia---,PRED
+2,Leuven|Genesis_deel3|32|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis_deel3|32|4,4,κύριος,κύριος,n-s---mn-,PNOM
+4,Leuven|Genesis_deel3|32|5,5,μου,ἐγώ,p1s---cg-,ATR

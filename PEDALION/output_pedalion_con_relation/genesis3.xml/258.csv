@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|259|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel3|259|2,2,λήμψῃ,λαμβάνω,v2sfim---,PRED
+Leuven|Genesis_deel3|259|3,3,γυναῖκα,γυνή,n-s---fa-,OBJ
+Leuven|Genesis_deel3|259|4,4,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis_deel3|259|5,5,τῶν,ὁ,l-p---fg-,ATR
+Leuven|Genesis_deel3|259|6,6,θυγατέρων,θυγάτηρ,n-p---fg-,ATR
+Leuven|Genesis_deel3|259|7,7,Χανααν,Χανααν,n-s----g-,ATR
+Leuven|Genesis_deel3|259|8,8,·,·,u--------,AuxK

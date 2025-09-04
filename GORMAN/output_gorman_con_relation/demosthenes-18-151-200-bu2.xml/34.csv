@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,σπέρμα,σπέρμα,n-s---na-,OBJ
+5,παρασχών,παρέχω,v-sapamn-,SBJ_AP
+6,",",punc1,u--------,APOS
+7,οὗτος,οὗτος,p-s---mn-,SBJ_AP
+8,τῶν,ὁ,l-p---ng-,ATR
+9,φύντων,φύω,v-papang-,ADV
+10,αἴτιος,αἴτιος,a-s---mn-,PNOM
+11,.,punc1,u--------,AuxK
+12,[0],,,PRED

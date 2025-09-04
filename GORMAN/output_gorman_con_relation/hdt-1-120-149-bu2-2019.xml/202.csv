@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,μία,εἷς,a-s---fn-,ATV
+2,γὰρ,γάρ,d--------,AuxY
+3,σφέων,σφεῖς,p-p---mg-,ATR
+4,παρελύθη,παραλύω,v3saip---,PRED
+5,Σμύρνη,σμύρνα,n-s---fn-,SBJ
+6,ὑπὸ,ὑπό,r--------,AuxP
+7,Ἰώνων,Ἴωνες,n-p---mg-,OBJ
+8,:,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|201|1,1,ἀμέλει,ἀμέλει,d--------,ADV
+Leuven|PaeanBrev|201|2,2,πορρωτάτω,πόρρω,d-------s,ADV
+Leuven|PaeanBrev|201|3,3,λοιπόν,λοιπός,d--------,ADV
+Leuven|PaeanBrev|201|4,4,αὐτοῖς,αὐτός,p-p---md-,OBJ
+Leuven|PaeanBrev|201|5,5,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|201|6,6,πόλεμοι,πόλεμος,n-p---mn-,SBJ
+Leuven|PaeanBrev|201|7,7,συνεκροτοῦντο,συγκροτέω,v3piie---,PRED
+Leuven|PaeanBrev|201|8,8,.,.,u--------,AuxK

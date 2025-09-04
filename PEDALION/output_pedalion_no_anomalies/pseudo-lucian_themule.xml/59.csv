@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|60|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Ps-Luc|60|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|60|3,3,ὀσφὺς,ὀσφῦς,n-s---fn-,SBJ
+3,Leuven|Ps-Luc|60|4,4,ἡμῖν,ἐγώ,p1p---cd-,ADV
+4,Leuven|Ps-Luc|60|5,5,ὑγρῶς,ὑγρός,d--------,ADV
+5,Leuven|Ps-Luc|60|6,6,ἐπικινεῖται,ἐπικινέω,v3spie---,PRED

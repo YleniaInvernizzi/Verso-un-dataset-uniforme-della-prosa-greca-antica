@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27089|10|1,1,G,G,c--------,AuxC
+Leuven|27089|10|2,2,σὺ,σύ,p2s---cn-,SBJ
+Leuven|27089|10|3,3,μένεις,μένω,v2spia---,ADV
+Leuven|27089|10|4,4,τὸν,ὁ,l-s---ma-,ATR
+Leuven|27089|10|5,5,χρόνον,χρόνος,n-s---ma-,ADV
+Leuven|27089|10|6,6,σου,σύ,p2s---cg-,ATR
+Leuven|27089|10|7,7,τῆς,ὁ,l-s---fg-,ATR
+Leuven|27089|10|8,8,ζωῆς,ζωή,n-s---fg-,ATR
+Leuven|27089|10|9,9,ἀκίνητός,ἀκίνητος,a-s---mn-,ADV
+Leuven|27089|10|10,10,μου,ἐγώ,p1s---cg-,ATR
+Leuven|27089|10|11,11,γυναικὸς,γυνή,n-s---fg-,OBJ
+Leuven|27089|10|12,12,ἀποτάσσομαι,ἀποτάσσω,v1spie---,PRED
+Leuven|27089|10|13,13,.,.,u--------,AuxK

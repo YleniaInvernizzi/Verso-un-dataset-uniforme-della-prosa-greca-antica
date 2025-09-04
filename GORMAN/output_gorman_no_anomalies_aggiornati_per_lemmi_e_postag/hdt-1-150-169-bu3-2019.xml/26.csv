@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;Κροῖσε;Κροῖσος;n-s---mv-;ExD
+2;,;punc;u--------;AuxX
+3;τί;τις;p-s---nn-;SBJ
+4;ἔσται;εἰμί;v3sfim---;PRED
+5;τέλος;τέλος;n-s---nn-;PNOM
+6;τῶν;ὁ;l-p---mg-;ATR
+7;γινομένων;γίγνομαι;v-pppeng-;ATR
+8;τούτων;οὗτος;p-p---ng-;ATR
+9;ἐμοί;ἐγώ;p-s---md-;ADV
+10;";";punc;u--------;AuxK

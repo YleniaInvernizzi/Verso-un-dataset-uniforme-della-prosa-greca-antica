@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|32904|3|1,1,αὕτη,οὗτος,p-s---fn-,SBJ
+1,Leuven|32904|3|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|32904|3|3,3,μού,ἐγώ,p1s---cg-,ATR
+3,Leuven|32904|3|4,4,ἐστιν,εἰμί,v3spia---,PRED
+4,Leuven|32904|3|5,5,εὐχή,εὐχή,n-s---fn-,PNOM

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐκεῖνος;ἐκεῖνος;p-s---mn-;SBJ
+2;μὲν;μέν;d--------;AuxY
+3;τετελεύτηκεν;τελευτάω;v3sria---;PRED_CO
+4;,;punc;u--------;AuxX
+5;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+6;δὲ;δέ;c--------;COORD
+7;προξενῶν;προξενέω;v-sppamn-;PNOM
+8;τυγχάνω;τυγχάνω;v1spia---;PRED_CO
+9;τῶν;ὁ;l-p---mg-;ATR
+10;Ἡρακλεωτῶν;Ἡρακλεώτης;n-p---mg-;OBJ
+11;.;punc;u--------;AuxK

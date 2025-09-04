@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|677|3|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|677|3|2,2,ἄν,ἄν,d--------,AuxY
+2,Leuven|677|3|3,3,οὖν,οὖν,d--------,AuxY
+3,Leuven|677|3|4,4,ποιήσαις,ποιέω,v2saoa---,PRED
+4,Leuven|677|3|5,5,δούς,δίδωμι,v-sapamn-,ADV
+5,Leuven|677|3|6,6,Νικάδαι,Νικάδης,n-s---md-,OBJ
+6,Leuven|677|3|7,7,τῷ,ὁ,l-s---md-,ATR
+7,Leuven|677|3|8,8,τά,ὁ,l-p---na-,ATR
+8,Leuven|677|3|9,9,γράμματα,γράμμα,n-p---na-,OBJ
+9,Leuven|677|3|10,10,σοι,σύ,p2s---cd-,OBJ
+10,Leuven|677|3|11,11,ἀποδεδωκότι,ἀποδίδωμι,v-srpamd-,ATR
+11,Leuven|677|3|12,12,δραχμάς,δραχμή,n-p---fa-,OBJ
+12,Leuven|677|3|13,13,ρν,ρν,m--------,ATR

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|13|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0557-001|13|2,2,καί,καί,c--------,AuxY
+Leuven|0557-001|13|3,3,αὑτήν,ἑαυτοῦ,p-s---fa-,OBJ_CO
+Leuven|0557-001|13|4,4,θεωροῦσα,θεωρέω,v-sppafn-,SBJ
+Leuven|0557-001|13|5,5,καί,καί,c--------,COORD
+Leuven|0557-001|13|6,6,τἆλλα,ἄλλος,p-p---na-,OBJ_CO
+Leuven|0557-001|13|7,7,πάντα,πᾶς,a-p---na-,ATR
+Leuven|0557-001|13|8,8,.,.,u--------,AuxK
+Leuven|0557-001|13|9,9,[0],,,PRED

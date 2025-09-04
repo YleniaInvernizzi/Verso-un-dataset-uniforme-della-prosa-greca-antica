@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|4029-001|866|1,1,θάνατος,θάνατος,n-s---mn-,PNOM
+1,Leuven|4029-001|866|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|4029-001|866|3,3,τῷ,ὁ,l-s---md-,ATR
+3,Leuven|4029-001|866|4,4,ἁλόντι,ἁλίσκομαι,v-sapamd-,OBJ
+4,Leuven|4029-001|866|5,5,ἡ,ὁ,l-s---fn-,ATR
+5,Leuven|4029-001|866|6,6,ζημία,ζημία,n-s---fn-,SBJ
+6,Leuven|4029-001|866|7,7,ἐστί,εἰμί,v3spia---,PRED

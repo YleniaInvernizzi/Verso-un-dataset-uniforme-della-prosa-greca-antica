@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,πάντως,πάντως,d--------,ADV
+2,",",punc1,u--------,AuxX
+3,ἔφη,φημί,v3siia---,AuxY
+4,ὁ,ὁ,l-s---mn-,ATR
+5,Ὑστάσπας,Ὑστάσπης,n-s---mn-,SBJ
+6,.,punc1,u--------,AuxK
+7,λέγῃς,λέγω3,v2spsa---,PRED

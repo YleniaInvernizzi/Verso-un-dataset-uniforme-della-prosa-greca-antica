@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τούτου,οὗτος,p-s---mg-,ATR
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,κεκλήσῃ,καλέω,v2stie---,PRED
+3,4,γυνή,γυνή,n-s---fn-,PNOM
+4,5,.,punc1,u--------,AuxK

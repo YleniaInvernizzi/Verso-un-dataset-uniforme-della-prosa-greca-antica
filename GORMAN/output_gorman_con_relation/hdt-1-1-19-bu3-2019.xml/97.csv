@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,κεῖται,κέω,v3spie---,PRED
+2,δὲ,δέ,c--------,COORD
+3,ὁ,ὁ,l-s---mn-,ATR
+4,θρόνος,θρόνος,n-s---mn-,SBJ_CO
+5,οὗτος,οὗτος,a-s---mn_,ATR
+6,ἔνθα,ἔνθα,d--------,ADV
+7,περ,πέρ,d--------,AuxZ
+8,οἱ,ὁ,l-p---mn-,ATR
+9,τοῦ,ὁ,l-s---mg-,ATR
+10,Γύγεω,Γύγης,n-s---mg-,ATR
+11,κρητῆρες,κρατήρ,n-p---mn-,SBJ_CO
+12,.,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|394|1,1,ἐνταῦθα,ἐνταῦθα,d--------,OBJ
+Leuven|Ps-Luc|394|2,2,εἰσδραμὼν,εἰστρέχω,v-sapamn-,ADV
+Leuven|Ps-Luc|394|3,3,ἀνατρέπω,ἀνατρέπω,v1spia---,PRED
+Leuven|Ps-Luc|394|4,4,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Ps-Luc|394|5,5,τῶι,ὁ,l-s---nd-,ATR
+Leuven|Ps-Luc|394|6,6,σκιρτήματι,σκίρτημα,n-s---nd-,ADV
+Leuven|Ps-Luc|394|7,7,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|394|8,8,λυχνίαν,λυχνία,n-s---fa-,APOS_CO
+Leuven|Ps-Luc|394|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|394|10,10,τραπέζας,τράπεζα,n-p---fa-,APOS_CO
+Leuven|Ps-Luc|394|11,11,·,·,u--------,AuxK

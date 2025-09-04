@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|127|1,1,ἀντί,ἀντί,r--------,AuxP
+1,Leuven|PaeanBrev|127|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|127|3,3,τῶν,ὁ,l-p---mg-,ATR
+3,Leuven|PaeanBrev|127|4,4,ὑπάτων,ὕπατος,a-p---mg-,ADV
+4,Leuven|PaeanBrev|127|5,5,δέκα,δέκα,m--------,OBJ
+5,Leuven|PaeanBrev|127|6,6,κατέστησαν,καθίστημι,v3paia---,PRED
+7,Leuven|PaeanBrev|127|8,8,οἷς,ὅς,p-p---md-,OBJ
+8,Leuven|PaeanBrev|127|9,9,πᾶσα,πᾶς,a-s---fn-,ATR
+9,Leuven|PaeanBrev|127|10,10,τῆς,ὁ,l-s---fg-,ATR
+10,Leuven|PaeanBrev|127|11,11,πόλεως,πόλις,n-s---fg-,ATR
+11,Leuven|PaeanBrev|127|12,12,ἐπετράπη,ἐπιτρέπω,v3saip---,ATR
+12,Leuven|PaeanBrev|127|13,13,διοίκησις,διοίκησις,n-s---fn-,SBJ

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|170|1,1,τόρκυς,τόρκυς,n-s---mn-,OCOMP
+1,Leuven|PaeanBrev|170|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|170|3,3,ἐπιχωρίως,ἐπιχώριος,d--------,ADV
+3,Leuven|PaeanBrev|170|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|PaeanBrev|170|5,5,στρεπτός,στρεπτός,a-s---mn-,SBJ
+5,Leuven|PaeanBrev|170|6,6,καλεῖται,καλέω,v3spie---,PRED

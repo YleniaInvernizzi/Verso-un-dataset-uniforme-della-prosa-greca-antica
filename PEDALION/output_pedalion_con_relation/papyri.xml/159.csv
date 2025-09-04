@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|28|1,1,ἔτους,ἔτος,n-s---ng-,ADV
+Leuven|21342|28|2,2,G,G,---------,ATR
+Leuven|21342|28|3,3,Τραιανοῦ,Τραιανός,n-s---mg-,ATR
+Leuven|21342|28|4,4,Ἀρίστου,Ἄριστος,n-s---mg-,APOS
+Leuven|21342|28|5,5,Καίσαρος,Καῖσαρ,n-s---mg-,APOS
+Leuven|21342|28|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|21342|28|7,7,κυρίου,κύριος,n-s---mg-,APOS
+Leuven|21342|28|8,8,.,.,u--------,AuxK
+Leuven|21342|28|9,9,[0],_,_,PRED

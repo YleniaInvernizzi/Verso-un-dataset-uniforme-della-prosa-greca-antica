@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|12|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|12|2,2,τάς,ὁ,l-p---fa-,ATR
+2,Leuven|PaeanBrev|12|3,3,μέν,μέν,d--------,AuxY
+3,Leuven|PaeanBrev|12|4,4,ἔσχον,ἔχω,v3paia---,PRED
+4,Leuven|PaeanBrev|12|5,5,γαμητάς,γαμητός,a-p---fa-,OBJ
+5,Leuven|PaeanBrev|12|6,6,ἁρπάσαντες,ἁρπάζω,v-papamn-,ADV

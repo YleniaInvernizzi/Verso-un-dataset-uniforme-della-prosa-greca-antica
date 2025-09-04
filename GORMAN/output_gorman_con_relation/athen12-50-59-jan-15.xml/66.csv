@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,παρῆν,πάρειμι1,v3siia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,Φασίμηλος,Φασίμηλος,n-s---mn-,ATR
+5,ὁ,ὁ,l-s---mn-,ATR
+6,ψάλτης,ψάλτης,n-s---mn-,SBJ
+7,.,punc1,u--------,AuxK

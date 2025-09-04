@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+3,ἀναλαβὼν,ἀναλαμβάνω,v-sapamn-,ADV
+4,ἔφερον,φέρω,v1siia---,PRED
+5,",",punc1,u--------,AuxX
+6,δοκέων,δοκέω,v-pppamn-,ADV
+7,τῶν,ὁ,l-p---mg-,ATR
+8,τινος,τις,p-s----g-,PNOM
+9,οἰκετέων,οἰκέτης,n-p---mg-,ATR
+10,εἶναι,εἰμί,v--pna---,OBJ
+11,:,punc1,u--------,AuxK

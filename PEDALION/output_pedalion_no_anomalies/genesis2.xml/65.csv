@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|66|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel2|66|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED
+2,Leuven|Genesis_deel2|66|3,3,ἡνίκα,ἡνίκα,c--------,AuxC
+3,Leuven|Genesis_deel2|66|4,4,ἐξήγαγον,ἐξάγω,v3paia---,ADV
+4,Leuven|Genesis_deel2|66|5,5,αὐτούς,αὐτός,p-p---ma-,OBJ
+5,Leuven|Genesis_deel2|66|6,6,ἔξω,ἔξω,d--------,ADV

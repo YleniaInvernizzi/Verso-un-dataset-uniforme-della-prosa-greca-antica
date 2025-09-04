@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|26738|3|1,1,μαθοῦσα,μανθάνω,v-sapafn-,ADV
+1,Leuven|26738|3|2,2,ὅτι,ὅτι,c--------,AuxC
+2,Leuven|26738|3|3,3,ἐρρωσαι,ῥώννυμι,v2srie---,OBJ
+3,Leuven|26738|3|4,4,θεοῖς,θεός,n-p---md-,ADV
+4,Leuven|26738|3|5,5,πᾶσιν,πᾶς,a-p---md-,ATR
+5,Leuven|26738|3|6,6,εὐχαρίστησα,εὐχαριστέω,v1saia---,PRED

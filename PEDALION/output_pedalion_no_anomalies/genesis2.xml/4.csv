@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|5|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|Genesis_deel2|5|2,2,εὕρω,εὑρίσκω,v1sasa---,ADV
+2,Leuven|Genesis_deel2|5|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|Genesis_deel2|5|4,4,Σοδομοις,Σοδομα,n-s----d-,ADV
+4,Leuven|Genesis_deel2|5|5,5,πεντήκοντα,πεντήκοντα,m--------,ATR
+5,Leuven|Genesis_deel2|5|6,6,δικαίους,δίκαιος,a-p---ma-,OBJ
+6,Leuven|Genesis_deel2|5|7,7,ἐν,ἐν,r--------,AuxP
+7,Leuven|Genesis_deel2|5|8,8,τῇ,ὁ,l-s---fd-,ATR
+8,Leuven|Genesis_deel2|5|9,9,πόλει,πόλις,n-s---fd-,ADV
+10,Leuven|Genesis_deel2|5|11,11,ἀφήσω,ἀφίημι,v1sfia---,PRED
+11,Leuven|Genesis_deel2|5|12,12,πάντα,πᾶς,a-s---ma-,ATR
+12,Leuven|Genesis_deel2|5|13,13,τόν,ὁ,l-s---ma-,ATR
+13,Leuven|Genesis_deel2|5|14,14,τόπον,τόπος,n-s---ma-,OBJ
+14,Leuven|Genesis_deel2|5|15,15,διʼ,διά,r--------,AuxP
+15,Leuven|Genesis_deel2|5|16,16,αὐτούς,αὐτός,p-p---ma-,ADV

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|243|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|243|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|243|3,3,παρθένος,παρθένος,n-s---fn-,SBJ
+Leuven|Ps-Luc|243|4,4,τοῖς,ὁ,l-p---md-,ATR
+Leuven|Ps-Luc|243|5,5,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|243|6,6,θεοῖς,θεός,n-p---md-,OBJ
+Leuven|Ps-Luc|243|7,7,ηὔχετο,εὔχομαι,v3siie---,PRED
+Leuven|Ps-Luc|243|8,8,σῶσαι,σῴζω,v--ana---,OBJ
+Leuven|Ps-Luc|243|9,9,αὐτὴν,αὐτός,p-s---fa-,ATR
+Leuven|Ps-Luc|243|10,10,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|243|11,11,φυγῆι,φυγή,n-s---fd-,ADV
+Leuven|Ps-Luc|243|12,12,·,·,u--------,AuxK

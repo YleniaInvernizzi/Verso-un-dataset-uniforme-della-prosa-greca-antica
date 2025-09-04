@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,πότερα,πότερος,a-p---na-,AuxY
+2,ᾧ,ὅς,p-s---md-,OBJ
+3,πρῶτον,πρῶτος,a-s---na-,ADV
+4,εἶπεν,εἶπον,v3saia---,OBJ
+5,ἢ,ἢ,c--------,COORD
+6,ᾧ,ὅς,p-s---md-,OBJ
+7,ὕστερον,ὕστερος,a-s---na-,ADV
+8,;,punc1,u--------,AuxK
+9,χρήσονται,χράω2,v3pfim---,PRED_CO
+10,χρήσονται,χράω2,v3pfim---,PRED_CO
+11,εἶπεν,εἶπον,v3saia---,OBJ

@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδεὶς,οὐδείς,p-s---mn-,SBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,αὐτῷ,αὐτός,p-s---md-,OBJ
+4,παραμενεῖ,παραμένω,v3sfia---,PRED
+5,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|19|1,1,οὐκ,οὐ,d--------,AuxZ
+Leuven|0544-002|19|2,2,ἄρα,ἄρα,d--------,AuxY
+Leuven|0544-002|19|3,3,ἔστι,εἰμί,v3spia---,PRED
+Leuven|0544-002|19|4,4,τι,τις,p-s---nn-,ATR
+Leuven|0544-002|19|5,5,μάθημα,μάθημα,n-s---nn-,SBJ
+Leuven|0544-002|19|6,6,.,.,u--------,AuxK

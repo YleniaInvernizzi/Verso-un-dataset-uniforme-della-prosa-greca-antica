@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐκχωρείτω,ἐκχωρέω,v3spma---,PRED
+1,2,δὲ,δέ,d--------,AuxY
+2,3,πόλεων,πόλις,n-p---fg-,OBJ_CO
+3,4,καὶ,καί,c--------,COORD
+4,5,χώρας,χώρα,n-s---fg-,OBJ_CO
+5,6,...,punc1,u--------,AuxK

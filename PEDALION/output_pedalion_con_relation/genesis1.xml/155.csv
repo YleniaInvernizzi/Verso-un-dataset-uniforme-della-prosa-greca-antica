@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|156|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|156|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|156|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|156|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|156|5,5,πρός,πρός,r--------,AuxP
+Leuven|Genesis|156|6,6,Καιν,Καιν,n-s---ma-,OBJ
+Leuven|Genesis|156|7,7,·,·,u--------,AuxK

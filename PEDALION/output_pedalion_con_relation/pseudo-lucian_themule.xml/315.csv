@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|316|1,1,καί,καί,d--------,AuxY
+Leuven|Ps-Luc|316|2,2,ποτε,ποτέ,d--------,ADV
+Leuven|Ps-Luc|316|3,3,κελεύεται,κελεύω,v3spie---,PRED
+Leuven|Ps-Luc|316|4,4,στυππεῖον,στυππεῖον,n-s---na-,OBJ
+Leuven|Ps-Luc|316|5,5,ἐξ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|316|6,6,ἑτέρου,ἕτερος,a-s---ng-,ATR
+Leuven|Ps-Luc|316|7,7,χωρίου,χωρίον,n-s---ng-,ADV
+Leuven|Ps-Luc|316|8,8,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|316|9,9,ἕτερον,ἕτερος,a-s---na-,ATR
+Leuven|Ps-Luc|316|10,10,χωρίον,χωρίον,n-s---na-,OBJ
+Leuven|Ps-Luc|316|11,11,μετενεγκεῖν,μεταφέρω,v--ana---,OBJ
+Leuven|Ps-Luc|316|12,12,·,·,u--------,AuxK

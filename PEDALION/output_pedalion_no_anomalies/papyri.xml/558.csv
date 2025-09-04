@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|11|1,1,πέμψον,πέμπω,v2sama---,PRED
+1,Leuven|30514|11|2,2,αὐτόν,αὐτός,p-s---ma-,OBJ
+2,Leuven|30514|11|3,3,παρ’,παρά,r--------,AuxP
+3,Leuven|30514|11|4,4,αὑτόν,ἑαυτοῦ,p-s---ma-,OBJ

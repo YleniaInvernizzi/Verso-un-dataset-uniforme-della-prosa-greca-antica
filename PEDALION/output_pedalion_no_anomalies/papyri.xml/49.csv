@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|17627|11|1,1,οὔπω,οὔπω,d--------,AuxZ
+1,Leuven|17627|11|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|17627|11|3,3,τὸ,ὁ,l-s---nn-,ATR
+3,Leuven|17627|11|4,4,ἐμὸν,ἐμός,a-s---nn-,SBJ
+4,Leuven|17627|11|5,5,γέγονε,γίγνομαι,v3sria---,PRED

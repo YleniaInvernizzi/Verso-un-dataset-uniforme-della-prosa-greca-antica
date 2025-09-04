@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|43|1,1,μηδαμῶς,μηδαμῶς,d--------,ADV
+Leuven|Genesis_deel2|43|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|43|3,3,ἀδελφοί,ἀδελφός,n-p---mv-,ExD
+Leuven|Genesis_deel2|43|4,4,",",",",u--------,AuxX
+Leuven|Genesis_deel2|43|5,5,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|43|6,6,πονηρεύσησθε,πονηρεύομαι,v2pasm---,PRED
+Leuven|Genesis_deel2|43|7,7,.,.,u--------,AuxK

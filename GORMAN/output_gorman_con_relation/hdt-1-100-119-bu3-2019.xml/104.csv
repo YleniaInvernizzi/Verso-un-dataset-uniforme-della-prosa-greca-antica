@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐκπλαγεὶς,ἐκπλήσσω,v-sappmn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,τούτοισι,οὗτος,p-p---md-,OBJ
+4,ἐπὶ,ἐπί,r--------,AuxP
+5,χρόνον,χρόνος,n-s---ma-,ADV
+6,ἄφθογγος,ἄφθογγος,a-s---mn-,PNOM
+7,ἦν,εἰμί,v3siia---,PRED
+8,:,punc1,u--------,AuxK

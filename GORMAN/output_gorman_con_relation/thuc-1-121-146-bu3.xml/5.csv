@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,μιᾷ,εἷς,a-s---fd-,ATR
+2,τε,τε,d--------,AuxY
+3,νίκῃ,νίκη,n-s---fd-,ADV
+4,ναυμαχίας,ναυμαχία,n-s---fg-,ATR
+5,κατὰ,κατά,r--------,AuxP
+6,τὸ,ὁ,l-s---na-,ATR
+7,εἰκὸς,εἰκός,v-srpana-,ADV
+8,ἁλίσκονται,ἁλίσκομαι,v3ppie---,PRED
+9,:,punc1,u--------,AuxK

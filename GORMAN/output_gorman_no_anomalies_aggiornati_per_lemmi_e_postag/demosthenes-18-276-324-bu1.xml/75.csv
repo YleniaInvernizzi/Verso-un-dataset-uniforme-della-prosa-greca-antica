@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;Κορινθίους;Κορίνθιος;n-p---ma-;OBJ
+2;Δείναρχος;Δείναρχος;n-s---mn-;SBJ_CO
+3;,;punc;u--------;COORD
+4;Δημάρετος;Δημάρετος;n-s---mn-;SBJ_CO
+5;:;punc;u--------;AuxK

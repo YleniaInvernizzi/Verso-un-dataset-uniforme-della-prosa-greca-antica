@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|120|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Genesis|120|2,2,ὄφις,ὄφις,n-s---mn-,SBJ
+2,Leuven|Genesis|120|3,3,ἠπάτησεν,ἀπατάω,v3saia---,PRED_CO
+3,Leuven|Genesis|120|4,4,με,ἐγώ,p1s---ca-,OBJ
+5,Leuven|Genesis|120|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|120|7,7,ἔφαγον,ἐσθίω,v3paia---,PRED_CO

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27107|6|1,1,τὴν,ὁ,l-s---fa-,ATR
+Leuven|27107|6|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|27107|6|3,3,τιμὴν,τιμή,n-s---fa-,OBJ
+Leuven|27107|6|4,4,δήλωσόν,δηλόω,v2sama---,PRED
+Leuven|27107|6|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|27107|6|6,6,ἵνα,ἵνα,c--------,AuxC
+Leuven|27107|6|7,7,Ἀπολλωνίῳ,Ἀπολλώνιος,n-s---md-,OBJ
+Leuven|27107|6|8,8,τῷ,ὁ,l-s---md-,ATR
+Leuven|27107|6|9,9,ἀδελφῷ,ἀδελφός,n-s---md-,ATR
+Leuven|27107|6|10,10,μεταβάλωμαι,μεταβάλλω,v1sasm---,ADV
+Leuven|27107|6|11,11,.,.,u--------,AuxK

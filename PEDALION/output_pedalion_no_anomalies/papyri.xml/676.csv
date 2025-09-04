@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33637|10|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|33637|10|2,2,ὑμᾶς,σύ,p2p---ca-,SBJ
+2,Leuven|33637|10|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+3,Leuven|33637|10|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|33637|10|5,5,πολλούς,πολύς,a-p---ma-,ATR
+5,Leuven|33637|10|6,6,χρόνους,χρόνος,n-p---ma-,ADV

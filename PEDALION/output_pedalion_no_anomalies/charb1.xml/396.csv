@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|398|1,1,ᾐσθόμην,αἰσθάνομαι,v1saim---,PRED
+1,Leuven|0554-001|398|2,2,ἂν,ἄν,d--------,AuxY
+2,Leuven|0554-001|398|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|0554-001|398|4,4,τεθνεῶσα,θνῄσκω,v-srpafn-,ADV

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|269|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|269|2,2,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|PaeanBrev|269|3,3,εἰπών,λέγω,v-sapamn-,ADV
+Leuven|PaeanBrev|269|4,4,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|269|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|269|6,6,Σικελίαν,Σικελία,n-s---fa-,OBJ
+Leuven|PaeanBrev|269|7,7,ἀπεχώρησεν,ἀποχωρέω,v3saia---,PRED
+Leuven|PaeanBrev|269|8,8,.,.,u--------,AuxK

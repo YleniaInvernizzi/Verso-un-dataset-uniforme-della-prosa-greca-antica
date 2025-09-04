@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|88|1,1,—,—,u--------,AuxG
+1,Leuven|0557-001|88|2,2,φυγῇ,φυγή,n-s---fd-,OBJ_CO
+3,Leuven|0557-001|88|4,4,φησίν,φημί,v3spia---,PRED
+5,Leuven|0557-001|88|6,6,ἤ,ἤ,c--------,COORD
+6,Leuven|0557-001|88|7,7,θανάτῳ,θάνατος,n-s---md-,OBJ_CO

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|107|1,1,ἀπέστειλεν,ἀποστέλλω,v3saia---,PRED_CO
+1,Leuven|Genesis_deel2|107|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|107|3,3,Αβιμελεχ,Αβιμελεχ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|107|4,4,βασιλεύς,βασιλεύς,n-s---mn-,APOS
+4,Leuven|Genesis_deel2|107|5,5,Γεραρων,Γεραρα,n-p----g-,ATR
+5,Leuven|Genesis_deel2|107|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel2|107|7,7,ἔλαβεν,λαμβάνω,v3saia---,PRED_CO
+7,Leuven|Genesis_deel2|107|8,8,τήν,ὁ,l-s---fa-,ATR
+8,Leuven|Genesis_deel2|107|9,9,Σαρραν,Σαρρα,n-s---fa-,OBJ

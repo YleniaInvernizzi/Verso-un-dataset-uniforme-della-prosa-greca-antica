@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,διδόντων,δίδωμι,v-pppamg-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,τάλαντον,τάλαντον,n-s---na-,OBJ
+5,ἐκέλευσεν,κελεύω,v3saia---,PRED
+6,ἀποστῆναι,ἀφεστήξω,v--ana---,OBJ
+7,λαβόντα,λαμβάνω,v-sapama-,ADV
+8,.,punc1,u--------,AuxK

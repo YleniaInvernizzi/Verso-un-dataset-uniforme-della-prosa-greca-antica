@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|5830|6|1,1,ἔλεγε,λέγω,v3siia---,PRED
+1,Leuven|5830|6|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|5830|6|3,3,μή,μή,d--------,AuxY
+3,Leuven|5830|6|4,4,-τε,τε,c--------,AuxY
+4,Leuven|5830|6|5,5,σὲ,σύ,p2s---ca-,SBJ
+5,Leuven|5830|6|6,6,στρατεύεσθαι,στρατεύω,v--pne---,OBJ_CO
+6,Leuven|5830|6|7,7,μήτ’,μήτε,c--------,COORD
+7,Leuven|5830|6|8,8,ἐμὲ,ἐγώ,p1s---ca-,SBJ
+8,Leuven|5830|6|9,9,εἶναι,εἰμί,v--pna---,OBJ_CO
+9,Leuven|5830|6|10,10,ἀποσκευήν,ἀποσκευή,n-s---fa-,PNOM

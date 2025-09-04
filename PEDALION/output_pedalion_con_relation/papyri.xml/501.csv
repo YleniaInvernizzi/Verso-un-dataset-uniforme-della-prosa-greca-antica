@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30121|2|1,1,πρό,πρό,r--------,AuxP
+Leuven|30121|2|2,2,τῶν,ὁ,l-p---ng-,ATR
+Leuven|30121|2|3,3,ὅλων,ὅλος,a-p---ng-,ADV
+Leuven|30121|2|4,4,εὔχομαι,εὔχομαι,v1spie---,PRED_CO
+Leuven|30121|2|5,5,σε,σύ,p2s---ca-,SBJ
+Leuven|30121|2|6,6,ὑγιαίνειν,ὑγιαίνω,v--pna---,OBJ
+Leuven|30121|2|7,7,καί,καί,d--------,AuxZ
+Leuven|30121|2|8,8,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED_CO
+Leuven|30121|2|9,9,.,.,u--------,AuxK

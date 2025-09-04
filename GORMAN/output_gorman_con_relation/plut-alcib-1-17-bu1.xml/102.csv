@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,λέγει,λέγω3,v3spia---,PRED
+2,δʼ,δέ,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Εὐριπίδης,Εὐριπίδης,n-s---mn-,PRED
+5,ἐν,ἐν,r--------,AuxP
+6,τῷ,ὁ,l-s---nd-,ATR
+7,ᾄσματι,ᾆσμα,n-s---nd-,ADV
+8,ταῦτα,οὗτος,p-p---na-,OBJ
+9,·,punc1,u--------,AuxK

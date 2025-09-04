@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔστι,εἰμί,v3spia---,PRED
+2,γάρ,γάρ,d--------,AuxY
+3,τις,τις,a-s---mn_,ATR
+4,καὶ,καί,d--------,AuxY
+5,κατὰ,κατά,r--------,AuxP
+6,νόμον,νόμος,n-s---ma-,ATR
+7,δοῦλος,δοῦλος,n-s---mn-,SBJ_CO
+8,καὶ,καί,c--------,COORD
+9,δουλεύων,δουλεύω,v-sppamn-,SBJ_CO
+10,:,punc1,u--------,AuxK

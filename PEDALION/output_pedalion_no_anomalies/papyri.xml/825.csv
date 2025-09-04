@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|892|3|1,1,παρέσομαι,πάρειμι,v1sfim---,PRED
+1,Leuven|892|3|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|892|3|3,3,πρός,πρός,r--------,AuxP
+3,Leuven|892|3|4,4,ὑμᾶς,σύ,p2p---ca-,OBJ
+5,Leuven|892|3|6,6,ὡς,ὡς,c--------,AuxC
+6,Leuven|892|3|7,7,ὑποτίθεμαι,ὑποτίθημι,v1spie---,ADV
+8,Leuven|892|3|9,9,τῇ,ὁ,l-s---fd-,ATR
+9,Leuven|892|3|10,10,ιζ,ιζ,m--------,ADV

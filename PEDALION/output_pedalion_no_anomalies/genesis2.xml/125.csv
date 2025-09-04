@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|126|1,1,ἔργον,ἔργον,n-s---na-,OBJ
+2,Leuven|Genesis_deel2|126|3,3,ὅ,ὅς,p-s---na-,OBJ
+3,Leuven|Genesis_deel2|126|4,4,οὐδείς,οὐδείς,p-s---mn-,SBJ
+4,Leuven|Genesis_deel2|126|5,5,ποιήσει,ποιέω,v3sfia---,ATR
+6,Leuven|Genesis_deel2|126|7,7,πεποίηκας,ποιέω,v2sria---,PRED
+7,Leuven|Genesis_deel2|126|8,8,μοι,ἐγώ,p1s---cd-,ADV

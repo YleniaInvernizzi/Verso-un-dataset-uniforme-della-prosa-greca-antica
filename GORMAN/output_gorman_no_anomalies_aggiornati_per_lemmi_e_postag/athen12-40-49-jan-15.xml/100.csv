@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;Ἀλκιβιάδης;Ἀλκιβιάδης;n-s---mn-;SBJ
+2;ἐκ;ἐκ;r--------;AuxP
+3;τῶν;ὁ;l-p---fg-;ATR
+4;γυναικῶν;γυνή;n-p---fg-;OBJ
+5;ἐξίτω;ἔξειμι;v3spma---;PRED
+6;.;punc;u--------;AuxK

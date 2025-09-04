@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,διὰ,διά,r--------,AuxP
+2,ταῦτ᾽,οὗτος,p-p---na-,ADV
+3,ἔμ᾽,ἐγώ,p1s---ma-,OBJ_CO
+4,ἐχειροτόνησαν,χειροτονέω,v3paia---,PRED
+5,καὶ,καί,c--------,COORD
+6,οὐχ,οὐ,d--------,AuxZ
+7,ὑμᾶς,σύ,p-p---ma-,OBJ_CO
+8,.,punc1,u--------,AuxK

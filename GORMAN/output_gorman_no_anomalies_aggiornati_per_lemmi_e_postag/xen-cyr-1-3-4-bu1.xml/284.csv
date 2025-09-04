@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ὥρα;ὥρα;n-s---fn-;SBJ
+2;ἂν;ἄν;d--------;AuxY
+3;εἴη;εἰμί;v3spoa---;OBJ
+4;,;punc;u--------;AuxX
+5;ἔφη;φημί;v3siia---;PRED
+6;ὁ;ὁ;l-s---mn-;ATR
+7;Μῆδος;Μῆδος;n-s---mn-;SBJ
+8;,;punc;u--------;AuxX
+9;μάλα;μάλα;d--------;AuxZ
+10;πάλιν;πάλιν;d--------;ADV
+11;σε;σύ;p2s---ma-;SBJ
+12;φιλεῖν;φιλέω;v--pna---;ATR
+13;ἐμέ;ἐγώ;p1s---ma-;OBJ
+14;·;punc;u--------;AuxK

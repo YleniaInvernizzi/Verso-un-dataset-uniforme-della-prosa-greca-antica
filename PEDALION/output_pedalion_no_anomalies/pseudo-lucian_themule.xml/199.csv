@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|200|1,1,ἀλλ’,ἀλλά,c--------,AuxY
+1,Leuven|Ps-Luc|200|2,2,ἐκεῖνος,ἐκεῖνος,p-s---mn-,SBJ
+2,Leuven|Ps-Luc|200|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|200|4,4,σπουδῆι,σπουδή,n-s---fd-,ADV
+4,Leuven|Ps-Luc|200|5,5,τὰς,ὁ,l-p---fa-,ATR
+5,Leuven|Ps-Luc|200|6,6,κριθὰς,κριθή,n-p---fa-,OBJ
+6,Leuven|Ps-Luc|200|7,7,κατέπινε,καταπίνω,v3siia---,PRED
+7,Leuven|Ps-Luc|200|8,8,δεδιώς,δείδω,v-srpamn-,ADV
+9,Leuven|Ps-Luc|200|10,10,οἷα,οἷον,c--------,AuxC
+10,Leuven|Ps-Luc|200|11,11,εἰκός,εἰκός,v-srpann-,PNOM
+12,Leuven|Ps-Luc|200|13,13,ἐμὲ,ἐγώ,p1s---ca-,OBJ
+13,Leuven|Ps-Luc|200|14,14,τὸν,ὁ,l-s---ma-,ATR
+14,Leuven|Ps-Luc|200|15,15,συνάριστον,συνάριστος,a-s---ma-,APOS

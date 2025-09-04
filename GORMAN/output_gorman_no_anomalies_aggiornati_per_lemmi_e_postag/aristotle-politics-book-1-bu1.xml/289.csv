@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;εἴ;εἰ;c--------;AuxC
+2;-τε;τε;d--------;AuxZ
+3;μὴ;μή;d--------;AuxZ
+4;ἔστιν;εἰμί;v3spia---;ADV
+5;,;punc;u--------;AuxX
+6;ὄντων;εἰμί;v-pppamg-;ADV_CO
+7;ἀνθρώπων;ἄνθρωπος;n-p---mg-;PNOM
+8;καὶ;καί;c--------;COORD
+9;λόγου;λόγος;n-s---mg-;OBJ
+10;κοινωνούντων;κοινωνέω;v-pppamg-;ADV_CO
+11;ἄτοπον;ἄτοπος;a-s---nn-;PNOM
+12;););u--------;AuxG
+13;.;punc;u--------;AuxK
+14;ἐστιν;εἰμί;v3spia---;PRED

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,περὶ,περί,r--------,AuxP
+2,δὲ,δέ,d--------,AuxY
+3,Συβαριτῶν,Συβαρίτης,n-p---mg-,ATR
+4,τί,τις,p-s---na-,OBJ
+5,δεῖ,δεῖ,v3siia---,PRED
+6,καὶ,καί,d--------,AuxZ
+7,λέγειν,λέγω3,v--pna---,SBJ
+8,;,punc1,u--------,AuxK

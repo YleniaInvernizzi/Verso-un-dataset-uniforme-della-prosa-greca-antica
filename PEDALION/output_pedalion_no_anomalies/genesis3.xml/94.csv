@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|95|1,1,ἐπορεύθη,πορεύω,v3saip---,PRED
+1,Leuven|Genesis_deel3|95|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel3|95|3,3,Ισαακ,Ισαακ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|95|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|Genesis_deel3|95|5,5,Αβιμελεχ,Αβιμελεχ,n-s---ma-,OBJ
+5,Leuven|Genesis_deel3|95|6,6,βασιλέα,βασιλεύς,n-s---ma-,APOS
+6,Leuven|Genesis_deel3|95|7,7,Φυλιστιιμ,Φυλιστιιμ,n-p---mg-,ATR
+7,Leuven|Genesis_deel3|95|8,8,εἰς,εἰς,r--------,AuxP
+8,Leuven|Genesis_deel3|95|9,9,Γεραρα,Γεραρα,n-s----a-,OBJ

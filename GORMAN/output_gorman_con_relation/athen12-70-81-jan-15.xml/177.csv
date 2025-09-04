@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἦν,εἰμί,v3siia---,PRED
+2,καλλιπύγων,καλλίπυγος,n-p---fg-,ATR
+3,ζεῦγος,ζεῦγος,n-s---nn-,SBJ
+4,ἐν,ἐν,r--------,AuxP
+5,Συρακούσαις,Συρακοῦσαι,n-p---fd-,PNOM
+6,.,punc1,u--------,AuxK

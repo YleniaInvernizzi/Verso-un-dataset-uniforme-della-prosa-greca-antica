@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|229|1,1,γῦπές,γύψ,n-p---mn-,SBJ_CO
+1,Leuven|Ps-Luc|229|2,2,σε,σύ,p2s---ca-,OBJ
+2,Leuven|Ps-Luc|229|3,3,καὶ,καί,c--------,COORD
+3,Leuven|Ps-Luc|229|4,4,γυπῶν,γύψ,n-p---mg-,ATR
+4,Leuven|Ps-Luc|229|5,5,τέκνα,τέκνον,n-p---nn-,SBJ_CO
+5,Leuven|Ps-Luc|229|6,6,δειπνήσουσιν,δειπνέω,v3pfia---,PRED

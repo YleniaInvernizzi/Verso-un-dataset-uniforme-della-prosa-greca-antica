@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,αἰτίαν,αἰτία,n-s---fa-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,μᾶλλον,μᾶλλον,d--------,ADV
+4,ζητεῖν,ζητέω,v--pna---,SBJ
+5,.,punc1,u--------,AuxK
+6,[0],,,PRED

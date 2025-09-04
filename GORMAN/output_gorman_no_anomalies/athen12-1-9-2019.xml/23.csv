@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὸ,ὁ,l-s---na-,AuxZ
+1,2,καὶ,καί,d--------,AuxZ
+2,3,ζωάγρι᾽,ζωάγρια,n-p---na-,OBJ
+3,4,ὀφέλλει,ὀφέλλω,v3spia---,PRED
+4,5,.,punc1,u--------,AuxK

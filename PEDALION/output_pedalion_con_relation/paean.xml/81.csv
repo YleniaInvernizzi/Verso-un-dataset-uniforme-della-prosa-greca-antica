@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|82|1,1,Πουβλικόλας,Πουβλικόλας,n-s---mn-,SBJ
+Leuven|PaeanBrev|82|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|82|3,3,Σπούριον,Σπούριος,n-s---ma-,APOS
+Leuven|PaeanBrev|82|4,4,Λουκρήτιον,Λουκρήτιος,n-s---ma-,APOS
+Leuven|PaeanBrev|82|5,5,Τρικιπιτῖνον,Τρικιπιτῖνος,n-s---ma-,OBJ
+Leuven|PaeanBrev|82|6,6,κοινωνόν,κοινωνός,n-s---ma-,OCOMP_CO
+Leuven|PaeanBrev|82|7,7,ἑαυτῷ,ἑαυτοῦ,p-s---md-,ADV
+Leuven|PaeanBrev|82|8,8,καί,καί,b--------,COORD
+Leuven|PaeanBrev|82|9,9,συνύπατον,συνύπατος,n-s---ma-,OCOMP_CO
+Leuven|PaeanBrev|82|10,10,ἐχειροτόνησε,χειροτονέω,v3saia---,PRED
+Leuven|PaeanBrev|82|11,11,",",",",u--------,AuxX
+Leuven|PaeanBrev|82|12,12,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|82|13,13,πατέρα,πατήρ,n-s---ma-,APOS
+Leuven|PaeanBrev|82|14,14,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|82|15,15,Λουκρητίας,Λουκρητία,n-s---fg-,ATR
+Leuven|PaeanBrev|82|16,16,.,.,u--------,AuxK

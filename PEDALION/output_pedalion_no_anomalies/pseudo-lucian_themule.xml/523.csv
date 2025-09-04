@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|524|1,1,ἄμφω,ἄμφω,p-d---mn-,SBJ
+1,Leuven|Ps-Luc|524|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|524|3,3,τὰ,ὁ,l-p---na-,ATR
+3,Leuven|Ps-Luc|524|4,4,λοιπὰ,λοιπός,a-p---na-,ATR
+4,Leuven|Ps-Luc|524|5,5,δύο,δύο,m--------,ATR
+5,Leuven|Ps-Luc|524|6,6,ὀνόματα,ὄνομα,n-p---na-,OBJ
+6,Leuven|Ps-Luc|524|7,7,κοινὰ,κοινός,a-p---na-,OCOMP
+7,Leuven|Ps-Luc|524|8,8,ἔχομεν,ἔχω,v1ppia---,PRED

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|344|1,1,μήποτε,μήποτε,d--------,ADV
+Leuven|Genesis_deel2|344|2,2,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|344|3,3,πορεύσεται,πορεύω,v3sfim---,PRED
+Leuven|Genesis_deel2|344|4,4,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis_deel2|344|5,5,γυνή,γυνή,n-s---fn-,SBJ
+Leuven|Genesis_deel2|344|6,6,μετʼ,μετά,r--------,AuxP
+Leuven|Genesis_deel2|344|7,7,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|Genesis_deel2|344|8,8,.,.,u--------,AuxK

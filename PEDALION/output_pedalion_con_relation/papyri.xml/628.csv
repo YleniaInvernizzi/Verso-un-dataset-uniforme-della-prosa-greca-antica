@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31917|2|1,1,πρό,πρό,r--------,AuxP
+Leuven|31917|2|2,2,γε,γε,d--------,AuxZ
+Leuven|31917|2|3,3,πάντων,πᾶς,a-p---ng-,ADV
+Leuven|31917|2|4,4,εὐχόμεθα,εὔχομαι,v1ppie---,PRED
+Leuven|31917|2|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|31917|2|6,6,θεῷ,θεός,n-s---md-,OBJ
+Leuven|31917|2|7,7,ὅπως,ὅπως,c--------,AuxC
+Leuven|31917|2|8,8,ὁλόκληρον,ὁλόκληρος,a-s---fa-,OCOMP
+Leuven|31917|2|9,9,σε,σύ,p2s---ca-,OBJ
+Leuven|31917|2|10,10,ἀπολάβωμεν,ἀπολαμβάνω,v1pasa---,OBJ
+Leuven|31917|2|11,11,.,.,u--------,AuxK

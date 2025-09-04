@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Παλλίδην,Παλλίδης,n-s---ma-,OCOMP
+2,δ᾽,δέ,d--------,AuxY
+3,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+4,ἐκάλεσε,καλέω,v3saia---,PRED
+5,τὸν,ὁ,l-s---ma-,ATR
+6,Ἅρπαλον,Ἅρπαλος,n-s---ma-,OBJ
+7,.,punc1,u--------,AuxK

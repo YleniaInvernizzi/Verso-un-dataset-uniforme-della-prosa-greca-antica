@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|537|1,1,ἐμοῦ,ἐγώ,p1s---cg-,SBJ
+Leuven|Ps-Luc|537|2,2,δ’,δέ,d--------,AuxY
+Leuven|Ps-Luc|537|3,3,ἐρομένου,ἔρομαι,v-sapmmg-,ADV
+Leuven|Ps-Luc|537|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|537|5,5,τί,τίς,p-s---nn-,SBJ
+Leuven|Ps-Luc|537|6,6,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|537|7,7,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|537|8,8,ἡμάρτηταί,ἁμαρτάνω,v3srie---,OBJ
+Leuven|Ps-Luc|537|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|537|10,10,τοσοῦτο,τοσοῦτος,p-s---nn-,ATR
+Leuven|Ps-Luc|537|11,11,;,;,u--------,AuxK
+Leuven|Ps-Luc|537|12,12,[0],_,-,PRED

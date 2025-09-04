@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;συγχωρησάσης;συγχωρέω;v-sapafg-;ADV
+3;νυκτὸς;νύξ;n-s---fg-;SBJ
+4;ἔφυγεν;φεύγω;v3saia---;PRED
+5;εἰς;εἰς;r--------;AuxP
+6;Ἔφεσον;Ἔφεσος;n-s---fa-;OBJ
+7;.;punc;u--------;AuxK

@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,γὰρ,γάρ,d--------,AuxY
+3,τάδε,ὅδε,p-p---nn-,SBJ
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,ἄνδρας,ἀνήρ,n-p---ma-,OBJ
+6,",",punc1,u--------,AuxX
+7,ἀλλ᾽,ἀλλά,c--------,COORD
+8,οἱ,ὁ,l-p---mn-,ATR
+9,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+10,ταῦτα,οὗτος,p-p---na-,OBJ
+11,κτῶνται,κτάομαι,v3ppie---,PRED_CO
+12,.,punc1,u--------,AuxK
+13,κτᾶται,κτάομαι,v3spie---,PRED_CO

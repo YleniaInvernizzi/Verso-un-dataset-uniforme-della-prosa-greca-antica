@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|52|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis_deel2|52|2,2,παρεβιάζοντο,παραβιάζομαι,v3piie---,PRED
+Leuven|Genesis_deel2|52|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|52|4,4,ἄνδρα,ἀνήρ,n-s---ma-,OBJ
+Leuven|Genesis_deel2|52|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|52|6,6,Λωτ,Λωτ,n-s---ma-,SBJ
+Leuven|Genesis_deel2|52|7,7,σφόδρα,σφόδρα,d--------,ADV
+Leuven|Genesis_deel2|52|8,8,καί,καί,d--------,AuxZ
+Leuven|Genesis_deel2|52|9,9,ἤγγισαν,ἐγγίζω,v3paia---,ATR
+Leuven|Genesis_deel2|52|10,10,συντρῖψαι,συντρίβω,v--ana---,OBJ
+Leuven|Genesis_deel2|52|11,11,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|52|12,12,θύραν,θύρα,n-s---fa-,OBJ
+Leuven|Genesis_deel2|52|13,13,.,.,u--------,AuxK

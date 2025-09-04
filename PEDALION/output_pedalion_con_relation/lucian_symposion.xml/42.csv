@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-015|43|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|0062-015|43|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0062-015|43|3,3,Ζηνόθεμις,Ζηνόθεμις,n-s---mn-,SBJ
+Leuven|0062-015|43|4,4,ἔλυσε,λύω,v3saia---,PRED
+Leuven|0062-015|43|5,5,τὴν,ὁ,l-s---fa-,ATR
+Leuven|0062-015|43|6,6,ἀπορίαν,ἀπορία,n-s---fa-,OBJ
+Leuven|0062-015|43|7,7,·,·,u--------,AuxK

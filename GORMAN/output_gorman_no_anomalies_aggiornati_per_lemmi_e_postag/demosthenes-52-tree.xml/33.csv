@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡγοῦμαι;ἡγέομαι;v1spie---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;δίκαιος;δίκαιος;a-s---mn-;PNOM
+4;εἶναι;εἰμί;v--pna---;OBJ
+5;ἔχειν;ἔχω;v--pna---;ADV
+6;.;punc;u--------;AuxK

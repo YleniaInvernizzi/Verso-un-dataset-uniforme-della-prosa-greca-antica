@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ἥλιος,ἥλιος,n-s---mn-,SBJ_CO
+2,ἦν,εἰμί,v3siia---,PRED
+3,",",punc1,u--------,COORD
+4,οὐ,οὐ,d--------,AuxZ
+5,παῖς,παῖς,n-s---mn-,SBJ_CO
+6,",",punc1,u--------,AuxX
+7,Εὐριπίδη,Εὐριπίδης,n-s---mv-,ExD
+8,",",punc1,u--------,AuxX
+9,ὅς,ὅς,p-s---mn-,SBJ
+10,με,ἐγώ,p1s---ma-,OBJ
+11,χλιαίνων,χλιαίνω,v-sppamn-,ADV
+12,γυμνὸν,γυμνός,a-s---ma-,OCOMP
+13,ἐποίησεν,ποιέω,v3saia---,ATR
+14,:,punc1,u--------,AuxK

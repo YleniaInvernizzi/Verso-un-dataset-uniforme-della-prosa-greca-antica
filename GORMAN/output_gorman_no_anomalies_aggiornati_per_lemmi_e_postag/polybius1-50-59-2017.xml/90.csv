@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦν;εἰμί;v3siia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;τῆς;ὁ;l-s---fg-;ATR
+4;ἐπιβολῆς;ἐπιβολή;n-s---fg-;ATR
+5;τὸ;ὁ;l-s---nn-;ATR
+6;πλεῖον;πολύς;v-sppann-;SBJ
+7;ψυχομαχία;ψυχομαχία;n-s---fn-;PNOM
+8;.;punc;u--------;AuxK

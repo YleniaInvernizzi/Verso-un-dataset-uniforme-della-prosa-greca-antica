@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|8848|1|1,1,Διδυμάριον,Διδυμαρίον,n-s---fn-,SBJ
+Leuven|8848|1|2,2,Πανίσκῳ,Πανίσκος,n-s---md-,OBJ
+Leuven|8848|1|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|8848|1|4,4,τιμιωτάτῳ,τίμιος,a-s---mds,ATR
+Leuven|8848|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|8848|1|6,6,.,.,u--------,AuxK
+Leuven|8848|1|7,7,[0],,---------,PRED

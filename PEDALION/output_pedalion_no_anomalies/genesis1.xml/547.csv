@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|548|1,1,ἦν,εἰμί,v3siia---,PRED
+1,Leuven|Genesis|548|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|548|3,3,αὐτῇ,αὐτός,p-s---fd-,ADV
+3,Leuven|Genesis|548|4,4,παιδίσκη,παιδίσκη,n-s---fn-,SBJ
+4,Leuven|Genesis|548|5,5,Αἰγυπτία,Αἰγυπτία,a-s---fn-,ATR
+6,Leuven|Genesis|548|7,7,ᾗ,ὅς,p-s---fd-,ADV
+7,Leuven|Genesis|548|8,8,ὄνομα,ὄνομα,n-s---nn-,SBJ
+8,Leuven|Genesis|548|9,9,Αγαρ,Αγαρ,n-s---fn-,PNOM

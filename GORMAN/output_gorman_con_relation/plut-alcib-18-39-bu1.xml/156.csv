@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,δείσαντες,δείδω,v-papamn-,ADV
+4,τήν,ὁ,l-s---fa-,ATR
+5,τε,τε,d--------,AuxY
+6,λείαν,λεία,n-s---fa-,OBJ
+7,ἀπέδοσαν,ἀποδίδωμι,v3paia---,PRED_CO
+8,αὐτῷ,αὐτός,p-s---md-,OBJ
+9,καὶ,καί,c--------,COORD
+10,φιλίαν,φιλία,n-s---fa-,OBJ
+11,ὡμολόγησαν,ὁμολογέω,v3paia---,PRED_CO
+12,.,punc1,u--------,AuxK

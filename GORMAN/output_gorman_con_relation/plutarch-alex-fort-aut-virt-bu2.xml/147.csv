@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Παραθῶμεν,παραθέω,v1ppsa---,PRED
+2,τὰ,ὁ,l-p---na-,OBJ
+3,τῶν,ὁ,l-p---mg-,ATR
+4,ὁμολογουμένων,ὁμολογέω,v-pppemg-,ATR
+5,φιλοσόφων,φιλόσοφος,n-p---mg-,ATR
+6,.,punc1,u--------,AuxK

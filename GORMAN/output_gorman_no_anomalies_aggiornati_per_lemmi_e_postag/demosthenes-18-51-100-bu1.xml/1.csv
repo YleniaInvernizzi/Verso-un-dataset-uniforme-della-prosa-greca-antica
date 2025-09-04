@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγώ;ἐγώ;p1s---mn-;SBJ
+2;σοι;σύ;p2s---md-;OBJ
+3;ξενίαν;ξενία;n-s---fa-;OBJ
+4;Ἀλεξάνδρου;Ἀλέξανδρος;n-s---mg-;ATR
+5;";";punc;u--------;AuxK

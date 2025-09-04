@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὴν,ὁ,l-s---fa-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,μητέρα,μήτηρ,n-s---fa-,SBJ
+3,4,εἰπεῖν,εἶπον,v--ana---,PRED
+4,5,·,punc1,u--------,AuxK

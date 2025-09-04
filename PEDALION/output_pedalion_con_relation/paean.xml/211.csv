@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|213|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|213|2,2,πρῶτος,πρῶτος,a-s---mn-,ATR
+Leuven|PaeanBrev|213|3,3,οὗτος,οὗτος,p-s---mn-,ATR
+Leuven|PaeanBrev|213|4,4,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|213|5,5,Σαμνιτῶν,Σαμνίτης,n-p---mg-,ATR
+Leuven|PaeanBrev|213|6,6,ἐδόθη,δίδωμι,v3saip---,PRED
+Leuven|PaeanBrev|213|7,7,τῷ,ὁ,l-s---md-,ATR
+Leuven|PaeanBrev|213|8,8,Παπιρίῳ,Παπίριος,n-s---md-,OBJ
+Leuven|PaeanBrev|213|9,9,θρίαμβος,θρίαμβος,n-s---mn-,SBJ
+Leuven|PaeanBrev|213|10,10,.,.,u--------,AuxK

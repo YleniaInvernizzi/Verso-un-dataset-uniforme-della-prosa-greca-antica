@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|190|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis|190|2,2,ἤλπισεν,ἐλπίζω,v3saia---,PRED
+2,Leuven|Genesis|190|3,3,ἐπικαλεῖσθαι,ἐπικαλέω,v--pne---,OBJ
+3,Leuven|Genesis|190|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis|190|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+5,Leuven|Genesis|190|6,6,κυρίου,κύριος,n-s---mg-,ATR
+6,Leuven|Genesis|190|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|Genesis|190|8,8,θεοῦ,θεός,n-s---mg-,ATR

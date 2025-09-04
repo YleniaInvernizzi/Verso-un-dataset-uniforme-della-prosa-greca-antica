@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|132|1,1,ἀκάνθας,ἄκανθα,n-p---fa-,OBJ_CO
+Leuven|Genesis|132|2,2,καί,καί,b--------,COORD
+Leuven|Genesis|132|3,3,τριβόλους,τρίβολος,n-p---ma-,OBJ_CO
+Leuven|Genesis|132|4,4,ἀνατελεῖ,ἀνατέλλω,v3sfia---,PRED_CO
+Leuven|Genesis|132|5,5,σοι,σύ,p2s---cd-,ADV
+Leuven|Genesis|132|6,6,",",",",u--------,AuxX
+Leuven|Genesis|132|7,7,καί,καί,b--------,COORD
+Leuven|Genesis|132|8,8,φάγῃ,ἐσθίω,v2sfim---,PRED_CO
+Leuven|Genesis|132|9,9,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|132|10,10,χόρτον,χόρτος,n-s---ma-,OBJ
+Leuven|Genesis|132|11,11,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|132|12,12,ἀγροῦ,ἀγρός,n-s---mg-,ATR
+Leuven|Genesis|132|13,13,.,.,u--------,AuxK

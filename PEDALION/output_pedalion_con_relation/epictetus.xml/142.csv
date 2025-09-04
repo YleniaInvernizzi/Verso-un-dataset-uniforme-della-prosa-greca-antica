@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|143|1,1,κἀμέ,ἐγώ,p1s---ca-,SBJ
+Leuven|0557-001|143|2,2,εἰπεῖν,λέγω,v--ana---,SBJ
+Leuven|0557-001|143|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|0557-001|143|4,4,φαινόμενον,φαίνω,v-sppena-,OBJ
+Leuven|0557-001|143|5,5,δίκαιον,δίκαιος,a-s---na-,PNOM
+Leuven|0557-001|143|6,6,.,.,u--------,AuxK
+Leuven|0557-001|143|7,7,[0],,,PRED

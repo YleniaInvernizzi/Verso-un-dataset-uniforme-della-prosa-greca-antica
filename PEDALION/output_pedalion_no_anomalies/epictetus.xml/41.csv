@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|42|1,1,τί,τίς,p-s---nn-,SBJ
+1,Leuven|0557-001|42|2,2,ἡμῖν,ἐγώ,p1p---cd-,ADV_CO
+2,Leuven|0557-001|42|3,3,καί,καί,c--------,COORD
+3,Leuven|0557-001|42|4,4,αὐτῷ,αὐτός,p-s---md-,ADV_CO

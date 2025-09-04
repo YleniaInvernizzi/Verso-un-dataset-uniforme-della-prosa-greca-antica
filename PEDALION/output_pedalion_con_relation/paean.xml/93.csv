@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|94|1,1,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|94|2,2,τοῦτον,οὗτος,p-s---ma-,OBJ
+Leuven|PaeanBrev|94|3,3,δέ,δέ,b--------,AuxY
+Leuven|PaeanBrev|94|4,4,αἱ,ὁ,l-p---fn-,ATR
+Leuven|PaeanBrev|94|5,5,γυναῖκες,γυνή,n-p---fn-,SBJ
+Leuven|PaeanBrev|94|6,6,ὥσπερ,ὥσπερ,c--------,ADV
+Leuven|PaeanBrev|94|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|94|8,8,Βροῦτον,Βροῦτος,n-s---ma-,OBJ
+Leuven|PaeanBrev|94|9,9,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|94|10,10,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|94|11,11,ἴσον,ἴσος,a-s---ma-,ATR
+Leuven|PaeanBrev|94|12,12,χρόνον,χρόνος,n-s---ma-,ADV
+Leuven|PaeanBrev|94|13,13,ἐπένθησαν,πενθέω,v3paia---,PRED
+Leuven|PaeanBrev|94|14,14,.,.,u--------,AuxK
+Leuven|PaeanBrev|94|15,15,[0],,,ADV

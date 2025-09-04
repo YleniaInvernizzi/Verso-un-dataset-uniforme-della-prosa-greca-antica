@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Πισίδαι,Πίσιδος,n-p---mn-,PNOM_CO
+1,2,καὶ,καί,c--------,COORD
+2,3,Κίλικες,Κίλιξ,n-p---mn-,PNOM_CO
+3,4,ἦσαν,εἰμί,v3piia---,PRED
+4,5,:,punc1,u--------,AuxK

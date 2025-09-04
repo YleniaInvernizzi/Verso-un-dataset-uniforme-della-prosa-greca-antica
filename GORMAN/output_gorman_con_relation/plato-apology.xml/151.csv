@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸν,ὁ,l-s---ma-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,δὴ,δή,d--------,AuxY
+4,βελτίους,βελτίων,a-p---mac,OCOMP
+5,ποιοῦντα,ποιέω,v-sppama-,OBJ
+6,ἴθι,εἶμι,v2spma---,ExD
+7,εἰπὲ,εἶπον,v2sama---,PRED
+8,καὶ,καί,c--------,COORD
+9,μήνυσον,μηνύω,v2sama---,PRED
+10,αὐτοῖς,αὐτός,p-p---md-,OBJ
+11,τίς,τις,p-s---mn-,SBJ
+12,ἐστιν,εἰμί,v3spia---,OBJ
+13,.,punc1,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27328|9|1,1,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED
+Leuven|27328|9|2,2,ὑμᾶς,σύ,p2p---ca-,OBJ
+Leuven|27328|9|3,3,Ῥοδίνη,Ῥοδίνη,n-s---fn-,SBJ
+Leuven|27328|9|4,4,.,.,u--------,AuxK

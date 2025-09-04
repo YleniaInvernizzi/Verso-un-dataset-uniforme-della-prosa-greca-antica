@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|350|1,1,ἐντεῦθεν,ἐντεῦθεν,d--------,ADV
+1,Leuven|PaeanBrev|350|2,2,Πούβλιος,Πούβλιος,n-s---mn-,SBJ_CO
+2,Leuven|PaeanBrev|350|3,3,Κλαύδιος,Κλαύδιος,n-s---mn-,APOS
+3,Leuven|PaeanBrev|350|4,4,Ποῦλχρος,Ποῦλχρος,n-s---mn-,APOS
+4,Leuven|PaeanBrev|350|5,5,καί,καί,c--------,COORD
+5,Leuven|PaeanBrev|350|6,6,Γάϊος,Γάϊος,n-s---mn-,SBJ_CO
+6,Leuven|PaeanBrev|350|7,7,Ἰούνιος,Ἰούνιος,n-s---mn-,APOS
+7,Leuven|PaeanBrev|350|8,8,ὕπατοι,ὕπατος,n-p---mn-,OCOMP
+8,Leuven|PaeanBrev|350|9,9,χειροτονηθέντες,χειροτονέω,v-pappmn-,ADV
+9,Leuven|PaeanBrev|350|10,10,ἐπʼ,ἐπί,r--------,AuxP
+10,Leuven|PaeanBrev|350|11,11,ἴσης,ἴσος,a-s---fg-,ADV
+11,Leuven|PaeanBrev|350|12,12,ἐδυσημέρησαν,δυσημερέω,v3paia---,PRED

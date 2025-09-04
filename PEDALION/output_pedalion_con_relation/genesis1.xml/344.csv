@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|345|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|345|2,2,υἱοί,υἱός,n-p---mn-,SBJ
+Leuven|Genesis|345|3,3,Γαμερ,Γαμερ,n-s---mg-,ATR
+Leuven|Genesis|345|4,4,·,·,u--------,AuxK
+Leuven|Genesis|345|5,5,[0],,,PRED

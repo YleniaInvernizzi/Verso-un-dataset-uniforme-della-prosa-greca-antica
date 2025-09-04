@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---nn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,Ἀλέξανδρος,Ἀλέξανδρος,n-s---mn-,SBJ
+4,οὗτος,οὗτος,a-s---mn_,ATR
+5,",",punc1,u--------,AuxX
+6,εἰ,εἰ,c--------,AuxC
+7,μὴ,μή,d--------,AuxZ
+8,Φιλώτας,Φιλώτης,n-s---mn-,SBJ
+9,;,punc1,u--------,AuxK
+10,ἦν,εἰμί,v3siia---,PRED
+11,ᾖ,εἰμί,v3spsa---,ADV

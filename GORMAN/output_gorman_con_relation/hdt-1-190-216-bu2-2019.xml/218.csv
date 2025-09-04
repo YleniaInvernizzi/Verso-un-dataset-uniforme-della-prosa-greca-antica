@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τῶν,ὁ,l-p---mg-,ATR
+2,θεῶν,θέα,n-p---mg-,ATR
+3,τῷ,ὁ,l-s---md-,ATR
+4,ταχίστῳ,ταχύς,a-s---md-,OBJ
+5,πάντων,πᾶς,a-p---mg-,ATR
+6,τῶν,ὁ,l-p---mg-,ATR
+7,θνητῶν,θνητός,a-p---mg-,ATR
+8,τὸ,ὁ,l-s---na-,ATR
+9,τάχιστον,τάχιστος,a-s---na-,OBJ
+10,δατέονται,δατέομαι,v3ppim---,PRED
+11,.,punc1,u--------,AuxK

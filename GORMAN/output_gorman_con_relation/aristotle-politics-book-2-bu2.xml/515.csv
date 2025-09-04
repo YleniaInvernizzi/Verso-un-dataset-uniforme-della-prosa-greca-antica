@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,λῦσαι,λύω,v--ana---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,θάτερα,ἕτερος,a-p---na-,OBJ
+4,",",punc1,u--------,AuxX
+5,κύριον,κύριος,a-s---na-,OCOMP
+6,ποιήσαντα,ποιέω,v-sapama-,ADV
+7,τὸ,ὁ,l-s---na-,ATR
+8,δικαστήριον,δικαστήριον,n-s---na-,OBJ
+9,πάντων,πᾶς,a-p---ng-,ADV
+10,",",punc1,u--------,AuxX
+11,κληρωτὸν,κληρωτός,a-s---na-,PNOM
+12,ὄν,εἰμί,v-sppana-,ATR
+13,.,punc1,u--------,AuxK

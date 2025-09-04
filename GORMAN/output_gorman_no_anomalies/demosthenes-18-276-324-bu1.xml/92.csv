@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τίνες,τις,p-p---cn-,PNOM
+1,2,αἱ,ὁ,l-p---fn-,ATR
+2,3,τούτων,οὗτος,p-p---ng-,ATR
+3,4,ἀποδείξεις,ἀπόδειξις,n-p---fn-,SBJ
+4,5,;,punc1,u--------,AuxK
+5,6,εἰσίν,εἰμί,v3ppia---,PRED

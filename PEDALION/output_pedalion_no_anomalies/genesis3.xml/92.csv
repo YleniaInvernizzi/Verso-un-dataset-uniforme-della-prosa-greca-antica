@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|93|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|93|2,2,ἐφαύλισεν,φαυλίζω,v3saia---,PRED
+2,Leuven|Genesis_deel3|93|3,3,Ησαυ,Ησαυ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|93|4,4,τά,ὁ,l-p---na-,ATR
+4,Leuven|Genesis_deel3|93|5,5,πρωτοτόκια,πρωτοτόκιον,n-p---na-,OBJ

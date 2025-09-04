@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;φελλὸς;φελλός;n-s---mn-;SBJ
+2;ἐν;ἐν;r--------;AuxP
+3;ταῖς;ὁ;l-p---fd-;ATR
+4;βαυκίσιν;βαυκίδες;n-p---fd-;ADV
+5;ἐγκεκάττυται;ἐγκασσύω;v3srie---;PRED
+6;.;punc;u--------;AuxK

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|426|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|426|2,2,εὐλογήσω,εὐλογέω,v1sfia---,PRED_CO
+2,Leuven|Genesis|426|3,3,τούς,ὁ,l-p---ma-,ATR
+3,Leuven|Genesis|426|4,4,εὐλογοῦντας,εὐλογέω,v-pppama-,OBJ
+4,Leuven|Genesis|426|5,5,σε,σύ,p2s---ca-,OBJ
+6,Leuven|Genesis|426|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|426|8,8,τούς,ὁ,l-p---ma-,ATR
+8,Leuven|Genesis|426|9,9,καταρωμένους,καταράομαι,v-pppema-,OBJ
+9,Leuven|Genesis|426|10,10,σε,σύ,p2s---ca-,OBJ
+10,Leuven|Genesis|426|11,11,καταράσομαι,καταράομαι,v1sfim---,PRED_CO
+11,Leuven|Genesis|426|12,12,·,·,u--------,AuxK

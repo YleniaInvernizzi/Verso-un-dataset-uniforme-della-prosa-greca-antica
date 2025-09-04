@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|70|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis|70|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|Genesis|70|3,3,κυκλῶν,κυκλόω,v-sppamn-,PNOM
+3,Leuven|Genesis|70|4,4,πᾶσαν,πᾶς,a-s---fa-,ATR
+4,Leuven|Genesis|70|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|70|6,6,γῆν,γῆ,n-s---fa-,OBJ
+6,Leuven|Genesis|70|7,7,Ευιλατ,Ευιλατ,n-s----g-,ATR
+8,Leuven|Genesis|70|9,9,ἐκεῖ,ἐκεῖ,d--------,ADV
+9,Leuven|Genesis|70|10,10,οὗ,ὅς,p-s---mg-,PNOM
+10,Leuven|Genesis|70|11,11,ἐστιν,εἰμί,v3spia---,ATR
+11,Leuven|Genesis|70|12,12,τό,ὁ,l-s---nn-,ATR
+12,Leuven|Genesis|70|13,13,χρυσίον,χρυσίον,n-s---nn-,SBJ
+14,Leuven|Genesis|70|15,15,·,·,u--------,AuxK

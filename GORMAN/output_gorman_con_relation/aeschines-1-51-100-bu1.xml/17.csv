@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,οὗτος,οὗτος,a-s---mn_,ATR
+2,ὁ,ὁ,l-s---mn-,ATR
+3,Ἡγήσανδρος,Ἡγήσανδρος,n-s---mn-,SBJ
+4,ἀφικνεῖται,ἀφικνέομαι,v3spie---,PRED
+5,",",punc1,u--------,AuxX
+6,ὃν,ὅς,p-s---ma-,OBJ
+7,ὑμεῖς,σύ,p-p---mn-,SBJ
+8,ἴστε,οἶδα,v2pria---,ATR
+9,κάλλιον,καλός,a-s---nac,ADV
+10,ἢ,ἤ1,c--------,AuxC
+11,ἐγώ,ἐγώ,p1s---mn-,SBJ
+12,.,punc1,u--------,AuxK
+13,οἶδα,οἶδα,v1sria---,ADV

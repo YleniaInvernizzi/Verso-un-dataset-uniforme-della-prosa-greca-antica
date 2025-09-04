@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,Εὐριπίδης,Εὐριπίδης,n-s---mn-,SBJ
+2,τε,τε,d--------,AuxY
+3,ἔφη,φημί,v3siia---,PRED
+4,:,punc1,u--------,AuxK

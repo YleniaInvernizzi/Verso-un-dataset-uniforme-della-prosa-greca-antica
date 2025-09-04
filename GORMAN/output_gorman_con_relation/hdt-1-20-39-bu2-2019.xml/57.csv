@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃ,ὁ,l-s---mn-,SBJ
+2,μὲν,μέν,d--------,AuxY
+3,ἐλπίζων,ἐλπίζω,v-sppamn-,ADV
+4,εἶναι,εἰμί,v--pna---,OBJ
+5,ἀνθρώπων,ἄνθρωπος,n-p---mg-,ATR
+6,ὀλβιώτατος,ὄλβιος,a-s---mns,PNOM
+7,ταῦτα,οὗτος,p-p---na-,OBJ
+8,ἐπειρώτα,ἐπερωτάω,v3siia---,PRED
+9,:,punc1,u--------,AuxK

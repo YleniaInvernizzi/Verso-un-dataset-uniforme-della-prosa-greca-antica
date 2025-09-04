@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-002|566|1,1,”, ”,u--------,AuxG
+Leuven|0096-002|566|2,2,ὅν,ὅς,p-s---ma-,OBJ
+Leuven|0096-002|566|3,3,καί,καί,d--------,AuxZ
+Leuven|0096-002|566|4,4,λαβών,λαμβάνω,v-sapamn-,ADV
+Leuven|0096-002|566|5,5,παρῆγεν,παράγω,v3siia---,PRED
+Leuven|0096-002|566|6,6,.,.,u--------,AuxK

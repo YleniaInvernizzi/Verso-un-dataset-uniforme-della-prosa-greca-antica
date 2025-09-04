@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|68|1,1,ἐκεῖθεν,ἐκεῖθεν,d--------,ADV
+Leuven|Genesis|68|2,2,ἀφορίζεται,ἀφορίζω,v3spie---,PRED
+Leuven|Genesis|68|3,3,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|68|4,4,τέσσαρας,τέσσαρες,m-p---fa-,ATR
+Leuven|Genesis|68|5,5,ἀρχάς,ἀρχή,n-p---fa-,OBJ
+Leuven|Genesis|68|6,6,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|14|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+Leuven|21347|14|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|21347|14|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+Leuven|21347|14|4,4,.,.,u--------,AuxK

@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;πουλυμαθημοσύνης;πολυμαθημοσύνη;n-s---fg-;OBJ
+2;,;punc;u--------;AuxX
+3;τῆς;ὁ;p-s---fg-;ADV
+4;οὐ;οὐ;d--------;AuxZ
+5;κενεώτερον;κενός;a-s---nnc;PNOM
+6;οὐδέν;οὐδείς;p-s---nn-;SBJ
+7;,;punc;u--------;AuxX
+8;̓́Ιππων;̓́Ιππων;n-s---mn-;SBJ
+9;ἔφη;φημί;v3siia---;PRED
+10;ὁ;ὁ;l-s---mn-;ATR
+11;ἄθεος;ἄθεος;a-s---mn-;ATR
+12;.;punc;u--------;AuxK

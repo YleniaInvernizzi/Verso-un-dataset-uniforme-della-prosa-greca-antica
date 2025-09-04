@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,τῷ,ὁ,l-s---md-,ATR
+2,παρεόντι,πάρειμι1,v-sppamd-,OBJ
+3,δ᾽,δέ,d--------,AuxY
+4,ἐπαινήσαις,ἐπαινέω,v-sapamn-,ADV
+5,ἑκὼν,ἑκών,a-s---mn-,ATV
+6,ἄλλοτ᾽,ἄλλοτε,d--------,ADV
+7,ἀλλοῖα,ἀλλοῖος,a-p---na-,OBJ
+8,φρόνει,φρονέω,v2spma---,PRED
+9,.,punc1,u--------,AuxK

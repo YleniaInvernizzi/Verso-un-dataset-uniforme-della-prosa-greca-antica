@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,λέγει,λέγω3,v3spia---,PRED
+2,γοῦν,γοῦν,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Πρίαμος,Πρίαμος,n-s---mn-,SBJ
+5,:,punc1,u--------,AuxK

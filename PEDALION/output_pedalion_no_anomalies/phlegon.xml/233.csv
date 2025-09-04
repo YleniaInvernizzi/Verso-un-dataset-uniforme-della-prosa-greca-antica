@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0585-001|234|1,1,τροφὴ,τροφή,n-s---fn-,SBJ
+1,Leuven|0585-001|234|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|0585-001|234|3,3,αὐτοῦ,αὐτός,p-s---mg-,ATR
+3,Leuven|0585-001|234|4,4,κρέα,κρέας,n-p---nn-,PNOM

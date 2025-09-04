@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,λαβὼν,λαμβάνω,v-sapamn-,ADV
+4,ᾔει,εἶμι,v3siia---,PRED
+5,ἐπὶ,ἐπί,r--------,AuxP
+6,τὴν,ὁ,l-s---fa-,ATR
+7,Φαρναβάζου,Φαρνάβαζος,n-s---mg-,ATR
+8,Φρυγίαν,Φρυγία,n-s---fa-,OBJ
+9,.,punc1,u--------,AuxK

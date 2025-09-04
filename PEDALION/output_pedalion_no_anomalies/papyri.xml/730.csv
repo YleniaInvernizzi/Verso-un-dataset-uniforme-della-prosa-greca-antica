@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|6236|4|1,1,δός,δίδωμι,v2sama---,PRED
+1,Leuven|6236|4|2,2,αὐτοῖς,αὐτός,p-p---md-,OBJ
+2,Leuven|6236|4|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|6236|4|4,4,συγχώρησιν,συγχώρησις,n-s---fa-,OBJ
+4,Leuven|6236|4|5,5,ἐκ,ἐκ,r--------,AuxP
+5,Leuven|6236|4|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|6236|4|7,7,θυρίδος,θυρίς,n-s---fg-,ADV
+7,Leuven|6236|4|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|6236|4|9,9,προστάδος,προστάς,n-s---fg-,ATR

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀκούσας;ἀκούω;v-sapamn-;ADV
+2;ταῦτα;οὗτος;p-p---na-;OBJ
+3;ὁ;ὁ;l-s---mn-;ATR
+4;Θηραμένης;Θηραμένης;n-s---mn-;SBJ
+5;ἀνεπήδησεν;ἀναπηδάω;v3saia---;PRED_CO
+6;ἐπὶ;ἐπί;r--------;AuxP
+7;τὴν;ὁ;l-s---fa-;ATR
+8;ἑστίαν;ἑστία;n-s---fa-;ADV
+9;καὶ;καί;c--------;COORD
+10;εἶπεν;λέγω;v3saia---;PRED_CO
+11;·;punc;u--------;AuxK

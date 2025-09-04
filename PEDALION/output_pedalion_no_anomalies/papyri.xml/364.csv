@@ -1,0 +1,4 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27489|2|1,1,ἡτοιμάκειν,ἑτοιμάζω,v1slia---,PRED
+1,Leuven|27489|2|2,2,ἐμαυτήν,ἐμαυτοῦ,p-s---fa-,OBJ
+2,Leuven|27489|2|3,3,ἐλθεῖν,ἔρχομαι,v--ana---,ADV

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔπεμψε,πέμπω,v3saia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,ἐπιστολὴν,ἐπιστολή,n-s---fa-,OBJ
+5,τὸν,ὁ,l-s---ma-,ATR
+6,Γόγγυλον,Γόγγυλος,n-s---ma-,OBJ
+7,φέροντα,φέρω,v-sppama-,ATR
+8,αὐτῷ,αὐτός,p-s---md-,OBJ
+9,:,punc1,u--------,AuxK

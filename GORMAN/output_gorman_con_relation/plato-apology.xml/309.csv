@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐρῶ,ἐρέω,v1sfia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,ὑμῖν,σύ,p-p---md-,OBJ
+4,φορτικὰ,φορτικός,a-p---na-,OBJ_CO
+5,μὲν,μέν,d--------,AuxY
+6,καὶ,καί,c--------,COORD
+7,δικανικά,δικανικός,a-p---na-,OBJ_CO
+8,",",punc1,u--------,AuxX
+9,ἀληθῆ,ἀληθής,a-p---na-,OBJ_CO
+10,δέ,δέ,c--------,COORD
+11,.,punc1,u--------,AuxK

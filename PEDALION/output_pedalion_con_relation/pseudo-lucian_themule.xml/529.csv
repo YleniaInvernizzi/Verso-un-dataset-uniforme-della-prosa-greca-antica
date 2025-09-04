@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|530|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|530|2,2,ἐλθόντες,ἔρχομαι,v-papamn-,ADV
+Leuven|Ps-Luc|530|3,3,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|Ps-Luc|530|4,4,θάλασσαν,θάλασσα,n-s---fa-,OBJ
+Leuven|Ps-Luc|530|5,5,ναῦν,ναῦς,n-s---fa-,OBJ
+Leuven|Ps-Luc|530|6,6,ἐσκεψάμεθα,σκέπτομαι,v1paim---,PRED_CO
+Leuven|Ps-Luc|530|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|530|8,8,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|530|9,9,ἀποσκευὴν,ἀποσκευή,n-s---fa-,OBJ
+Leuven|Ps-Luc|530|10,10,ἐνεθέμεθα,ἐντίθημι,v1paim---,PRED_CO
+Leuven|Ps-Luc|530|11,11,.,.,u--------,AuxK

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ταύτην,οὗτος,p-s---fa-,OBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἡ,ὁ,l-s---fn-,ATR
+4,Τύχη,Τύχη,n-s---fn-,SBJ
+5,παρέσχε,παρέχω,v3saia---,PRED
+6,σῴσασα,σώζω,v-sapafn-,ADV_CO
+7,καὶ,καί,c--------,COORD
+8,φυλάξασα,φυλάσσω,v-sapafn-,ADV_CO
+9,τὸν,ὁ,l-s---ma-,ATR
+10,κτίστην,κτίστης,n-s---ma-,OBJ
+11,.,punc1,u--------,AuxK

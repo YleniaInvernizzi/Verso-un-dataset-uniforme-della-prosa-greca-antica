@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μακρά,μακρός,a-s---fn-,PNOM
+1,2,τις,τις,p-s---cn-,SBJ
+2,3,:,punc1,u--------,AuxK
+3,4,ἐστιν,εἰμί,v3spia---,PRED

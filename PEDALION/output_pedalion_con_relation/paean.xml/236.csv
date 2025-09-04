@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|238|1,1,κακῶς,κακός,d--------,ADV
+Leuven|PaeanBrev|238|2,2,δή,δή,d--------,AuxY
+Leuven|PaeanBrev|238|3,3,τῶν,ὁ,l-p---ng-,ATR
+Leuven|PaeanBrev|238|4,4,Ῥωμαϊκῶν,Ῥωμαῖος,a-p---ng-,SBJ
+Leuven|PaeanBrev|238|5,5,ἐκ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|238|6,6,τούτου,οὗτος,p-s---ng-,ADV
+Leuven|PaeanBrev|238|7,7,διακειμένων,διάκειμαι,v-pppeng-,ADV
+Leuven|PaeanBrev|238|8,8,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|238|9,9,νύξ,νύξ,n-s---fn-,SBJ
+Leuven|PaeanBrev|238|10,10,ἔδωκε,δίδωμι,v3saia---,PRED
+Leuven|PaeanBrev|238|11,11,τῇ,ὁ,l-s---fd-,ATR
+Leuven|PaeanBrev|238|12,12,συμπλοκῇ,συμπλοκή,n-s---fd-,OBJ
+Leuven|PaeanBrev|238|13,13,τέλος,τέλος,n-s---na-,OBJ
+Leuven|PaeanBrev|238|14,14,·,·,u--------,AuxK

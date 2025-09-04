@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|83|2|1,1,ἔρρωμαι,ῥώννυμι,v1srie---,PRED
+Leuven|83|2|2,2,δέ,δέ,d--------,AuxY
+Leuven|83|2|3,3,καί,καί,b--------,AuxY
+Leuven|83|2|4,4,αὐτός,αὐτός,p-s---mn-,SBJ_CO
+Leuven|83|2|5,5,καί,καί,b--------,AuxY
+Leuven|83|2|6,6,τά,ὁ,l-p---nn-,ATR
+Leuven|83|2|7,7,παιδία,παιδίον,n-p---nn-,SBJ_CO
+Leuven|83|2|8,8,καί,καί,b--------,COORD
+Leuven|83|2|9,9,οἱ,ὁ,l-p---mn-,ATR
+Leuven|83|2|10,10,ἐν,ἐν,r--------,AuxP
+Leuven|83|2|11,11,οἴκῳ,οἶκος,n-s---md-,ATR
+Leuven|83|2|12,12,πάντες,πᾶς,a-p---mn-,SBJ_CO
+Leuven|83|2|13,13,.,.,u--------,AuxK

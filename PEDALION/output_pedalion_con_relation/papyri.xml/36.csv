@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1731|4|1,1,σὺ,σύ,p2s---cn-,SBJ
+Leuven|1731|4|2,2,δὲ,δέ,d--------,AuxY
+Leuven|1731|4|3,3,ἐπιμέλειαν,ἐπιμέλεια,n-s---fa-,OBJ
+Leuven|1731|4|4,4,ἔχε,ἔχω,v2spma---,PRED_CO
+Leuven|1731|4|5,5,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|1731|4|6,6,καὶ,καί,b--------,COORD
+Leuven|1731|4|7,7,ἐπίστελλέ,ἐπιστέλλω,v2spma---,PRED_CO
+Leuven|1731|4|8,8,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|1731|4|9,9,ἄν,ἐάν,c--------,AuxC
+Leuven|1731|4|10,10,τί,τις,p-s---nn-,SBJ
+Leuven|1731|4|11,11,σοι,σύ,p2s---cd-,ADV
+Leuven|1731|4|12,12,βουλὴ,βουλή,n-s---fn-,PNOM
+Leuven|1731|4|13,13,γινέσθαι,γίγνομαι,v--pne---,ADV
+Leuven|1731|4|14,14,.,.,u--------,AuxK

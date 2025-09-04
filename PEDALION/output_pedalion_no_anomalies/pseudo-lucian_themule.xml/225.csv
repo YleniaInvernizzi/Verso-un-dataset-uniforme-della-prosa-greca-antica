@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|226|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|226|2,2,ἀπήιεσαν,ἄπειμι,v3piia---,PRED
+2,Leuven|Ps-Luc|226|3,3,τὸν,ὁ,l-s---ma-,ATR
+3,Leuven|Ps-Luc|226|4,4,ἵππον,ἵππος,n-s---ma-,OBJ
+4,Leuven|Ps-Luc|226|5,5,ἄγοντες,ἄγω,v-pppamn-,ADV

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|103|1,1,ὥστε,ὥστε,d--------,AuxY
+1,Leuven|Ps-Luc|103|2,2,τῆς,ὁ,l-s---fg-,ATR
+2,Leuven|Ps-Luc|103|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|Ps-Luc|103|4,4,τὴν,ὁ,l-s---fa-,ATR
+4,Leuven|Ps-Luc|103|5,5,Λάρισσαν,Λάρισσα,n-s---fa-,ATR
+5,Leuven|Ps-Luc|103|6,6,ὁδοῦ,ὁδός,n-s---fg-,OBJ
+6,Leuven|Ps-Luc|103|7,7,παντάπασιν,παντάπασι,d--------,ADV
+7,Leuven|Ps-Luc|103|8,8,ἐπιλελήσμην,ἐπιλανθάνω,v1slie---,ADV

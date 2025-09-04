@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ἐγένοντο,γίγνομαι,v3paim---,PRED
+3,μέν,μέν,d--------,AuxZ
+4,.,.,u--------,AuxK

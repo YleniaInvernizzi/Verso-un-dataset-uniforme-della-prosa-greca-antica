@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Γλυκέρας,Γλυκέρα,n-s---fg-,PNOM
+1,2,ὁ,ὁ,l-s---mn-,ATR
+2,3,σῖτος,σῖτος,n-s---mn-,SBJ
+3,4,οὗτος,οὗτος,a-s---mn-,ATR
+4,5,ἦν,εἰμί,v3siia---,PRED
+5,6,:,punc1,u--------,AuxK

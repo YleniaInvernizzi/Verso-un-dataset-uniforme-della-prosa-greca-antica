@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀνθηροῦ,ἀνθηρός,a-s---mg-,ATR
+2,τέκνα,τέκνον,n-p---nn-,ExD
+3,ἔαρος,ἔαρ,n-s---ng-,ADV
+4,πέριξ,πέριξ,r--------,AuxP
+5,στρώσαντες,στόρεννυμι,v-papamn-,ExD
+6,.,punc1,u--------,AuxK
+7,[0],,,PRED

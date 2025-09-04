@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;τὴν;ὁ;l-s---fa-;ATR
+2;Πυθιονίκην;Πυθιονίκη;n-s---fa-;OBJ_CO
+3;οἶσθα;οἶδα;v2sria---;PRED
+4;καὶ;καί;c--------;COORD
+5;τὸν;ὁ;l-s---ma-;ATR
+6;Ἅρπαλον;Ἅρπαλος;n-s---ma-;OBJ_CO
+7;.;punc;u--------;AuxK

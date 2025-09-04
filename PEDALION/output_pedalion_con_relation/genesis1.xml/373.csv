@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|374|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|374|2,2,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|374|3,3,Εβερ,Εβερ,n-s---md-,ADV
+Leuven|Genesis|374|4,4,ἐγενήθησαν,γίγνομαι,v3paip---,PRED
+Leuven|Genesis|374|5,5,δύο,δύο,m--------,ATR
+Leuven|Genesis|374|6,6,υἱοί,υἱός,n-p---mn-,SBJ
+Leuven|Genesis|374|7,7,·,·,u--------,AuxK

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧδε,ὧδε,d--------,ADV
+2,λέγει,λέγω3,v3spia---,PRED
+3,βασιλεὺς,βασιλεύς,n-s---mn-,ATR
+4,Ξέρξης,Ξέρξης,n-s---mn-,SBJ
+5,Παυσανίᾳ,Παυσανίας,n-s---md-,OBJ
+6,.,punc1,u--------,AuxK

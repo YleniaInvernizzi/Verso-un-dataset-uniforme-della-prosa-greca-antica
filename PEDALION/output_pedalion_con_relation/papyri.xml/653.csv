@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|32904|8|1,1,προσαγόρευε,προσαγορεύω,v2spma---,PRED
+Leuven|32904|8|2,2,πᾶσαν,πᾶς,a-s---fa-,ATR
+Leuven|32904|8|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|32904|8|4,4,συγγένειαν,συγγένεια,n-s---fa-,OBJ
+Leuven|32904|8|5,5,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|32904|8|6,6,.,.,u--------,AuxK

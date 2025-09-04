@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|287|1,1,μόνον,μόνον,d--------,ADV
+1,Leuven|Genesis_deel2|287|2,2,τόν,ὁ,l-s---ma-,ATR
+2,Leuven|Genesis_deel2|287|3,3,υἱόν,υἱός,n-s---ma-,OBJ
+3,Leuven|Genesis_deel2|287|4,4,μου,ἐγώ,p1s---cg-,ATR
+4,Leuven|Genesis_deel2|287|5,5,μή,μή,d--------,AuxZ
+5,Leuven|Genesis_deel2|287|6,6,ἀποστρέψῃς,ἀποστρέφω,v2sasa---,PRED
+6,Leuven|Genesis_deel2|287|7,7,ἐκεῖ,ἐκεῖ,d--------,ADV

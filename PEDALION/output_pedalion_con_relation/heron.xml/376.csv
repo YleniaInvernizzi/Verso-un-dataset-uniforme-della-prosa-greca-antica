@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|377|1,1,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|0559-002|377|2,2,οὖν,οὖν,d--------,PNOM
+Leuven|0559-002|377|3,3,οὕτως,οὕτως,d--------,ADV
+Leuven|0559-002|377|4,4,.,.,u--------,AuxK

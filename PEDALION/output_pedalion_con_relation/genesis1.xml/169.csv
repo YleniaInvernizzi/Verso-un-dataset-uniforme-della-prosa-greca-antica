@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|170|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|170|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|170|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis|170|4,4,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|170|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|170|6,6,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|170|7,7,·,·,u--------,AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,λήσειν,λανθάνω,v--fna---,OBJ
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἐδόκει,δοκέω,v3siia---,PRED
+3,4,ἀποκτείνας,ἀποκτείνω,v-sapamn-,PNOM
+4,5,αὐτόν,αὐτός,p-s---ma-,OBJ
+5,6,.,punc1,u--------,AuxK

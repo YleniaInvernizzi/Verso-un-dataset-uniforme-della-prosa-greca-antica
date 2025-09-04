@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|304|1,1,οὐ,οὐ,d--------,AuxZ
+1,Leuven|Genesis|304|2,2,προσθήσω,προστίθημι,v1sfia---,PRED
+2,Leuven|Genesis|304|3,3,οὖν,οὖν,d--------,AuxY
+3,Leuven|Genesis|304|4,4,ἔτι,ἔτι,d--------,ADV
+4,Leuven|Genesis|304|5,5,πατάξαι,πατάσσω,v--ana---,OBJ
+5,Leuven|Genesis|304|6,6,πᾶσαν,πᾶς,a-s---fa-,ATR
+6,Leuven|Genesis|304|7,7,σάρκα,σάρξ,n-s---fa-,OBJ
+7,Leuven|Genesis|304|8,8,ζῶσαν,ζάω,v-sppafa-,ATR
+9,Leuven|Genesis|304|10,10,καθώς,καθώς,c--------,AuxC
+10,Leuven|Genesis|304|11,11,ἐποίησα,ποιέω,v1saia---,ADV

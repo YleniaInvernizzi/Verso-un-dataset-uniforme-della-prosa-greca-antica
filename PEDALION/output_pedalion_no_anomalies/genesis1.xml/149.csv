@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|150|1,1,οὐκ,οὐ,d--------,AuxZ
+2,Leuven|Genesis|150|3,3,ἐάν,ἐάν,c--------,AuxC
+3,Leuven|Genesis|150|4,4,ὀρθῶς,ὀρθός,d--------,ADV
+4,Leuven|Genesis|150|5,5,προσενέγκῃς,προσφέρω,v2sasa---,ADV
+6,Leuven|Genesis|150|7,7,ὀρθῶς,ὀρθός,d--------,ADV
+7,Leuven|Genesis|150|8,8,δέ,δέ,d--------,AuxY
+8,Leuven|Genesis|150|9,9,μή,μή,d--------,AuxZ
+9,Leuven|Genesis|150|10,10,διέλῃς,διαιρέω,v2sasa---,ADV
+11,Leuven|Genesis|150|12,12,ἥμαρτες,ἁμαρτάνω,v2saia---,PRED
+12,Leuven|Genesis|150|13,13,;,;,u--------,AuxK

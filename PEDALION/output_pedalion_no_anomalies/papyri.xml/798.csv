@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|80117|3|1,1,οὐδέν,οὐδείς,p-s---nn-,SBJ
+1,Leuven|80117|3|2,2,ἔχει,ἔχω,v3spia---,PRED
+2,Leuven|80117|3|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|80117|3|4,4,ὧδε,ὧδε,d--------,ADV
+4,Leuven|80117|3|5,5,ἔσω,ἔσω,d--------,ADV

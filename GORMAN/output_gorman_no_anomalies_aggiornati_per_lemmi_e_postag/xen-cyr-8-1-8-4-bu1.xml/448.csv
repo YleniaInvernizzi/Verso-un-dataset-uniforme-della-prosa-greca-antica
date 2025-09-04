@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡσθήσομαι;ἥδομαι;v1sfip---;PRED
+2;μὲν;μέν;d--------;AuxY
+3;οὖν;οὖν;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;ἔφη;φημί;v3siia---;AuxY
+6;,;punc;u--------;AuxX
+7;ἢν;ἐάν;c--------;AuxC
+8;εἰδῶ;οἶδα;v1srsa---;ADV
+9;ὅτι;ὅτι;c--------;AuxC
+10;οὐκ;οὐ;d--------;AuxZ
+11;ἀδικοῦμαι;ἀδικέω;v1spie---;OBJ
+12;.;punc;u--------;AuxK

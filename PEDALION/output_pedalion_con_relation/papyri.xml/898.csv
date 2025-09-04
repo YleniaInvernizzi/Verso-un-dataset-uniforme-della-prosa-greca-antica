@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28935|4|1,1,ἦ,ἤ,b--------,AuxY
+Leuven|28935|4|2,2,καί,καί,b--------,AuxY
+Leuven|28935|4|3,3,ἀρσενικόν,ἀρσενικός,a-s---ma-,ADV
+Leuven|28935|4|4,4,ἡμῖν,ἐγώ,p1p---cd-,ADV
+Leuven|28935|4|5,5,ἀφίκατε,ἀφίκω,v2pria---,PRED
+Leuven|28935|4|6,6,;,;,u--------,AuxK

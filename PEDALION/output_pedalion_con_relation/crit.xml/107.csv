@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|107|1,1,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|0059-003|107|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0059-003|107|3,3,διόλλυσι,διόλλυμι,v3spia---,PRED
+Leuven|0059-003|107|4,4,.,.,u--------,AuxK

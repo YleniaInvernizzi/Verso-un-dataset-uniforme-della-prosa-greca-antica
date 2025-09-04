@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὥστε,ὥστε,d--------,AuxY
+2,ὁ,ὁ,l-s---mn-,ATR
+3,Σάκας,Σάκας,n-s---mn-,SBJ_CO
+4,ὑπερεφίλει,ὑπερφιλέω,v3siia---,PRED
+5,ἤδη,ἤδη,d--------,ADV
+6,καὶ,καί,c--------,COORD
+7,οἱ,ὁ,l-p---mn-,ATR
+8,ἄλλοι,ἄλλος,p-p---mn-,SBJ_CO
+9,πάντες,πᾶς,a-p---mn-,ATR
+10,.,punc1,u--------,AuxK

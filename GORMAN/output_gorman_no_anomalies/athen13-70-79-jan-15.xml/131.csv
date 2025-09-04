@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μηρῶν,μηρός,n-p---mg-,OBJ_CO
+1,2,ἱμείρων,ἱμείρω,v-sppamn-,ADV
+2,3,καὶ,καί,c--------,COORD
+3,4,γλυκεροῦ,γλυκερός,a-s---ng-,ATR
+4,5,στόματος,στόμα,n-s---ng-,OBJ_CO
+5,6,.,punc1,u--------,AuxK

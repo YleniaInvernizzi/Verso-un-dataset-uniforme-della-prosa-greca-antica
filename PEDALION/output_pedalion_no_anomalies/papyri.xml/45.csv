@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|17627|7|1,1,ἐρωτῶ,ἐρωτάω,v1spia---,ExD
+1,Leuven|17627|7|2,2,σε,σύ,p2s---ca-,OBJ
+2,Leuven|17627|7|3,3,ἐὰν,ἐάν,c--------,AuxC
+3,Leuven|17627|7|4,4,ἀκούσῃς,ἀκούω,v2sasa---,ADV
+4,Leuven|17627|7|5,5,περὶ,περί,r--------,AuxP
+6,Leuven|17627|7|7,7,Θερμουθᾶτος,Θερμουθᾶς,n-s---fg-,ADV
+7,Leuven|17627|7|8,8,πέμψον,πέμπω,v2sama---,PRED
+8,Leuven|17627|7|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+9,Leuven|17627|7|10,10,φάσιν,φάσις,n-s---fa-,OBJ

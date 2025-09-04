@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|308|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|308|2,2,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|PaeanBrev|308|3,3,ναυμαχία,ναυμαχία,n-s---fn-,SBJ
+Leuven|PaeanBrev|308|4,4,καρτερά,καρτερός,a-s---fn-,ATR
+Leuven|PaeanBrev|308|5,5,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|308|6,6,Ἀμιλκάρην,Ἀμιλκάρης,n-s---ma-,OBJ
+Leuven|PaeanBrev|308|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|308|8,8,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|308|9,9,πολεμίων,πολέμιος,a-p---mg-,ATR
+Leuven|PaeanBrev|308|10,10,στρατηγόν,στρατηγός,n-s---ma-,APOS
+Leuven|PaeanBrev|308|11,11,.,.,u--------,AuxK

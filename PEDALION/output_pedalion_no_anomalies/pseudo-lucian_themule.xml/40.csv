@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|41|1,1,τί,τίς,p-s---na-,ADV
+1,Leuven|Ps-Luc|41|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|41|3,3,οὐχὶ,οὐ,d--------,AuxZ
+3,Leuven|Ps-Luc|41|4,4,παρ’,παρά,r--------,AuxP
+4,Leuven|Ps-Luc|41|5,5,ἐμοὶ,ἐγώ,p1s---cd-,ADV
+5,Leuven|Ps-Luc|41|6,6,καταλύεις,καταλύω,v2spia---,PRED
+7,Leuven|Ps-Luc|41|8,8,ὦ,ὦ,i--------,AuxZ
+8,Leuven|Ps-Luc|41|9,9,τέκνον,τέκνον,n-s---nv-,ExD

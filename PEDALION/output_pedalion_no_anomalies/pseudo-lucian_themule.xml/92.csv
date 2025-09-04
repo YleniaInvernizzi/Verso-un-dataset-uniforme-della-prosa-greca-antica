@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|93|1,1,ἡ,ὁ,l-s---fn-,SBJ
+1,Leuven|Ps-Luc|93|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|93|3,3,ἐπὶ,ἐπί,r--------,AuxP
+3,Leuven|Ps-Luc|93|4,4,κόρρης,κόρση,n-s---fg-,ADV
+4,Leuven|Ps-Luc|93|5,5,πλήξασά,πλήσσω,v-sapafn-,ADV
+5,Leuven|Ps-Luc|93|6,6,με,ἐγώ,p1s---ca-,OBJ
+7,Leuven|Ps-Luc|93|8,8,ὡς,ὡς,d--------,AuxZ
+8,Leuven|Ps-Luc|93|9,9,φλύαρον,φλύαρος,n-s---ma-,OCOMP
+10,Leuven|Ps-Luc|93|11,11,ἔφη,φημί,v3siia---,PRED
+12,Leuven|Ps-Luc|93|13,13,παρέλαβον,παραλαμβάνω,v1saia---,OBJ
+13,Leuven|Ps-Luc|93|14,14,τὸν,ὁ,l-s---ma-,ATR
+14,Leuven|Ps-Luc|93|15,15,μαθητήν,μαθητής,n-s---ma-,OBJ

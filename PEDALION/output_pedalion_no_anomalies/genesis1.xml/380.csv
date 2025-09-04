@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|381|1,1,ἀπό,ἀπό,r--------,AuxP
+1,Leuven|Genesis|381|2,2,τούτων,οὗτος,p-p---mg-,ADV
+2,Leuven|Genesis|381|3,3,διεσπάρησαν,διασπείρω,v3paip---,PRED
+3,Leuven|Genesis|381|4,4,νῆσοι,νῆσος,n-p---fn-,SBJ
+4,Leuven|Genesis|381|5,5,τῶν,ὁ,l-p---ng-,ATR
+5,Leuven|Genesis|381|6,6,ἐθνῶν,ἔθνος,n-p---ng-,ATR
+6,Leuven|Genesis|381|7,7,ἐπί,ἐπί,r--------,AuxP
+7,Leuven|Genesis|381|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|Genesis|381|9,9,γῆς,γῆ,n-s---fg-,ADV
+9,Leuven|Genesis|381|10,10,μετά,μετά,r--------,AuxP
+10,Leuven|Genesis|381|11,11,τόν,ὁ,l-s---ma-,ATR
+11,Leuven|Genesis|381|12,12,κατακλυσμόν,κατακλυσμός,n-s---ma-,ADV

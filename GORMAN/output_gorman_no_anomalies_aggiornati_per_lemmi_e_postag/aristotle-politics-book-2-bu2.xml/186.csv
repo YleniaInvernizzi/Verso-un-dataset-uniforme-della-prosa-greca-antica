@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡ;ὁ;l-s---fn-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;ἐκ;ἐκ;r--------;AuxP
+4;πλειόνων;πολύς;a-p---fgc;ADV
+5;συγκειμένη;σύγκειμαι;v-srpefn-;ATR
+6;πολιτεία;πολιτεία;n-s---fn-;SBJ
+7;βελτίων;ἀγαθός;a-s---fnc;PNOM
+8;.;punc;u--------;AuxK
+9;ἐστιν;εἰμί;v3spia---;PRED

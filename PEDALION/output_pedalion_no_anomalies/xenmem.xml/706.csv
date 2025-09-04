@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0032-002|707|1,1,ἀνωφελὴς,ἀνωφελής,a-s---mn-,PNOM
+1,Leuven|0032-002|707|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|0032-002|707|3,3,ἂν,ἄν,d--------,AuxY
+3,Leuven|0032-002|707|4,4,εἴη,εἰμί,v3spoa---,PRED
+4,Leuven|0032-002|707|5,5,τῷ,ὁ,l-s---md-,ATR
+5,Leuven|0032-002|707|6,6,χρωμένῳ,χράω,v-sppemd-,ADV

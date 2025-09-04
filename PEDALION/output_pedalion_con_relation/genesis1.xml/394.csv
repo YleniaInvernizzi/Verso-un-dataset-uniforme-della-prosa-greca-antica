@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|395|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|395|2,2,αὗται,οὗτος,p-p---fn-,SBJ
+Leuven|Genesis|395|3,3,αἱ,ὁ,l-p---fn-,ATR
+Leuven|Genesis|395|4,4,γενέσεις,γένεσις,n-p---fn-,PNOM
+Leuven|Genesis|395|5,5,Σημ,Σημ,n-s---mg-,ATR
+Leuven|Genesis|395|6,6,·,·,u--------,AuxK
+Leuven|Genesis|395|7,7,[0],,,PRED

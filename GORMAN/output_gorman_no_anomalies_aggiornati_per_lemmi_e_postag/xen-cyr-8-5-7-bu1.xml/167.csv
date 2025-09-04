@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;καταλείπω;καταλείπω;v1spia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;πατρίδα;πατρίς;n-s---fa-;OBJ_CO
+4;καὶ;καί;c--------;COORD
+5;φίλους;φίλος;n-p---ma-;OBJ_CO
+6;εὐδαιμονοῦντας;εὐδαιμονέω;v-pppama-;OCOMP
+7;·;punc;u--------;AuxK

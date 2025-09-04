@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|27|1,1,ὑπό,ὑπό,r--------,AuxP
+1,Leuven|PaeanBrev|27|2,2,τούτῳ,οὗτος,p-s---md-,ADV
+2,Leuven|PaeanBrev|27|3,3,πάλιν,πάλιν,d--------,ADV
+3,Leuven|PaeanBrev|27|4,4,ἡ,ὁ,l-s---fn-,ATR
+4,Leuven|PaeanBrev|27|5,5,περί,περί,r--------,AuxP
+5,Leuven|PaeanBrev|27|6,6,τούς,ὁ,l-p---ma-,ATR
+6,Leuven|PaeanBrev|27|7,7,πολέμους,πόλεμος,n-p---ma-,ATR
+7,Leuven|PaeanBrev|27|8,8,ἐπανῆλθε,ἐπανέρχομαι,v3saia---,PRED
+8,Leuven|PaeanBrev|27|9,9,σπουδή,σπουδή,n-s---fn-,SBJ

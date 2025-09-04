@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,Θεόφιλος,Θεόφιλος,n-s---mn-,SBJ
+2,Φιλαύλῳ,Φίλαυλος,n-s---md-,ADV
+3,:,,--------,AuxK
+4,[0],,,PRED

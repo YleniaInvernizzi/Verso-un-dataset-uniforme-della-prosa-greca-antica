@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,θέρος,θέρος,n-s---nn-,OBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἦν,εἰμί,v3siia---,PRED_CO
+4,ἤδη,ἤδη,d--------,ADV
+5,καὶ,καί,c--------,COORD
+6,προγραφαὶ,προγραφή,n-p---fn-,OBJ
+7,δημάρχων,δήμαρχος,n-p---mg-,ATR
+8,ἐς,εἰς,r--------,AuxP
+9,τὸ,ὁ,l-s---na-,ATR
+10,μέλλον,μέλλω,v-sppana-,PNOM
+11,·,punc1,u--------,AuxK
+12,ἦν,εἰμί,v3siia---,PRED_CO

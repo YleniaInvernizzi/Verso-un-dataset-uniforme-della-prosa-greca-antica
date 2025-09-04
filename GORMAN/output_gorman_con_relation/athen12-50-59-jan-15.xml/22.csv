@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,τάλας,τάλας,a-s---mn-,PNOM_AP
+3,ἐγώ,ἐγώ,p1s---mn-,SBJ_CO
+4,",",punc1,u--------,APOS
+5,τὸ,ὁ,l-s---nn-,ATR
+6,μηδὲ,μηδέ,d--------,AuxZ
+7,τούτων,οὗτος,p-p---mg-,ATR
+8,ἕνα,εἷς,n-s---ma-,PNOM
+9,γενέσθαι,γίγνομαι,v--anm---,PNOM_AP
+10,.,punc1,u--------,AuxK
+11,εἰμί,εἰμί,v1spia---,PRED

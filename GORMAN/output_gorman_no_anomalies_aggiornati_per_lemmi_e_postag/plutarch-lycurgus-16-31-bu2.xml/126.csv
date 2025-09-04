@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;εἵλωτες;Εἵλως;n-p---mn-;SBJ
+4;αὐτοῖς;αὐτός;p-p---md-;OBJ
+5;εἰργάζοντο;ἐργάζομαι;v3piie---;PRED
+6;τὴν;ὁ;l-s---fa-;ATR
+7;γῆν;γῆ;n-s---fa-;OBJ
+8;,;punc;u--------;AuxX
+9;ἀποφορὰν;ἀποφορά;n-s---fa-;OBJ
+10;τὴν;ὁ;l-s---fa-;ATR
+11;εἰρημένην;λέγω;v-srpefa-;ATR
+12;τελοῦντες;τελέω;v-pppamn-;ADV
+13;.;punc;u--------;AuxK

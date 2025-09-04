@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οἰνοβαρές,οἰνοβαρής,a-s---mv-,ExD
+1,2,",",punc1,u--------,AuxX
+2,3,κυνὸς,κύων,n-s---mg-,ATR
+3,4,ὄμματ᾽,ὄμμα,n-p---na-,OBJ
+4,5,ἔχων,ἔχω,v-sppamn-,ADV
+5,6,.,punc1,u--------,AuxK

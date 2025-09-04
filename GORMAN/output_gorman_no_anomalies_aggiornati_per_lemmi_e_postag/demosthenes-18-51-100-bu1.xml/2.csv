@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;πόθεν;ποθεν;d--------;ADV
+2;λαβόντι;λαμβάνω;v-sapamd-;OBJ_CO
+3;ἢ;ἤ;c--------;COORD
+4;πῶς;πως;d--------;ADV
+5;ἀξιωθέντι;ἀξιόω;v-sappmd-;OBJ_CO
+6;";";punc;u--------;AuxK

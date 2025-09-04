@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;τέλος;τέλος;n-s---na-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;βαλλόμενος;βάλλω;v-sppemn-;ADV
+4;ὑπὸ;ὑπό;r--------;AuxP
+5;πολλῶν;πολύς;a-p---mg-;ADV
+6;ἐξέπεσε;ἐκπίτνω;v3saia---;PRED
+7;τῆς;ὁ;l-s---fg-;ATR
+8;ἀγορᾶς;ἀγορά;n-s---fg-;OBJ
+9;δρόμῳ;δρόμος;n-s---md-;ADV
+10;.;punc;u--------;AuxK

@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|490|1,1,κεκόμιστο,κομίζω,v3srim---,PRED_CO
+1,Leuven|Ps-Luc|490|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|490|3,3,αὐτῆι,αὐτός,p-s---fd-,OBJ
+3,Leuven|Ps-Luc|490|4,4,προσκεφάλαια,προσκεφάλαιον,n-p---na-,OBJ
+4,Leuven|Ps-Luc|490|5,5,μαλακὰ,μαλακός,a-p---na-,ATR
+5,Leuven|Ps-Luc|490|6,6,καὶ,καί,c--------,AuxY
+6,Leuven|Ps-Luc|490|7,7,στρώματα,στρῶμα,n-p---na-,OBJ
+7,Leuven|Ps-Luc|490|8,8,εἴσω,εἴσω,d--------,ADV
+8,Leuven|Ps-Luc|490|9,9,κατέθεντο,κατατίθημι,v3paim---,PRED_CO
+9,Leuven|Ps-Luc|490|10,10,καὶ,καί,c--------,COORD
+10,Leuven|Ps-Luc|490|11,11,χαμεύνιον,χαμεύνιον,n-s---nn-,SBJ
+11,Leuven|Ps-Luc|490|12,12,ἡμῖν,ἐγώ,p1p---cd-,ADV
+12,Leuven|Ps-Luc|490|13,13,εὐτρεπὲς,εὐτρεπής,a-s---nn-,PNOM
+13,Leuven|Ps-Luc|490|14,14,ἦν,εἰμί,v3siia---,PRED_CO

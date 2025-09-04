@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28975|4|1,1,σινδών,σινδών,n-s---fn-,SBJ
+Leuven|28975|4|2,2,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|28975|4|3,3,ἐκτός,ἐκτός,d--------,PNOM
+Leuven|28975|4|4,4,ἔχων,ἔχω,v-sppamn-,ADV
+Leuven|28975|4|5,5,χρῖμα,χρῖμα,n-s---na-,OBJ
+Leuven|28975|4|6,6,ῥόδινον,ῥόδινος,a-s---na-,ATR
+Leuven|28975|4|7,7,",",",",u--------,AuxX
+Leuven|28975|4|8,8,ἐπιγεγραμμένον,ἐπιγράφω,v-srpena-,ATR
+Leuven|28975|4|9,9,ἐπί,ἐπί,r--------,AuxP
+Leuven|28975|4|10,10,τῆς,ὁ,l-s---fg-,ATR
+Leuven|28975|4|11,11,κοιλίας,κοιλία,n-s---fg-,OBJ
+Leuven|28975|4|12,12,τό,ὁ,l-s---nn-,ATR
+Leuven|28975|4|13,13,ὄνομα,ὄνομα,n-s---nn-,SBJ
+Leuven|28975|4|14,14,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|28975|4|15,15,.,.,u--------,AuxK

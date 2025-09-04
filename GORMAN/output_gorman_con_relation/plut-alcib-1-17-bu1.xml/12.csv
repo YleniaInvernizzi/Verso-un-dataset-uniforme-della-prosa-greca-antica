@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxZ
+2,Ἄρχιππος,Ἄρχιππος,n-s---mn-,SBJ
+3,τὸν,ὁ,l-s---ma-,ATR
+4,υἱὸν,υἱός,n-s---ma-,OBJ
+5,τοῦ,ὁ,l-s---mg-,ATR
+6,Ἀλκιβιάδου,Ἀλκιβιάδης,n-s---mg-,ATR
+7,σκώπτων,σκώπτω,v-sppamn-,ADV
+8,·,punc1,u--------,AuxK
+9,[0],,,PRED

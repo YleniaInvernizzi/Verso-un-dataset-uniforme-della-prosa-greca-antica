@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30293|8|1,1,Εὐδαιμονὶς,Εὐδαιμονίς,n-s---fn-,SBJ_CO
+Leuven|30293|8|2,2,καὶ,καί,b--------,AuxY
+Leuven|30293|8|3,3,Τεχωσοῦς,Τεχωσοῦς,n-s---fn-,SBJ_CO
+Leuven|30293|8|4,4,καὶ,καί,b--------,COORD
+Leuven|30293|8|5,5,πάντες,πᾶς,a-p---mn-,SBJ_CO
+Leuven|30293|8|6,6,οἱ,ὁ,l-p---mn-,ATR
+Leuven|30293|8|7,7,ἐνθάδε,ἐνθάδε,d--------,ATR
+Leuven|30293|8|8,8,ἀσπάζονταί,ἀσπάζομαι,v3ppie---,PRED
+Leuven|30293|8|9,9,σε,σύ,p2s---ca-,OBJ
+Leuven|30293|8|10,10,.,.,u--------,AuxK

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|130|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|130|2,2,ὤρυξαν,ὀρύσσω,v3paia---,PRED_CO
+2,Leuven|Genesis_deel3|130|3,3,οἱ,ὁ,l-p---mn-,ATR
+3,Leuven|Genesis_deel3|130|4,4,παῖδες,παῖς,n-p---mn-,SBJ
+4,Leuven|Genesis_deel3|130|5,5,Ισαακ,Ισαακ,n-s---mg-,ATR
+5,Leuven|Genesis_deel3|130|6,6,ἐν,ἐν,r--------,AuxP
+6,Leuven|Genesis_deel3|130|7,7,τῇ,ὁ,l-s---fd-,ATR
+7,Leuven|Genesis_deel3|130|8,8,φάραγγι,φάραγξ,n-s---fd-,ADV
+8,Leuven|Genesis_deel3|130|9,9,Γεραρων,Γεραρα,n-p----g-,ATR
+9,Leuven|Genesis_deel3|130|10,10,καί,καί,c--------,COORD
+10,Leuven|Genesis_deel3|130|11,11,εὗρον,εὑρίσκω,v3paia---,PRED_CO
+11,Leuven|Genesis_deel3|130|12,12,ἐκεῖ,ἐκεῖ,d--------,ADV
+12,Leuven|Genesis_deel3|130|13,13,φρέαρ,φρέαρ,n-s---na-,OBJ
+13,Leuven|Genesis_deel3|130|14,14,ὕδατος,ὕδωρ,n-s---ng-,ATR
+14,Leuven|Genesis_deel3|130|15,15,ζῶντος,ζάω,v-sppang-,ATR

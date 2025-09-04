@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὡς,ὡς,c--------,AuxC
+1,2,δὲ,δέ,d--------,AuxY
+2,3,συνῆλθον,συνέρχομαι,v3paia---,ADV
+3,4,ἔλεγε,λέγω3,v3siia---,PRED
+4,5,·,punc1,u--------,AuxK

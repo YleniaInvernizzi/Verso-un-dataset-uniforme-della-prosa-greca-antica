@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|67|1,1,ποταμός,ποταμός,n-s---mn-,SBJ
+1,Leuven|Genesis|67|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|67|3,3,ἐκπορεύεται,ἐκπορεύω,v3spie---,PRED
+3,Leuven|Genesis|67|4,4,ἐξ,ἐκ,r--------,AuxP
+4,Leuven|Genesis|67|5,5,Εδεμ,Εδεμ,n-s----g-,OBJ
+5,Leuven|Genesis|67|6,6,ποτίζειν,ποτίζω,v--pna---,ADV
+6,Leuven|Genesis|67|7,7,τόν,ὁ,l-s---ma-,ATR
+7,Leuven|Genesis|67|8,8,παράδεισον,παράδεισος,n-s---ma-,OBJ
+8,Leuven|Genesis|67|9,9,·,·,u--------,AuxK

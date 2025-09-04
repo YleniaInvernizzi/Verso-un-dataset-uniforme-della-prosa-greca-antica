@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|232|1,1,καταλαμβάνει,καταλαμβάνω,v3spia---,PRED
+1,Leuven|PaeanBrev|232|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|232|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|PaeanBrev|232|4,4,Ἰταλίαν,Ἰταλία,n-s---fa-,OBJ
+4,Leuven|PaeanBrev|232|5,5,ὁ,ὁ,l-s---mn-,ATR
+5,Leuven|PaeanBrev|232|6,6,Πύρρος,Πύρρος,n-s---mn-,SBJ

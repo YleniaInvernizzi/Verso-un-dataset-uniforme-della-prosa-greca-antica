@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;συνεγγίσας;συνεγγίζω;v-sapamn-;ADV
+3;τῷ;ὁ;l-s---md-;ATR
+4;χάρακι;χάραξ;n-s---md-;OBJ
+5;τολμηρῶς;τολμηρός;d--------;ADV
+6;ἔμενε;μένω;v3siia---;PRED
+7;,;punc;u--------;AuxX
+8;κατασείων;κατασείω;v-sfpamn-;ADV
+9;τῇ;ὁ;l-s---fd-;ATR
+10;χειρί;χείρ;n-s---fv-;ADV
+11;.;punc;u--------;AuxK

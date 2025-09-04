@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|74|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis|74|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|Genesis|74|3,3,κυκλῶν,κυκλόω,v-sppamn-,PNOM
+3,Leuven|Genesis|74|4,4,πᾶσαν,πᾶς,a-s---fa-,OBJ
+4,Leuven|Genesis|74|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|74|6,6,γῆν,γῆ,n-s---fa-,OBJ
+6,Leuven|Genesis|74|7,7,Αἰθιοπίας,Αἰθιοπία,n-s---fg-,ATR

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ὁ,ὁ,l-s---mn-,ATR
+3,Κυαξάρης,Κυαξάρας,n-s---mn-,SBJ
+4,μέντοι,μέντοι,d--------,AuxZ
+5,τελευτῶν,τελευτάω,v-sppann-,ADV
+6,εἶπε,εἶπον,v3saia---,PRED
+7,·,punc1,u--------,AuxK

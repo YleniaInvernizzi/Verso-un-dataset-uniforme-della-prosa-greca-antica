@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|10|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|30514|10|2,2,μεμένηκε,μένω,v3sria---,PRED
+Leuven|30514|10|3,3,ἐχόνομα,ἐχόνομα,r--------,AuxP
+Leuven|30514|10|4,4,μου,ἐγώ,p1s---cg-,ADV
+Leuven|30514|10|5,5,ὅτι,ὅτι,c--------,AuxC
+Leuven|30514|10|6,6,χειμών,χειμών,n-s---mn-,PNOM
+Leuven|30514|10|7,7,ἐστιν,εἰμί,v3spia---,ADV
+Leuven|30514|10|8,8,.,.,u--------,AuxK

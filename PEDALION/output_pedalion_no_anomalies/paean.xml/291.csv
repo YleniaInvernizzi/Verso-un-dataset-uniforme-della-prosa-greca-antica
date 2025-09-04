@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|293|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|293|2,2,νικήσας,νικάω,v-sapamn-,ADV
+2,Leuven|PaeanBrev|293|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|PaeanBrev|293|4,4,Κλαύδιος,Κλαύδιος,n-s---mn-,SBJ
+4,Leuven|PaeanBrev|293|5,5,Ἄφρους,Ἄφρος,n-p---ma-,OBJ_CO
+5,Leuven|PaeanBrev|293|6,6,τε,τε,c--------,AuxY
+6,Leuven|PaeanBrev|293|7,7,καί,καί,c--------,COORD
+7,Leuven|PaeanBrev|293|8,8,τόν,ὁ,l-s---ma-,ATR
+8,Leuven|PaeanBrev|293|9,9,βασιλέα,βασιλεύς,n-s---ma-,OBJ_CO
+9,Leuven|PaeanBrev|293|10,10,Σικελίας,Σικελία,n-s---fg-,ATR
+10,Leuven|PaeanBrev|293|11,11,Ἱέρωνα,Ἱέρων,n-s---ma-,APOS
+11,Leuven|PaeanBrev|293|12,12,καθʼ,κατά,r--------,AuxP
+12,Leuven|PaeanBrev|293|13,13,ἑκατέρων,ἑκάτερος,a-p---mg-,ADV
+13,Leuven|PaeanBrev|293|14,14,ἐθριάμβευσε,θριαμβεύω,v3saia---,PRED

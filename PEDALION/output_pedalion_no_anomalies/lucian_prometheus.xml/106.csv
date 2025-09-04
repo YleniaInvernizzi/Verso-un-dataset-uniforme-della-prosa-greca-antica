@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0062-020|109|1,1,μὴ,μή,d--------,AuxZ
+1,Leuven|0062-020|109|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|0062-020|109|3,3,ὀκνήσῃς,ὀκνέω,v2sasa---,PRED
+3,Leuven|0062-020|109|4,4,εἰπεῖν,λέγω,v--ana---,OBJ

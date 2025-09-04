@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,γελάσασ᾽,γελάω,v-sapafn-,ADV
+2,ἄνω,ἄνω2,d--------,ADV
+3,",",punc1,u--------,AuxX
+4,βέλτιστε,βέλτιστος,a-s---mv-,ExD
+5,",",punc1,u--------,AuxX
+6,φησίν,φημί,v3spia---,PRED
+7,.,punc1,u--------,AuxK
+8,[0],,,OBJ

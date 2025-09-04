@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|6|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|6|2,2,εἶδεν,ὁράω,v3saia---,PRED
+Leuven|Genesis|6|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|6|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|6|5,5,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|6|6,6,φῶς,φῶς,n-s---na-,OBJ
+Leuven|Genesis|6|7,7,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|6|8,8,καλόν,καλός,a-s---nn-,PNOM
+Leuven|Genesis|6|9,9,.,.,u--------,AuxK
+Leuven|Genesis|6|10,10,[0],,,OBJ

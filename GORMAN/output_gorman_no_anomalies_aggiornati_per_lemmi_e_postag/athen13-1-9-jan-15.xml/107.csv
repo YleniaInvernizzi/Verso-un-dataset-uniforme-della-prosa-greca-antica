@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;νὴ;νή;r--------;AuxP
+2;Δί᾽;Ζεύς;n-p---nv-;ExD
+3;ἀπολοίμην;ἀπόλλυμι;v1saom---;PRED_CO
+4;ἄρα;ἄρα;d--------;AuxZ
+5;,;punc;u--------;COORD
+6;πάντων;πᾶς;a-p---ng-;ATR
+7;ἄριστον;ἀγαθός;a-s---nns;PNOM
+8;κτημάτων;κτῆμα;n-p---ng-;ADV
+9;.;punc;u--------;AuxK
+10;ἐστιν;εἰμί;v3spia---;PRED_CO

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|117|1,1,οὗτοι,οὗτος,p-p---mn-,SBJ
+1,Leuven|PaeanBrev|117|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|117|3,3,πάντες,πᾶς,a-p---mn-,ATR
+4,Leuven|PaeanBrev|117|5,5,ἀξιόχρεως,ἀξιόχρεως,a-s---mn-,ATR
+5,Leuven|PaeanBrev|117|6,6,ἕκαστος,ἕκαστος,a-s---mn-,APOS
+6,Leuven|PaeanBrev|117|7,7,μεγάλης,μέγας,a-s---fg-,ATR
+7,Leuven|PaeanBrev|117|8,8,ἡγεμών,ἡγεμών,n-s---mn-,PNOM
+8,Leuven|PaeanBrev|117|9,9,εἶναι,εἰμί,v--pna---,OBJ
+9,Leuven|PaeanBrev|117|10,10,στρατιᾶς,στρατιά,n-s---fg-,ATR
+11,Leuven|PaeanBrev|117|12,12,πανωλεθρίᾳ,πανωλεθρία,n-s---fd-,ADV
+12,Leuven|PaeanBrev|117|13,13,διεφθάρησαν,διαφθείρω,v3paip---,PRED

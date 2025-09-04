@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νόμοισι,νόμος,n-p---md-,OBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,χρέωνται,χράω2,v3ppie---,PRED
+3,4,τοιοῖσιδε,τοιόσδε,a-p---md-,ATR
+4,5,.,punc1,u--------,AuxK

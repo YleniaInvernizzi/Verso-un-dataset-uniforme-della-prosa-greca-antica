@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢ,ἤ1,d--------,AuxY
+2,ποίᾳ,ποῖος,a-s---fd-,ATR
+3,αἰσχύνῃ,αἰσχύνη,n-s---fd-,OBJ_CO
+4,οὐκ,οὐ,d--------,AuxZ
+5,ἂν,ἄν1,d--------,AuxY
+6,καὶ,καί,c--------,COORD
+7,συμφορᾷ,συμφορά,n-s---fd-,OBJ_CO
+8,περιπεπτωκὼς,περιπίπτω,v-srpamn-,PNOM
+9,ἦν,εἰμί,v1siia---,PRED
+10,;,punc1,u--------,AuxK

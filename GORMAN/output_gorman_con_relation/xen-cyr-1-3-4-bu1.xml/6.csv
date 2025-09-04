@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁρῶν,ὁράω,v-sppamv-,ADV
+2,δὴ,δή,d--------,AuxY
+3,τὸν,ὁ,l-s---ma-,ATR
+4,κόσμον,κόσμος,n-s---ma-,OBJ
+5,τοῦ,ὁ,l-s---mg-,ATR
+6,πάππου,πάππης,n-s---mg-,ATR
+7,",",punc1,u--------,AuxX
+8,ἐμβλέπων,ἐμβλέπω,v-sppamn-,ADV
+9,αὐτῷ,αὐτός,p-s---md-,OBJ
+10,ἔλεγεν,λέγω3,v3siia---,PRED
+11,·,punc1,u--------,AuxK

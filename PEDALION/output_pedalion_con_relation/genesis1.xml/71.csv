@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|72|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|72|2,2,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis|72|3,3,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|Genesis|72|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|72|5,5,ἄνθραξ,ἄνθραξ,n-s---mn-,SBJ_CO
+Leuven|Genesis|72|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|72|7,7,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|72|8,8,λίθος,λίθος,n-s---mn-,SBJ_CO
+Leuven|Genesis|72|9,9,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|72|10,10,πράσινος,πράσινος,a-s---mn-,ATR
+Leuven|Genesis|72|11,11,.,.,u--------,AuxK

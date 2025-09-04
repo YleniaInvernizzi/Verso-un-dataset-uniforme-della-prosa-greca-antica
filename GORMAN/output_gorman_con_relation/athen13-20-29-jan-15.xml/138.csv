@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτά,οὗτος,p-p---na-,OBJ
+2,σοι,σύ,p-s---md-,OBJ
+3,παραινεῖν,παραινέω,v--pna---,OBJ
+4,ἔχω,ἔχω,v1spia---,PRED
+5,",",punc1,u--------,AuxX
+6,ἑταῖρε,ἑταῖρος,n-s---mv-,ATR
+7,Μυρτίλε,Μυρτίλος,n-s---mv-,ExD
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|144|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|144|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+2,Leuven|Ps-Luc|144|3,3,συνεὶς,συνίημι,v-sapamn-,ADV
+3,Leuven|Ps-Luc|144|4,4,πορρωτέρω,πόρρω,d-------c,ADV
+4,Leuven|Ps-Luc|144|5,5,ποι,ποι,d--------,ADV
+5,Leuven|Ps-Luc|144|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|Ps-Luc|144|7,7,φάτνης,φάτνη,n-s---fg-,OBJ
+7,Leuven|Ps-Luc|144|8,8,ἀποχωρήσας,ἀποχωρέω,v-sapamn-,ADV
+8,Leuven|Ps-Luc|144|9,9,ἑστὼς,ἵστημι,v-srpamn-,ADV
+9,Leuven|Ps-Luc|144|10,10,ἐγέλων,γελάω,v1siia---,PRED_CO
+11,Leuven|Ps-Luc|144|12,12,ὁ,ὁ,l-s---mn-,ATR
+12,Leuven|Ps-Luc|144|13,13,δέ,δέ,d--------,COORD
+13,Leuven|Ps-Luc|144|14,14,μοι,ἐγώ,p1s---cd-,ATR
+14,Leuven|Ps-Luc|144|15,15,γέλως,γέλως,n-s---mn-,SBJ
+15,Leuven|Ps-Luc|144|16,16,ὀγκηθμὸς,ὀγκηθμός,n-s---mn-,PNOM
+16,Leuven|Ps-Luc|144|17,17,ἦν,εἰμί,v3siia---,PRED_CO

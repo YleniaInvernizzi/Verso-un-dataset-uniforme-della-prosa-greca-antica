@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,γίγνεται,γίγνομαι,v3spie---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,οὕτως,οὕτως,d--------,ADV
+4,οὐ,οὐ,d--------,AuxZ
+5,τῶν,ὁ,l-p---mg-,ATR
+6,ἐχόντων,ἔχω,v-pppamg-,PNOM_CO
+7,",",punc1,u--------,AuxX
+8,ἀλλὰ,ἀλλά,c--------,COORD
+9,τῶν,ὁ,l-p---mg-,ATR
+10,κρατούντων,κρατέω,v-pppamg-,PNOM_CO
+11,.,punc1,u--------,AuxK

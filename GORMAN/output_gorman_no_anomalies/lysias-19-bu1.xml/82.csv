@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,φέρε,φέρω,v2spma---,PRED
+1,2,πρὸς,πρός,r--------,AuxP
+2,3,θεῶν,θεός,n-p---mg-,AuxY
+3,4,Ὀλυμπίων,Ὀλύμπιος,a-p---mg-,ATR
+4,5,:,punc1,u--------,AuxK

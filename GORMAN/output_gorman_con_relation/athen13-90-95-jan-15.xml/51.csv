@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδὲν,οὐδείς,p-s---nn-,SBJ
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστι,εἰμί,v3spia---,PRED
+4,τῶν,ὁ,l-p---mg-,ATR
+5,καλουμένων,καλέω,v-pfpmmg-,ADV
+6,φιλοσόφων,φιλόσοφος,n-p---mg-,PNOM
+7,ἀφιλοσοφώτερον,ἀφιλόσοφος,a-s---nnc,PNOM
+8,.,punc1,u--------,AuxK

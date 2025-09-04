@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|254|1,1,βασιλεύς,βασιλεύς,n-s---mn-,PNOM
+Leuven|Genesis_deel2|254|2,2,παρά,παρά,r--------,AuxP
+Leuven|Genesis_deel2|254|3,3,θεοῦ,θεός,n-s---mg-,ATR
+Leuven|Genesis_deel2|254|4,4,εἶ,εἰμί,v2spia---,PRED
+Leuven|Genesis_deel2|254|5,5,σύ,σύ,p2s---cn-,SBJ
+Leuven|Genesis_deel2|254|6,6,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|254|7,7,ἡμῖν,ἐγώ,p1p---cd-,ADV
+Leuven|Genesis_deel2|254|8,8,·,·,u--------,AuxK

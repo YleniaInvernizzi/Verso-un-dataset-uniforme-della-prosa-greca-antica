@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31346|10|1,1,ἔρρωσό,ῥώννυμι,v2srme---,PRED
+1,Leuven|31346|10|2,2,μοι,ἐγώ,p1s---cd-,ADV
+2,Leuven|31346|10|3,3,διὰ,διά,r--------,AuxP
+3,Leuven|31346|10|4,4,παντὸς,πᾶς,a-s---ng-,ADV
+4,Leuven|31346|10|5,5,εὖ,εὖ,d--------,ADV
+5,Leuven|31346|10|6,6,πράσσουσα,πράσσω,v-sppafn-,ADV

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|10|1,1,ἐχθροῖς,ἐχθρός,a-p---md-,OBJ
+Leuven|0096-00#|10|2,2,πειθαρχῶν,πειθαρχέω,v-sppamn-,ADV
+Leuven|0096-00#|10|3,3,ὑποστήσῃ,ὑφίστημι,v3sasa---,PRED
+Leuven|0096-00#|10|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|0096-00#|10|5,5,βλάβην,βλάβη,n-s---fa-,OBJ
+Leuven|0096-00#|10|6,6,.,.,u--------,AuxK

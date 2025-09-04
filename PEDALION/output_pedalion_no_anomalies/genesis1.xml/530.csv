@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|531|1,1,δέσποτα,δεσπότης,n-s---mv-,ExD
+1,Leuven|Genesis|531|2,2,κύριε,κύριος,n-s---mv-,APOS
+3,Leuven|Genesis|531|4,4,κατά,κατά,r--------,AuxP
+4,Leuven|Genesis|531|5,5,τί,τίς,p-s---na-,ADV
+5,Leuven|Genesis|531|6,6,γνώσομαι,γιγνώσκω,v1sfim---,PRED
+6,Leuven|Genesis|531|7,7,ὅτι,ὅτι,c--------,AuxC
+7,Leuven|Genesis|531|8,8,κληρονομήσω,κληρονομέω,v1sfia---,OBJ
+8,Leuven|Genesis|531|9,9,αὐτήν,αὐτός,p-s---fa-,OBJ
+9,Leuven|Genesis|531|10,10,;,;,u--------,AuxK

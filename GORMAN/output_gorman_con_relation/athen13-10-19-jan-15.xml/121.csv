@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ἂν,ἐάν,c--------,AuxC
+2,πιττοκοπούμενὸν,πισσοκοπέω,v-sppema-,ATR_CO
+3,τιν᾽,τις,p-s---ma-,OBJ
+4,ἢ,ἤ1,c--------,COORD
+5,ξυρούμενον,ξυρέω,v-sppema-,ATR_CO
+6,ὁρᾷς,ὁράω,v2spsa---,ADV
+7,",",punc1,u--------,AuxX
+8,δυοῖν,δύο,a-d---ng-,ATR
+9,τούτων,οὗτος,p-p---ng-,ATR
+10,ἔχει,ἔχω,v3spia---,PRED
+11,τι,τις,p-s---na-,SBJ
+12,θάτερον,ἕτερος,a-s---nn-,ATR
+13,:,punc1,u--------,AuxK

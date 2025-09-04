@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|11|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis_deel2|11|2,2,προσέθηκεν,προστίθημι,v3saia---,PRED
+Leuven|Genesis_deel2|11|3,3,ἔτι,ἔτι,d--------,ADV
+Leuven|Genesis_deel2|11|4,4,λαλῆσαι,λαλέω,v--ana---,OBJ
+Leuven|Genesis_deel2|11|5,5,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|11|6,6,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel2|11|7,7,καί,καί,d--------,AuxZ
+Leuven|Genesis_deel2|11|8,8,εἶπεν,λέγω,v3saia---,OBJ
+Leuven|Genesis_deel2|11|9,9,·,·,u--------,AuxK

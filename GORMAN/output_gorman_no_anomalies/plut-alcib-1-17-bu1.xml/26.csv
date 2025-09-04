@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐ,οὐ,d--------,AuxZ
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἴσασι,οἶδα,v3ppia---,PRED
+3,4,διαλέγεσθαι,διαλέγω,v--pne---,OBJ
+4,5,·,punc1,u--------,AuxK

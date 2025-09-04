@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|147|1,1,τί,τίς,p-s---nn-,SBJ
+1,Leuven|Ps-Luc|147|2,2,δέ,δέ,d--------,AuxY
+3,Leuven|Ps-Luc|147|4,4,εἰ,εἰ,c--------,AuxC
+4,Leuven|Ps-Luc|147|5,5,λύκος,λύκος,n-s---mn-,SBJ_CO
+5,Leuven|Ps-Luc|147|6,6,παρεισέλθοι,παρεισέρχομαι,v3saoa---,ADV
+6,Leuven|Ps-Luc|147|7,7,ἢ,ἤ,c--------,COORD
+7,Leuven|Ps-Luc|147|8,8,ἄλλο,ἄλλος,p-s---nn-,ATR
+8,Leuven|Ps-Luc|147|9,9,τι,τις,p-s---nn-,ATR
+9,Leuven|Ps-Luc|147|10,10,θηρίον,θηρίον,n-s---nn-,SBJ_CO

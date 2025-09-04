@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄλλο,ἄλλος,p-s---na-,OBJ
+2,δέ,δέ,d--------,AuxY
+3,τοι,σύ,p-s---md-,OBJ
+4,ἐρέω,ἐρῶ,v1sfia---,PRED_CO
+5,",",punc1,u--------,AuxX
+6,σὺ,σύ,p-s---mn-,SBJ
+7,δ᾽,δέ,c--------,COORD
+8,ἐνὶ,ἐν,r--------,AuxP
+9,φρεσὶ,φρήν,n-p---fd-,ADV
+10,βάλλεο,βάλλω,v2spme---,PRED_CO
+11,σῇσιν,σός,a-p---fd-,ATR
+12,:,punc1,u--------,AuxK

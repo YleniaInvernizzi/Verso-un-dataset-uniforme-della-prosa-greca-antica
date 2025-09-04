@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|639|1,1,Σαρρα,Σαρρα,n-s---fn-,SBJ
+1,Leuven|Genesis|639|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|639|3,3,ἤκουσεν,ἀκούω,v3saia---,PRED
+3,Leuven|Genesis|639|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|Genesis|639|5,5,τῇ,ὁ,l-s---fd-,ATR
+5,Leuven|Genesis|639|6,6,θύρᾳ,θύρα,n-s---fd-,ADV
+6,Leuven|Genesis|639|7,7,τῆς,ὁ,l-s---fg-,ATR
+7,Leuven|Genesis|639|8,8,σκηνῆς,σκηνή,n-s---fg-,ATR
+9,Leuven|Genesis|639|10,10,οὖσα,εἰμί,v-sppafn-,ADV
+10,Leuven|Genesis|639|11,11,ὄπισθεν,ὄπισθεν,r--------,AuxP
+11,Leuven|Genesis|639|12,12,αὐτοῦ,αὐτός,p-s---mg-,ADV

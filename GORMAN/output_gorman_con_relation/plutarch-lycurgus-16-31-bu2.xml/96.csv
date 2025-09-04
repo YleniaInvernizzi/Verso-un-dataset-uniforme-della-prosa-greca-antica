@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄμμες,ἐγώ,p1p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,γ᾽,γε,d--------,AuxZ
+4,ἐσσόμεσθα,εἰμί,v1pfim---,PRED
+5,πολλῷ,πολύς,a-s---nd-,ADV
+6,κάρρονες,κρείσσων,a-p---mnc,PNOM
+7,.,punc1,u--------,AuxK

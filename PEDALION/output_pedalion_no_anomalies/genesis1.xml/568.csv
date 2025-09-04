@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|569|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|569|2,2,εἶπεν,λέγω,v3saia---,PRED
+2,Leuven|Genesis|569|3,3,αὐτῇ,αὐτός,p-s---fd-,OBJ
+3,Leuven|Genesis|569|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|569|5,5,ἄγγελος,ἄγγελος,n-s---mn-,SBJ
+5,Leuven|Genesis|569|6,6,κυρίου,κύριος,n-s---mg-,ATR
+6,Leuven|Genesis|569|7,7,·,·,u--------,AuxK

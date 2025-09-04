@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;αὗται;οὗτος;p-p---fn-;SBJ
+2;ἕνδεκα;ἕνδεκα;a--------;ATR
+3;Αἰολέων;Αἰολεύς;n-p---mg-;ATR
+4;πόλιες;πόλις;n-p---fn-;PNOM
+5;αἱ;ὁ;l-p---fn-;ATR
+6;ἀρχαῖαι;ἀρχαῖος;a-p---fn-;ATR
+7;:;punc;u--------;AuxK
+8;εἰσιν;εἰμί;v3ppia---;PRED

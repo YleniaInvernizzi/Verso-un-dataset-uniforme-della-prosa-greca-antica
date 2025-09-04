@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|158|1,1,ἀλλοτρίαις,ἀλλότριος,a-p---fd-,ATR
+Leuven|0554-001|158|2,2,χερσὶ,χείρ,n-p---fd-,OBJ
+Leuven|0554-001|158|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|0554-001|158|4,4,σῶμα,σῶμα,n-s---na-,OBJ
+Leuven|0554-001|158|5,5,πιστεύεις,πιστεύω,v2spia---,PRED
+Leuven|0554-001|158|6,6,;,;,u--------,AuxK

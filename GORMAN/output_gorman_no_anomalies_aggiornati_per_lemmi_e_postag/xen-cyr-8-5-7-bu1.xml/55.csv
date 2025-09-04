@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;παρεκάλεσε;παρακαλέω;v3saia---;PRED_CO
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxY
+4;Κῦρον;Κῦρος;n-s---ma-;OBJ
+5;,;punc;u--------;AuxX
+6;καὶ;καί;c--------;COORD
+7;ἔλεξε;λέγω;v3saia---;PRED_CO
+8;τοιάδε;τοιόσδε;p-p---na-;OBJ
+9;.;punc;u--------;AuxK

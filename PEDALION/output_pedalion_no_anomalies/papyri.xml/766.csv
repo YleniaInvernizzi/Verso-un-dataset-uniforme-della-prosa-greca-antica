@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|7667|2|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|7667|2|2,2,ποιεῖς,ποιέω,v2spia---,PRED
+2,Leuven|7667|2|3,3,εἰ,εἰ,c--------,AuxC
+3,Leuven|7667|2|4,4,ἔρρωσαι,ῥώννυμι,v2srie---,ADV_CO
+4,Leuven|7667|2|5,5,καί,καί,c--------,COORD
+5,Leuven|7667|2|6,6,τά,ὁ,l-p---nn-,ATR
+6,Leuven|7667|2|7,7,λοιπά,λοιπός,a-p---nn-,SBJ
+7,Leuven|7667|2|8,8,σοι,σύ,p2s---cd-,ADV
+8,Leuven|7667|2|9,9,κατά,κατά,r--------,AuxP
+9,Leuven|7667|2|10,10,γνώμην,γνώμη,n-s---fa-,PNOM
+10,Leuven|7667|2|11,11,ἐστίν,εἰμί,v3spia---,ADV_CO

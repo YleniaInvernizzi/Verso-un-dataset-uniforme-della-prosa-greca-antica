@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἅπασι,ἅπας,a-p---md-,ADV
+1,2,γάρ,γάρ,d--------,AuxY
+2,3,εἰσι,εἰμί,v3ppia---,PRED
+3,4,χαλεποί,χαλεπός,a-p---mn-,PNOM
+4,5,:,punc1,u--------,AuxK

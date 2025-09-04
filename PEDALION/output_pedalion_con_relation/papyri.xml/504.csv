@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30121|5|1,1,ἐκομισάμην,κομίζω,v1saim---,PRED
+Leuven|30121|5|2,2,καθάρια,καθάρειος,a-p---na-,OBJ_CO
+Leuven|30121|5|3,3,γ,γ,m--------,ATR
+Leuven|30121|5|4,4,καί,καί,b--------,COORD
+Leuven|30121|5|5,5,ὀψάριον,ὀψάριον,n-s---na-,OBJ_CO
+Leuven|30121|5|6,6,παρά,παρά,r--------,AuxP
+Leuven|30121|5|7,7,Ὀννώφριος,Ὀννωφρις,n-s---mg-,ADV
+Leuven|30121|5|8,8,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|30121|5|9,9,ἀπό,ἀπό,r--------,AuxP
+Leuven|30121|5|10,10,Ψύα,Ψύα,n-s---fg-,ATR
+Leuven|30121|5|11,11,.,.,u--------,AuxK

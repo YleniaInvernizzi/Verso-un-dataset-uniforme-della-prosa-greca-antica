@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30293|5|1,1,εὖ,εὖ,d--------,ADV
+Leuven|30293|5|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|30293|5|3,3,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|30293|5|4,4,δώσεις,δίδωμι,v2sfia---,OBJ
+Leuven|30293|5|5,5,αὐτοῖς,αὐτός,p-p---md-,OBJ
+Leuven|30293|5|6,6,τὴν,ὁ,l-s---fa-,ATR
+Leuven|30293|5|7,7,κλεῖδα,κλείς,n-s---fa-,OBJ
+Leuven|30293|5|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|30293|5|9,9,κέλλης,κέλλα,n-s---fg-,ATR
+Leuven|30293|5|10,10,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|30293|5|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|30293|5|12,12,τῷ,ὁ,l-s---md-,ATR
+Leuven|30293|5|13,13,πυλῶνι,πυλών,n-s---md-,ATR
+Leuven|30293|5|14,14,G,G,n-s---ng-,ATR
+Leuven|30293|5|15,15,.,.,u--------,AuxK

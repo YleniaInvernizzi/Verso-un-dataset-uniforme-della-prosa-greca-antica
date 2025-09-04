@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|273|1,1,αὐτὸς,αὐτός,p-s---mn-,PNOM
+1,Leuven|Ps-Luc|273|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|273|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Ps-Luc|273|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Ps-Luc|273|5,5,καὶ,καί,d--------,AuxZ
+5,Leuven|Ps-Luc|273|6,6,τὸ,ὁ,l-s---na-,ATR
+6,Leuven|Ps-Luc|273|7,7,καταγώγιον,καταγώγιον,n-s---na-,OBJ
+7,Leuven|Ps-Luc|273|8,8,τῶν,ὁ,l-p---mg-,ATR
+8,Leuven|Ps-Luc|273|9,9,ληιστῶν,λῃστής,n-p---mg-,ATR
+9,Leuven|Ps-Luc|273|10,10,μηνύσας,μηνύω,v-sapamn-,SBJ

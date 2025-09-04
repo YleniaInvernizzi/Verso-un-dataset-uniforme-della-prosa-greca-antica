@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;φέρε;φέρω;v2spma---;ExD
+2;δή;δή;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;τί;τις;p-s---na-;OBJ
+5;ἄν;ἄν;d--------;AuxY
+6;,;punc;u--------;AuxX
+7;εἰ;εἰ;c--------;AuxC
+8;καὶ;καί;d--------;AuxZ
+9;ἀδελφοὶ;ἀδελφός;n-p---mn-;PNOM_CO
+10;ὄντες;εἰμί;v-pppamn-;OBJ
+11;ἐτύχετε;τυγχάνω;v2paia---;ADV
+12;αὐτοῦ;αὐτός;p-s---mg-;ATR
+13;ἢ;ἤ;c--------;COORD
+14;καὶ;καί;d--------;AuxZ
+15;ὑεῖς;υἱός;n-p---mn-;PNOM_CO
+16;";";punc;u--------;AuxK

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|190|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|190|2,2,οὐδέ,οὐδέ,c--------,AuxY
+2,Leuven|PaeanBrev|190|3,3,μέχρι,μέχρι,d--------,ADV
+3,Leuven|PaeanBrev|190|4,4,τούτων,οὗτος,p-p---ng-,ADV
+4,Leuven|PaeanBrev|190|5,5,τά,ὁ,l-p---na-,ATR
+5,Leuven|PaeanBrev|190|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|PaeanBrev|190|7,7,εὐημερίας,εὐημερία,n-s---fg-,ATR
+7,Leuven|PaeanBrev|190|8,8,ἔστη,ἵστημι,v3saia---,PRED

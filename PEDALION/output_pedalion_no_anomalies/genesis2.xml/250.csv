@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|251|1,1,δότε,δίδωμι,v2pama---,PRED_CO
+1,Leuven|Genesis_deel2|251|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Genesis_deel2|251|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|Genesis_deel2|251|4,4,κτῆσιν,κτῆσις,n-s---fa-,OBJ
+4,Leuven|Genesis_deel2|251|5,5,τάφου,τάφος,n-s---mg-,ATR
+5,Leuven|Genesis_deel2|251|6,6,μεθʼ,μετά,r--------,AuxP
+6,Leuven|Genesis_deel2|251|7,7,ὑμῶν,σύ,p2p---cg-,ADV
+8,Leuven|Genesis_deel2|251|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel2|251|10,10,θάψω,θάπτω,v1sasa---,PRED_CO
+10,Leuven|Genesis_deel2|251|11,11,τόν,ὁ,l-s---ma-,ATR
+11,Leuven|Genesis_deel2|251|12,12,νεκρόν,νεκρός,a-s---ma-,OBJ
+12,Leuven|Genesis_deel2|251|13,13,μου,ἐγώ,p1s---cg-,ATR
+13,Leuven|Genesis_deel2|251|14,14,ἀπʼ,ἀπό,r--------,AuxP
+14,Leuven|Genesis_deel2|251|15,15,ἐμοῦ,ἐγώ,p1s---cg-,ADV

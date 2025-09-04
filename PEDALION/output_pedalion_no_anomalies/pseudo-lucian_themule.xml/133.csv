@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|134|1,1,ἡ,ὁ,l-s---fn-,SBJ
+1,Leuven|Ps-Luc|134|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|134|3,3,ἀμφοτέραις,ἀμφότερος,a-p---fd-,ATR
+3,Leuven|Ps-Luc|134|4,4,ταῖς,ὁ,l-p---fd-,ATR
+4,Leuven|Ps-Luc|134|5,5,χερσὶν,χείρ,n-p---fd-,ADV
+5,Leuven|Ps-Luc|134|6,6,τυψαμένη,τύπτω,v-sapmfn-,ADV
+6,Leuven|Ps-Luc|134|7,7,τὸ,ὁ,l-s---na-,ATR
+7,Leuven|Ps-Luc|134|8,8,πρόσωπον,πρόσωπον,n-s---na-,OBJ
+9,Leuven|Ps-Luc|134|10,10,τάλαινα,τάλας,a-s---fn-,ATR
+11,Leuven|Ps-Luc|134|12,12,εἶπεν,λέγω,v3saia---,PRED
+13,Leuven|Ps-Luc|134|14,14,ἐγώ,ἐγώ,p1s---cn-,SBJ
+15,Leuven|Ps-Luc|134|16,16,μέγα,μέγας,a-s---na-,ATR
+16,Leuven|Ps-Luc|134|17,17,εἴργασμαι,ἐργάζομαι,v1srie---,OBJ
+17,Leuven|Ps-Luc|134|18,18,κακόν,κακός,a-s---na-,OBJ

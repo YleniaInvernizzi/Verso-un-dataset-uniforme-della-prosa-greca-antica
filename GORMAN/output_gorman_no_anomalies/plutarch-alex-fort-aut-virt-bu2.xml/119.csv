@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ποτὸν,ποτόν,n-s---na-,OBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ποταμοὶ,ποταμός,n-p---mn-,SBJ
+3,4,ῥέουσι,ῥέω,v3ppia---,PRED
+4,5,:,punc1,u--------,AuxK

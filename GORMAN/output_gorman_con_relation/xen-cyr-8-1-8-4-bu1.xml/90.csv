@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τοιαῦτα,τοιοῦτος,p-p---na-,OBJ
+2,μὲν,μέν,d--------,AuxY
+3,δὴ,δή,d--------,AuxY
+4,ποιοῦντες,ποιέω,v-pppamn-,ADV_CO
+5,καὶ,καί,c--------,COORD
+6,ὁρῶντες,ὁράω,v-pppamn-,ADV_CO
+7,ἐπὶ,ἐπί,r--------,AuxP
+8,θύραις,θύρα,n-p---fd-,ADV
+9,διῆγον,διάγω,v3piia---,PRED
+10,.,punc1,u--------,AuxK

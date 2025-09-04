@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|278|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|278|2,2,πάντα,πᾶς,a-p---na-,SBJ_CO
+3,Leuven|Genesis|278|4,4,ὅσα,ὅσος,p-p---nn-,SBJ
+4,Leuven|Genesis|278|5,5,ἔχει,ἔχω,v3spia---,ATR
+5,Leuven|Genesis|278|6,6,πνοήν,πνοή,n-s---fa-,OBJ
+6,Leuven|Genesis|278|7,7,ζωῆς,ζωή,n-s---fg-,ATR
+8,Leuven|Genesis|278|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|278|10,10,πᾶς,πᾶς,a-s---mn-,SBJ_CO
+11,Leuven|Genesis|278|12,12,ὅς,ὅς,p-s---mn-,SBJ
+12,Leuven|Genesis|278|13,13,ἦν,εἰμί,v3siia---,ATR
+13,Leuven|Genesis|278|14,14,ἐπί,ἐπί,r--------,AuxP
+14,Leuven|Genesis|278|15,15,τῆς,ὁ,l-s---fg-,ATR
+15,Leuven|Genesis|278|16,16,ξηρᾶς,ξηρός,a-s---fg-,ADV
+17,Leuven|Genesis|278|18,18,ἀπέθανεν,ἀποθνῄσκω,v3saia---,PRED

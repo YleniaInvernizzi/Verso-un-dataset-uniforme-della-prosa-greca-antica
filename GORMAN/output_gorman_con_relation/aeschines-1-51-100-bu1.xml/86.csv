@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔτι,ἔτι,d--------,AuxY
+2,ταῦτα,οὗτος,p-p---nn-,SBJ
+3,μαντείας,μαντεία,n-s---fg-,OBJ
+4,προσδεῖται,προσδέομαι,v3spie---,PRED
+5,;,punc1,u--------,AuxK

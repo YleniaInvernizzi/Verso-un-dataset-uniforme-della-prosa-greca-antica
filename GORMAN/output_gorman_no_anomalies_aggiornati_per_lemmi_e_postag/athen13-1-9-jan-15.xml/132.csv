@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;πέραινε;περαίνω;v2spma---;PRED_CO
+2;,;punc;u--------;AuxX
+3;σωθείης;σῴζω ;v2saop---;PRED_CO
+4;δέ;δέ;c--------;COORD
+5;:;punc;u--------;AuxK

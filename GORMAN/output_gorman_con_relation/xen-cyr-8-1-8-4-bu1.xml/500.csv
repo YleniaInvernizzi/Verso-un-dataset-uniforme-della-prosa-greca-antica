@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ναὶ,ναί,d--------,ExD
+2,μὰ,μά,r--------,AuxP
+3,Δίʼ,ζέυς,n-s---ma-,ExD
+4,",",punc1,u--------,AuxX
+5,ἔφη,φημί,v3siia---,AuxY
+6,ὁ,ὁ,l-s---mn-,ATR
+7,Κῦρος,Κῦρος,n-s---mn-,SBJ
+8,·,punc1,u--------,AuxK
+9,λέγω,λέγω3,v1spia---,PRED

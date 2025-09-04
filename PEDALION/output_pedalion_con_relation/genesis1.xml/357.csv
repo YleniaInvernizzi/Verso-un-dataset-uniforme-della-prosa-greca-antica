@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|358|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|358|2,2,ἦν,εἰμί,v3siia---,PRED
+Leuven|Genesis|358|3,3,γίγας,γίγας,n-s---mn-,PNOM
+Leuven|Genesis|358|4,4,κυνηγός,κυνηγός,n-s---mn-,ATR
+Leuven|Genesis|358|5,5,ἐναντίον,ἐναντίον,r--------,AuxP
+Leuven|Genesis|358|6,6,κυρίου,κύριος,n-s---mg-,ADV
+Leuven|Genesis|358|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|358|8,8,θεοῦ,θεός,n-s---mg-,ATR
+Leuven|Genesis|358|9,9,·,·,u--------,AuxK

@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|98|1,1,ἐκ,ἐκ,r--------,AuxP
+1,Leuven|Genesis_deel2|98|2,2,τοῦ,ὁ,l-s---mg-,ATR
+2,Leuven|Genesis_deel2|98|3,3,πατρός,πατήρ,n-s---mg-,PNOM
+3,Leuven|Genesis_deel2|98|4,4,μου,ἐγώ,p1s---cg-,ATR

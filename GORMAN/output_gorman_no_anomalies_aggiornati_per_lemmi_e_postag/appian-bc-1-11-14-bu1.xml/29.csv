@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;κράτος;κράτος;n-s---na-;OBJ
+2;μέγα;μέγας;a-s---na-;ATR
+3;Κύπρις;Κύπρις;n-s---fn-;SBJ
+4;ἔδωκεν;δίδωμι;v3saia---;PRED
+5;Αἰνείου;Αἰνείας;n-s---mg-;ATR
+6;γενεῇ;γενεά;n-s---fd-;OBJ
+7;μεμελημένη;μέλω;v-srpefn-;ATR
+8;.;punc;u--------;AuxK

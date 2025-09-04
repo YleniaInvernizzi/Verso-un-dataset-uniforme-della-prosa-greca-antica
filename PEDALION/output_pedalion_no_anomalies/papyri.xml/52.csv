@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|2|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|1781|2|2,2,ποιεῖς,ποιέω,v2spia---,PRED
+2,Leuven|1781|2|3,3,εἰ,εἰ,c--------,AuxC
+3,Leuven|1781|2|4,4,ἔρρωσαι,ῥώννυμι,v2srie---,ADV

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,ἐπεκαλεῖτο,ἐπικαλέω,v3siie---,PRED
+2,3,δὲ,δέ,d--------,AuxY
+3,4,Σίσυφος,Σίσυφος,n-s---mn-,PNOM
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|550|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis|550|2,2,συνέκλεισεν,συγκλείω,v3saia---,PRED
+2,Leuven|Genesis|550|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|Genesis|550|4,4,κύριος,κύριος,n-s---mn-,SBJ
+4,Leuven|Genesis|550|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Genesis|550|6,6,μή,μή,d--------,AuxZ
+6,Leuven|Genesis|550|7,7,τίκτειν,τίκτω,v--pna---,ADV
+7,Leuven|Genesis|550|8,8,·,·,u--------,AuxK

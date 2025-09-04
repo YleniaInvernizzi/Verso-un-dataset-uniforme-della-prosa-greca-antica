@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,λαβὼν,λαμβάνω,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,καιρὸν,καιρός,n-s---ma-,OBJ
+4,ἁρμόζοντα,ἁρμόζω,v-sppama-,ATR
+5,διελέγετο,διαλέγω,v3siie---,PRED
+6,περὶ,περί,r--------,AuxP
+7,ὧν,ὅς,p-p---ng-,ATR
+8,εἶχε,ἔχω,v3siia---,OBJ
+9,τὰς,ὁ,l-p---fa-,ATR
+10,ἐντολάς,ἐντολή,n-p---fa-,OBJ
+11,.,punc1,u--------,AuxK

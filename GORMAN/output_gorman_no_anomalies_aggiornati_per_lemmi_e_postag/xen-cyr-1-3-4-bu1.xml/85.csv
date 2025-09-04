@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ὅ;ὅς;p-s---na-;OBJ
+2;τι;τις;a-s---na-;ATR
+3;γὰρ;γάρ;d--------;AuxY
+4;δύναιτο;δύναμαι;v3spoe---;OBJ
+5;ὁ;ὁ;l-s---mn-;ATR
+6;Κῦρος;Κῦρος;n-s---mn-;SBJ
+7;ὑπερέχαιρεν;ὑπερχαίρω;v3siia---;PRED
+8;αὐτοῖς;αὐτός;p-p---md-;OBJ
+9;χαριζόμενος;χαρίζω;v-sppemn-;ADV
+10;.;punc;u--------;AuxK

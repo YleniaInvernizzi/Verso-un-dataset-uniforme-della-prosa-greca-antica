@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|357|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|357|2,2,ἤρξατο,ἄρχω,v3saim---,PRED
+Leuven|Genesis|357|3,3,εἶναι,εἰμί,v--pna---,OBJ
+Leuven|Genesis|357|4,4,γίγας,γίγας,n-s---mn-,PNOM
+Leuven|Genesis|357|5,5,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|357|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|357|7,7,γῆς,γῆ,n-s---fg-,ADV
+Leuven|Genesis|357|8,8,·,·,u--------,AuxK

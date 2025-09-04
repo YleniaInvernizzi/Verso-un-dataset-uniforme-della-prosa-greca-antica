@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|1|1,1,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|1|2,2,Ῥωμαϊκῆς,Ῥωμαῖος,a-s---fg-,ATR
+Leuven|PaeanBrev|1|3,3,βασιλείας,βασιλεία,n-s---fg-,ADV
+Leuven|PaeanBrev|1|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|1|5,5,προοιμίοις,προοίμιον,n-p---nd-,ADV
+Leuven|PaeanBrev|1|6,6,οὐδέν,οὐδείς,p-s---nn-,SBJ
+Leuven|PaeanBrev|1|7,7,ἐγένετο,γίγνομαι,v3saim---,PRED
+Leuven|PaeanBrev|1|8,8,μεῖον,μείων,a-s---nnc,PNOM_CO
+Leuven|PaeanBrev|1|9,9,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|1|10,10,καί,καί,b--------,COORD
+Leuven|PaeanBrev|1|11,11,ταπεινότερον,ταπεινός,a-s---nnc,PNOM_CO
+Leuven|PaeanBrev|1|12,12,·,·,u--------,AuxK

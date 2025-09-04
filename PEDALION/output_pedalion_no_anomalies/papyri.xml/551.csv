@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|4|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|30514|4|2,2,ἔλαβα,λαμβάνω,v1saia---,PRED
+2,Leuven|30514|4|3,3,αὐτοῦ,αὐτός,p-s---mg-,ATR
+3,Leuven|30514|4|4,4,τά,ὁ,l-p---na-,ATR
+4,Leuven|30514|4|5,5,δηπόσιτα,δηπόσιτον,n-p---na-,OBJ
+5,Leuven|30514|4|6,6,ὅτι,ὅτι,c--------,AuxC
+6,Leuven|30514|4|7,7,ἠσθένηκα,ἀσθενέω,v1sria---,ADV

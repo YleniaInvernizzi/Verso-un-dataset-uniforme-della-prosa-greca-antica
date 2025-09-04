@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28784|6|1,1,ἡμεῖς,ἐγώ,p1p---cn-,SBJ
+Leuven|28784|6|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|28784|6|3,3,καθάπαξ,καθάπαξ,d--------,ADV
+Leuven|28784|6|4,4,γράφομεν,γράφω,v1ppia---,PRED
+Leuven|28784|6|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|28784|6|6,6,·,·,u--------,AuxK

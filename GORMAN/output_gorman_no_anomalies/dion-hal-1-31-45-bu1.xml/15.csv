@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Πάλλαντι,Πάλλας,n-s---md-,PNOM
+1,2,δὲ,δέ,d--------,AuxY
+2,3,οὐδὲν,οὐδείς,p-s---na-,SBJ
+3,4,οἶδα,οἶδα,v1sria---,PRED
+4,5,τούτων,οὗτος,p-p---ng-,ATR
+5,6,γινόμενον,γίγνομαι,v-sppena-,OBJ
+6,7,.,punc1,u--------,AuxK

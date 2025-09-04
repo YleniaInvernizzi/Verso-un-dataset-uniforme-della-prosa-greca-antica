@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|293|1,1,ἐπίκλινον,ἐπικλίνω,v2sama---,PRED
+1,Leuven|Genesis_deel2|293|2,2,τήν,ὁ,l-s---fa-,ATR
+2,Leuven|Genesis_deel2|293|3,3,ὑδρίαν,ὑδρία,n-s---fa-,OBJ
+3,Leuven|Genesis_deel2|293|4,4,σου,σύ,p2s---cg-,ATR
+5,Leuven|Genesis_deel2|293|6,6,ἵνα,ἵνα,c--------,AuxC
+6,Leuven|Genesis_deel2|293|7,7,πίω,πίνω,v1sasa---,ADV
+8,Leuven|Genesis_deel2|293|9,9,καί,καί,c--------,AuxY
+9,Leuven|Genesis_deel2|293|10,10,εἴπῃ,λέγω,v3sasa---,PRED
+10,Leuven|Genesis_deel2|293|11,11,μοι,ἐγώ,p1s---cd-,OBJ

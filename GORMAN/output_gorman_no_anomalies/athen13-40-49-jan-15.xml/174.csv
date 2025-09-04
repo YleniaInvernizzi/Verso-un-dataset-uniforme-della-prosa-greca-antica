@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἡ,ὁ,l-s---fn-,SBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,δηλαδὴ,δηλαδή,d--------,ADV
+3,4,μόσχειος,μόσχειος,a-s---mn-,PNOM
+4,5,.,punc1,u--------,AuxK

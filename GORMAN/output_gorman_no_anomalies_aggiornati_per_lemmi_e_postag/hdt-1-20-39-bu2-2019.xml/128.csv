@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;νεόγαμός;νεόγαμος;a-s---mn-;PNOM
+2;τε;τε;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;ἐστὶ;εἰμί;v3spia---;PRED_CO
+5;καὶ;καί;c--------;COORD
+6;ταῦτά;οὗτος;p-p---nn-;SBJ
+7;οἱ;ἕ;p3s---md-;OBJ
+8;νῦν;νῦν;d--------;ADV
+9;μέλει;μέλω;v3spia---;PRED_CO
+10;.;punc;u--------;AuxK

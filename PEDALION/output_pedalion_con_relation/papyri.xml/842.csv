@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|144995|4|1,1,ὄνον,ὄνος,n-s---ma-,OBJ
+Leuven|144995|4|2,2,μίσθωσαι,μισθόω,v2samm---,PRED
+Leuven|144995|4|3,3,σαυτῷ,σεαυτοῦ,p2s---md-,ADV
+Leuven|144995|4|4,4,εἰς,εἰς,r--------,AuxP
+Leuven|144995|4|5,5,τὰ,ὁ,l-p---na-,ATR
+Leuven|144995|4|6,6,στρώματα,στρῶμα,n-p---na-,ADV
+Leuven|144995|4|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|144995|4|8,8,ἵππου,ἵππος,n-s---mg-,ATR
+Leuven|144995|4|9,9,.,.,u--------,AuxK

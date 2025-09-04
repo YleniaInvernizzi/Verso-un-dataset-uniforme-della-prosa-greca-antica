@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἅμα,ἅμα,r--------,AuxP
+1,2,δὲ,δέ,d--------,AuxY
+2,3,τῷ,ὁ,l-s---md-,ATR
+3,4,θυρεῷ,θυρεός,n-s---md-,ADV
+4,5,μάχαιρα,μάχαιρα,n-s---fn-,SBJ
+5,6,·,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1916|17|1,1,γέγραφα,γράφω,v1sria---,PRED
+Leuven|1916|17|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|1916|17|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|1916|17|4,4,ὅπως,ὅπως,c--------,AuxC
+Leuven|1916|17|5,5,εἰδῆις,οἶδα,v2srsa---,ADV
+Leuven|1916|17|6,6,.,.,u--------,AuxK

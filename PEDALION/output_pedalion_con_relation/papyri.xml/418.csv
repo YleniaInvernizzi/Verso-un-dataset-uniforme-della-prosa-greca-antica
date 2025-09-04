@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28065|3|1,1,τό,ὁ,l-s---nn-,ATR
+Leuven|28065|3|2,2,παιδίν,παιδίον,n-s---nn-,SBJ
+Leuven|28065|3|3,3,νοσεῖ,νοσέω,v3spia---,PRED
+Leuven|28065|3|4,4,·,·,u--------,AuxK

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|293|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|293|2,2,νικήσας,νικάω,v-sapamn-,ADV
+Leuven|PaeanBrev|293|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|293|4,4,Κλαύδιος,Κλαύδιος,n-s---mn-,SBJ
+Leuven|PaeanBrev|293|5,5,Ἄφρους,Ἄφρος,n-p---ma-,OBJ_CO
+Leuven|PaeanBrev|293|6,6,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|293|7,7,καί,καί,b--------,COORD
+Leuven|PaeanBrev|293|8,8,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|293|9,9,βασιλέα,βασιλεύς,n-s---ma-,OBJ_CO
+Leuven|PaeanBrev|293|10,10,Σικελίας,Σικελία,n-s---fg-,ATR
+Leuven|PaeanBrev|293|11,11,Ἱέρωνα,Ἱέρων,n-s---ma-,APOS
+Leuven|PaeanBrev|293|12,12,καθʼ,κατά,r--------,AuxP
+Leuven|PaeanBrev|293|13,13,ἑκατέρων,ἑκάτερος,a-p---mg-,ADV
+Leuven|PaeanBrev|293|14,14,ἐθριάμβευσε,θριαμβεύω,v3saia---,PRED
+Leuven|PaeanBrev|293|15,15,.,.,u--------,AuxK

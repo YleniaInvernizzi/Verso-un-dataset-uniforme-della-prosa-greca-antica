@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,δίζω,δίζω,v1spia---,PRED
+2,ἤ,ἤ1,d--------,AuxY
+3,σε,σύ,p2s----a-,OBJ
+4,θεὸν,θεός,n-s---ma-,OCOMP
+5,μαντεύσομαι,μαντεύω,v1sfim---,OBJ_CO
+6,ἢ,ἤ1,c--------,COORD
+7,ἄνθρωπον,ἄνθρωπος,n-s---ma-,OCOMP
+8,.,punc1,u--------,AuxK
+9,μαντεύσομαι,μαντεύομαι,v1sase---,OBJ_CO

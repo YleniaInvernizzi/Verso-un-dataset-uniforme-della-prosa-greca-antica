@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔστι,εἰμί,v3spia---,PRED
+2,μὲν,μέν,d--------,AuxY
+3,γὰρ,γάρ,d--------,AuxY
+4,περὶ,περί,r--------,AuxP
+5,τοῦ,ὁ,l-s---ng-,ATR
+6,τοιούτου,τοιοῦτος,a-s---ng_,ATR
+7,[,punc1,u--------,AuxX
+8,αὐτοῦ,αὐτός,p-s---ng-,ADV
+9,],punc1,u--------,AuxX
+10,μία,εἷς,a-s---fn-,ATR
+11,δίκη,δίκη,n-s---fn-,SBJ
+12,:,punc1,u--------,AuxK

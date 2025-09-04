@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|526|1,1,πατρὶς,πατρίς,n-s---fn-,SBJ
+1,Leuven|Ps-Luc|526|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|526|3,3,ἡμῖν,ἐγώ,p1p---cd-,ATR
+3,Leuven|Ps-Luc|526|4,4,Πάτραι,Πάτραι,n-p---fn-,PNOM
+4,Leuven|Ps-Luc|526|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Ps-Luc|526|6,6,Ἀχαΐας,Ἀχαΐα,n-s---fg-,ATR

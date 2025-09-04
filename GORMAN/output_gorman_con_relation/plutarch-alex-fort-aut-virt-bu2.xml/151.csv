@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,δοῦναι,δίδωμι,v--ana---,OBJ
+4,",",punc1,u--------,AuxX
+5,οὔ,οὐ,d--------,AuxZ
+6,;,punc1,u--------,AuxK
+7,θαυμάζομεν,θαυμάζω,v1ppia---,PRED

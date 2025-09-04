@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d-------_,AuxZ
+2,δύναμαι,δύναμαι,v1spie---,PRED
+3,κτεῖναι,κτείνω,v--ana---,OBJ
+4,Γάιον,Γάιος,n-s---ma-,ATR
+5,Μάριον,Μάριος,n-s---ma-,OBJ
+6,.,punc1,u--------,AuxX

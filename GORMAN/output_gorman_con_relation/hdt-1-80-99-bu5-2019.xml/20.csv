@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑπελείφθησαν,ὑπολείπω,v3paip---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,οὗτοι,οὗτος,p-p---mn-,SBJ
+4,νυκτὸς,νύξ,n-s---fg-,SBJ
+5,ἐπελθούσης,ἐπέρχομαι,v-sapafg-,ADV
+6,.,punc1,u--------,AuxK

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|337|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|337|2,2,οὐ,οὐ,d--------,AuxZ
+Leuven|Ps-Luc|337|3,3,μέγα,μέγας,a-s---nn-,PNOM
+Leuven|Ps-Luc|337|4,4,.,.,u--------,AuxK
+Leuven|Ps-Luc|337|5,5,[0],_,-,PRED

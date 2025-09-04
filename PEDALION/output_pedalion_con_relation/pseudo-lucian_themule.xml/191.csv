@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|192|1,1,εἶτα,εἶτα,d--------,ADV
+Leuven|Ps-Luc|192|2,2,ἤροντο,αἴρω,v3paim---,PRED
+Leuven|Ps-Luc|192|3,3,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|192|4,4,γραῦν,γραῦς,n-s---fa-,OBJ
+Leuven|Ps-Luc|192|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|192|6,6,διὰ,διά,r--------,AuxP
+Leuven|Ps-Luc|192|7,7,τί,τίς,p-s---na-,ADV
+Leuven|Ps-Luc|192|8,8,οὕτως,οὕτως,d--------,ADV
+Leuven|Ps-Luc|192|9,9,καθέζηι,καθέζομαι,v2spie---,OBJ_CO
+Leuven|Ps-Luc|192|10,10,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|192|11,11,οὐ,οὐ,d--------,AuxZ
+Leuven|Ps-Luc|192|12,12,παρασκευάζεις,παρασκευάζω,v2spia---,OBJ_CO
+Leuven|Ps-Luc|192|13,13,ἄριστον,ἄριστον,n-s---na-,OBJ
+Leuven|Ps-Luc|192|14,14,;,;,u--------,AuxK

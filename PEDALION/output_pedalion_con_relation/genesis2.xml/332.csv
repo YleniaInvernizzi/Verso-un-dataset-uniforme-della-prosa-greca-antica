@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|333|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|333|2,2,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|333|3,3,φάγω,ἐσθίω,v1sasa---,PRED
+Leuven|Genesis_deel2|333|4,4,ἕως,ἕως,r--------,AuxP
+Leuven|Genesis_deel2|333|5,5,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel2|333|6,6,λαλῆσαι,λαλέω,v--ana---,ADV
+Leuven|Genesis_deel2|333|7,7,με,ἐγώ,p1s---ca-,SBJ
+Leuven|Genesis_deel2|333|8,8,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel2|333|9,9,ῥήματα,ῥῆμα,n-p---na-,OBJ
+Leuven|Genesis_deel2|333|10,10,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|333|11,11,.,.,u--------,AuxK

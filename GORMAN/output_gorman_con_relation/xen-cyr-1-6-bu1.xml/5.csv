@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,γιγνώσκεις,γιγνώσκω,v2spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,αὐτός,αὐτός,p-s---mn-,AtvV
+5,.,punc1,u--------,AuxK

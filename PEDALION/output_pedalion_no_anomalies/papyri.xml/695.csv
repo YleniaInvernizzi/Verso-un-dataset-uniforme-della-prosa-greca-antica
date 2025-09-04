@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|40821|5|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|40821|5|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|40821|5|3,3,κομισθῇ,κομίζω,v3sasp---,ADV
+3,Leuven|40821|5|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+5,Leuven|40821|5|6,6,δώσω,δίδωμι,v1sfia---,PRED
+6,Leuven|40821|5|7,7,αὐτοῖς,αὐτός,p-p---md-,OBJ
+7,Leuven|40821|5|8,8,τό,ὁ,l-s---na-,ATR
+8,Leuven|40821|5|9,9,φόρετρον,φόρετρον,n-s---na-,OBJ

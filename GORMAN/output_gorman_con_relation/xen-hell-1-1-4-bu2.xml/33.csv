@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ἰδὼν,εἶδον,v-sapamn-,ADV_CO
+2,δὲ,δέ,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Μίνδαρος,Μίνδαρος,n-s---mn-,SBJ
+5,",",punc1,u--------,AuxX
+6,καὶ,καί,c--------,COORD
+7,αὐτὸς,αὐτός,a-s---mn_,ATV
+8,ἀποβὰς,ἀποβαίνω,v-sapamn-,ADV_CO
+9,ἐν,ἐν,r--------,AuxP
+10,τῇ,ὁ,l-s---fd-,ATR
+11,γῇ,γῆ,n-s---fd-,ADV
+12,μαχόμενος,μάχομαι,v-sppemn-,ADV
+13,ἀπέθανεν,ἀποθνήσκω,v3saia---,PRED
+14,·,punc1,u--------,AuxK

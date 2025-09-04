@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31649|4|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|31649|4|2,2,μήτηρ,μήτηρ,n-s---fn-,SBJ
+Leuven|31649|4|3,3,μου,ἐγώ,p1s---cg-,ATR
+Leuven|31649|4|4,4,Θαῆσις,Θαῆσις,n-s---mn-,APOS
+Leuven|31649|4|5,5,εἰς,εἰς,r--------,AuxP
+Leuven|31649|4|6,6,Ἀντινόου,Ἀντίνοος,n-s---mg-,ATR
+Leuven|31649|4|7,7,",",",",u--------,AuxX
+Leuven|31649|4|8,8,δοκῶ,δοκέω,v1spia---,ExD
+Leuven|31649|4|9,9,",",",",u--------,AuxX
+Leuven|31649|4|10,10,ἐπί,ἐπί,r--------,AuxP
+Leuven|31649|4|11,11,κηδείαν,κηδεία,n-s---fa-,OBJ
+Leuven|31649|4|12,12,ἀπῆλθεν,ἀπέρχομαι,v3saia---,PRED
+Leuven|31649|4|13,13,.,.,u--------,AuxK

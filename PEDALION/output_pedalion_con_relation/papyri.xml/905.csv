@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31648|3|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+Leuven|31648|3|2,2,Παλλάδα,Παλλάς,n-s---fa-,OBJ_CO
+Leuven|31648|3|3,3,καί,καί,b--------,AuxY
+Leuven|31648|3|4,4,Νειλᾶν,Νειλᾶς,n-s---ma-,OBJ_CO
+Leuven|31648|3|5,5,καί,καί,b--------,COORD
+Leuven|31648|3|6,6,τούς,ὁ,l-p---ma-,OBJ_CO
+Leuven|31648|3|7,7,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|31648|3|8,8,πάντας,πᾶς,a-p---ma-,ATR
+Leuven|31648|3|9,9,.,.,u--------,AuxK

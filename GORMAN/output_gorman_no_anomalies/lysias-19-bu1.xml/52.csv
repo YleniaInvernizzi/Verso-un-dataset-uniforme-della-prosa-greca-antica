@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὁ,ὁ,l-s---mn-,SBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,καὶ,καί,d--------,AuxZ
+3,4,ταύτας,οὗτος,p-p---fa-,OBJ
+4,5,λαβὼν,λαμβάνω,v-sapamn-,ADV
+5,6,κατεχρήσατο,κατά-χράω2,v3saim---,PRED
+6,7,.,punc1,u--------,AuxK

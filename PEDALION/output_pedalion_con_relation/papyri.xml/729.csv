@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|6236|3|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+Leuven|6236|3|2,2,ὅτι,ὅτι,c--------,AuxC
+Leuven|6236|3|3,3,ἔχω,ἔχω,v1spia---,OBJ
+Leuven|6236|3|4,4,σ,σ,m--------,OBJ
+Leuven|6236|3|5,5,.,.,u--------,AuxK

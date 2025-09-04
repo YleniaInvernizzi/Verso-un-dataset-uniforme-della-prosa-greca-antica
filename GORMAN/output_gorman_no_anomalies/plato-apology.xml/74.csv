@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Χαιρεφῶντα,Χαιρεφῶν,n-s---ma-,OBJ
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἴστε,οἶδα,v2prma---,PRED
+3,4,που,πού,d--------,AuxZ
+4,5,.,punc1,u--------,AuxK

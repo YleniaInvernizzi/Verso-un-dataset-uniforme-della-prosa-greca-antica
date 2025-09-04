@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0041-001|49|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+Leuven|0041-001|49|2,2,δέ,δέ,d--------,AuxY
+Leuven|0041-001|49|3,3,με,ἐγώ,p1s---ca-,SBJ
+Leuven|0041-001|49|4,4,ἤδη,ἤδη,d--------,ADV
+Leuven|0041-001|49|5,5,πρὸς,πρός,r--------,AuxP
+Leuven|0041-001|49|6,6,τῷ,ὁ,l-s---nd-,ATR
+Leuven|0041-001|49|7,7,πλεῖν,πλέω,v--pna---,ADV
+Leuven|0041-001|49|8,8,ὄντα,εἰμί,v-sppama-,OBJ
+Leuven|0041-001|49|9,9,·,·,u--------,AuxK

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|437|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|437|2,2,ᾠκοδόμησεν,οἰκοδομέω,v3saia---,PRED_CO
+Leuven|Genesis|437|3,3,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis|437|4,4,θυσιαστήριον,θυσιαστήριον,n-s---na-,OBJ
+Leuven|Genesis|437|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|437|6,6,κυρίῳ,κύριος,n-s---md-,ADV
+Leuven|Genesis|437|7,7,καί,καί,b--------,COORD
+Leuven|Genesis|437|8,8,ἐπεκαλέσατο,ἐπικαλέω,v3saim---,PRED_CO
+Leuven|Genesis|437|9,9,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|437|10,10,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis|437|11,11,ὀνόματι,ὄνομα,n-s---nd-,ADV
+Leuven|Genesis|437|12,12,κυρίου,κύριος,n-s---mg-,ATR
+Leuven|Genesis|437|13,13,.,.,u--------,AuxK

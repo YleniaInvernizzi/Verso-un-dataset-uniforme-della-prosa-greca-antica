@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,γέροντες,γέρων,n-p---mn-,SBJ
+4,τοῖς,ὁ,l-p---md-,ATR
+5,γέρουσιν,γέρων,n-p---md-,ADV
+6,",",punc1,u--------,AuxX
+7,οὓς,ὅς,p-p---ma-,OBJ
+8,καλοῦσιν,καλέω,v3ppia---,ATR
+9,οἱ,ὁ,l-p---mn-,ATR
+10,Κρῆτες,Κρής,n-p---mn-,SBJ
+11,βουλήν,βουλή,n-s---fa-,OCOMP
+12,",",punc1,u--------,AuxX
+13,ἴσοι,ἴσος,a-p---mn-,PNOM
+14,:,punc1,u--------,AuxK
+15,εἰσιν,εἰμί,v3ppia---,PRED

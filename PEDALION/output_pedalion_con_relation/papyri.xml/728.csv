@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|6236|2|1,1,σημεῖον,σημεῖον,n-s---nn-,SBJ
+Leuven|6236|2|2,2,ὅτε,ὅτε,c--------,AuxC
+Leuven|6236|2|3,3,εἶπον,λέγω,v1saia---,ADV
+Leuven|6236|2|4,4,σοι,σύ,p2s---cd-,OBJ
+Leuven|6236|2|5,5,λυτρῶσαι,λυτρόω,v--ana---,OBJ
+Leuven|6236|2|6,6,τόν,ὁ,l-s---ma-,ATR
+Leuven|6236|2|7,7,καινόν,καινός,a-s---ma-,ATR
+Leuven|6236|2|8,8,χιτῶνα,χιτών,n-s---ma-,OBJ
+Leuven|6236|2|9,9,ἀπό,ἀπό,r--------,AuxP
+Leuven|6236|2|10,10,τῶν,ὁ,l-p---mg-,ATR
+Leuven|6236|2|11,11,χαλκῶν,χάλκεος,n-p---mg-,ADV
+Leuven|6236|2|12,12,.,.,u--------,AuxK
+Leuven|6236|2|13,13,[0],,---------,PRED

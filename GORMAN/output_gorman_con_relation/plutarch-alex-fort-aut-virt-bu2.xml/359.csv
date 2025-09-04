@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄτοπόν,ἄτοπος,a-s---na-,ATR
+2,τι,τις,p-s---na-,OBJ
+3,δόξω,δοκέω,v1sfia---,PRED_CO
+4,λέγειν,λέγω3,v--pna---,OBJ
+5,",",punc1,u--------,AuxX
+6,ἐρῶ,ἐρέω,v1sfia---,PRED_CO
+7,δ᾽,δέ,c--------,COORD
+8,ἀληθές,ἀληθής,a-s---na-,OBJ
+9,:,punc1,u--------,AuxK

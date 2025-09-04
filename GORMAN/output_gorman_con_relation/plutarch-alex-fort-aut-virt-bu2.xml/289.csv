@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,Τύχη,Τύχη,n-s---fn-,SBJ
+2,τὴν,ὁ,l-s---fa-,ATR
+3,Τύρον,Τύρος,n-s---fa-,OBJ
+4,ἔσεισεν,σείω,v3saia---,PRED_CO
+5,αὐτῷ,αὐτός,p-s---md-,ADV
+6,",",punc1,u--------,AuxX
+7,καὶ,καί,c--------,COORD
+8,Τύχη,Τύχη,n-s---fn-,SBJ
+9,τὴν,ὁ,l-s---fa-,ATR
+10,Αἴγυπτον,Αἴγυπτος,n-s---fa-,OBJ
+11,ἀνέῳξε,ἀνοίγνυμι,v3saia---,PRED_CO
+12,:,punc1,u--------,AuxK

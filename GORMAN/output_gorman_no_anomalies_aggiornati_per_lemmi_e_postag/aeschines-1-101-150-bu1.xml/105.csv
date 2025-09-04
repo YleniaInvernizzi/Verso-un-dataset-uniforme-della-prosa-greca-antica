@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;εἰ;εἰ;c--------;AuxC
+2;δὲ;δέ;d--------;AuxY
+3;τὴν;ὁ;l-s---fa-;ATR
+4;θεὸν;θεός;n-s---fa-;OBJ
+5;μάρτυρα;μάρτυς;n-s---fa-;OCOMP
+6;παρέχομαι;παρέχω;v1spie---;ADV
+7;,;punc;u--------;AuxX
+8;οὐ;οὐ;d--------;AuxZ
+9;πιστεύσετε;πιστεύω;v2pfia---;PRED
+10;";";punc;u--------;AuxK

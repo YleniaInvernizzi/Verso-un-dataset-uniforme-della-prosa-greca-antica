@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|182|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|182|2,2,κατῴκησεν,κατοικέω,v3saia---,PRED_CO
+2,Leuven|Genesis_deel2|182|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|Genesis_deel2|182|4,4,τῇ,ὁ,l-s---fd-,ATR
+4,Leuven|Genesis_deel2|182|5,5,ἐρήμῳ,ἐρῆμος,n-s---fd-,OBJ
+6,Leuven|Genesis_deel2|182|7,7,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+7,Leuven|Genesis_deel2|182|8,8,δέ,δέ,d--------,COORD
+8,Leuven|Genesis_deel2|182|9,9,τοξότης,τοξότης,n-s---mn-,PNOM

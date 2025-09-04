@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|182|1,1,ἀλλ’,ἀλλά,b--------,AuxY
+Leuven|0059-003|182|2,2,ὧδε,ὧδε,d--------,ADV
+Leuven|0059-003|182|3,3,σκόπει,σκοπέω,v2spma---,PRED
+Leuven|0059-003|182|4,4,.,.,u--------,AuxK

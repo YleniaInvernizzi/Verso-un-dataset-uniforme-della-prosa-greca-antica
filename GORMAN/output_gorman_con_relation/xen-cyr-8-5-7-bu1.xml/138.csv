@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,κοιμηθεὶς,κοιμάω,v-sappmn-,ADV
+2,δʼ,δέ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,τῷ,ὁ,l-s---nd-,ATR
+5,βασιλείῳ,βασίλειον,n-s---nd-,ADV
+6,ὄναρ,ὄναρ,n-s---na-,OBJ
+7,εἶδε,εἶδον,v3saia---,PRED
+8,τοιόνδε,τοιόσδε,a-s---na_,ATR
+9,.,punc1,u--------,AuxK

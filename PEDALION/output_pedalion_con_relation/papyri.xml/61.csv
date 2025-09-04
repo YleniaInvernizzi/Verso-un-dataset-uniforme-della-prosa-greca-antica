@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1781|11|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|1781|11|2,2,κατεγνώκασίν,καταγιγνώσκω,v3pria---,PRED
+Leuven|1781|11|3,3,μου,ἐγώ,p1s---cg-,OBJ
+Leuven|1781|11|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|1781|11|5,5,εἰμὶ,εἰμί,v1spia---,ADV
+Leuven|1781|11|6,6,βάρβαρος,βάρβαρος,a-s---mn-,PNOM
+Leuven|1781|11|7,7,.,.,u--------,AuxK

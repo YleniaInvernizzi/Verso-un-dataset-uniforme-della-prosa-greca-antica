@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄνθρωπε,ἄνθρωπος,n-s---mv-,ExD
+2,",",punc1,u--------,AuxX
+3,ποίει,ποιέω,v2spma---,PRED_CO
+4,λευκὰ,λευκόν,n-p---na-,OBJ
+5,καὶ,καί,c--------,COORD
+6,βλέπ᾽,βλέπω,v2spma---,PRED_CO
+7,εἰς,εἰς,r--------,AuxP
+8,...,punc1,u--------,AuxK

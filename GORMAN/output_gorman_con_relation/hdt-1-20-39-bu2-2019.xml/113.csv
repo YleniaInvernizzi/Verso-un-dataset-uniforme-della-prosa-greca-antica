@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,τίνα,τις,p-s---ma-,OBJ
+2,τε,τε,d--------,AuxY
+3,ἀνδρῶν,ἀνήρ,n-p---mg-,ATR_CO
+4,ἢ,ἤ1,c--------,COORD
+5,γυναικῶν,γυνή,n-s---fg-,ATR_CO
+6,ἐφόνευσας,φονεύω,v2saia---,PRED
+7,;,punc1,u--------,AuxK

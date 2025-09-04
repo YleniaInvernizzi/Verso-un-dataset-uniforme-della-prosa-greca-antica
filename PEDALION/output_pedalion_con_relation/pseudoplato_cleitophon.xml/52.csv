@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|53|1,1,λεγέσθω,λέγω,v3spme---,PRED
+Leuven|0059-00x|53|2,2,δὴ,δή,d--------,AuxY
+Leuven|0059-00x|53|3,3,καὶ,καί,d--------,AuxZ
+Leuven|0059-00x|53|4,4,τὸ,ὁ,l-s---nn-,ATR
+Leuven|0059-00x|53|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|0059-00x|53|6,6,δικαιοσύνης,δικαιοσύνη,n-s---fg-,ATR
+Leuven|0059-00x|53|7,7,ὡσαύτως,ὡσαύτως,d--------,ADV
+Leuven|0059-00x|53|8,8,.,.,u--------,AuxK
+Leuven|0059-00x|53|9,9,ἔργον,ἔργον,n-s---nn-,SBJ

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Φρύνην,Φρύνη,n-s---fa-,OBJ
+1,2,ἐπείρα,πειράω,v3siia---,PRED
+2,3,Μοίριχος,Μοίριχος,n-s---mn-,SBJ
+3,4,τὴν,ὁ,l-s---fa-,ATR
+4,5,Θεσπικήν,Θεσπικός,a-s---fa-,ATR
+5,6,:,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μείζων,μέγας,a-s---mnc,PNOM
+1,2,δʼ,δέ,d--------,AuxY
+2,3,ἐφάνη,φαίνω,v3saip---,PRED
+3,4,πολὺ,πολύς,a-s---na-,ADV
+4,5,Κῦρος,Κῦρος,n-s---mn-,SBJ
+5,6,.,punc1,u--------,AuxK

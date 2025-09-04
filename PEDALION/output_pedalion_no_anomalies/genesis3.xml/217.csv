@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|218|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Genesis_deel3|218|2,2,καταρώμενος,καταράομαι,v-sppemn-,SBJ
+2,Leuven|Genesis_deel3|218|3,3,σε,σύ,p2s---ca-,OBJ
+3,Leuven|Genesis_deel3|218|4,4,ἐπικατάρατος,ἐπικατάρατος,a-s---mn-,PNOM
+5,Leuven|Genesis_deel3|218|6,6,ὁ,ὁ,l-s---mn-,ATR
+6,Leuven|Genesis_deel3|218|7,7,δέ,δέ,d--------,COORD
+7,Leuven|Genesis_deel3|218|8,8,εὐλογῶν,εὐλογέω,v-sppamn-,SBJ
+8,Leuven|Genesis_deel3|218|9,9,σε,σύ,p2s---ca-,OBJ
+9,Leuven|Genesis_deel3|218|10,10,εὐλογημένος,εὐλογέω,v-srpemn-,PNOM

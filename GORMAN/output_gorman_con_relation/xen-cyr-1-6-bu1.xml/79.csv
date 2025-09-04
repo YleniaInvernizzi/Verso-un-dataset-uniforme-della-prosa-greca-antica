@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,δύσφορον,δύσφορος,a-s---nn-,PNOM
+2,γάρ,γάρ,d--------,AuxY
+3,·,punc1,u--------,AuxK
+4,ἐστιν,εἰμί,v3spia---,PRED

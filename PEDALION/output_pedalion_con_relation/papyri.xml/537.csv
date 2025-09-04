@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30385|12|1,1,τάχα,τάχα,d--------,ADV
+Leuven|30385|12|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|30385|12|3,3,οὐκ,οὐ,d--------,AuxZ
+Leuven|30385|12|4,4,ἀναγιγνώσκεις,ἀναγιγνώσκω,v2spia---,PRED
+Leuven|30385|12|5,5,ἅ,ὅς,p-p---na-,OBJ
+Leuven|30385|12|6,6,σοι,σύ,p2s---cd-,OBJ
+Leuven|30385|12|7,7,γράφω,γράφω,v1spia---,OBJ
+Leuven|30385|12|8,8,.,.,u--------,AuxK

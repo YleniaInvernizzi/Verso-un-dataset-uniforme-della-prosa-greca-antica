@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ποῦ,πού,d--------,ADV
+2,δὲ,δέ,d--------,AuxY
+3,παιδείας,παιδεία,n-s---fg-,OBJ
+4,σοὶ,σύ,p-s---md-,PNOM
+5,θέμις,θέμις,n-s---fn-,SBJ
+6,μνησθῆναι,μιμνήσκω,v--anp---,ATR
+7,;,punc1,u--------,AuxK
+8,ἐστιν,εἰμί,v3spia---,PRED

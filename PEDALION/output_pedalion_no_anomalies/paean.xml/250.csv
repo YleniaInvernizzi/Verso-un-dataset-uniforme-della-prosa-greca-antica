@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|252|1,1,τῶν,ὁ,l-p---fg-,ATR
+1,Leuven|PaeanBrev|252|2,2,σπονδῶν,σπονδή,n-p---fg-,ATR
+2,Leuven|PaeanBrev|252|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|252|4,4,μέρος,μέρος,n-s---nn-,PNOM
+4,Leuven|PaeanBrev|252|5,5,ἦν,εἰμί,v3siia---,PRED
+5,Leuven|PaeanBrev|252|6,6,καί,καί,d--------,AuxZ
+6,Leuven|PaeanBrev|252|7,7,τόδε,ὅδε,p-s---nn-,SBJ

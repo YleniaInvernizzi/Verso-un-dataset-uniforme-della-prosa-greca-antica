@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐδόκει,δοκέω,v3siia---,PRED
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,εἶναι,εἰμί,v--pna---,OBJ
+3,4,μελαγχολικός,μελαγχολικός,a-s---mn-,PNOM
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;σκέψασθε;σκέπτομαι;v2pame---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;τίνες;τις;p-p---cn-;SBJ
+4;εἰσὶν;εἰμί;v3ppia---;OBJ
+5;οὓς;ὅς;p-p---ma-;SBJ
+6;δεῖ;δέω;v3spia---;ATR
+7;παρεῖναι;πάρειμι;v--ana---;OBJ
+8;.;punc;u--------;AuxK

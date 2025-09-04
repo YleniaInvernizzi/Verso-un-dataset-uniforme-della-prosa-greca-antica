@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|94|1,1,ἀποθανεῖν,ἀποθνήσκω,v--ana---,SBJ
+Leuven|0557-001|94|2,2,με,ἐγώ,p1s---ca-,SBJ
+Leuven|0557-001|94|3,3,δεῖ,δέω,v3spia---,PRED
+Leuven|0557-001|94|4,4,.,.,u--------,AuxK

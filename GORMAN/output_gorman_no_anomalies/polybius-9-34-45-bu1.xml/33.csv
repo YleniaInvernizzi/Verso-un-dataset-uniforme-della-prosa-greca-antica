@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐρῶ,ἐρέω,v1spia---,PRED
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,τὸ,ὁ,l-s---na-,ATR
+3,4,φαινόμενον,φαίνω,v-sppena-,OBJ
+4,5,",",punc1,u--------,AuxX
+5,6,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+6,7,.,punc1,u--------,AuxK

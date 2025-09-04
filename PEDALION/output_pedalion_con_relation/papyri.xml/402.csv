@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|27|1,1,ἀπῆσθα,ἄπειμι,v2siia---,PRED
+Leuven|27679|27|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|27679|27|3,3,μου,ἐγώ,p1s---cg-,OBJ
+Leuven|27679|27|4,4,.,.,u--------,AuxK

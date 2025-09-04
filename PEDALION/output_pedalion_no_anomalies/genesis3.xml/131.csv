@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|132|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|132|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+2,Leuven|Genesis_deel3|132|3,3,τό,ὁ,l-s---na-,ATR
+3,Leuven|Genesis_deel3|132|4,4,ὄνομα,ὄνομα,n-s---na-,OBJ
+4,Leuven|Genesis_deel3|132|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Genesis_deel3|132|6,6,φρέατος,φρέαρ,n-s---ng-,ATR
+6,Leuven|Genesis_deel3|132|7,7,Ἀδικία,ἀδικία,n-s---fn-,OCOMP

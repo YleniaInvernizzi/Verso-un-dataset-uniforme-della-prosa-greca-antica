@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,Ζεῦ,Ζεύς,n-s---mv-,ExD
+3,",",punc1,u--------,AuxX
+4,τί,τις,p-s---na-,OBJ
+5,χρὴ,χρή,v3spia---,PRED
+6,γυναῖκας,γυνή,n-p---fa-,OBJ
+7,ἐξειπεῖν,ἐξεῖπον,v--ana---,OBJ
+8,κακόν,κακός,a-s---na-,OCOMP
+9,;,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,κόμαισιν,κόμη,n-p---fd-,ADV
+2,Ὡρῶν,Ὥρα,n-p---fg-,ATR
+3,ὄμματ᾽,ὄμμα,n-p---na-,OBJ_AP
+4,εὐανθῆ,εὐανθής,a-p---na-,ATR
+5,ῥόδα,ῥόδον,n-p---na-,OBJ_AP
+6,εἶχον,ἔχω,v3piia---,PRED
+7,",",punc1,u--------,APOS
+8,τιθήνημ᾽,τιθήνημα,n-s---na-,OBJ_AP
+9,ἔαρος,ἔαρ,n-s---ng-,ATR
+10,ἐκπρεπέστατον,ἐκπρεπής,a-s---nas,ATR
+11,.,punc1,u--------,AuxK

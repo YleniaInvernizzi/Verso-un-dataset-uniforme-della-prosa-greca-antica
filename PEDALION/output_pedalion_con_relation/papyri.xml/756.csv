@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|76|3|1,1,μή,μή,d--------,AuxZ
+Leuven|76|3|2,2,λυπεῖσθε,λυπέω,v2ppme---,PRED
+Leuven|76|3|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|76|3|4,4,τοῖς,ὁ,l-p---md-,ATR
+Leuven|76|3|5,5,χωρισθεῖσι,χωρίζω,v-pappmd-,OBJ
+Leuven|76|3|6,6,.,.,u--------,AuxK

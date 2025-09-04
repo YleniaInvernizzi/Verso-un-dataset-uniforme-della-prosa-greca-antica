@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,γὰρ,γάρ,d--------,AuxY
+3,στεφανίτης,στεφανίτης,n-s---mn-,PNOM_CO
+4,ὁ,ὁ,l-s---mn-,ATR
+5,ἀγών,ἀγών,n-s---mn-,SBJ
+6,ἐστιν,εἰμί,v3spia---,PRED
+7,",",punc1,u--------,AuxX
+8,ἀλλ᾽,ἀλλά,c--------,COORD
+9,ἀργυρίτης,ἀργυρίτης,n-s---mn-,PNOM_CO
+10,.,punc1,u--------,AuxK

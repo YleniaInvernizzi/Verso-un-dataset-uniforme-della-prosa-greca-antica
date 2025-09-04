@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31368|2|1,1,ἔπεμψά,πέμπω,v1saia---,PRED_CO
+1,Leuven|31368|2|2,2,σοι,σύ,p2s---cd-,OBJ
+2,Leuven|31368|2|3,3,ἐπιστολὴν,ἐπιστολή,n-s---fa-,OBJ
+3,Leuven|31368|2|4,4,διὰ,διά,r--------,AuxP
+4,Leuven|31368|2|5,5,τοῦ,ὁ,l-s---mg-,ATR
+5,Leuven|31368|2|6,6,ἀρτοκόπου,ἀρτοκόπος,n-s---mg-,ADV
+6,Leuven|31368|2|7,7,καὶ,καί,c--------,COORD
+7,Leuven|31368|2|8,8,ἴσως,ἴσως,d--------,ADV
+8,Leuven|31368|2|9,9,οἶδας,οἶδα,v2sria---,PRED_CO
+9,Leuven|31368|2|10,10,τί,τίς,p-s---na-,OBJ
+10,Leuven|31368|2|11,11,σοι,σύ,p2s---cd-,OBJ
+11,Leuven|31368|2|12,12,ἔγραψα,γράφω,v1saia---,OBJ

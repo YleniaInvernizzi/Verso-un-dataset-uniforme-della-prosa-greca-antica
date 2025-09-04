@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27679|6|1,1,θεῶν,θεός,n-p---mg-,SBJ
+1,Leuven|27679|6|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|27679|6|3,3,θελόντων,ἐθέλω,v-pppamg-,ADV
+3,Leuven|27679|6|4,4,ἔχοι,ἔχω,v3spoa---,PRED
+4,Leuven|27679|6|5,5,ἄν,ἄν,d--------,AuxY
+5,Leuven|27679|6|6,6,καλῶς,καλός,d--------,ADV

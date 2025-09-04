@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|154|1,1,διέλθωμεν,διέρχομαι,v1pasa---,PRED
+Leuven|Genesis|154|2,2,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|154|3,3,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|154|4,4,πεδίον,πεδίον,n-s---na-,OBJ
+Leuven|Genesis|154|5,5,.,.,u--------,AuxK

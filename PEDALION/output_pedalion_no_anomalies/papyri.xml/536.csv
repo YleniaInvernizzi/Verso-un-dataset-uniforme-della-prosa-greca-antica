@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30385|11|1,1,εἰ,εἰ,c--------,AuxC
+1,Leuven|30385|11|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|30385|11|3,3,ταῦτα,οὗτος,p-p---na-,OBJ
+3,Leuven|30385|11|4,4,θέλεις,ἐθέλω,v2spia---,ADV
+4,Leuven|30385|11|5,5,με,ἐγώ,p1s---ca-,SBJ
+5,Leuven|30385|11|6,6,γράφειν,γράφω,v--pna---,OBJ
+7,Leuven|30385|11|8,8,γράφω,γράφω,v1spia---,PRED
+8,Leuven|30385|11|9,9,σοι,σύ,p2s---cd-,OBJ

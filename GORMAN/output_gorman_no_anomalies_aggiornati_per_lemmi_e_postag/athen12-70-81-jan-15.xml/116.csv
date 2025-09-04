@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ταῦτα;οὗτος;p-p---na-;OBJ
+2;πάντα;πᾶς;a-s---na-;ATR
+3;ποιούσης;ποιέω;v-sppafg-;ExD
+4;τῆς;ὁ;l-s---fg-;ATR
+5;ἀκολάστου;ἀκόλαστος;a-s---fg-;ATR
+6;τρυφῆς;τρυφή;n-s---fg-;SBJ
+7;.;punc;u--------;AuxK

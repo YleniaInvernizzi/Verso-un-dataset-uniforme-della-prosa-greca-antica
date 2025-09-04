@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|385|1,1,δεῦτε,δεῦτε,d--------,ADV
+1,Leuven|Genesis|385|2,2,πλινθεύσωμεν,πλινθεύω,v1pasa---,PRED_CO
+2,Leuven|Genesis|385|3,3,πλίνθους,πλίνθος,n-p---fa-,OBJ
+3,Leuven|Genesis|385|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis|385|5,5,ὀπτήσωμεν,ὀπτάω,v1pasa---,PRED_CO
+5,Leuven|Genesis|385|6,6,αὐτάς,αὐτός,p-p---fa-,OBJ
+6,Leuven|Genesis|385|7,7,πυρί,πῦρ,n-s---nd-,ADV

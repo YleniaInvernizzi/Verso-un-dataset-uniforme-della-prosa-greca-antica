@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|270|1,1,Φαβρίκιος,Φαβρίκιος,n-s---mn-,SBJ
+Leuven|PaeanBrev|270|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|270|3,3,Λουκανούς,Λουκανός,n-p---ma-,OBJ_CO
+Leuven|PaeanBrev|270|4,4,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|270|5,5,καί,καί,b--------,COORD
+Leuven|PaeanBrev|270|6,6,Σαμνίτας,Σαμνίτης,n-p---ma-,OBJ_CO
+Leuven|PaeanBrev|270|7,7,ἑλών,αἱρέω,v-sapamn-,ADV
+Leuven|PaeanBrev|270|8,8,ὑπέρ,ὑπέρ,r--------,AuxP
+Leuven|PaeanBrev|270|9,9,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|270|10,10,νίκης,νίκη,n-s---fg-,ADV
+Leuven|PaeanBrev|270|11,11,ἐθριάμβευσε,θριαμβεύω,v3saia---,PRED
+Leuven|PaeanBrev|270|12,12,.,.,u--------,AuxK

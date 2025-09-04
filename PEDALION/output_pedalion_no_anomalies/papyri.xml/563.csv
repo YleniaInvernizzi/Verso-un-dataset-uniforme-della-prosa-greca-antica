@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|16|1,1,γράψον,γράφω,v2sama---,PRED
+1,Leuven|30514|16|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|30514|16|3,3,περί,περί,r--------,AuxP
+3,Leuven|30514|16|4,4,τῆς,ὁ,l-s---fg-,ATR
+4,Leuven|30514|16|5,5,σωτηρίας,σωτηρία,n-s---fg-,ADV
+5,Leuven|30514|16|6,6,σου,σύ,p2s---cg-,ATR
+6,Leuven|30514|16|7,7,ἐν,ἐν,r--------,AuxP
+7,Leuven|30514|16|8,8,τάχει,τάχος,n-s---nd-,ADV

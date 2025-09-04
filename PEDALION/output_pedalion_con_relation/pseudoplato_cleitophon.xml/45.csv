@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|46|1,1,τὸ,ὁ,l-s---nn-,SBJ
+Leuven|0059-00x|46|2,2,μὲν,μέν,d--------,AuxY
+Leuven|0059-00x|46|3,3,ἔργον,ἔργον,n-s---nn-,PNOM
+Leuven|0059-00x|46|4,4,",",",",u--------,AuxX
+Leuven|0059-00x|46|5,5,τὸ,ὁ,l-s---nn-,SBJ
+Leuven|0059-00x|46|6,6,δὲ,δέ,b--------,COORD
+Leuven|0059-00x|46|7,7,δίδαγμα,δίδαγμα,n-s---nn-,PNOM
+Leuven|0059-00x|46|8,8,.,.,u--------,AuxK
+Leuven|0059-00x|46|9,9,[0],_,-,PRED_CO
+Leuven|0059-00x|46|10,10,[1],_,-,PRED_CO

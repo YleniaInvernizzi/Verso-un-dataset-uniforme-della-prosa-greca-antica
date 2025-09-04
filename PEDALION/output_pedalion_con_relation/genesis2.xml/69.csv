@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|70|1,1,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|70|2,2,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|70|3,3,ὄρος,ὄρος,n-s---na-,OBJ
+Leuven|Genesis_deel2|70|4,4,σῴζου,σῴζω,v2spme---,PRED
+Leuven|Genesis_deel2|70|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|70|6,6,μήποτε,μήποτε,d--------,AuxC
+Leuven|Genesis_deel2|70|7,7,συμπαραλημφθῇς,συμπαραλαμβάνω,v2sasp---,ADV
+Leuven|Genesis_deel2|70|8,8,.,.,u--------,AuxK

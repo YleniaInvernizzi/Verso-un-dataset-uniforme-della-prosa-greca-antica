@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;τοιαῦτα;τοιοῦτος;p-p---na-;OBJ
+2;ἐποίει;ποιέω;v3siia---;PRED
+3;,;punc;u--------;AuxX
+4;ἕως;ἕως;c--------;AuxC
+5;διεδίδου;διαδίδωμι;v3siia---;ADV
+6;πάντα;πᾶς;a-p---na-;ATR
+7;ἃ;ὅς;p-p---na-;OBJ
+8;ἔλαβε;λαμβάνω;v3saia---;ATR
+9;κρέα;κρέας;n-p---na-;OBJ
+10;.;punc;u--------;AuxK

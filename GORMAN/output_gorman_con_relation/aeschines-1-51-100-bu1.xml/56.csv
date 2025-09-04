@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐκ,οὐ,d--------,AuxZ
+2,ἀγνοῶ,ἀγνοέω,v1spia---,PRED
+3,δ᾽,δέ,d--------,AuxY
+4,ὅτι,ὅτι2,c--------,AuxC
+5,ἀπομεῖται,ἀπόμνυμι,v3sfim---,OBJ_CO
+6,καὶ,καί,c--------,COORD
+7,ἐπιορκήσει,ἐπιορκέω,v2sfim---,OBJ_CO
+8,.,punc1,u--------,AuxK

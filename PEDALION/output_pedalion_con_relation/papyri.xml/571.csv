@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30706|2|1,1,ἔστιν,εἰμί,v3spia---,PRED
+Leuven|30706|2|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|30706|2|3,3,τῶν,ὁ,l-p---ng-,ATR
+Leuven|30706|2|4,4,ἐνχωρούντων,ἐγχωρέω,v-pppang-,PNOM
+Leuven|30706|2|5,5,ἐὰν,ἐάν,c--------,AuxC
+Leuven|30706|2|6,6,ἐθέλῃς,ἐθέλω,v2spsa---,ADV
+Leuven|30706|2|7,7,.,.,u--------,AuxK

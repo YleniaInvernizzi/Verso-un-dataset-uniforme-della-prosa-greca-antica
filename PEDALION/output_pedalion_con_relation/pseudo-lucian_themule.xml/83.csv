@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|84|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|84|2,2,δέ,δέ,d--------,AuxY
+Leuven|Ps-Luc|84|3,3,",",",",u--------,AuxX
+Leuven|Ps-Luc|84|4,4,οὕτως,οὕτως,d--------,ADV
+Leuven|Ps-Luc|84|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|84|6,6,ἔφη,φημί,v3siia---,PRED
+Leuven|Ps-Luc|84|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|84|8,8,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|84|9,9,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|84|10,10,θέλω,ἐθέλω,v1spia---,ADV
+Leuven|Ps-Luc|84|11,11,",",",",u--------,AuxX
+Leuven|Ps-Luc|84|12,12,παράσχου,παρέχω,v2samm---,SBJ
+Leuven|Ps-Luc|84|13,13,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|84|14,14,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|84|15,15,ἐπίδειξιν,ἐπίδειξις,n-s---fa-,OBJ
+Leuven|Ps-Luc|84|16,16,·,·,u--------,AuxK

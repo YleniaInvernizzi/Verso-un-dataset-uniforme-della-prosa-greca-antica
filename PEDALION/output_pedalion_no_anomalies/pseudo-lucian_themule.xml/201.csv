@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|202|1,1,τῆι,ὁ,l-s---fd-,ATR
+1,Leuven|Ps-Luc|202|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|202|3,3,ὑστεραίαι,ὑστεραῖος,a-s---fd-,ADV
+3,Leuven|Ps-Luc|202|4,4,καταλιπόντες,καταλείπω,v-papamn-,ADV
+4,Leuven|Ps-Luc|202|5,5,τῆι,ὁ,l-s---fd-,ATR
+5,Leuven|Ps-Luc|202|6,6,γραίαι,γραῖα,n-s---fd-,OBJ
+6,Leuven|Ps-Luc|202|7,7,νεανίσκον,νεανίσκος,n-s---ma-,OBJ
+7,Leuven|Ps-Luc|202|8,8,ἕνα,εἷς,m-s---ma-,OBJ
+8,Leuven|Ps-Luc|202|9,9,οἱ,ὁ,l-p---mn-,ATR
+9,Leuven|Ps-Luc|202|10,10,λοιποὶ,λοιπός,a-p---mn-,SBJ
+10,Leuven|Ps-Luc|202|11,11,πάντες,πᾶς,a-p---mn-,ATR
+11,Leuven|Ps-Luc|202|12,12,ἔξω,ἔξω,d--------,OBJ
+12,Leuven|Ps-Luc|202|13,13,ἐπὶ,ἐπί,r--------,AuxP
+13,Leuven|Ps-Luc|202|14,14,τὸ,ὁ,l-s---na-,ATR
+14,Leuven|Ps-Luc|202|15,15,ἔργον,ἔργον,n-s---na-,OBJ
+15,Leuven|Ps-Luc|202|16,16,ἀπήιεσαν,ἄπειμι,v3piia---,PRED

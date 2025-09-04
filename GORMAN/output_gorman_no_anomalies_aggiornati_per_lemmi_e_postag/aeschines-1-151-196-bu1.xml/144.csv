@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;εἰ;εἰ;c--------;AuxC
+2;δ᾽;δέ;d--------;AuxY
+3;ἀποφεύξεται;ἀποφεύγω;v3sfim---;ADV
+4;,;punc;u--------;AuxX
+5;κρείττων;ἀγαθός;a-s---mnc;PNOM
+6;ἦν;εἰμί;v3siia---;PRED
+7;ὁ;ὁ;l-s---mn-;ATR
+8;ἀγὼν;ἀγών;n-s---mn-;SBJ
+9;μὴ;μή;d--------;AuxZ
+10;γεγενημένος;γίγνομαι;v-srpemn-;SBJ
+11;.;punc;u--------;AuxK

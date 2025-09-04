@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|374|1,1,ἔξω,ἔξω,d--------,OBJ
+1,Leuven|Ps-Luc|374|2,2,ἐκδραμόντες,ἐκτρέχω,v-papamn-,ADV
+2,Leuven|Ps-Luc|374|3,3,ὅληι,ὅλος,a-s---fd-,ATR
+3,Leuven|Ps-Luc|374|4,4,τῆι,ὁ,l-s---fd-,ATR
+4,Leuven|Ps-Luc|374|5,5,κώμηι,κώμη,n-s---fd-,OBJ
+5,Leuven|Ps-Luc|374|6,6,τῶι,ὁ,l-s---md-,ATR
+6,Leuven|Ps-Luc|374|7,7,λόγωι,λόγος,n-s---md-,ADV
+7,Leuven|Ps-Luc|374|8,8,διέδωκαν,διαδίδωμι,v3paia---,PRED
+8,Leuven|Ps-Luc|374|9,9,τῶν,ὁ,l-p---mg-,ATR
+9,Leuven|Ps-Luc|374|10,10,ἱερέων,ἱερεύς,n-p---mg-,ATR
+10,Leuven|Ps-Luc|374|11,11,τὴν,ὁ,l-s---fa-,ATR
+11,Leuven|Ps-Luc|374|12,12,ἀσέλγειαν,ἀσέλγεια,n-s---fa-,OBJ

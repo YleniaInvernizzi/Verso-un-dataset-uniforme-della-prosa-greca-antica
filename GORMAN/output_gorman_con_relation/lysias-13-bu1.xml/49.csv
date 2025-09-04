@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,γραψάμενοι,γράφω,v-papmmn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,οἱ,ὁ,l-p---mn-,ATR
+4,βουλευταὶ,βουλευτής,n-p---mn-,SBJ
+5,τὰ,ὁ,l-p---na-,ATR
+6,ὀνόματα,ὄνομα,n-p---na-,OBJ
+7,τῶν,ὁ,l-p---mg-,ATR
+8,ἐγγυωμένων,ἐγγυάω,v-pppemg-,ATR_CO
+9,καὶ,καί,c--------,COORD
+10,κωλυόντων,κωλύω,v-pppamg-,ATR_CO
+11,",",punc1,u--------,AuxX
+12,ἀπιόντες,ἄπειμι1,v-pppamn-,ADV
+13,ᾤχοντο,οἴχομαι,v3piie---,PRED
+14,εἰς,εἰς,r--------,AuxP
+15,ἄστυ,ἄστυ,n-s---na-,OBJ
+16,.,punc1,u--------,AuxK

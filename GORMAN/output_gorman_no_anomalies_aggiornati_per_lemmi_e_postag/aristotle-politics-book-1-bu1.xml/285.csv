@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ὅπερ;ὅσπερ;p-s---na-;OBJ
+2;πέπονθε;πάσχω;v3sria---;PRED_CO
+3;τὸ;ὁ;l-s---nn-;ATR
+4;πρεσβύτερον;πρέσβυς;a-s---nnc;SBJ
+5;πρὸς;πρός;r--------;AuxP
+6;τὸ;ὁ;l-s---na-;ATR
+7;νεώτερον;νέος;a-s---nac;ADV
+8;καὶ;καί;c--------;COORD
+9;ὁ;ὁ;l-s---mn-;ATR
+10;γεννήσας;γεννάω;v-sapamn-;SBJ
+11;πρὸς;πρός;r--------;AuxP
+12;τὸ;ὁ;l-s---na-;ATR
+13;τέκνον;τέκνον;n-s---na-;ADV
+14;.;punc;u--------;AuxK
+15;πέπονθε;πάσχω;v3sria---;PRED_CO

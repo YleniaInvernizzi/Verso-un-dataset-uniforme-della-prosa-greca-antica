@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|295|1,1,τοῦτο,οὗτος,p-s---nn-,PNOM
+1,Leuven|Ps-Luc|295|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|295|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Ps-Luc|295|4,4,τὸ,ὁ,l-s---nn-,ATR
+4,Leuven|Ps-Luc|295|5,5,κεφάλαιον,κεφάλαιος,a-s---nn-,SBJ
+5,Leuven|Ps-Luc|295|6,6,τῶν,ὁ,l-p---ng-,ATR
+6,Leuven|Ps-Luc|295|7,7,ἐμῶν,ἐμός,a-p---ng-,ATR
+7,Leuven|Ps-Luc|295|8,8,κακῶν,κακός,a-p---ng-,ATR

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0041-001|106|1,1,Χίων,Χίων,n-s---mn-,SBJ
+Leuven|0041-001|106|2,2,Βίωνι,Βίων,n-s---md-,OBJ
+Leuven|0041-001|106|3,3,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|0041-001|106|4,4,.,.,u--------,AuxK
+Leuven|0041-001|106|5,5,[0],"""""","""""",PRED

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|17|1,1,τούτων,οὗτος,p-p---ng-,SBJ
+Leuven|PaeanBrev|17|2,2,οὕτω,οὕτως,d--------,ADV
+Leuven|PaeanBrev|17|3,3,πραχθέντων,πράσσω,v-pappng-,ADV
+Leuven|PaeanBrev|17|4,4,",",",",u--------,AuxX
+Leuven|PaeanBrev|17|5,5,χειμών,χειμών,n-s---mn-,SBJ
+Leuven|PaeanBrev|17|6,6,ἐξαίφνης,ἐξαίφνης,d--------,ADV
+Leuven|PaeanBrev|17|7,7,ἐπελθών,ἐπέρχομαι,v-sapamn-,ATR
+Leuven|PaeanBrev|17|8,8,ἀφανῆ,ἀφανής,a-s---ma-,OCOMP
+Leuven|PaeanBrev|17|9,9,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|17|10,10,Ῥωμύλον,Ῥωμύλος,n-s---ma-,OBJ
+Leuven|PaeanBrev|17|11,11,ἐποίησεν,ποιέω,v3saia---,PRED
+Leuven|PaeanBrev|17|12,12,.,.,u--------,AuxK

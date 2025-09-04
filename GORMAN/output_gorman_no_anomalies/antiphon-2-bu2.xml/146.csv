@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τά,ὁ,l-p---na-,ATR
+1,2,τε,τε,d--------,AuxY
+2,3,τεκμήρια,τεκμήριον,n-p---na-,SBJ
+3,4,ἐμά,ἐμός,a-p---na-,PNOM_CO
+4,5,",",punc1,u--------,COORD
+5,6,οὐ,οὐ,d--------,AuxZ
+6,7,τούτων,οὗτος,p-p---mg-,PNOM_CO
+7,8,ὄντα,εἰμί,v-pppana-,OBJ
+8,9,ἐδήλωσα,δηλόω,v1saia---,PRED
+9,10,:,punc1,u--------,AuxK

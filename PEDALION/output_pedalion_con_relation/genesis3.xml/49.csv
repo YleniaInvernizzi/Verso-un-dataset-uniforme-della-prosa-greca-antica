@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|50|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|50|2,2,κατῴκησεν,κατοικέω,v3saia---,PRED
+Leuven|Genesis_deel3|50|3,3,Ισαακ,Ισαακ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|50|4,4,παρά,παρά,r--------,AuxP
+Leuven|Genesis_deel3|50|5,5,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel3|50|6,6,φρέαρ,φρέαρ,n-s---na-,OBJ
+Leuven|Genesis_deel3|50|7,7,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel3|50|8,8,ὁράσεως,ὅρασις,n-s---fg-,ATR
+Leuven|Genesis_deel3|50|9,9,.,.,u--------,AuxK

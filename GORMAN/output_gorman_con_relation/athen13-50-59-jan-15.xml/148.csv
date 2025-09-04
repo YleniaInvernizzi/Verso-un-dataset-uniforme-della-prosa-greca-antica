@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ἑλομένη,αἱρέω,v-sapmfn-,ADV
+4,τὸν,ὁ,l-s---ma-,ATR
+5,Ἔρωτα,Ἔρως,n-s---ma-,OBJ
+6,ἀνέθηκεν,ἀνατίθημι,v3saia---,PRED
+7,αὐτὸν,αὐτός,p-s---ma-,OBJ
+8,ἐν,ἐν,r--------,AuxP
+9,Θεσπιαῖς,Θεσπίη,n-p---fd-,ADV
+10,.,punc1,u--------,AuxK

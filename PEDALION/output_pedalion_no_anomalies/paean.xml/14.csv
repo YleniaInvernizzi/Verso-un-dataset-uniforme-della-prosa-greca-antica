@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|15|1,1,καί,καί,d--------,AuxZ
+1,Leuven|PaeanBrev|15|2,2,μετά,μετά,r--------,AuxP
+2,Leuven|PaeanBrev|15|3,3,ταῦτα,οὗτος,p-p---na-,ADV
+3,Leuven|PaeanBrev|15|4,4,ἐπολίσθησαν,ἐπολισθάνω,v3paia---,PRED

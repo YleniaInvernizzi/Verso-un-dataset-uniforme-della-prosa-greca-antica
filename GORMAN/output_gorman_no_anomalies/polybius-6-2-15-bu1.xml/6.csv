@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ζήτει,ζητέω,v3siia---,PRED
+1,2,ἐν,ἐν,r--------,AuxP
+2,3,τῷ,ὁ,l-s---nd-,ADV
+3,4,περὶ,περί,r--------,AuxP
+4,5,στρατηγίας,στρατηγία,n-s---fg-,ATR
+5,6,.,punc1,u--------,AuxK

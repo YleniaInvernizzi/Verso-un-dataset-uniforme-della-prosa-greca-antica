@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|313|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|313|2,2,Μανίλιος,Μανίλιος,n-s---mn-,SBJ
+2,Leuven|PaeanBrev|313|3,3,μέν,μέν,d--------,AuxY
+3,Leuven|PaeanBrev|313|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|PaeanBrev|313|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|PaeanBrev|313|6,6,Ῥώμην,Ῥώμη,n-s---fa-,OBJ
+6,Leuven|PaeanBrev|313|7,7,ἐπανῆκε,ἐπανήκω,v3siia---,PRED
+7,Leuven|PaeanBrev|313|8,8,μετά,μετά,r--------,AuxP
+8,Leuven|PaeanBrev|313|9,9,λαμπρᾶς,λαμπρός,a-s---fg-,ATR
+9,Leuven|PaeanBrev|313|10,10,νίκης,νίκη,n-s---fg-,ADV
+10,Leuven|PaeanBrev|313|11,11,ἑπτά,ἑπτά,m--------,ATR_CO
+11,Leuven|PaeanBrev|313|12,12,καί,καί,c--------,COORD
+12,Leuven|PaeanBrev|313|13,13,εἴκοσι,εἴκοσι,m--------,ATR_CO
+13,Leuven|PaeanBrev|313|14,14,χιλιάδας,χιλιάς,n-p---fa-,OBJ
+14,Leuven|PaeanBrev|313|15,15,αἰχμαλώτων,αἰχμάλωτος,a-p---mg-,ATR
+15,Leuven|PaeanBrev|313|16,16,ἄγων,ἄγω,v-sppamn-,ADV

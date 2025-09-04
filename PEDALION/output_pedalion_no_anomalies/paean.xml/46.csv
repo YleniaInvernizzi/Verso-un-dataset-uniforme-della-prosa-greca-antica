@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|47|1,1,ἥ,ὅς,p-s---fn-,SBJ
+1,Leuven|PaeanBrev|47|2,2,καί,καί,c--------,AuxY
+2,Leuven|PaeanBrev|47|3,3,αἰχμαλωσίας,αἰχμαλωσία,n-s---fg-,ATR_CO
+3,Leuven|PaeanBrev|47|4,4,καί,καί,c--------,COORD
+4,Leuven|PaeanBrev|47|5,5,δουλείας,δουλεία,n-s---fg-,ATR_CO
+5,Leuven|PaeanBrev|47|6,6,περιέπεσε,περιπίπτω,v3saia---,PRED
+6,Leuven|PaeanBrev|47|7,7,τύχῃ,τύχη,n-s---fd-,OBJ

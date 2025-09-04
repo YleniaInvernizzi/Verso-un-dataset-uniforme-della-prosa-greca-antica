@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;Δράκοντος;Δράκων;n-s---mg-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;νόμοι;νόμος;n-p---mn-;SBJ
+4;μὲν;μέν;d--------;AuxY
+5;εἰσί;εἰμί;v3ppia---;PRED_CO
+6;,;punc;u--------;AuxX
+7;πολιτείᾳ;πολιτεία;n-s---fd-;OBJ
+8;δ᾽;δέ;c--------;COORD
+9;ὑπαρχούσῃ;ὑπάρχω;v-sppafd-;ATR
+10;τοὺς;ὁ;l-p---ma-;ATR
+11;νόμους;νόμος;n-p---ma-;OBJ
+12;ἔθηκεν;τίθημι;v3saia---;PRED_CO
+13;:;punc;u--------;AuxK

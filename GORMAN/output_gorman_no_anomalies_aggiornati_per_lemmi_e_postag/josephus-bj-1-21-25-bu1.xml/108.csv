@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;παρηκολούθει;παρακολουθέω;v3siia---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;Ἀντίπατρος;Ἀντίπατρος;n-s---mn-;SBJ_AP
+4;ἡ;ὁ;l-s---fn-;ATR
+5;τοῦ;ὁ;l-s---ng-;ATR
+6;μίσους;μῖσος;n-s---ng-;ATR
+7;ὑπόθεσις;ὑπόθεσις;n-s---fn-;SBJ_AP
+8;.;punc;u--------;AuxK

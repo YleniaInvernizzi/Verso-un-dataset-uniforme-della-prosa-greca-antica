@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;Σταγόνιον;Σταγόνιον;n-s---fn-;SBJ_CO
+2;καὶ;καί;c--------;COORD
+3;Ἄνθις;Ἄνθις;n-s---fn-;SBJ_CO
+4;ἀδελφαί;ἀδελφή;n-p---fn-;PNOM
+5;:;punc;u--------;AuxK

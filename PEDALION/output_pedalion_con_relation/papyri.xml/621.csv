@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31722|4|1,1,ἔπεμψα,πέμπω,v1saia---,PRED
+Leuven|31722|4|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|31722|4|3,3,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|31722|4|4,4,πρός,πρός,r--------,AuxP
+Leuven|31722|4|5,5,σέ,σύ,p2s---ca-,OBJ
+Leuven|31722|4|6,6,ἵνα,ἵνα,c--------,AuxC
+Leuven|31722|4|7,7,τό,ὁ,l-s---na-,ATR
+Leuven|31722|4|8,8,δοκοῦν,δοκέω,v-sppana-,OBJ
+Leuven|31722|4|9,9,σοι,σύ,p2s---cd-,OBJ
+Leuven|31722|4|10,10,μετ’,μετά,r--------,AuxP
+Leuven|31722|4|11,11,αὐτοῦ,αὐτός,p-s---mg-,ADV
+Leuven|31722|4|12,12,ποιήσῃς,ποιέω,v2sasa---,ADV
+Leuven|31722|4|13,13,...,...,z--------,GAP
+Leuven|31722|4|14,14,...,...,z--------,GAP

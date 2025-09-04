@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|405|1,1,τί,τίς,p-s---na-,OBJ
+Leuven|0557-001|405|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|405|3,3,ἐποίησας,ποιέω,v2saia---,PRED
+Leuven|0557-001|405|4,4,;,;,u--------,AuxK

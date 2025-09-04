@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|241|1,1,τούς,ὁ,l-p---ma-,ATR
+1,Leuven|PaeanBrev|241|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|241|3,3,πεσόντας,πίπτω,v-papama-,OBJ
+3,Leuven|PaeanBrev|241|4,4,ἐξ,ἐκ,r--------,AuxP
+4,Leuven|PaeanBrev|241|5,5,αὐτῶν,αὐτός,p-p---mg-,ATR
+5,Leuven|PaeanBrev|241|6,6,τῶν,ὁ,l-p---mg-,ATR
+6,Leuven|PaeanBrev|241|7,7,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,ATR
+7,Leuven|PaeanBrev|241|8,8,ταφῇ,ταφή,n-s---fd-,OBJ
+8,Leuven|PaeanBrev|241|9,9,παραδέδωκεν,παραδίδωμι,v3sria---,PRED

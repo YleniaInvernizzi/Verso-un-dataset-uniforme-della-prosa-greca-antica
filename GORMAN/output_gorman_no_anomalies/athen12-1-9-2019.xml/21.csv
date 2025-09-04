@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐκ,οὐ,d--------,AuxZ
+1,2,ἀρετᾷ,ἀρετάω,v3spia---,PRED
+2,3,κακὰ,κακός,a-p---nn-,ATR
+3,4,ἔργα,ἔργον,n-p---nn-,SBJ
+4,5,:,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀνίησι;ἀνίημι;v3spia---;PRED_CO
+2;γὰρ;γάρ;d--------;AuxY
+3;τὰς;ὁ;l-p---fa-;ATR
+4;ψυχὰς;ψυχή;n-p---fa-;OBJ
+5;καὶ;καί;c--------;COORD
+6;αὔξει;αὐξάνω;v3spia---;PRED_CO
+7;:;punc;u--------;AuxK

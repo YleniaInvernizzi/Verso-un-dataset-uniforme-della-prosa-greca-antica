@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὃ,ὁ,l-s---mn-,SBJ
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,εἶπε,εἶπον,v3saia---,PRED
+3,4,Κλέοβίν,Κλέοβις,n-s---ma-,OBJ_CO
+4,5,τε,τε,d--------,AuxY
+5,6,καὶ,καί,c--------,COORD
+6,7,Βίτωνα,Βίτων,n-s---ma-,OBJ_CO
+7,8,.,punc1,u--------,AuxK

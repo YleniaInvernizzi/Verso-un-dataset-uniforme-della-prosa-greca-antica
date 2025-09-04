@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τούτου,οὗτος,p-s---ng-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,αἴτιον,αἴτιος,a-s---na-,OBJ
+5,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+6,ὑμᾶς,σύ,p-p---ma-,OBJ
+7,προϊόντος,πρόειμι1,v-sppamg-,ADV
+8,τοῦ,ὁ,l-s---mg-,ATR
+9,λόγου,λόγος,n-s---mg-,SBJ
+10,διδάξω,διδάσκω,v1sfia---,PRED
+11,.,.,u--------,AuxK

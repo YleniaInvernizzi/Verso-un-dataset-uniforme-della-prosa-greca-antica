@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|229|1,1,ὑπό,ὑπό,r--------,AuxP
+Leuven|PaeanBrev|229|2,2,τούτους,οὗτος,p-p---ma-,ATR
+Leuven|PaeanBrev|229|3,3,τούς,ὁ,l-p---ma-,ATR
+Leuven|PaeanBrev|229|4,4,χρόνους,χρόνος,n-p---ma-,ADV
+Leuven|PaeanBrev|229|5,5,Ταραντίνοις,Ταραντῖνοι,n-p---md-,OBJ
+Leuven|PaeanBrev|229|6,6,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|229|7,7,ὑστάτῳ,ὕστατος,a-s---nd-,ADV
+Leuven|PaeanBrev|229|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|229|9,9,Ἰταλίας,Ἰταλία,n-s---fg-,ATR
+Leuven|PaeanBrev|229|10,10,πάσης,πᾶς,a-s---fg-,ATR
+Leuven|PaeanBrev|229|11,11,κειμένοις,κεῖμαι,v-pppemd-,ATR
+Leuven|PaeanBrev|229|12,12,ἐπήχθη,ἐπάγω,v3saip---,PRED
+Leuven|PaeanBrev|229|13,13,παρά,παρά,r--------,AuxP
+Leuven|PaeanBrev|229|14,14,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,OBJ
+Leuven|PaeanBrev|229|15,15,πόλεμος,πόλεμος,n-s---mn-,SBJ
+Leuven|PaeanBrev|229|16,16,.,.,u--------,AuxK

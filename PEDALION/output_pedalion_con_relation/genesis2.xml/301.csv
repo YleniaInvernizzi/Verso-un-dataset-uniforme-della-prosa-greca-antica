@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|302|1,1,πίε,πίνω,v2sama---,PRED
+Leuven|Genesis_deel2|302|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|302|3,3,κύριε,κύριος,n-s---mv-,ExD
+Leuven|Genesis_deel2|302|4,4,.,.,u--------,AuxK

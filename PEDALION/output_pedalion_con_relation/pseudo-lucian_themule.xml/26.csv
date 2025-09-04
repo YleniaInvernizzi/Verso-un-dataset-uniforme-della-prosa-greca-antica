@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|27|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|Ps-Luc|27|2,2,εἰπούσης,λέγω,v-sapafg-,ADV
+Leuven|Ps-Luc|27|3,3,ἡμεῖς,ἐγώ,p1p---cn-,SBJ
+Leuven|Ps-Luc|27|4,4,ἀπήιειμεν,ἄπειμι,v1piia---,PRED
+Leuven|Ps-Luc|27|5,5,λουσόμενοι,λούω,v-pfpmmn-,ADV
+Leuven|Ps-Luc|27|6,6,δόντες,δίδωμι,v-papamn-,ADV
+Leuven|Ps-Luc|27|7,7,αὐτῆι,αὐτός,p-s---fd-,OBJ
+Leuven|Ps-Luc|27|8,8,κριθιδίων,κριθίδιον,n-p---ng-,ATR
+Leuven|Ps-Luc|27|9,9,τιμὴν,τιμή,n-s---fa-,OBJ
+Leuven|Ps-Luc|27|10,10,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|27|11,11,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|27|12,12,ἵππον,ἵππος,n-s---ma-,ATR
+Leuven|Ps-Luc|27|13,13,·,·,u--------,AuxK

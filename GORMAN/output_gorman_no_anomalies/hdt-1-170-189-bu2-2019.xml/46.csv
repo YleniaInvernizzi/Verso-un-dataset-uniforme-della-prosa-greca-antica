@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τρὶς,τρίς,d--------,PNOM
+1,2,σφι,σφεῖς,p3p---md-,ADV
+2,3,τοῦτο,οὗτος,p-s---nn-,SBJ
+3,4,ἐγένετο,γίγνομαι,v3saim---,PRED
+4,5,.,punc1,u--------,AuxK

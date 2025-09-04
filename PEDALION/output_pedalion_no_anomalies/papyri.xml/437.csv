@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28410|8|1,1,λοιπὸν,λοιπός,a-s---na-,ADV
+1,Leuven|28410|8|2,2,πέμψον,πέμπω,v2sama---,PRED
+2,Leuven|28410|8|3,3,εἴς,εἰς,r--------,AuxP
+3,Leuven|28410|8|4,4,με,ἐγώ,p1s---ca-,OBJ
+4,Leuven|28410|8|5,5,παρακαλῶ,παρακαλέω,v1spia---,ExD
+5,Leuven|28410|8|6,6,σε,σύ,p2s---ca-,OBJ

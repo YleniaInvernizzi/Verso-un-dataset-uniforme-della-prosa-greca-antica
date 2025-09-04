@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|47|1,1,ἐδόκει,δοκέω,v3siia---,PRED
+1,Leuven|0554-001|47|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|0554-001|47|3,3,τοῦτο,οὗτος,p-s---nn-,SBJ
+3,Leuven|0554-001|47|4,4,τοῖς,ὁ,l-p---md-,ATR
+4,Leuven|0554-001|47|5,5,ὁρῶσιν,ὁράω,v-pppamd-,OBJ
+5,Leuven|0554-001|47|6,6,αἰδώς,αἰδώς,n-s---fn-,PNOM

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;εἰ;εἰ;c--------;AuxC
+2;γὰρ;γάρ;d--------;AuxY
+3;ἦμεν;εἰμί;v1piia---;ADV
+4;νησιῶται;νησιώτης;n-p---mn-;PNOM
+5;,;punc;u--------;AuxX
+6;τίνες;τις;p-p---cn-;SBJ
+7;ἂν;ἄν;d--------;AuxY
+8;ἀληπτότεροι;ἄληπτος;a-p---mnc;PNOM
+9;ἦσαν;εἰμί;v3piia---;PRED
+10;";";punc;u--------;AuxK

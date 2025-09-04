@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---na-,ADV
+2,λόγους,λόγος,n-p---ma-,OBJ
+3,πλάττεις,πλήσσω,v2spia---,PRED
+4,;,punc1,u--------,AuxK

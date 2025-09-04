@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|524|1,1,ἀνάβλεψον,ἀναβλέπω,v2sama---,PRED_CO
+Leuven|Genesis|524|2,2,δή,δή,d--------,AuxY
+Leuven|Genesis|524|3,3,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|524|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|524|5,5,οὐρανόν,οὐρανός,n-s---ma-,OBJ
+Leuven|Genesis|524|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|524|7,7,ἀρίθμησον,ἀριθμέω,v2sama---,PRED_CO
+Leuven|Genesis|524|8,8,τούς,ὁ,l-p---ma-,ATR
+Leuven|Genesis|524|9,9,ἀστέρας,ἀστήρ,n-p---ma-,OBJ
+Leuven|Genesis|524|10,10,",",",",u--------,AuxX
+Leuven|Genesis|524|11,11,εἰ,εἰ,c--------,AuxC
+Leuven|Genesis|524|12,12,δυνήσῃ,δύναμαι,v2sfim---,ADV
+Leuven|Genesis|524|13,13,ἐξαριθμῆσαι,ἐξαριθμέω,v--ana---,OBJ
+Leuven|Genesis|524|14,14,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|Genesis|524|15,15,.,.,u--------,AuxK

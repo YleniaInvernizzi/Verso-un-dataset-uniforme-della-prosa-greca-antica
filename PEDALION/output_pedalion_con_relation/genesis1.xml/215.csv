@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|216|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|216|2,2,εὐηρέστησεν,εὐαρεστέω,v3saia---,PRED_CO
+Leuven|Genesis|216|3,3,Ενωχ,Ενωχ,n-s---mn-,SBJ
+Leuven|Genesis|216|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|216|5,5,θεῷ,θεός,n-s---md-,OBJ
+Leuven|Genesis|216|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|216|7,7,οὐχ,οὐ,d--------,AuxZ
+Leuven|Genesis|216|8,8,ηὑρίσκετο,εὑρίσκω,v3siie---,PRED_CO
+Leuven|Genesis|216|9,9,",",",",u--------,AuxX
+Leuven|Genesis|216|10,10,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|216|11,11,μετέθηκεν,μετατίθημι,v3saia---,ADV
+Leuven|Genesis|216|12,12,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|216|13,13,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|216|14,14,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|216|15,15,.,.,u--------,AuxK

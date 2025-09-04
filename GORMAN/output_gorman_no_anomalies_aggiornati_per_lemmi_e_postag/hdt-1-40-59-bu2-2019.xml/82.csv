@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;εἰ;εἰ;c--------;AuxC
+2;τούτοισι;οὗτος;p-p---nd-;OBJ
+3;τεκμαιρόμενον;τεκμαίρομαι;v-sppena-;OBJ
+4;δεῖ;δέω;v3siia---;ADV
+5;λέγειν;λέγω;v--pna---;SBJ
+6;,;punc;u--------;AuxX
+7;ἦσαν;εἰμί;v3piia---;PRED
+8;οἱ;ὁ;l-p---mn-;ATR
+9;Πελασγοὶ;Πελασγός;n-p---mn-;SBJ
+10;βάρβαρον;βάρβαρος;a-s---fa-;ATR
+11;γλῶσσαν;γλῶσσα;n-s---fa-;OBJ
+12;ἱέντες;ἵημι;v-pppamn-;PNOM
+13;.;punc;u--------;AuxK

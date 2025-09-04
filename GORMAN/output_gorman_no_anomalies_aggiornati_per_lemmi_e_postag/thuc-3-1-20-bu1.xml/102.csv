@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;νῆές;ναῦς;n-p---fn-;SBJ
+2;τε;τε;d--------;AuxY
+3;αἱ;ὁ;l-p---fn-;ATR
+4;πᾶσαι;πᾶς;a-p---fn-;ATR
+5;τὸν;ὁ;l-s---ma-;ATR
+6;αὐτὸν;αὐτός;a-s---ma-;ATR
+7;μισθὸν;μισθός;n-s---ma-;OBJ
+8;ἔφερον;φέρω;v3piia---;PRED
+9;.;punc;u--------;AuxK

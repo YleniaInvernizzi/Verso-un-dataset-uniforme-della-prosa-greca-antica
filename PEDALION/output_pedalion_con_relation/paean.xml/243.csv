@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|245|1,1,ἧκον,ἥκω,v3piia---,PRED
+Leuven|PaeanBrev|245|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|245|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|245|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|245|5,5,Πραίνεστον,Πραίνεστος,n-s---fa-,OBJ
+Leuven|PaeanBrev|245|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|245|7,7,πόλεως,πόλις,n-s---fg-,OBJ
+Leuven|PaeanBrev|245|8,8,ὀκτωκαιδεκάτῳ,ὀκτωκαιδέκατος,a-s---nd-,ATR
+Leuven|PaeanBrev|245|9,9,σημείῳ,σημεῖον,n-s---nd-,ADV
+Leuven|PaeanBrev|245|10,10,ἀφεστῶσαν,ἀφίστημι,v-srpafap,ATR
+Leuven|PaeanBrev|245|11,11,.,.,u--------,AuxK

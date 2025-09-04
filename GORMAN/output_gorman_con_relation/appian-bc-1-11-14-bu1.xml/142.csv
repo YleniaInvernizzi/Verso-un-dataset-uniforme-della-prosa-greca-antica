@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τοῦτο,οὗτος,p-s---nn-,SBJ
+3,τέλος,τέλος,n-s---nn-,PNOM
+4,ἐγένετο,γίγνομαι,v3saim---,PRED
+5,τῆς,ὁ,l-s---fg-,ATR
+6,τότε,τότε,d--------,ATR
+7,μάχης,μάχη,n-s---fg-,ATR
+8,.,punc1,u--------,AuxK

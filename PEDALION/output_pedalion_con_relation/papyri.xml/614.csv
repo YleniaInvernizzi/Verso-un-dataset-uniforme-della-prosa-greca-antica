@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31649|5|1,1,περί,περί,r--------,AuxP
+Leuven|31649|5|2,2,οὗτινος,ὅστις,p-s---mg-,ADV
+Leuven|31649|5|3,3,ἐάν,ἐάν,c--------,AuxC
+Leuven|31649|5|4,4,χρήζῃς,χρῄζω,v2spsa---,ADV
+Leuven|31649|5|5,5,ἡδέως,ἡδύς,d--------,ADV
+Leuven|31649|5|6,6,ποιοῦντι,ποιέω,v-sppamd-,ADV
+Leuven|31649|5|7,7,ἀνόκνως,ἀνόκνως,d--------,ADV
+Leuven|31649|5|8,8,δήλωσον,δηλόω,v2sama---,PRED
+Leuven|31649|5|9,9,.,.,u--------,AuxK

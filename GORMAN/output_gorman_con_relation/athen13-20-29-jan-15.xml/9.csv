@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,αἰνῶς,αἰνός,d--------,ADV
+2,ἀθανάτῃσι,ἀθάνατος,a-p---fd-,ATR
+3,θεῇς,θεά,n-p---fd-,OBJ
+4,εἰς,εἰς,r--------,AuxP
+5,ὦπα,ὤψ,n-s---fa-,ADV
+6,ἔοικεν,ἔοικα,v3sria---,PRED
+7,.,punc1,u--------,AuxK

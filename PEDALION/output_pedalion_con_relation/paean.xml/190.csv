@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|192|1,1,Λατῖνοι,Λατῖνος,n-p---mn-,SBJ
+Leuven|PaeanBrev|192|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|192|3,3,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|192|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|192|5,5,στρατολογίαν,στρατολογία,n-s---fa-,OBJ
+Leuven|PaeanBrev|192|6,6,ἀρνησάμενοι,ἀρνέομαι,v-papmmn-,APOS
+Leuven|PaeanBrev|192|7,7,καθάπερ,καθά,c--------,ADV
+Leuven|PaeanBrev|192|8,8,ἔκ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|192|9,9,τινος,τις,p-s---cg-,ATR
+Leuven|PaeanBrev|192|10,10,μελέτης,μελέτη,n-s---fg-,ADV
+Leuven|PaeanBrev|192|11,11,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|192|12,12,μεῖζον,μέγας,a-s---nac,OBJ
+Leuven|PaeanBrev|192|13,13,ἐχώρησαν,χωρέω,v3paia---,PRED
+Leuven|PaeanBrev|192|14,14,·,·,u--------,AuxK

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ποικίλος;ποικίλος;a-s---mn-;PNOM_CO
+2;δʼ;δέ;d--------;AuxY
+3;ὢν;εἰμί;v-sppamn-;ADV
+4;καὶ;καί;c--------;COORD
+5;διὰ;διά;r--------;AuxP
+6;πλειόνων;πολύς;a-p---ngc;ADV
+7;λεγόμενος;λέγω;v-sppemn-;PNOM_CO
+8;ὀλίγοις;ὀλίγος;a-p---md-;ADV
+9;ἐφικτός;ἐφικτός;a-s---mn-;PNOM
+10;ἐστιν;εἰμί;v3spia---;PRED
+11;.;punc;u--------;AuxK

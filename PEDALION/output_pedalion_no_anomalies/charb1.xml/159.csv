@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|160|1,1,ἔπεισεν,πείθω,v3saia---,PRED
+1,Leuven|0554-001|160|2,2,οὗτος,οὗτος,p-s---mn-,ATR
+2,Leuven|0554-001|160|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|0554-001|160|4,4,λόγος,λόγος,n-s---mn-,SBJ
+4,Leuven|0554-001|160|5,5,·,·,u--------,AuxK

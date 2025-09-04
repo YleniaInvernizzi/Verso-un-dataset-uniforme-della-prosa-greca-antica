@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|435|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|435|2,2,ᾠκοδόμησεν,οἰκοδομέω,v3saia---,PRED
+2,Leuven|Genesis|435|3,3,ἐκεῖ,ἐκεῖ,d--------,ADV
+3,Leuven|Genesis|435|4,4,Αβραμ,Αβραμ,n-s---mn-,SBJ
+4,Leuven|Genesis|435|5,5,θυσιαστήριον,θυσιαστήριον,n-s---na-,OBJ
+5,Leuven|Genesis|435|6,6,κυρίῳ,κύριος,n-s---md-,ATR
+6,Leuven|Genesis|435|7,7,τῷ,ὁ,l-s---md-,ATR
+7,Leuven|Genesis|435|8,8,ὀφθέντι,ὁράω,v-sappmd-,ATR
+8,Leuven|Genesis|435|9,9,αὐτῷ,αὐτός,p-s---md-,ADV

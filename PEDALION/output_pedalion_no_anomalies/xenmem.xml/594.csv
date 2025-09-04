@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0032-002|595|1,1,τοῦτό,οὗτος,p-s---na-,OBJ
+1,Leuven|0032-002|595|2,2,γε,γε,d--------,AuxZ
+2,Leuven|0032-002|595|3,3,οὐκ,οὐ,d--------,AuxZ
+3,Leuven|0032-002|595|4,4,οἴομαι,οἴομαι,v1spie---,PRED

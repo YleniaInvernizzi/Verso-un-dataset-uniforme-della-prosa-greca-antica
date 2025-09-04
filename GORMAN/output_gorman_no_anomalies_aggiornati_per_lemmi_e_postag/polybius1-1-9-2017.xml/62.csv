@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;Ῥωμαῖοι;Ῥωμαῖος;n-p---mn-;SBJ
+4;βαρέως;βαρύς;d--------;ADV
+5;μὲν;μέν;d--------;AuxY
+6;ἔφερον;φέρω;v3piia---;PRED
+7;τὸ;ὁ;l-s---na-;ATR
+8;γεγονός;γίγνομαι;v-srpana-;OBJ
+9;:;punc;u--------;AuxK

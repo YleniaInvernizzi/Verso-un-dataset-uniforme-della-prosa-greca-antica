@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τούτους,οὗτος,p-p---ma-,OBJ
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,ἀναγορευέτω,ἀναγορεύω,v3spma---,PRED
+3,4,.,punc1,u--------,AuxK

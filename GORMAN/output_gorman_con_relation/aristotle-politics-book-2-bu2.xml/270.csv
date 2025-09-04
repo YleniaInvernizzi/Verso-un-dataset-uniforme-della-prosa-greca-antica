@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,δῆμον,δῆμος,n-s---ma-,OCOMP
+2,δ᾽,δέ,d--------,AuxY
+3,ἐποίει,ποιέω,v3siia---,PRED
+4,τὰ,ὁ,l-p---na-,ATR
+5,τρία,τρεῖς,a-p---na_,ATR
+6,μέρη,μέρος,n-p---na-,OBJ
+7,τῆς,ὁ,l-s---fg-,ATR
+8,πόλεως,πόλις,n-s---fg-,ATR
+9,:,punc1,u--------,AuxK

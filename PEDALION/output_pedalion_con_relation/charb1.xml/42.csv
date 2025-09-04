@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|43|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0554-001|43|2,2,πόλις,πόλις,n-s---fn-,SBJ
+Leuven|0554-001|43|3,3,σε,σύ,p2s---ca-,OBJ
+Leuven|0554-001|43|4,4,νυμφαγωγεῖ,νυμφαγωγέω,v3spia---,PRED
+Leuven|0554-001|43|5,5,``,``,u--------,AuxG
+Leuven|0554-001|43|6,6,.,.,u--------,AuxK

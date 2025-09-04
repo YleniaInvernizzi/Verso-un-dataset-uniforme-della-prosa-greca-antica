@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|8848|6|1,1,τά,ὁ,l-p---na-,ATR
+Leuven|8848|6|2,2,νῦν,νῦν,d--------,ADV
+Leuven|8848|6|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|8848|6|4,4,γράφω,γράφω,v1spia---,PRED
+Leuven|8848|6|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|8848|6|6,6,ἐπεί,ἐπεί,c--------,AuxC
+Leuven|8848|6|7,7,ὡς,ὡς,c--------,AuxC
+Leuven|8848|6|8,8,πατήρ,πατήρ,n-s---mn-,SBJ
+Leuven|8848|6|9,9,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|8848|6|10,10,εἶ,εἰμί,v2spia---,ADV
+Leuven|8848|6|11,11,σύ,σύ,p2s---cn-,SBJ
+Leuven|8848|6|12,12,.,.,u--------,AuxK
+Leuven|8848|6|13,13,[0],,---------,ADV

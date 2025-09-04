@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|390|1,1,ὁρᾶις,ὁράω,v2spia---,PRED
+Leuven|Ps-Luc|390|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|390|3,3,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|390|4,4,ἔστιν,εἰμί,v3spia---,OBJ
+Leuven|Ps-Luc|390|5,5,εὔσαρκος,εὔσαρκος,a-s---mn-,PNOM_CO
+Leuven|Ps-Luc|390|6,6,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|390|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|390|8,8,ἀγρίου,ἄγριος,a-s---mg-,ADV
+Leuven|Ps-Luc|390|9,9,ἐκείνου,ἐκεῖνος,p-s---mg-,ATR
+Leuven|Ps-Luc|390|10,10,πάντα,πᾶς,a-s---ma-,ADV
+Leuven|Ps-Luc|390|11,11,ἀμείνων,ἀγαθός,a-s---mnc,PNOM_CO
+Leuven|Ps-Luc|390|12,12,;,;,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27385|2|1,1,πρὸ,πρό,r--------,AuxP
+Leuven|27385|2|2,2,τῶν,ὁ,l-p---ng-,ATR
+Leuven|27385|2|3,3,ὅλων,ὅλος,a-p---ng-,ADV
+Leuven|27385|2|4,4,εὔχομαί,εὔχομαι,v1spie---,PRED
+Leuven|27385|2|5,5,σε,σύ,p2s---ca-,SBJ
+Leuven|27385|2|6,6,ὑγιαίνειν,ὑγιαίνω,v--pna---,OBJ
+Leuven|27385|2|7,7,.,.,u--------,AuxK

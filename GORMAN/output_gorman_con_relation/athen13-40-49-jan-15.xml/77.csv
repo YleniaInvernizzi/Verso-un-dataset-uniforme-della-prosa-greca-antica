@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,περίλαβε,περιλαμβάνω,v2sama---,OBJ_CO
+2,",",punc1,u--------,AuxX
+3,φησί,φημί,v3spia---,PRED
+4,",",punc1,u--------,AuxX
+5,καὶ,καί,c--------,COORD
+6,φίλησον,φιλέω,v2sama---,OBJ_CO
+7,",",punc1,u--------,AuxX
+8,εἰ,εἰ,c--------,AuxC
+9,θέλει,ἐθέλω,v3spia---,ADV
+10,.,punc1,u--------,AuxK

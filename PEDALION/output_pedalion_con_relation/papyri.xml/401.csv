@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|26|1,1,καὶ,καί,d--------,AuxY
+Leuven|27679|26|2,2,αὐτὴ,αὐτός,p-s---fn-,ADV
+Leuven|27679|26|3,3,γὰρ,γάρ,d--------,AuxY
+Leuven|27679|26|4,4,ἀγνωμονεστάτη,ἀγνώμων,a-s---fns,PNOM
+Leuven|27679|26|5,5,ἐστί,εἰμί,v3spia---,PRED
+Leuven|27679|26|6,6,.,.,u--------,AuxK

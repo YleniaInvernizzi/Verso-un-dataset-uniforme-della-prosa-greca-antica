@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;Σμύρνην;Σμύρνα;n-s---fa-;OBJ
+2;δὲ;δέ;d--------;AuxY
+3;ὧδε;ὧδε;d--------;ADV
+4;ἀπέβαλον;ἀποβάλλω;v3paia---;PRED
+5;Αἰολέες;Αἰολεύς;n-p---mn-;SBJ
+6;.;punc;u--------;AuxK

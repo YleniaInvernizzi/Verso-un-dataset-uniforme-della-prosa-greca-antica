@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,δικαίως,δίκαιος,d--------,ADV
+2,μέντἂν,μέντοι,d--------,AuxY
+3,ἀπέθανον,ἀποθνήσκω,v1saia---,PRED
+4,.,punc1,u--------,AuxK

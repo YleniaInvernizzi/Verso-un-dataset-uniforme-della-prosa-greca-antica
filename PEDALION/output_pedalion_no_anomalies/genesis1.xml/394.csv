@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|395|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|395|2,2,αὗται,οὗτος,p-p---fn-,SBJ
+2,Leuven|Genesis|395|3,3,αἱ,ὁ,l-p---fn-,ATR
+3,Leuven|Genesis|395|4,4,γενέσεις,γένεσις,n-p---fn-,PNOM
+4,Leuven|Genesis|395|5,5,Σημ,Σημ,n-s---mg-,ATR
+5,Leuven|Genesis|395|6,6,·,·,u--------,AuxK

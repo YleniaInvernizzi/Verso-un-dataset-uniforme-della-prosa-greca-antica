@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|478|1,1,τί,τίς,p-s---na-,OBJ
+1,Leuven|0557-001|478|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|0557-001|478|3,3,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+3,Leuven|0557-001|478|4,4,ποιήσουσιν,ποιέω,v3pfia---,PRED

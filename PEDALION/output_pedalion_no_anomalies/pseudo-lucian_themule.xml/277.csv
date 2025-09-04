@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|278|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|278|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|278|3,3,τότε,τότε,d--------,ADV
+3,Leuven|Ps-Luc|278|4,4,μάλιστα,μάλα,d-------s,ADV
+4,Leuven|Ps-Luc|278|5,5,κατηρώμην,καταρόω,v1siie---,PRED
+5,Leuven|Ps-Luc|278|6,6,τὴν,ὁ,l-s---fa-,ATR
+6,Leuven|Ps-Luc|278|7,7,Παλαίστραν,Παλαίστρα,n-s---fa-,OBJ
+7,Leuven|Ps-Luc|278|8,8,ὡς,ὡς,d--------,AuxY
+8,Leuven|Ps-Luc|278|9,9,ὄνον,ὄνος,n-s---fa-,OCOMP_CO
+9,Leuven|Ps-Luc|278|10,10,με,ἐγώ,p1s---ca-,OBJ
+10,Leuven|Ps-Luc|278|11,11,καὶ,καί,c--------,COORD
+11,Leuven|Ps-Luc|278|12,12,οὐ,οὐ,d--------,AuxZ
+12,Leuven|Ps-Luc|278|13,13,κύνα,κύων,n-s---ma-,OCOMP_CO
+13,Leuven|Ps-Luc|278|14,14,τῆι,ὁ,l-s---fd-,ATR
+14,Leuven|Ps-Luc|278|15,15,τέχνηι,τέχνη,n-s---fd-,ADV
+15,Leuven|Ps-Luc|278|16,16,μεταθεῖσαν,μετατίθημι,v-sapafa-,ADV

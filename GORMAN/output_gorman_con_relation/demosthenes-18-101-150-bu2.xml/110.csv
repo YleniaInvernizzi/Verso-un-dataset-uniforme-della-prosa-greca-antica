@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅρα,ὁράω,v2spma---,AuxY
+2,μὴ,μή,d--------,AuxZ
+3,τούτων,οὗτος,p-p---mg-,ATR
+4,μὲν,μέν,d--------,AuxY
+5,ἐχθρὸς,ἐχθρός,n-s---mn-,PNOM
+6,ᾖς,εἰμί,v2spsa---,PRED_CO
+7,",",punc1,u--------,AuxX
+8,ἐμοὶ,ἐγώ,p1s---md-,OBJ
+9,δὲ,δέ,c--------,COORD
+10,προσποιῇ,προσποιέω,v2spse---,PRED_CO
+11,.,punc1,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,συνέβαινε,συμβαίνω,v3siia---,PRED
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,αὐτοῖς,αὐτός,p-p---nd-,ADV
+3,4,τἀναντία,ἐναντίος,a-p---nn-,SBJ
+4,5,:,punc1,u--------,AuxK

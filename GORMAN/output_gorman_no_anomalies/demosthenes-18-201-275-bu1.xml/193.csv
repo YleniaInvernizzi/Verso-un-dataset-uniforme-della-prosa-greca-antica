@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐδίδασκες,διδάσκω,v2siia---,PRED_CO
+1,2,γράμματα,γράμμα,n-p---na-,OBJ
+2,3,",",punc1,u--------,AuxX
+3,4,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+4,5,δ᾽,δέ,c--------,COORD
+5,6,ἐφοίτων,φοιτάω,v1siia---,PRED_CO
+6,7,.,punc1,u--------,AuxK

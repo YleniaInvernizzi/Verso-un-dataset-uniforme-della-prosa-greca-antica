@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐκομίσθη,κομίζω,v3saip---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+4,ἐπὶ,ἐπί,r--------,AuxP
+5,τῆς,ὁ,l-s---fg-,ATR
+6,τριήρους,τριήρης,n-s---fg-,ADV
+7,.,punc1,u--------,AuxK

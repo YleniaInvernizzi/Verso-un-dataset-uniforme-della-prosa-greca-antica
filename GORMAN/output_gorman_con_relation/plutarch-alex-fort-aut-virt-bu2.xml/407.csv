@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τῆς,ὁ,l-s---fg-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,νῦν,νῦν,d--------,ATR
+4,ἐξεταζομένης,ἐξετάζω,v-sppefg-,ATR
+5,τύχης,τύχη,n-s---fg-,ATR
+6,οἷον,οἷος,a-s---nn-,PNOM
+7,τὸ,ὁ,l-s---nn-,ATR
+8,ἔργον,ἔργον,n-s---nn-,SBJ
+9,;,punc1,u--------,AuxK
+10,ἐστιν,εἰμί,v3spia---,PRED

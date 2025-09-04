@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,λοιπὸν,λοιπός,a-s---na-,ADV
+2,ἀδήλου,ἄδηλος,a-s---fg-,PNOM
+3,τῆς,ὁ,l-s---fg-,ATR
+4,ἐντυχίας,ἐντυχία,n-s---fg-,SBJ
+5,οὔσης,εἰμί,v-sppafg-,ADV
+6,τίσιν,τις,a-p---fd_,ATR
+7,ἀπαντήσει,ἀπάντησις,n-s---fd-,ATR
+8,φυλάσσεται,φυλάζω,v3sasm---,PRED
+9,·,punc1,u--------,AuxK

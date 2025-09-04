@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|188|1,1,ἐξανέστησεν,ἐξανίστημι,v3saia---,PRED
+1,Leuven|Genesis|188|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Genesis|188|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|Genesis|188|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|188|5,5,θεός,θεός,n-s---mn-,SBJ
+5,Leuven|Genesis|188|6,6,σπέρμα,σπέρμα,n-s---na-,OBJ
+6,Leuven|Genesis|188|7,7,ἕτερον,ἕτερος,a-s---na-,ATR
+7,Leuven|Genesis|188|8,8,ἀντί,ἀντί,r--------,AuxP
+8,Leuven|Genesis|188|9,9,Αβελ,Αβελ,n-s---mg-,ADV
+10,Leuven|Genesis|188|11,11,ὅν,ὅς,p-s---ma-,OBJ
+11,Leuven|Genesis|188|12,12,ἀπέκτεινεν,ἀποκτείνω,v3saia---,ATR
+12,Leuven|Genesis|188|13,13,Καιν,Καιν,n-s---mn-,SBJ

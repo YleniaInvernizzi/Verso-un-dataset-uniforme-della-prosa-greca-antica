@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|5|1,1,μέχρι,μέχρι,r--------,AuxP
+1,Leuven|0557-001|5|2,2,τοῦ,ὁ,l-s---ng-,ATR
+2,Leuven|0557-001|5|3,3,διαγνῶναι,διαγιγνώσκω,v--ana---,ADV
+3,Leuven|0557-001|5|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|0557-001|5|5,5,μέλος,μέλος,n-s---na-,OBJ

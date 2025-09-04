@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,κάλει,καλέω,v2spma---,PRED
+2,μοι,ἐγώ,p1s---md-,ADV
+3,τὸν,ὁ,l-s---ma-,ATR
+4,Ἡγήσανδρον,Ἡγήσανδρος,n-s---ma-,OBJ
+5,.,punc1,u--------,AuxK

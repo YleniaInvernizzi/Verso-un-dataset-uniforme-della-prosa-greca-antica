@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|454|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|454|2,2,νῦν,νῦν,d--------,ADV
+Leuven|Genesis|454|3,3,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis|454|4,4,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|454|5,5,γυνή,γυνή,n-s---fn-,SBJ
+Leuven|Genesis|454|6,6,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|454|7,7,ἐναντίον,ἐναντίον,r--------,AuxP
+Leuven|Genesis|454|8,8,σου,σύ,p2s---cg-,PNOM
+Leuven|Genesis|454|9,9,·,·,u--------,AuxK
+Leuven|Genesis|454|10,10,[0],,,PRED

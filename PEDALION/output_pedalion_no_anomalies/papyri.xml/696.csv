@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|40821|6|1,1,πέμψεις,πέμπω,v2sfia---,PRED
+1,Leuven|40821|6|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|40821|6|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|40821|6|4,4,μετρητήν,μετρητής,n-s---ma-,OBJ
+4,Leuven|40821|6|5,5,ἐλαίου,ἔλαιον,n-s---ng-,ATR
+5,Leuven|40821|6|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|40821|6|7,7,οὔσης,εἰμί,v-sppafg-,ATR
+7,Leuven|40821|6|8,8,τιμῆς,τιμή,n-s---fg-,ATR
+8,Leuven|40821|6|9,9,μόνον,μόνον,d--------,AuxZ
+9,Leuven|40821|6|10,10,καλοῦ,καλός,a-s---ng-,ATR

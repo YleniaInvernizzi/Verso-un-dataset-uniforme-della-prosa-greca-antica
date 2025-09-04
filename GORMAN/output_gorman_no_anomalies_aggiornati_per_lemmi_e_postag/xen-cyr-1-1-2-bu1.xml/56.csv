@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;διδάσκουσι;διδάσκω;v3ppia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;αὐτοὺς;αὐτός;p-p---ma-;OBJ
+4;καὶ;καί;d--------;AuxZ
+5;πείθεσθαι;πείθω;v--pne---;OBJ
+6;τοῖς;ὁ;l-p---md-;ATR
+7;ἄρχουσι;ἄρχω;v-pppamd-;OBJ
+8;·;punc;u--------;AuxK

@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|30|1,1,τίς,τίς,p-s---na-,PNOM
+Leuven|Genesis_deel3|30|2,2,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|Genesis_deel3|30|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel3|30|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,SBJ
+Leuven|Genesis_deel3|30|5,5,ἐκεῖνος,ἐκεῖνος,p-s---mn-,ATR
+Leuven|Genesis_deel3|30|6,6,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel3|30|7,7,πορευόμενος,πορεύω,v-sppemn-,ATR
+Leuven|Genesis_deel3|30|8,8,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel3|30|9,9,τῷ,ὁ,l-s---nd-,ATR
+Leuven|Genesis_deel3|30|10,10,πεδίῳ,πεδίον,n-s---nd-,ADV
+Leuven|Genesis_deel3|30|11,11,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel3|30|12,12,συνάντησιν,συνάντησις,n-s---fa-,ADV
+Leuven|Genesis_deel3|30|13,13,ἡμῖν,ἐγώ,p-p----d-,ATR
+Leuven|Genesis_deel3|30|14,14,;,;,u--------,AuxK

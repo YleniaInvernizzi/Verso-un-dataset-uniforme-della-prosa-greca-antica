@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|267|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|267|2,2,ἐξῆλθεν,ἐξέρχομαι,v3saia---,PRED_CO
+2,Leuven|Genesis_deel3|267|3,3,Ιακωβ,Ἰακώβ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|267|4,4,ἀπό,ἀπό,r--------,AuxP
+4,Leuven|Genesis_deel3|267|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Genesis_deel3|267|6,6,φρέατος,φρέαρ,n-s---ng-,OBJ
+6,Leuven|Genesis_deel3|267|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|Genesis_deel3|267|8,8,ὅρκου,ὅρκος,n-s---mg-,ATR
+8,Leuven|Genesis_deel3|267|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel3|267|10,10,ἐπορεύθη,πορεύω,v3saip---,PRED_CO
+10,Leuven|Genesis_deel3|267|11,11,εἰς,εἰς,r--------,AuxP
+11,Leuven|Genesis_deel3|267|12,12,Χαρραν,Χαρραν,n-s----g-,OBJ

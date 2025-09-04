@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Χρυσάνταν,Χρυσάντας,n-s---ma-,OBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἐφίλησε,φιλέω,v3saia---,PRED
+4,προσαγαγόμενος,προσάγω,v-sapmmn-,ADV
+5,.,punc1,u--------,AuxK

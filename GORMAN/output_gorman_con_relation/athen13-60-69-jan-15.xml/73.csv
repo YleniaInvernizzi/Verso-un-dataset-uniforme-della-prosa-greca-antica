@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃς,ὅς,p-s---mn-,SBJ
+2,καὶ,καί,d--------,AuxZ
+3,περὶ,περί,r--------,AuxP
+4,Σινώπης,Σινώπη,n-s---fg-,ADV
+5,τῆς,ὁ,l-s---fg-,ATR
+6,ἑταίρας,ἑταίρα,n-s---fg-,ATR
+7,τάδε,ὅδε,p-p---na-,OBJ
+8,λέγει,λέγω3,v3spia---,PRED
+9,:,punc1,u--------,AuxK

@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀπικομένοισι;ἀφικνέομαι;v-papmmd-;ADV_CO
+2;δὲ;δέ;d--------;AuxY
+3;τοῖσι;ὁ;l-p---md-;ATR
+4;Λυδοῖσι;Λυδός;n-p---md-;OBJ
+5;καὶ;καί;c--------;COORD
+6;λέγουσι;λέγω;v-pppamd-;ADV_CO
+7;τὰ;ὁ;l-p---na-;ATR
+8;ἐντεταλμένα;ἐντέλλω;v-prpena-;OBJ
+9;τὴν;ὁ;l-s---fa-;ATR
+10;Πυθίην;Πυθία;n-s---fa-;SBJ
+11;λέγεται;λέγω;v3spie---;PRED
+12;εἰπεῖν;λέγω;v--ana---;SBJ
+13;τάδε;ὅδε;p-p---na-;OBJ
+14;.;punc;u--------;AuxK

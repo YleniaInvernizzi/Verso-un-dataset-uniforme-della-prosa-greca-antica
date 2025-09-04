@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Γναθαίνης,Γνάθαινα,n-s---fg-,OBJ
+2,μὲν,μέν,d--------,AuxY
+3,οὕτως,οὕτως,d--------,ADV
+4,:,punc1,u--------,AuxK
+5,[0],,,PRED

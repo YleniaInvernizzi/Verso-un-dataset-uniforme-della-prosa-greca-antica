@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31314|3|1,1,ἀφῆκες,ἀφίημι,v2saia---,PRED
+Leuven|31314|3|2,2,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|31314|3|3,3,μή,μή,d--------,AuxZ
+Leuven|31314|3|4,4,κηδεῦσαι,κηδεύω,v--ana---,OBJ
+Leuven|31314|3|5,5,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|31314|3|6,6,.,.,u--------,AuxK

@@ -1,0 +1,4 @@
+@id,@form,@lemma,@postag,@relation
+1,τέθνηκε,θνήσκω,v3sria---,PRED
+2,Φίλιππος,Φίλιππος,n-s---mn-,SBJ
+3,;,punc1,u--------,AuxK

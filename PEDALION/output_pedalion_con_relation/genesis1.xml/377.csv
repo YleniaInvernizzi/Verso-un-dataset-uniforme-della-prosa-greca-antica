@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|378|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|378|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED
+Leuven|Genesis|378|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|378|4,4,κατοίκησις,κατοίκησις,n-s---fn-,SBJ
+Leuven|Genesis|378|5,5,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|Genesis|378|6,6,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis|378|7,7,Μασση,Μασση,n-s----g-,PNOM
+Leuven|Genesis|378|8,8,ἕως,ἕως,c--------,AuxC
+Leuven|Genesis|378|9,9,ἐλθεῖν,ἔρχομαι,v--ana---,PNOM
+Leuven|Genesis|378|10,10,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|378|11,11,Σωφηρα,Σωφηρα,n-s----a-,OBJ
+Leuven|Genesis|378|12,12,",",",",u--------,AuxX
+Leuven|Genesis|378|13,13,ὄρος,ὄρος,n-s---na-,APOS
+Leuven|Genesis|378|14,14,ἀνατολῶν,ἀνατολή,n-p---fg-,ATR
+Leuven|Genesis|378|15,15,.,.,u--------,AuxK

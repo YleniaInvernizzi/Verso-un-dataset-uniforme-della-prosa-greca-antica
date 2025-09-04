@@ -1,0 +1,5 @@
+@id;@form;@lemma;@postag;@relation
+1;χόρια;χόριον;n-p---na-;OBJ
+2;μὲν;μέν;d--------;AuxY
+3;ποιήσομεν;ποιέω;v1pfia---;PRED
+4;--;punc;u--------;AuxK

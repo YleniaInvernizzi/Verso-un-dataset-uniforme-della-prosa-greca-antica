@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃ,ὅς,p-s---nn-,SBJ
+2,γίνεται,γίγνομαι,v3spie---,PRED
+3,τῆς,ὁ,l-s---fg-,ATR
+4,κτήσεως,κτῆσις,n-s---fg-,SBJ
+5,ἰδίας,ἴδιος,a-s---fg-,PNOM
+6,οὔσης,εἰμί,v-sppafg-,ADV
+7,.,punc1,u--------,AuxK

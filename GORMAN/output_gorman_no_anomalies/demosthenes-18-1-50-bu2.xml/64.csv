@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλ᾽,ἀλλά,d--------,AuxY
+1,2,ἐπὶ,ἐπί,r--------,AuxP
+2,3,τὸν,ὁ,l-s---ma-,ATR
+3,4,πόλεμον,πόλεμος,n-s---ma-,ADV
+4,5,;,punc1,u--------,AuxK

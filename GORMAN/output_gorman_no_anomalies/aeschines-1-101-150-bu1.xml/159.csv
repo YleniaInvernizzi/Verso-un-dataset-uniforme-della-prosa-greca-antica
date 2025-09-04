@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὠκύμορος,ὠκύμορος,a-s---mn-,PNOM
+1,2,δή,δή,d--------,AuxZ
+2,3,μοι,ἐγώ,p1s---fd-,ATR
+3,4,τέκος,τέκος,n-s---nn-,SBJ
+4,5,ἔσσεαι,εἰμί,v2sfim---,PRED
+5,6,",",punc1,u--------,AuxX
+6,7,οἷ,ὅς,p-p---na-,OBJ
+7,8,᾽,punc1,u--------,AuxX
+8,9,ἀγορεύεις,ἀγορεύω,v2spia---,ADV
+9,10,:,punc1,u--------,AuxK

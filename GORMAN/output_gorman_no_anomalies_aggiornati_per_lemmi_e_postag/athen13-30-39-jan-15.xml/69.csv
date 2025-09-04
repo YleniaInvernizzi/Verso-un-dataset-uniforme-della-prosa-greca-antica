@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;κἀκείνη;καί ἐκεῖνος;p-s---fn-;SBJ
+2;περιβλέψασα;περιβλέπω;v-sapafn-;ADV
+3;πάντας;πᾶς;a-p---ma-;OBJ
+4;ἀπῄει;ἄπειμι;v3siia---;PRED
+5;δακρύουσα;δακρύω;v-sppafn-;ADV
+6;,;punc;u--------;AuxX
+7;ποθοῦσα;ποθέω;v-sppafn-;ADV
+8;τὸν;ὁ;l-s---ma-;ATR
+9;Ζαριάδρην;Ζαριάδρης;n-s---ma-;OBJ
+10;ἰδεῖν;ὁράω;v--ana---;OBJ
+11;:;punc;u--------;AuxK

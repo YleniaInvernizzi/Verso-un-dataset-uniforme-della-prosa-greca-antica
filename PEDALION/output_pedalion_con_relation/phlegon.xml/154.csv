@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|155|1,1,εἰσὶν,εἰμί,v3ppia---,PRED
+Leuven|0585-001|155|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0585-001|155|3,3,οἱ,ὁ,l-p---mn-,ATR
+Leuven|0585-001|155|4,4,χρησμοὶ,χρησμός,n-p---mn-,SBJ
+Leuven|0585-001|155|5,5,οἵδε,ὅδε,p-p---mn-,PNOM
+Leuven|0585-001|155|6,6,·,·,u--------,AuxK

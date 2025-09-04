@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27096|9|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+1,Leuven|27096|9|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|27096|9|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+3,Leuven|27096|9|4,4,πανοικί,πανοικί,d--------,ADV

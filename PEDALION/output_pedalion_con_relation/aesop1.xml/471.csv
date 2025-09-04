@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|1333|2,1,θανεῖν,θνῄσκω,v--ana---,OBJ
+Leuven|0096-00#|1333|3,2,δέ,δέ,b--------,AuxY
+Leuven|0096-00#|1333|4,3,οὐ,οὐ,d--------,AuxZ
+Leuven|0096-00#|1333|5,4,θέλω,ἐθέλω,v1spia---,PRED
+Leuven|0096-00#|1333|6,5,.,.,u--------,AuxK

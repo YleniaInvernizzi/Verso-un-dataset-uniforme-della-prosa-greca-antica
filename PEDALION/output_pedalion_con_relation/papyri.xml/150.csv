@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|19|1,1,οἶδες,οἶδα,v2sria---,PRED
+Leuven|21342|19|2,2,ὅτι,ὅτι,c--------,AuxC
+Leuven|21342|19|3,3,τί,τίς,p-s---na-,OBJ
+Leuven|21342|19|4,4,ἐὰν,ἐάν,c--------,AuxC
+Leuven|21342|19|5,5,δοῖς,δίδωμι,v2sasa---,ADV
+Leuven|21342|19|6,6,Ἰουλίῳ,Ἰούλιος,n-s---md-,OBJ
+Leuven|21342|19|7,7,φέρει,φέρω,v3spia---,OBJ
+Leuven|21342|19|8,8,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|21342|19|9,9,ὃ,ὅς,p-s---na-,OBJ
+Leuven|21342|19|10,10,καὶ,καί,d--------,AuxZ
+Leuven|21342|19|11,11,ὁμολόγησέ,ὁμολογέω,v3saia---,ATR
+Leuven|21342|19|12,12,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|21342|19|13,13,.,.,u--------,AuxK

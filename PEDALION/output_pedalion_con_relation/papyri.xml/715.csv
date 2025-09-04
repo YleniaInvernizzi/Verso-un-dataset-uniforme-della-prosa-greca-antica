@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|5581|3|1,1,τούτοις,οὗτος,p-p---nd-,OBJ
+Leuven|5581|3|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|5581|3|3,3,χρῶνται,χράω,v3ppie---,PRED
+Leuven|5581|3|4,4,εἰς,εἰς,r--------,AuxP
+Leuven|5581|3|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|5581|3|6,6,φυλακήν,φυλακή,n-s---fa-,ADV
+Leuven|5581|3|7,7,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ξενηλασίας;ξενηλασία;n-s---fg-;ADV
+2;γὰρ;γάρ;d--------;AuxY
+3;τὸ;ὁ;l-s---nn-;SBJ
+4;πόρρω;πρόσω;d--------;OCOMP
+5;πεποίηκεν;ποιέω;v3sria---;PRED
+6;.;punc;u--------;AuxK

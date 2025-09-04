@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;τί;τις;p-s---na-;OBJ
+2;ποτε;ποτε;d--------;ADV
+3;λέγει;λέγω;v3spia---;PRED_CO
+4;ὁ;ὁ;l-s---mn-;ATR
+5;θεός;θεός;n-s---mn-;SBJ
+6;,;punc;u--------;AuxX
+7;καὶ;καί;c--------;COORD
+8;τί;τις;p-s---na-;OBJ
+9;ποτε;ποτε;d--------;ADV
+10;αἰνίττεται;αἰνίσσομαι;v3spie---;PRED_CO
+11;";";punc;u--------;AuxK

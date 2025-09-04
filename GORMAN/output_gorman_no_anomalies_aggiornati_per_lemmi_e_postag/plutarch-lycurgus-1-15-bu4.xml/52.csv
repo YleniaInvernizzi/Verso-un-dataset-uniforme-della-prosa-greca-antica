@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;εἶτα;εἶτα;d--------;AuxY
+2;πεισθεὶς;πείθω;v-sappmn-;ADV_CO
+3;καὶ;καί;c--------;COORD
+4;λαβὼν;λαμβάνω;v-sapamn-;ADV_CO
+5;ὅρκους;ὅρκος;n-p---ma-;OBJ
+6;ἀνέστη;ἀνίστημι;v3saia---;PRED_CO
+7;καὶ;καί;c--------;COORD
+8;μετεῖχε;μετέχω;v3siia---;PRED_CO
+9;τῶν;ὁ;l-p---ng-;ATR
+10;πραττομένων;πράσσω;v-pppeng-;OBJ
+11;,;punc;u--------;AuxX
+12;φύσει;φύσις;n-s---fd-;ADV
+13;πρᾷος;πρᾶος;a-s---mn-;PNOM
+14;ὢν;εἰμί;v-sppamn-;ADV
+15;:;punc;u--------;AuxK

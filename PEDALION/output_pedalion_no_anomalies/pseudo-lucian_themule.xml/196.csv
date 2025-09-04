@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|197|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|197|2,2,ἐπειδὴ,ἐπειδή,c--------,AuxC
+2,Leuven|Ps-Luc|197|3,3,ταῦτα,οὗτος,p-p---na-,OBJ
+3,Leuven|Ps-Luc|197|4,4,ἔνδον,ἔνδον,d--------,ADV
+4,Leuven|Ps-Luc|197|5,5,κατέθεντο,κατατίθημι,v3paim---,ADV
+6,Leuven|Ps-Luc|197|7,7,ὁμοίως,ὅμοιος,d--------,ADV
+7,Leuven|Ps-Luc|197|8,8,ἐλούσαντο,λούω,v3paim---,PRED
+8,Leuven|Ps-Luc|197|9,9,καὶ,καί,d--------,AuxZ
+9,Leuven|Ps-Luc|197|10,10,οὗτοι,οὗτος,p-p---mn-,SBJ

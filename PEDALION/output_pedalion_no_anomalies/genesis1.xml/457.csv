@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|458|1,1,Αβραμ,Αβραμ,n-s---mn-,SBJ
+1,Leuven|Genesis|458|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|458|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Genesis|458|4,4,πλούσιος,πλούσιος,a-s---mn-,PNOM
+4,Leuven|Genesis|458|5,5,σφόδρα,σφόδρα,d--------,ADV
+5,Leuven|Genesis|458|6,6,κτήνεσιν,κτῆνος,n-p---nd-,ADV_CO
+6,Leuven|Genesis|458|7,7,καί,καί,c--------,AuxY
+7,Leuven|Genesis|458|8,8,ἀργυρίῳ,ἀργύριον,n-s---nd-,ADV_CO
+8,Leuven|Genesis|458|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|458|10,10,χρυσίῳ,χρυσίον,n-s---nd-,ADV_CO

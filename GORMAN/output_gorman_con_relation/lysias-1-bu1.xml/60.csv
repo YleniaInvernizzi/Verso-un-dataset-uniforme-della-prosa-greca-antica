@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Σώστρατος,Σώστρατος,n-s---mn-,SBJ
+2,ἦν,εἰμί,v3siia---,PRED
+3,μοι,ἐγώ,p1s---md-,ADV
+4,ἐπιτήδειος,ἐπιτήδειος,a-s---mn-,PNOM_CO
+5,καὶ,καί,c--------,COORD
+6,φίλος,φίλος,a-s---mn-,PNOM_CO
+7,.,punc1,u--------,AuxK

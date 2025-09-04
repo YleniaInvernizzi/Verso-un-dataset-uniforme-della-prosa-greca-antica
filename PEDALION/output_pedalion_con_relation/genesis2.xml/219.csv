@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|220|1,1,ἰδού,ὁράω,v2samm---,PRED
+Leuven|Genesis_deel2|220|2,2,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|220|3,3,πῦρ,πῦρ,n-s---na-,OBJ_CO
+Leuven|Genesis_deel2|220|4,4,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|220|5,5,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel2|220|6,6,ξύλα,ξύλον,n-p---na-,OBJ_CO
+Leuven|Genesis_deel2|220|7,7,·,·,u--------,AuxK

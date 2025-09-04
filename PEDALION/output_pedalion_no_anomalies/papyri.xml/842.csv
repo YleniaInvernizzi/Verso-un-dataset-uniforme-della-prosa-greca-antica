@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|144995|4|1,1,ὄνον,ὄνος,n-s---ma-,OBJ
+1,Leuven|144995|4|2,2,μίσθωσαι,μισθόω,v2samm---,PRED
+2,Leuven|144995|4|3,3,σαυτῷ,σεαυτοῦ,p2s---md-,ADV
+3,Leuven|144995|4|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|144995|4|5,5,τὰ,ὁ,l-p---na-,ATR
+5,Leuven|144995|4|6,6,στρώματα,στρῶμα,n-p---na-,ADV
+6,Leuven|144995|4|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|144995|4|8,8,ἵππου,ἵππος,n-s---mg-,ATR

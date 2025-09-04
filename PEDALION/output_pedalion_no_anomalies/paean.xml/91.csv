@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|92|1,1,ἡττηθέντων,ἡσσάομαι,v-pappmg-,ADV
+1,Leuven|PaeanBrev|92|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|92|3,3,αὐτῶν,αὐτός,p-p---mg-,SBJ
+3,Leuven|PaeanBrev|92|4,4,πανστρατί,πανστρατί,d--------,ADV
+4,Leuven|PaeanBrev|92|5,5,οἱ,ὁ,l-p---mn-,ATR
+5,Leuven|PaeanBrev|92|6,6,Ῥωμαῖοι,Ῥωμαῖος,a-p---mn-,SBJ
+6,Leuven|PaeanBrev|92|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|PaeanBrev|92|8,8,νίκην,νίκη,n-s---fa-,OBJ
+8,Leuven|PaeanBrev|92|9,9,ἐθριάμβευσαν,θριαμβεύω,v3paia---,PRED

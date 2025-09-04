@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;αὐτοὶ;αὐτός;p-p---mn-;SBJ_CO
+2;γὰρ;γάρ;d--------;AuxY
+3;νῦν;νῦν;d--------;ADV
+4;στρατηγεῖν;στρατηγέω;v--pna---;OBJ
+5;,;punc;u--------;COORD
+6;οὐκ;οὐ;d--------;AuxZ
+7;ἐκεῖνον;ἐκεῖνος;p-s---ma-;SBJ_CO
+8;.;punc;u--------;AuxK
+9;ἔφησαν;φημί;v3paia---;PRED

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0041-001|26|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|0041-001|26|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0041-001|26|3,3,ἦν,εἰμί,v3siia---,PRED
+Leuven|0041-001|26|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0041-001|26|5,5,Ξενοφῶν,Ξενοφῶν,n-s---mn-,PNOM
+Leuven|0041-001|26|6,6,.,.,u--------,AuxK

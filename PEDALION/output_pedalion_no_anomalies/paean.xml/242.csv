@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|244|1,1,πᾶν,πᾶς,a-s---nn-,ATR
+1,Leuven|PaeanBrev|244|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|244|3,3,τό,ὁ,l-s---nn-,ATR
+3,Leuven|PaeanBrev|244|4,4,προστυχόν,προστυγχάνω,v-sapann-,SBJ
+4,Leuven|PaeanBrev|244|5,5,ἤ,ἤ,c--------,AuxY
+5,Leuven|PaeanBrev|244|6,6,πυρός,πῦρ,n-s---ng-,ATR_CO
+6,Leuven|PaeanBrev|244|7,7,ἦν,εἰμί,v3siia---,PRED_CO
+7,Leuven|PaeanBrev|244|8,8,ἔργον,ἔργον,n-s---nn-,PNOM
+8,Leuven|PaeanBrev|244|9,9,ἤ,ἤ,c--------,COORD
+9,Leuven|PaeanBrev|244|10,10,σιδήρου,σίδηρος,n-s---mg-,ATR_CO
+10,Leuven|PaeanBrev|244|11,11,καί,καί,c--------,COORD
+11,Leuven|PaeanBrev|244|12,12,τήν,ὁ,l-s---fa-,ATR
+12,Leuven|PaeanBrev|244|13,13,μέν,μέν,d--------,AuxY
+13,Leuven|PaeanBrev|244|14,14,Καμπανίαν,Καμπανία,n-s---fa-,OBJ
+14,Leuven|PaeanBrev|244|15,15,ἐξεπολιόρκησαν,ἐκπολιορκέω,v3paia---,PRED_CO

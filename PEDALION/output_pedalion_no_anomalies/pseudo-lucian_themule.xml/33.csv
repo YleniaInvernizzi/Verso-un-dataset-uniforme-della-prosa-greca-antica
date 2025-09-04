@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|34|1,1,ἄπειμι,ἄπειμι,v1spia---,OBJ_CO
+1,Leuven|Ps-Luc|34|2,2,μέν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|34|4,4,ἔφην,φημί,v1siia---,PRED
+5,Leuven|Ps-Luc|34|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Ps-Luc|34|7,7,Λάρισσαν,Λάρισσα,n-s---fa-,OBJ
+8,Leuven|Ps-Luc|34|9,9,ἔοικα,ἔοικα,v1sria---,OBJ_CO
+9,Leuven|Ps-Luc|34|10,10,δὲ,δέ,d--------,COORD
+10,Leuven|Ps-Luc|34|11,11,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+11,Leuven|Ps-Luc|34|12,12,διατρίψειν,διατρίβω,v--fna---,OBJ
+12,Leuven|Ps-Luc|34|13,13,τριῶν,τρεῖς,m-p---cg-,ATR_CO
+13,Leuven|Ps-Luc|34|14,14,ἢ,ἤ,c--------,COORD
+14,Leuven|Ps-Luc|34|15,15,πέντε,πέντε,m--------,ATR_CO
+15,Leuven|Ps-Luc|34|16,16,ἡμερῶν,ἡμέρα,n-p---fg-,ADV

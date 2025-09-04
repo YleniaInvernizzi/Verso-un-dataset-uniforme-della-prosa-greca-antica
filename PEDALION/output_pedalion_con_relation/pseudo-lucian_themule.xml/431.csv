@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|432|1,1,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|Ps-Luc|432|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|432|3,3,εἴσω,εἴσω,d--------,OBJ
+Leuven|Ps-Luc|432|4,4,τινὰ,τις,p-s---ca-,OBJ
+Leuven|Ps-Luc|432|5,5,πέμπουσι,πέμπω,v3ppia---,PRED_CO
+Leuven|Ps-Luc|432|6,6,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|432|7,7,ὑπηρετῶν,ὑπηρέτης,n-p---mg-,ATR
+Leuven|Ps-Luc|432|8,8,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|432|9,9,τοὺς,ὁ,l-p---ma-,OBJ
+Leuven|Ps-Luc|432|10,10,ἔνδον,ἔνδον,d--------,ATR
+Leuven|Ps-Luc|432|11,11,ἅπαντας,ἅπας,a-p---ma-,ATR
+Leuven|Ps-Luc|432|12,12,προελθεῖν,προέρχομαι,v--ana---,OBJ
+Leuven|Ps-Luc|432|13,13,ἔξω,ἔξω,d--------,OBJ
+Leuven|Ps-Luc|432|14,14,κελεύουσιν,κελεύω,v3ppia---,PRED_CO
+Leuven|Ps-Luc|432|15,15,·,·,u--------,AuxK

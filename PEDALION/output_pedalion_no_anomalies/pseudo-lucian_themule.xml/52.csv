@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|53|1,1,σὺ,σύ,p2s---cn-,SBJ
+1,Leuven|Ps-Luc|53|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|53|3,3,καὶ,καί,c--------,AuxY
+3,Leuven|Ps-Luc|53|4,4,νέος,νέος,a-s---mn-,PNOM_CO
+4,Leuven|Ps-Luc|53|5,5,εἶ,εἰμί,v2spia---,PRED_CO
+6,Leuven|Ps-Luc|53|7,7,τέκνον,τέκνον,n-s---nv-,ExD
+8,Leuven|Ps-Luc|53|9,9,καὶ,καί,c--------,COORD
+9,Leuven|Ps-Luc|53|10,10,καλός,καλός,a-s---mn-,PNOM_CO
+11,Leuven|Ps-Luc|53|12,12,ὥστε,ὥστε,c--------,AuxC
+12,Leuven|Ps-Luc|53|13,13,εὐθὺς,εὐθύς,d--------,ADV
+13,Leuven|Ps-Luc|53|14,14,ἀρέσαι,ἀρέσκω,v3saoa---,ADV
+14,Leuven|Ps-Luc|53|15,15,γυναικί,γυνή,n-s---fd-,OBJ
+16,Leuven|Ps-Luc|53|17,17,καὶ,καί,c--------,COORD
+17,Leuven|Ps-Luc|53|18,18,ξένος,ξένος,a-s---mn-,PNOM
+19,Leuven|Ps-Luc|53|20,20,πρᾶγμα,πρᾶγμα,n-s---nn-,APOS
+20,Leuven|Ps-Luc|53|21,21,εὐκαταφρόνητον,εὐκαταφρόνητος,a-s---nn-,ATR

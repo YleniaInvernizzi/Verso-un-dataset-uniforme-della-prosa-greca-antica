@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅπου,ὅπου,d--------,ADV
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---nn-,SBJ
+4,μὲν,μέν,d--------,AuxY
+5,ἄρχει,ἄρχω,v3spia---,ADV_CO
+6,τὸ,ὁ,l-s---nn-,SBJ
+7,δ᾽,δέ,c--------,COORD
+8,ἄρχεται,ἄρχω,v3spie---,ADV_CO
+9,",",punc1,u--------,AuxX
+10,ἔστι,εἰμί,v3spia---,PRED
+11,τι,τις,a-s---nn_,ATR
+12,τούτων,οὗτος,p-p---ng-,PNOM
+13,ἔργον,ἔργον,n-s---nn-,SBJ
+14,),),u--------,AuxG
+15,:,punc1,u--------,AuxK

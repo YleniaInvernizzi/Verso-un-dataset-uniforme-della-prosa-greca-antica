@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|297|1,1,παρθένος,παρθένος,n-s---fn-,PNOM
+1,Leuven|Genesis_deel2|297|2,2,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Genesis_deel2|297|4,4,ἀνήρ,ἀνήρ,n-s---mn-,SBJ
+4,Leuven|Genesis_deel2|297|5,5,οὐκ,οὐ,d--------,AuxZ
+5,Leuven|Genesis_deel2|297|6,6,ἔγνω,γιγνώσκω,v3saia---,PRED
+6,Leuven|Genesis_deel2|297|7,7,αὐτήν,αὐτός,p-s---fa-,OBJ

@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,πάμπολλα,παμπολύς,a-p---na-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,ἔχων,ἔχω,v-sppamn-,ADV
+4,πάρειμι,πάρειμι1,v1spia---,PRED
+5,δῶρα,δῶρον,n-p---na-,OBJ
+6,διὰ,διά,r--------,AuxP
+7,τὰ,ὁ,l-p---na-,ATR
+8,σὰ,σός,a-p---na-,ATR
+9,γράμματα,γράμμα,n-p---na-,ADV
+10,.,punc1,u--------,AuxK

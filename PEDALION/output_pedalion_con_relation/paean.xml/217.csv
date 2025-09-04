@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|219|1,1,ὁδόν,ὁδός,n-s---fa-,OBJ
+Leuven|PaeanBrev|219|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|219|3,3,ἐστόρεσεν,στόρνυμι,v3saia---,PRED
+Leuven|PaeanBrev|219|4,4,",",",",u--------,AuxX
+Leuven|PaeanBrev|219|5,5,ἥτις,ὅστις,p-s---fn-,SBJ
+Leuven|PaeanBrev|219|6,6,ἐπεκλήθη,ἐπικαλέω,v3saip---,ATR
+Leuven|PaeanBrev|219|7,7,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|219|8,8,αὐτή,αὐτός,p-s---fn-,ADV
+Leuven|PaeanBrev|219|9,9,τῷ,ὁ,l-s---md-,ATR
+Leuven|PaeanBrev|219|10,10,πεποιηκότι,ποιέω,v-srpamd-,OBJ
+Leuven|PaeanBrev|219|11,11,Ἀππία,Ἀππία,n-s---fn-,OCOMP
+Leuven|PaeanBrev|219|12,12,προσαγορευθεῖσα,προσαγορεύω,v-sappfn-,ADV
+Leuven|PaeanBrev|219|13,13,.,.,u--------,AuxK

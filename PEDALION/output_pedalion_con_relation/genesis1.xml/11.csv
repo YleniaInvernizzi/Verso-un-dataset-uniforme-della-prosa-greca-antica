@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|12|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|12|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED
+Leuven|Genesis|12|3,3,οὕτως,οὕτως,d--------,ADV
+Leuven|Genesis|12|4,4,.,.,u--------,AuxK

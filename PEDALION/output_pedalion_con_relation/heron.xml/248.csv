@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|249|1,1,ἐπικείσονται,ἐπίκειμαι,v3pfim---,PRED
+Leuven|0559-002|249|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0559-002|249|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|0559-002|249|4,4,εἰρημένῃ,λέγω,v-srpefd-,ATR
+Leuven|0559-002|249|5,5,ἴτυι,ἴτυς,n-s---fd-,OBJ
+Leuven|0559-002|249|6,6,αἱ,ὁ,l-p---fn-,ATR
+Leuven|0559-002|249|7,7,Βάκχαι,Βάκχη,n-p---fn-,SBJ
+Leuven|0559-002|249|8,8,.,.,u--------,AuxK

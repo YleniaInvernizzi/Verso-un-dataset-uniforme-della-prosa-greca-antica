@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|227|1,1,τίς,τίς,p-s---cn-,PNOM
+1,Leuven|Genesis_deel3|227|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Genesis_deel3|227|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis_deel3|227|4,4,θηρεύσας,θηρεύω,v-sapamn-,SBJ_CO
+4,Leuven|Genesis_deel3|227|5,5,μοι,ἐγώ,p1s---cd-,ADV
+5,Leuven|Genesis_deel3|227|6,6,θήραν,θήρα,n-s---fa-,OBJ
+6,Leuven|Genesis_deel3|227|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis_deel3|227|8,8,εἰσενέγκας,εἰσφέρω,v-sapamn-,SBJ_CO
+8,Leuven|Genesis_deel3|227|9,9,μοι,ἐγώ,p1s---cd-,OBJ

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τίς,τις,a-s---cn-,ATR
+1,2,ἐπισκευὴ,ἐπισκευή,n-s---fn-,SBJ
+2,3,τειχῶν,τεῖχος,n-p---ng-,ATR
+3,4,;,punc1,u--------,AuxK
+4,5,γέγονεν,γίγνομαι,v3sria---,PRED

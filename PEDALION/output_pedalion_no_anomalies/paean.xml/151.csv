@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|153|1,1,ἀντί,ἀντί,r--------,AuxP
+1,Leuven|PaeanBrev|153|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|153|3,3,τῶν,ὁ,l-p---mg-,ATR
+3,Leuven|PaeanBrev|153|4,4,ὑπάτων,ὕπατος,a-p---mg-,ADV
+4,Leuven|PaeanBrev|153|5,5,ἄρχοντες,ἄρχων,n-p---mn-,SBJ
+5,Leuven|PaeanBrev|153|6,6,ἐγένοντο,γίγνομαι,v3paim---,PRED
+6,Leuven|PaeanBrev|153|7,7,στρατιωτικοί,στρατιωτικός,a-p---mn-,ATR
+7,Leuven|PaeanBrev|153|8,8,τήν,ὁ,l-s---fa-,ATR
+8,Leuven|PaeanBrev|153|9,9,τῶν,ὁ,l-p---mg-,ATR
+9,Leuven|PaeanBrev|153|10,10,ὑπάτων,ὕπατος,a-p---mg-,ATR
+10,Leuven|PaeanBrev|153|11,11,ἔχοντες,ἔχω,v-pppamn-,ADV
+11,Leuven|PaeanBrev|153|12,12,δύναμιν,δύναμις,n-s---fa-,OBJ

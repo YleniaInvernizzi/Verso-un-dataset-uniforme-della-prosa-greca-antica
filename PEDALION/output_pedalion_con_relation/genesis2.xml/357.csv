@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|358|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|358|2,2,ἔπιον,πίνω,v1saia---,PRED_CO
+Leuven|Genesis_deel2|358|3,3,",",",",u--------,AuxX
+Leuven|Genesis_deel2|358|4,4,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|358|5,5,τάς,ὁ,l-p---fa-,ATR
+Leuven|Genesis_deel2|358|6,6,καμήλους,κάμηλος,n-p---fa-,OBJ
+Leuven|Genesis_deel2|358|7,7,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|358|8,8,ἐπότισεν,ποτίζω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|358|9,9,.,.,u--------,AuxK

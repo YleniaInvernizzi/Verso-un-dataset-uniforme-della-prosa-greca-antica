@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;λελευκωμένον;λευκόω;v-srpenn-;PNOM_CO
+2;τε;τε;d--------;AuxY
+3;γάρ;γάρ;d--------;AuxY
+4;ἐστιν;εἰμί;v3spia---;PRED
+5;καὶ;καί;c--------;COORD
+6;οἴκοθεν;οἴκοθεν;d--------;ADV
+7;κατεσκευασμένον;κατασκευάζω;v-srpenn-;PNOM_CO
+8;.;punc;u--------;AuxK

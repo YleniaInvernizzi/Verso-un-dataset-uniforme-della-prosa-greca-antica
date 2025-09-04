@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;πάνθ᾽;πᾶς;a-p---na-;OBJ
+4;ὅσα;ὅσος;a-p---nn-;SBJ
+5;προσῆκε;προσίημι;v3siia---;ATR
+6;τὸν;ὁ;l-s---ma-;ATR
+7;ἀγαθὸν;ἀγαθός;a-s---ma-;ATR
+8;πολίτην;πολίτης;n-s---ma-;OBJ
+9;ἔπραττον;πράσσω;v1siia---;PRED
+10;.;punc;u--------;AuxK

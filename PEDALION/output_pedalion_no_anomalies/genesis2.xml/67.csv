@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|68|1,1,σῴζων,σῴζω,v-sppamn-,ADV
+1,Leuven|Genesis_deel2|68|2,2,σῷζε,σῴζω,v2spma---,PRED
+2,Leuven|Genesis_deel2|68|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|Genesis_deel2|68|4,4,σεαυτοῦ,σεαυτοῦ,p2s---mg-,ATR
+4,Leuven|Genesis_deel2|68|5,5,ψυχήν,ψυχή,n-s---fa-,OBJ

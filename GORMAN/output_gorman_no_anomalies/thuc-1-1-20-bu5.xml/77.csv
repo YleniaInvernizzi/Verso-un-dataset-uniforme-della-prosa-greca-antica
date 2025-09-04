@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀφνειὸν,ἀφνειός,a-s---na-,OCOMP
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἐπωνόμασαν,ἐπονομάζω,v3paia---,PRED
+3,4,τὸ,ὁ,l-s---na-,ATR
+4,5,χωρίον,χωρίον,n-s---na-,OBJ
+5,6,.,punc1,u--------,AuxK

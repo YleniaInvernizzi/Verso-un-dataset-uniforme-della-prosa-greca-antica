@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔστι,εἰμί,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τὰ,ὁ,l-p---nn-,ATR
+4,ἔπη,ἔπος,n-p---nn-,SBJ
+5,ἃ,ὅς,p-p---na-,OBJ
+6,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+7,νυνὶ,νυνί,d--------,ADV
+8,μέλλω,μέλλω,v1spia---,ATR
+9,λέγειν,λέγω3,v--pna---,OBJ
+10,:,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τὴν,ὁ,l-s---fa-,ATR
+2,δ᾽,δέ,d--------,AuxY
+3,ἐμὴν,ἐμός,a-s---fa-,ATR
+4,ἀπειρίαν,ἀπειρία,n-s---fa-,OBJ
+5,πάντες,πᾶς,a-p---mn-,SBJ
+6,ἴσασιν,οἶδα,v3ppia---,PRED
+7,",",punc1,u--------,AuxX
+8,ὅσοι,ὅσος,a-p---mn-,SBJ
+9,ἐμὲ,ἐγώ,p1s---ma-,OBJ
+10,γιγνώσκουσιν,γιγνώσκω,v3ppia---,ATR
+11,.,punc1,u--------,AuxK

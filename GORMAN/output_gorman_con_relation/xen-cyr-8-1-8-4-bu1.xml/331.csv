@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀκούσας,ἀκούω,v-sapamn-,ADV
+2,ὁ,ὁ,l-s---mn-,ATR
+3,νεανίσκος,νεανίσκος,n-s---mn-,SBJ
+4,ᾤχετο,οἴχομαι,v3siie---,PRED
+5,σκεψόμενος,σκέπτομαι,v-sfpemn-,ADV
+6,τίς,τις,p-s---mn-,SBJ
+7,εἴη,εἰμί,v3spoa---,OBJ
+8,·,punc1,u--------,AuxK

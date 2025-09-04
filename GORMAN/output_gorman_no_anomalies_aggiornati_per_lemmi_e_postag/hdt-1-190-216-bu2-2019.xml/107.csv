@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ὁ;ὁ;l-s---mn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;Ἀράξης;Ἀράξης;n-p---ma-;SBJ
+4;λέγεται;λέγω;v3spie---;PRED
+5;καὶ;καί;d--------;AuxY
+6;μέζων;μέγας;a-s---mnc;PNOM_CO
+7;καὶ;καί;c--------;COORD
+8;ἐλάσσων;ἐλαχύς;a-s---mnc;PNOM_CO
+9;εἶναι;εἰμί;v--pna---;PNOM
+10;τοῦ;ὁ;l-s---mg-;ATR
+11;Ἴστρου;Ἴστρος;n-s---fg-;ADV
+12;:;punc;u--------;AuxK

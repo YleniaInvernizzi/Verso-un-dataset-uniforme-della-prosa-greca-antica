@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,βούλεσθε,βούλομαι,v2ppie---,PRED_CO
+2,δὲ,δέ,c--------,COORD
+3,πυθώμεθα,πυνθάνομαι,v1pase---,PRED_CO
+4,",",punc1,u--------,AuxX
+5,τίνες,τις,p-p---mn-,PNOM
+6,ποτʼ,πότε,d--------,ADV
+7,εἰσὶν,εἰμί,v3ppia---,OBJ
+8,οὗτοι,οὗτος,p-p---mn-,SBJ
+9,;,punc1,u--------,AuxK

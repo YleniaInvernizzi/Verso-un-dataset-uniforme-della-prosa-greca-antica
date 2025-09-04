@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|468|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|Genesis|468|2,2,ἰδού,ἰδού,i--------,ExD
+2,Leuven|Genesis|468|3,3,πᾶσα,πᾶς,a-s---fn-,ATR
+3,Leuven|Genesis|468|4,4,ἡ,ὁ,l-s---fn-,ATR
+4,Leuven|Genesis|468|5,5,γῆ,γῆ,n-s---fn-,SBJ
+5,Leuven|Genesis|468|6,6,ἐναντίον,ἐναντίον,r--------,AuxP
+6,Leuven|Genesis|468|7,7,σού,σύ,p2s---cg-,PNOM
+7,Leuven|Genesis|468|8,8,ἐστιν,εἰμί,v3spia---,PRED
+8,Leuven|Genesis|468|9,9,;,;,u--------,AuxK

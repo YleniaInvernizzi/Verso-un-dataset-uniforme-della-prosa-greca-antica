@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|220|1,1,οὕτως,οὕτως,d--------,ADV
+1,Leuven|PaeanBrev|220|2,2,ἡ,ὁ,l-s---fn-,SBJ_CO
+2,Leuven|PaeanBrev|220|3,3,μέν,μέν,d--------,AuxY
+3,Leuven|PaeanBrev|220|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|PaeanBrev|220|5,5,ἐπώνυμον,ἐπώνυμος,a-s---na-,OBJ_CO
+5,Leuven|PaeanBrev|220|6,6,ἔσχε,ἔχω,v3saia---,PRED
+6,Leuven|PaeanBrev|220|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|PaeanBrev|220|8,8,πεποιηκότος,ποιέω,v-srpamg-,ATR
+9,Leuven|PaeanBrev|220|10,10,ἡ,ὁ,l-s---fn-,SBJ_CO
+10,Leuven|PaeanBrev|220|11,11,δέ,δέ,d--------,COORD
+11,Leuven|PaeanBrev|220|12,12,αὐτό,αὐτός,p-s---na-,ATR
+12,Leuven|PaeanBrev|220|13,13,τ-,ὁ,l-s---na-,ATR
+13,Leuven|PaeanBrev|220|14,14,ὄνομα,ὄνομα,n-s---na-,OBJ_CO

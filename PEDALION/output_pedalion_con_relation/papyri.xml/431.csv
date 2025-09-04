@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28410|2|1,1,καλῶς,καλός,d--------,ADV
+Leuven|28410|2|2,2,ἐποίησας,ποιέω,v2saia---,PRED
+Leuven|28410|2|3,3,οὐκ,οὐ,d--------,AuxZ
+Leuven|28410|2|4,4,ἀπενέγκας,ἀποφέρω,v-sapamn-,ADV
+Leuven|28410|2|5,5,με,ἐγώ,p1s---ca-,OBJ
+Leuven|28410|2|6,6,μετʼ,μετά,r--------,AuxP
+Leuven|28410|2|7,7,ἐσοῦ,σύ,p2s---cg-,ADV
+Leuven|28410|2|8,8,εἰς,εἰς,r--------,AuxP
+Leuven|28410|2|9,9,πόλιν,πόλις,n-s---fa-,OBJ
+Leuven|28410|2|10,10,.,.,u--------,AuxK

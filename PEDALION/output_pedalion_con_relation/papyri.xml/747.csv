@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|712|2|1,1,ὑπολαμβάνομεν,ὑπολαμβάνω,v1ppia---,PRED_CO
+Leuven|712|2|2,2,ἀποδημίαν,ἀποδημία,n-s---fa-,SBJ
+Leuven|712|2|3,3,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|712|2|4,4,παραγγελήσεσθαι,παραγγέλλω,v--fnm---,OBJ
+Leuven|712|2|5,5,",",",",u--------,AuxX
+Leuven|712|2|6,6,τά,ὁ,l-p---nn-,ATR
+Leuven|712|2|7,7,δέ,δέ,b--------,COORD
+Leuven|712|2|8,8,πλοῖα,πλοῖον,n-p---nn-,SBJ
+Leuven|712|2|9,9,ἐστιν,εἰμί,v3spia---,PRED_CO
+Leuven|712|2|10,10,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|712|2|11,11,ἀκατάσκευα,ἀκατάσκευος,a-p---nn-,PNOM
+Leuven|712|2|12,12,.,.,u--------,AuxK

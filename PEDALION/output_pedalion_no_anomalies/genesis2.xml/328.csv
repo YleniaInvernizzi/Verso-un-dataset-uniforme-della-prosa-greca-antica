@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|329|1,1,εἰσῆλθεν,εἰσέρχομαι,v3saia---,PRED_CO
+1,Leuven|Genesis_deel2|329|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|329|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis_deel2|329|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,SBJ
+4,Leuven|Genesis_deel2|329|5,5,εἰς,εἰς,r--------,AuxP
+5,Leuven|Genesis_deel2|329|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|Genesis_deel2|329|7,7,οἰκίαν,οἰκία,n-s---fa-,OBJ
+7,Leuven|Genesis_deel2|329|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis_deel2|329|9,9,ἀπέσαξεν,ἀποσάττω,v3saia---,PRED_CO
+9,Leuven|Genesis_deel2|329|10,10,τάς,ὁ,l-p---fa-,ATR
+10,Leuven|Genesis_deel2|329|11,11,καμήλους,κάμηλος,n-p---fa-,OBJ

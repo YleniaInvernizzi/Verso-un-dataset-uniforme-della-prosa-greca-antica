@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|433|1,1,ὡς,ὡς,c--------,AuxC
+1,Leuven|Ps-Luc|433|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|433|3,3,προῆλθον,προέρχομαι,v3paia---,ADV
+4,Leuven|Ps-Luc|433|5,5,ὁ,ὁ,l-s---mn-,ATR
+5,Leuven|Ps-Luc|433|6,6,κηπουρὸς,κηπουρός,n-s---mn-,SBJ
+6,Leuven|Ps-Luc|433|7,7,οὐδαμοῦ,οὐδαμοῦ,d--------,ADV
+7,Leuven|Ps-Luc|433|8,8,ἐφαίνετο,φαίνω,v3siie---,PRED

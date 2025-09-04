@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|34381|4|1,1,μή,μή,d--------,AuxZ
+Leuven|34381|4|2,2,ἀμελήσῃς,ἀμελέω,v2sasa---,PRED
+Leuven|34381|4|3,3,ἐπειδή,ἐπειδή,c--------,AuxC
+Leuven|34381|4|4,4,κακούμεθα,κακόω,v1ppie---,ADV
+Leuven|34381|4|5,5,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+Leuven|34381|4|6,6,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|556|1,1,ἀδικοῦμαι,ἀδικέω,v1spie---,PRED
+Leuven|Genesis|556|2,2,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|556|3,3,σοῦ,σύ,p2s---cg-,ADV
+Leuven|Genesis|556|4,4,·,·,u--------,AuxK

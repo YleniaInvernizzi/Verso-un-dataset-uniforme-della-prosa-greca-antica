@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|631|1,1,ἔλαβεν,λαμβάνω,v3saia---,PRED_CO
+1,Leuven|Genesis|631|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|631|3,3,βούτυρον,βούτυρον,n-s---na-,OBJ_CO
+3,Leuven|Genesis|631|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis|631|5,5,γάλα,γάλα,n-s---na-,OBJ_CO
+5,Leuven|Genesis|631|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|631|7,7,τό,ὁ,l-s---na-,ATR
+7,Leuven|Genesis|631|8,8,μοσχάριον,μοσχάριον,n-s---na-,OBJ_CO
+9,Leuven|Genesis|631|10,10,ὅ,ὅς,p-s---na-,OBJ
+10,Leuven|Genesis|631|11,11,ἐποίησεν,ποιέω,v3saia---,ATR
+12,Leuven|Genesis|631|13,13,καί,καί,c--------,AuxY
+13,Leuven|Genesis|631|14,14,παρέθηκεν,παρατίθημι,v3saia---,PRED_CO
+14,Leuven|Genesis|631|15,15,αὐτοῖς,αὐτός,p-p---md-,OBJ
+16,Leuven|Genesis|631|17,17,καί,καί,c--------,COORD
+17,Leuven|Genesis|631|18,18,ἐφάγοσαν,ἐσθίω,v3paia---,PRED_CO
+18,Leuven|Genesis|631|19,19,·,·,u--------,AuxK

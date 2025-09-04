@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|17|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|17|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|17|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|17|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|17|5,5,·,·,u--------,AuxK

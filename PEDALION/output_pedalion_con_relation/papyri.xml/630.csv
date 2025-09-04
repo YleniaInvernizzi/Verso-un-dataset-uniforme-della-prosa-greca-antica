@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31917|4|1,1,καί,καί,d--------,AuxZ
+Leuven|31917|4|2,2,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|31917|4|3,3,ἠσθένησα,ἀσθενέω,v1saia---,PRED
+Leuven|31917|4|4,4,πάνυ,πάνυ,d--------,ADV
+Leuven|31917|4|5,5,καί,καί,d--------,AuxZ
+Leuven|31917|4|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|31917|4|7,7,θάνατον,θάνατος,n-s---ma-,ADV
+Leuven|31917|4|8,8,.,.,u--------,AuxK

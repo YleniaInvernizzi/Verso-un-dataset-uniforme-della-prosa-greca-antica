@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|302|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|302|2,2,ἄνωθεν,ἄνωθεν,d--------,ADV
+Leuven|Ps-Luc|302|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|302|4,4,κατάβασις,κατάβασις,n-s---fn-,SBJ
+Leuven|Ps-Luc|302|5,5,ὀξεῖα,ὀξύς,a-s---fn-,PNOM
+Leuven|Ps-Luc|302|6,6,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|302|7,7,·,·,u--------,AuxK

@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅτῳ,ὅστις,p-s---md-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,πλείστη,πλεῖστος,a-s---fn-,PNOM_CO
+4,γένοιτο,γίγνομαι,v3saom---,ATR
+5,καὶ,καί,c--------,COORD
+6,μεγίστη,μέγας,a-s---fn-,PNOM_CO
+7,",",punc1,u--------,AuxX
+8,τοῦτον,οὗτος,p-s---ma-,OBJ
+9,ἀνηγόρευον,ἀναγορεύω,v3piia---,PRED
+10,.,punc1,u--------,AuxK

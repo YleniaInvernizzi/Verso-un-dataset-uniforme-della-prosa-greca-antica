@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30385|4|1,1,θαυμάζω,θαυμάζω,v1spia---,PRED
+Leuven|30385|4|2,2,δὲ,δέ,d--------,AuxY
+Leuven|30385|4|3,3,ὅτι,ὅτι,c--------,AuxC
+Leuven|30385|4|4,4,εἰς,εἰς,r--------,AuxP
+Leuven|30385|4|5,5,μὲν,μέν,d--------,AuxY
+Leuven|30385|4|6,6,ἔλαιον,ἔλαιον,n-s---na-,OBJ
+Leuven|30385|4|7,7,τὸ,ὁ,l-s---na-,ATR
+Leuven|30385|4|8,8,τοσοῦτο,τοσοῦτος,p-s---na-,ATR
+Leuven|30385|4|9,9,ἀργύριον,ἀργύριον,n-s---na-,OBJ
+Leuven|30385|4|10,10,ἐχώρησαι,χωρέω,v2srie---,OBJ
+Leuven|30385|4|11,11,.,.,u--------,AuxK

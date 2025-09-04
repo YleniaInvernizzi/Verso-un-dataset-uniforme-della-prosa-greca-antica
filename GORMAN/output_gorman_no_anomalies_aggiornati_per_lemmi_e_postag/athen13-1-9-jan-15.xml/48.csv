@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔγημεν;γαμέω;v3saia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxZ
+4;Φίλαν;Φίλα;n-s---fa-;OBJ
+5;ἀδελφὴν;ἀδελφή;n-s---fa-;ATR
+6;Δέρδα;Δέρδας;n-s---mg-;ATR_CO
+7;καὶ;καί;c--------;COORD
+8;Μαχάτα;Μαχάτας;n-s---mg-;ATR_CO
+9;.;punc;u--------;AuxK

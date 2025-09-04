@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;πότερον;πότερος;a-s---na-;AuxY
+2;κροτεῖν;κροτέω;v--pna---;SBJ_CO
+3;δεῖ;δέω;v3siia---;PRED
+4;τὼ;ὁ;l-d---fa-;ATR
+5;χεῖρε;χείρ;n-d---fa-;OBJ
+6;ἢ;ἤ;d--------;AuxY
+7;γελᾶν;γελάω;v--pna---;SBJ_CO
+8;ἢ;ἤ;c--------;COORD
+9;τί;τις;p-s---na-;OBJ
+10;ποιεῖν;ποιέω;v--pna---;SBJ_CO
+11;.;punc;u--------;AuxK

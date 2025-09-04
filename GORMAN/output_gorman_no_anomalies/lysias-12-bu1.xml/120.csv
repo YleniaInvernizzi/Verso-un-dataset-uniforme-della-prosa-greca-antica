@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὧν,ὅς,p-p---mg-,PNOM
+1,2,Ἐρατοσθένης,Ἐρατοσθένης,n-s---mn-,SBJ_CO
+2,3,καὶ,καί,c--------,COORD
+3,4,Κριτίας,Κριτίας,n-s---mn-,SBJ_CO
+4,5,ἦσαν,εἰμί,v3piia---,PRED
+5,6,.,punc1,u--------,AuxK

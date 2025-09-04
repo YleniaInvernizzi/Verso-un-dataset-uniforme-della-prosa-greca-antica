@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Εὔβουλος,Εὔβουλος,n-s---mn-,SBJ_CO
+2,δ᾽,δέ,d--------,AuxY
+3,ἢ,ἤ1,c--------,COORD
+4,Ἀραρὼς,Ἀραρός,n-s---mn-,SBJ_CO
+5,ἐν,ἐν,r--------,AuxP
+6,Καμπυλίωνι,,n-s----d------,ADV
+7,:,punc1,u--------,AuxK
+8,[0],,,PRED

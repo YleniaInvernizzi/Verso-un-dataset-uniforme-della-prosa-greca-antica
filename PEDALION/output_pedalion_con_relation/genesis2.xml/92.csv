@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|93|1,1,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis_deel2|93|2,2,ἐκοιμήθην,κοιμάω,v1saip---,PRED
+Leuven|Genesis_deel2|93|3,3,ἐχθές,χθές,d--------,ADV
+Leuven|Genesis_deel2|93|4,4,μετά,μετά,r--------,AuxP
+Leuven|Genesis_deel2|93|5,5,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|93|6,6,πατρός,πατήρ,n-s---mg-,ADV
+Leuven|Genesis_deel2|93|7,7,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|Genesis_deel2|93|8,8,·,·,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|123|1,1,δακτύλιοι,δακτύλιος,n-p---mn-,SBJ
+Leuven|0554-001|123|2,2,βαρεῖς,βαρύς,a-p---mn-,ATR
+Leuven|0554-001|123|3,3,ὑπέστιλβον,ὑποστίλβω,v3piia---,PRED
+Leuven|0554-001|123|4,4,.,.,u--------,AuxK

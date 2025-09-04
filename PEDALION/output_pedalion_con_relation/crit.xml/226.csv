@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|228|1,1,ἄλλο,ἄλλος,p-s---nap,ATR
+Leuven|0059-003|228|2,2,τι,τις,p-s---na-,OBJ
+Leuven|0059-003|228|3,3,ἢ,ἤ,c--------,AuxC
+Leuven|0059-003|228|4,4,ὁμολογῶμεν,ὁμολογέω,v1ppsa---,ADV
+Leuven|0059-003|228|5,5,;,;,u--------,AuxK
+Leuven|0059-003|228|6,6,[0],,,PRED

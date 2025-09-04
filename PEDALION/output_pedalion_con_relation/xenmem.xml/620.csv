@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|621|1,1,καὶ,καί,c--------,AuxY
+Leuven|0032-002|621|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0032-002|621|3,3,Σωκράτης,Σωκράτης,n-s---mn-,SBJ
+Leuven|0032-002|621|4,4,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|621|5,5,·,·,u--------,AuxK

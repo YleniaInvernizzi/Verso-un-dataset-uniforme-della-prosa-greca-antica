@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|255|1,1,μέγα,μέγας,a-s---na-,ATR
+Leuven|PaeanBrev|255|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|255|3,3,μηδέν,μηδείς,p-s---na-,OCOMP
+Leuven|PaeanBrev|255|4,4,ἡγεῖσθαι,ἡγέομαι,v--pne---,OBJ
+Leuven|PaeanBrev|255|5,5,σφᾶς,σφεῖς,p3p---ca-,SBJ
+Leuven|PaeanBrev|255|6,6,παρεσχηκέναι,παρέχω,v--rna---,OBJ
+Leuven|PaeanBrev|255|7,7,Πύρρον,Πύρρος,n-s---ma-,SBJ
+Leuven|PaeanBrev|255|8,8,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|255|9,9,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|255|10,10,τούς,ὁ,l-p---ma-,ATR
+Leuven|PaeanBrev|255|11,11,αἰχμαλώτους,αἰχμάλωτος,a-p---ma-,ATR
+Leuven|PaeanBrev|255|12,12,·,·,u--------,AuxK
+Leuven|PaeanBrev|255|13,13,[0],,,PRED
+Leuven|PaeanBrev|255|14,14,[1],,,OBJ

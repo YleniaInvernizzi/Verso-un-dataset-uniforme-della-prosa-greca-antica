@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|209|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|209|2,2,κύριοι,κύριος,n-p---mn-,SBJ
+Leuven|PaeanBrev|209|3,3,καταστάντες,καθίστημι,v-papamn-,ADV
+Leuven|PaeanBrev|209|4,4,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|PaeanBrev|209|5,5,ἔθεντο,τίθημι,v3paim---,PRED
+Leuven|PaeanBrev|209|6,6,σπονδάς,σπονδή,n-p---fa-,OBJ
+Leuven|PaeanBrev|209|7,7,τοῖς,ὁ,l-p---md-,ATR
+Leuven|PaeanBrev|209|8,8,ἡττημένοις,ἡσσάομαι,v-pppemd-,ADV
+Leuven|PaeanBrev|209|9,9,ἀπρεπεῖς,ἀπρεπής,a-p---fa-,ATR
+Leuven|PaeanBrev|209|10,10,·,·,u--------,AuxK

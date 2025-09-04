@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|12|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|30514|12|2,2,ἀναβῶ,ἀναβαίνω,v1sasa---,ADV
+2,Leuven|30514|12|3,3,κυβερνήσω,κυβερνάω,v1sfia---,PRED
+3,Leuven|30514|12|4,4,αὐτόν,αὐτός,p-s---ma-,OBJ
+4,Leuven|30514|12|5,5,πάλιν,πάλιν,d--------,ADV

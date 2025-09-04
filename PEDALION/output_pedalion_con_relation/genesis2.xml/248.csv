@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|249|1,1,ἦλθεν,ἔρχομαι,v3saia---,PRED
+Leuven|Genesis_deel2|249|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|249|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|249|4,4,κόψασθαι,κόπτω,v--anm---,ADV_CO
+Leuven|Genesis_deel2|249|5,5,Σαρραν,Σαρρα,n-s---fa-,OBJ
+Leuven|Genesis_deel2|249|6,6,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|249|7,7,πενθῆσαι,πενθέω,v--ana---,ADV_CO
+Leuven|Genesis_deel2|249|8,8,.,.,u--------,AuxK

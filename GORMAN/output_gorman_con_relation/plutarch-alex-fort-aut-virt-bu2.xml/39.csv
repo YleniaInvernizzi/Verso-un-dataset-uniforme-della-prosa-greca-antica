@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀπὸ,ἀπό,r--------,AuxP
+2,τούτων,οὗτος,p-p---ng-,ADV
+3,κρινέσθω,κρίνω,v3spme---,PRED
+4,καὶ,καί,d--------,AuxZ
+5,Ἀλέξανδρος,Ἀλέξανδρος,n-s---mn-,SBJ
+6,:,punc1,u--------,AuxK

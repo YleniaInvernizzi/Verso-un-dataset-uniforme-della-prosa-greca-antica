@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,χρὴ,χρή,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,εἰς,εἰς,r--------,AuxP
+5,τὰ,ὁ,l-p---na-,ATR
+6,ἴδια,ἴδιος,a-p---na-,ADV
+7,ταῦτα,οὗτος,p-p---na-,OBJ
+8,μέγιστα,μέγας,a-p---nas,OCOMP_CO
+9,καὶ,καί,c--------,COORD
+10,πιστότατα,πιστός2,a-p---nas,OCOMP_CO
+11,ἡγεῖσθαι,ἡγέομαι,v--pnm---,SBJ
+12,.,punc1,u--------,AuxK

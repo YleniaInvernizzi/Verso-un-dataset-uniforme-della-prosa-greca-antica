@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,δηλοῦσι,δηλόω,v3ppia---,PRED
+2,δ᾽,δέ,d--------,AuxY
+3,αἱ,ὁ,l-p---fn-,ATR
+4,τῶν,ὁ,l-p---mg-,ATR
+5,συναποδήμων,συναπόδημοι,n-p---mg-,ATR
+6,κοινωνίαι,κοινωνία,n-p---fn-,SBJ
+7,:,punc1,u--------,AuxK

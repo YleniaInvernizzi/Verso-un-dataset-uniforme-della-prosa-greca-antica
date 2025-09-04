@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|642|1,1,οὔπω,οὔπω,d--------,AuxZ
+Leuven|Genesis|642|2,2,μέν,μέν,d--------,AuxY
+Leuven|Genesis|642|3,3,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis|642|4,4,γέγονεν,γίγνομαι,v3sria---,PRED_CO
+Leuven|Genesis|642|5,5,ἕως,ἕως,r--------,AuxP
+Leuven|Genesis|642|6,6,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis|642|7,7,νῦν,νῦν,d--------,ADV
+Leuven|Genesis|642|8,8,",",",",u--------,AuxX
+Leuven|Genesis|642|9,9,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|642|10,10,δέ,δέ,b--------,COORD
+Leuven|Genesis|642|11,11,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|642|12,12,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|642|13,13,πρεσβύτερος,πρεσβύτερος,a-s---mnc,PNOM
+Leuven|Genesis|642|14,14,.,.,u--------,AuxK
+Leuven|Genesis|642|15,15,[0],,,PRED_CO

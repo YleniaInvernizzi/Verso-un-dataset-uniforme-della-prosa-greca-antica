@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔχων;ἔχω;v-sppamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ἥκειν;ἥκω;v--pna---;OBJ
+4;τάλαντα;τάλαντον;n-p---na-;OBJ
+5;πεντακόσια;πεντακόσιοι;a-p---na-;ATR
+6;·;punc;u--------;AuxK
+7;ἔφη;φημί;v3siia---;PRED

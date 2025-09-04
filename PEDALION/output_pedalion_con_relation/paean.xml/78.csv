@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|79|1,1,ὡς,ὡς,c--------,AuxC
+Leuven|PaeanBrev|79|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|79|3,3,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|79|4,4,πρῶτον,πρῶτος,a-s---na-,ADV
+Leuven|PaeanBrev|79|5,5,συνέμιξαν,συμμείγνυμι,v3paia---,ADV
+Leuven|PaeanBrev|79|6,6,",",",",u--------,AuxX
+Leuven|PaeanBrev|79|7,7,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|79|8,8,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|79|9,9,βροῦτος,βροῦτος,a-s---mn-,SBJ_CO
+Leuven|PaeanBrev|79|10,10,καί,καί,b--------,COORD
+Leuven|PaeanBrev|79|11,11,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|79|12,12,Ταρκυνίου,Ταρκύνιος,n-s---mg-,ATR
+Leuven|PaeanBrev|79|13,13,παῖς,παῖς,n-s---cn-,SBJ_CO
+Leuven|PaeanBrev|79|14,14,ἀλλήλους,ἀλλήλων,p-p---ma-,OBJ
+Leuven|PaeanBrev|79|15,15,ἀνεῖλον,ἀναιρέω,v3paia---,PRED
+Leuven|PaeanBrev|79|16,16,·,·,u--------,AuxK

@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|636|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis|636|2,2,ἐν,ἐν,r--------,AuxP
+2,Leuven|Genesis|636|3,3,τῇ,ὁ,l-s---fd-,ATR
+3,Leuven|Genesis|636|4,4,σκηνῇ,σκηνή,n-s---fd-,ADV

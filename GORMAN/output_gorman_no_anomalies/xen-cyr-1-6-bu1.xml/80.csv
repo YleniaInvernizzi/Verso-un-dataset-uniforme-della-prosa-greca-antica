@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἔπειτα,ἔπειτα,d--------,AuxY
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ἐκπονῶ,ἐκπονέω,v1spia---,PRED
+3,4,τὰ,ὁ,l-p---na-,ATR
+4,5,εἰσιόντα,εἴσειμι,v-pppana-,OBJ
+5,6,·,punc1,u--------,AuxK

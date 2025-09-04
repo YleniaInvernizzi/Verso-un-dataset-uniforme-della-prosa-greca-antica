@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πείθεὸ,πείθω,v2spme---,PRED
+1,2,μοι,ἐγώ,p1s---md-,OBJ
+2,3,",",punc1,u--------,AuxX
+3,4,Ῥωμαῖε,Ῥωμαικός,a-s---mv-,ExD
+4,5,.,punc1,u--------,AuxK

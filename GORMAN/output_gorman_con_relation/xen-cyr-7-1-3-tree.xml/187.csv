@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,χρήσιμον,χρήσιμος,a-s---nn-,PNOM
+3,μὲν,μέν,d--------,AuxY
+4,ἐδόκει,δοκέω,v3siia---,PRED
+5,εἶναι,εἰμί,v--pna---,OBJ
+6,·,·,u--------,AuxK

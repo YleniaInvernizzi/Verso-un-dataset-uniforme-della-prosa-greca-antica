@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καλέεται,καλέω,v3spie---,PRED
+1,2,δὲ,δέ,d--------,AuxY
+2,3,αὕτη,οὗτος,p-s---fn-,SBJ
+3,4,Γυγαίη,Γυγαίη,n-s---fn-,PNOM
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐτρύφησεν;τρυφάω;v3saia---;PRED
+2;,;punc;u--------;AuxX
+3;ὥστε;ὥστε;c--------;AuxC
+4;μὴ;μή;d--------;AuxZ
+5;πολὺν;πολύς;a-s---ma-;ATR
+6;τρυφᾶν;τρυφάω;v--pna---;ADV
+7;χρόνον;χρόνος;n-s---ma-;ADV
+8;.;punc;u--------;AuxK

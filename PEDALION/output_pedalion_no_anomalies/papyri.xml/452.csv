@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28784|11|1,1,σέ,σύ,p2s---ca-,OBJ
+1,Leuven|28784|11|2,2,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED_CO
+3,Leuven|28784|11|4,4,καί,καί,c--------,COORD
+4,Leuven|28784|11|5,5,Ἱερατική,Ἱερατική,n-s---fn-,SBJ
+5,Leuven|28784|11|6,6,σε,σύ,p2s---ca-,OBJ
+6,Leuven|28784|11|7,7,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED_CO

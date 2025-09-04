@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;συνθέμενοι;συντίθημι;v-papmmn-;ADV
+2;ταῦτα;οὗτος;p-p---na-;OBJ
+3;ἀπαλλάσσοντο;ἀπαλλάσσω;v3piie---;PRED_CO
+4;,;punc;u--------;AuxX
+5;λογάδες;λογάς;a-p---mn-;SBJ
+6;δὲ;δέ;c--------;COORD
+7;ἑκατέρων;ἑκάτερος;a-p---mg-;ATR
+8;ὑπολειφθέντες;ὑπολείπω;v-pappmn-;ADV
+9;συνέβαλον;συμβάλλω;v3paia---;PRED_CO
+10;.;punc;u--------;AuxK

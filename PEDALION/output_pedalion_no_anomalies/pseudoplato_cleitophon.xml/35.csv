@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-00x|36|1,1,λέγεις,λέγω,v2spia---,PRED
+1,Leuven|0059-00x|36|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|0059-00x|36|3,3,εἶναι,εἰμί,v--pna---,OBJ
+3,Leuven|0059-00x|36|4,4,τίνας,τις,p-p---ca-,SBJ
+4,Leuven|0059-00x|36|5,5,ταύτας,οὗτος,p-p---fa-,ATR
+5,Leuven|0059-00x|36|6,6,τὰς,ὁ,l-p---fa-,ATR
+6,Leuven|0059-00x|36|7,7,τέχνας,τέχνη,n-p---fa-,PNOM
+7,Leuven|0059-00x|36|8,8,;,;,u--------,AuxK

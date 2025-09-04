@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|349|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|349|2,2,παρʼ,παρά,r--------,AuxP
+Leuven|PaeanBrev|349|3,3,αὐταῖς,αὐτός,p-p---fd-,ADV
+Leuven|PaeanBrev|349|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|349|5,5,βίον,βίος,n-s---ma-,OBJ
+Leuven|PaeanBrev|349|6,6,ἐτελεύτησεν,τελευτάω,v3saia---,PRED
+Leuven|PaeanBrev|349|7,7,.,.,u--------,AuxK

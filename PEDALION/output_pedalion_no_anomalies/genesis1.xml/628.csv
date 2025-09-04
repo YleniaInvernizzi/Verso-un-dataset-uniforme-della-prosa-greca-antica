@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|629|1,1,σπεῦσον,σπεύδω,v2sama---,PRED_CO
+1,Leuven|Genesis|629|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis|629|3,3,φύρασον,φυράω,v2sama---,PRED_CO
+3,Leuven|Genesis|629|4,4,τρία,τρεῖς,m-p---na-,ATR
+4,Leuven|Genesis|629|5,5,μέτρα,μέτρον,n-p---na-,OBJ
+5,Leuven|Genesis|629|6,6,σεμιδάλεως,σεμίδαλις,n-s---fg-,ATR
+6,Leuven|Genesis|629|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|629|8,8,ποίησον,ποιέω,v2sama---,PRED_CO
+8,Leuven|Genesis|629|9,9,ἐγκρυφίας,ἐγκρυφίας,n-p---ma-,OBJ

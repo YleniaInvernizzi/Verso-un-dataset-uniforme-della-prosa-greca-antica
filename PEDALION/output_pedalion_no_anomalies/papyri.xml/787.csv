@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|77994|2|1,1,τήν,ὁ,l-s---fa-,ATR
+1,Leuven|77994|2|2,2,γυναῖκα,γυνή,n-s---fa-,OBJ
+2,Leuven|77994|2|3,3,μου,ἐγώ,p1s---cg-,ATR
+3,Leuven|77994|2|4,4,ἐκλάμβανε,ἐκλαμβάνω,v2spma---,PRED
+4,Leuven|77994|2|5,5,ἄχρις,ἄχρι,c--------,AuxC
+5,Leuven|77994|2|6,6,ἄν,ἄν,d--------,AuxY
+6,Leuven|77994|2|7,7,γένωμαι,γίγνομαι,v1sasm---,ADV
+7,Leuven|77994|2|8,8,πρός,πρός,r--------,AuxP
+8,Leuven|77994|2|9,9,σέ,σύ,p2s---ca-,OBJ

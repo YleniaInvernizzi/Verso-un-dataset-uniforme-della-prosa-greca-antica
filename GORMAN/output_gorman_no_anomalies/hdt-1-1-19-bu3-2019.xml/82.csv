@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐπειρώτα,ἐπερωτάω,v3siia---,PRED
+1,2,δὴ,δή,d--------,AuxY
+2,3,λέγων,λέγω3,v-sppamn-,ADV
+3,4,τάδε,ὅδε,p-p---na-,OBJ
+4,5,.,punc1,u--------,AuxK

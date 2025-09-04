@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|579|1,1,ἕνεκεν,ἕνεκα,r--------,AuxP
+1,Leuven|Genesis|579|2,2,τούτου,οὗτος,p-s---mg-,ADV
+2,Leuven|Genesis|579|3,3,ἐκάλεσεν,καλέω,v3saia---,PRED
+3,Leuven|Genesis|579|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis|579|5,5,φρέαρ,φρέαρ,n-s---na-,OBJ
+5,Leuven|Genesis|579|6,6,Φρέαρ,Φρέαρ,n-s---nn-,OCOMP
+6,Leuven|Genesis|579|7,7,οὗ,ὅς,p-s---mg-,ADV
+7,Leuven|Genesis|579|8,8,ἐνώπιον,ἐνώπιον,d--------,ADV
+8,Leuven|Genesis|579|9,9,εἶδον,ὁράω,v3paia---,ATR
+9,Leuven|Genesis|579|10,10,·,·,u--------,AuxK

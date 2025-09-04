@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|342|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+1,Leuven|PaeanBrev|342|2,2,συμβουλεύσας,συμβουλεύω,v-sapamn-,ADV
+2,Leuven|PaeanBrev|342|3,3,ἐκράτησε,κρατέω,v3saia---,PRED
+4,Leuven|PaeanBrev|342|5,5,πάντων,πᾶς,a-p---ng-,OBJ
+5,Leuven|PaeanBrev|342|6,6,τῶν,ὁ,l-p---ng-,ATR
+6,Leuven|PaeanBrev|342|7,7,αὑτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+7,Leuven|PaeanBrev|342|8,8,τά,ὁ,l-p---na-,ATR
+8,Leuven|PaeanBrev|342|9,9,τοῦ,ὁ,l-s---mg-,ATR
+9,Leuven|PaeanBrev|342|10,10,δήμου,δῆμος,n-s---mg-,ATR
+10,Leuven|PaeanBrev|342|11,11,προθείς,προτίθημι,v-sapamn-,ADV

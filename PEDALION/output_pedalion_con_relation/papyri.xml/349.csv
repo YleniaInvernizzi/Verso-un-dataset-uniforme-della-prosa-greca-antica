@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27328|4|1,1,δός,δίδωμι,v2sama---,PRED
+Leuven|27328|4|2,2,σύ,σύ,p2s---cn-,SBJ
+Leuven|27328|4|3,3,αὐτά,αὐτός,p-p---na-,OBJ
+Leuven|27328|4|4,4,Οὐαλερίῳ,Οὐαλέριος,n-s---md-,OBJ
+Leuven|27328|4|5,5,.,.,u--------,AuxK

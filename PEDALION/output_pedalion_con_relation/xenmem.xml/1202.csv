@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|1203|1,1,ὀρθῶς,ὀρθός,d--------,ADV
+Leuven|0032-002|1203|2,2,λέγεις,λέγω,v2spia---,OBJ
+Leuven|0032-002|1203|3,3,",",",",u--------,AuxX
+Leuven|0032-002|1203|4,4,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|1203|5,5,.,.,u--------,AuxK

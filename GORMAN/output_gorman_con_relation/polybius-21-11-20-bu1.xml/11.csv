@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---ng-,OBJ
+2,ὁ,ὁ,l-s---mn-,ATR
+3,Προυσίας,Προυσίας,n-s---mn-,SBJ
+4,διακούσας,διακούω,v-sapamn-,ADV
+5,ἐπʼ,ἐπί,r--------,AuxP
+6,ἄλλης,ἄλλος,a-s---fg_,ATR
+7,ἐγένετο,γίγνομαι,v3saim---,PRED
+8,γνώμης,γνώμη,n-s---fg-,PNOM
+9,.,punc1,u--------,AuxK

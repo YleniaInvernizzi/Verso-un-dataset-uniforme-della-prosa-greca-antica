@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἥτις,ὅστις,p-s---fn-,SBJ
+2,πρώτη,πρῶτος,a-s---fn-,ATV
+3,κατῆρξε,κατάρχω,v3saia---,PRED
+4,τῆς,ὁ,l-s---fg-,ATR
+5,εἰς,εἰς,r--------,AuxP
+6,Λυδοὺς,Λυδός,n-p---ma-,OBJ
+7,πρεπούσης,πρέπω,v-sppafg-,ATR
+8,τιμωρίας,τιμωρία,n-s---fg-,OBJ
+9,.,punc1,u--------,AuxK

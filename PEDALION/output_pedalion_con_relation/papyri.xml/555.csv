@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|8|1,1,εἴ,εἰ,c--------,AuxC
+Leuven|30514|8|2,2,τι,τις,p-s---na-,OBJ
+Leuven|30514|8|3,3,ἔχω,ἔχω,v1spia---,ADV
+Leuven|30514|8|4,4,σόν,σός,a-s---nn-,PNOM_CO
+Leuven|30514|8|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|30514|8|6,6,καί,καί,b--------,COORD
+Leuven|30514|8|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|30514|8|8,8,ἀδελφοῦ,ἀδελφός,n-s---mg-,PNOM_CO
+Leuven|30514|8|9,9,σου,σύ,p2s---cg-,ATR
+Leuven|30514|8|10,10,.,.,u--------,AuxK

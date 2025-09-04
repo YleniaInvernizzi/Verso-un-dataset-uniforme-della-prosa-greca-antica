@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|196|1,1,τοῖς,ὁ,l-p---md-,ATR
+1,Leuven|PaeanBrev|196|2,2,ὑπάτοις,ὕπατος,a-p---md-,ADV
+2,Leuven|PaeanBrev|196|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|196|4,4,ὡς,ὡς,c--------,AuxZ
+4,Leuven|PaeanBrev|196|5,5,ὑπέρ,ὑπέρ,r--------,AuxP
+5,Leuven|PaeanBrev|196|6,6,ἔργου,ἔργον,n-s---ng-,ADV
+6,Leuven|PaeanBrev|196|7,7,μεγάλου,μέγας,a-s---mg-,ATR
+7,Leuven|PaeanBrev|196|8,8,κατά,κατά,r--------,AuxP
+8,Leuven|PaeanBrev|196|9,9,τι,τις,p-s---na-,ATR
+9,Leuven|PaeanBrev|196|10,10,χωρίον,χωρίον,n-s---na-,ADV
+11,Leuven|PaeanBrev|196|12,12,ὅ,ὅς,p-s---na-,OBJ
+12,Leuven|PaeanBrev|196|13,13,Ῥῶστρα,Ῥῶστρον,n-p---na-,OCOMP
+13,Leuven|PaeanBrev|196|14,14,καλοῦσιν,καλέω,v3ppia---,ATR
+15,Leuven|PaeanBrev|196|16,16,ἀνδριάντας,ἀνδριάς,n-p---ma-,OBJ
+16,Leuven|PaeanBrev|196|17,17,ἀνέστησαν,ἀνίστημι,v3paia---,PRED

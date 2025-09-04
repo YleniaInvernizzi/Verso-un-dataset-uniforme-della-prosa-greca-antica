@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|2117|2|1,1,ἀπέστειλα,ἀποστέλλω,v1saia---,PRED
+Leuven|2117|2|2,2,σοι,σύ,p2s---cd-,OBJ
+Leuven|2117|2|3,3,τό,ὁ,l-s---na-,ATR
+Leuven|2117|2|4,4,ἐκ,ἐκ,r--------,AuxP
+Leuven|2117|2|5,5,Ταιταρω,Ταιταρω,n-s---fg-,ATR
+Leuven|2117|2|6,6,ὑπόμνημα,ὑπόμνημα,n-s---na-,OBJ
+Leuven|2117|2|7,7,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|444|1,1,εἰπόν,λέγω,v2sama---,PRED
+Leuven|Genesis|444|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|Genesis|444|3,3,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|444|4,4,·,·,u--------,AuxK

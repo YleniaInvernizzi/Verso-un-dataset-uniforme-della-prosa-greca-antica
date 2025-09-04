@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τῶν,ὁ,l-p---mg-,ATR
+2,δʼ,δέ,d--------,AuxY
+3,ἀνθρώπων,ἄνθρωπος,n-p---mg-,ATR
+4,τρισχιλίους,τρισχίλιοι,a-p---ma-,OBJ
+5,ἑλὼν,αἱρέω,v-sapamn-,ADV
+6,ζῶντας,ζάω,v-pppama-,ATV
+7,ἀπέσφαξεν,ἀποσφάζω,v3saia---,PRED
+8,ὁ,ὁ,l-s---mn-,ATR
+9,Λύσανδρος,Λύσανδρος,n-s---mn-,SBJ
+10,.,punc1,u--------,AuxK

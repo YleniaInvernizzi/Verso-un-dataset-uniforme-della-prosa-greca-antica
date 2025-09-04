@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|57|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|57|2,2,ἐκλιπών,ἐκλείπω,v-sapamn-,ADV
+Leuven|Genesis_deel3|57|3,3,ἀπέθανεν,ἀποθνῄσκω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|57|4,4,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|57|5,5,προσετέθη,προστίθημι,v3saip---,PRED_CO
+Leuven|Genesis_deel3|57|6,6,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel3|57|7,7,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel3|57|8,8,γένος,γένος,n-s---na-,ADV
+Leuven|Genesis_deel3|57|9,9,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel3|57|10,10,.,.,u--------,AuxK

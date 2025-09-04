@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐκ,οὐ,d--------,AuxZ
+1,2,αἰσχροποιός,αἰσχροποιός,a-s---fn-,PNOM
+2,3,;,punc1,u--------,AuxK
+3,4,εἶ,εἶμι,v2spia---,PRED

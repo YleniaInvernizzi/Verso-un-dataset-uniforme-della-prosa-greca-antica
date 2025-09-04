@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;οὗ;ὅς;p-s---ng-;SBJ
+2;γενομένου;γίγνομαι;v-sapmng-;ADV
+3;φυγῇ;φυγή;n-s---fd-;ADV
+4;παραπλήσιον;παραπλήσιος;a-s---ma-;ATR
+5;ἐποιήσαντο;ποιέω;v3paim---;PRED
+6;τὸν;ὁ;l-s---ma-;ATR
+7;ἀπόπλουν;ἀπόπλοος;n-s---ma-;OBJ
+8;.;punc;u--------;AuxK

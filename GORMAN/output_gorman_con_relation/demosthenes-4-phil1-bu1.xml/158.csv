@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,νικῴη,νικάω,v3spoa---,PRED
+2,δʼ,δέ,d--------,AuxY
+3,ὅ,ὅς,p-s---nn-,SBJ
+4,τι,τις,a-s---nn_,ATR
+5,πᾶσιν,πᾶς,a-p---md-,OBJ
+6,μέλλει,μέλλω,v3spia---,SBJ
+7,συνοίσειν,συμφέρω,v--fna---,OBJ
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|277|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Ps-Luc|277|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|Ps-Luc|277|3,3,παρὰ,παρά,r--------,AuxP
+3,Leuven|Ps-Luc|277|4,4,τῆς,ὁ,l-s---fg-,ATR
+4,Leuven|Ps-Luc|277|5,5,κεκτημένης,κτάομαι,v-srpefg-,ADV
+5,Leuven|Ps-Luc|277|6,6,ἄριστον,ἀγαθός,a-s---mas,ADV
+6,Leuven|Ps-Luc|277|7,7,παρέκειτο,παράκειμαι,v3siie---,PRED
+7,Leuven|Ps-Luc|277|8,8,μέδιμνος,μέδιμνος,n-s---mn-,SBJ_CO
+8,Leuven|Ps-Luc|277|9,9,κριθῶν,κριθή,n-p---fg-,ATR
+9,Leuven|Ps-Luc|277|10,10,καὶ,καί,c--------,AuxY
+10,Leuven|Ps-Luc|277|11,11,χόρτος,χόρτος,n-s---mn-,SBJ_CO
+11,Leuven|Ps-Luc|277|12,12,ὅσος,ὅσος,p-s---mn-,SBJ
+12,Leuven|Ps-Luc|277|13,13,καὶ,καί,c--------,COORD
+13,Leuven|Ps-Luc|277|14,14,καμήλωι,κάμηλος,n-s---md-,ADV
+14,Leuven|Ps-Luc|277|15,15,ἱκανός,ἱκανός,a-s---mn-,PNOM

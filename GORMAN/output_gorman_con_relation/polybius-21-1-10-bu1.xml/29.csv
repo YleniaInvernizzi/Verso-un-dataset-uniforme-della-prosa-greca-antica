@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οἳ,ὁ,l-p---mn-,SBJ
+2,καὶ,καί,d--------,AuxZ
+3,συμμίξαντες,συμμίγνυμι,v-papamn-,ADV
+4,τοῖς,ὁ,l-p---md-,OBJ
+5,περὶ,περί,r--------,AuxP
+6,τὸν,ὁ,l-s---ma-,ATR
+7,Πόπλιον,Πόπλιος,n-s---ma-,ATR
+8,διεσάφουν,διασαφέω,v3piia---,PRED
+9,τὰ,ὁ,l-p---na-,ATR
+10,δεδογμένα,δοκέω,v-prpena-,OBJ
+11,.,punc1,u--------,AuxK

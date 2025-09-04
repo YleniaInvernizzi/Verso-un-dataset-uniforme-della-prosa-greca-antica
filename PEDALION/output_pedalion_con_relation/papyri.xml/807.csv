@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|83|5|1,1,ὅταν,ὅταν,c--------,AuxC
+Leuven|83|5|2,2,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|83|5|3,3,γράψῃς,γράφω,v2sasa---,ADV
+Leuven|83|5|4,4,ἔνψυχον,ἔμψυχος,a-s---na-,OBJ
+Leuven|83|5|5,5,τι,τις,p-s---na-,ATR
+Leuven|83|5|6,6,λαμβάνω,λαμβάνω,v1spia---,PRED
+Leuven|83|5|7,7,·,·,u--------,AuxK

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|288|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|288|2,2,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|Ps-Luc|288|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|288|4,4,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|288|5,5,μέτριον,μέτριος,a-s---ma-,ATR
+Leuven|Ps-Luc|288|6,6,κακὸν,κακός,a-s---ma-,PNOM
+Leuven|Ps-Luc|288|7,7,εὐχαρίστωι,εὐχάριστος,a-s---md-,ATR
+Leuven|Ps-Luc|288|8,8,ὄνωι,ὄνος,n-s---md-,ADV
+Leuven|Ps-Luc|288|9,9,ἀλεῖν,ἀλέω,v--pna---,APOS
+Leuven|Ps-Luc|288|10,10,τοῖς,ὁ,l-p---md-,ATR
+Leuven|Ps-Luc|288|11,11,ἑαυτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+Leuven|Ps-Luc|288|12,12,ἐπιστάταις,ἐπιστάτης,n-p---md-,OBJ
+Leuven|Ps-Luc|288|13,13,·,·,u--------,AuxK

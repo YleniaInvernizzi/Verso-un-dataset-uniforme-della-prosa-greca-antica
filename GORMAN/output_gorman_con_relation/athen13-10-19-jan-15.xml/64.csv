@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Θεόφιλος,Θεόφιλος,n-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἐν,ἐν,r--------,AuxP
+4,τῷ,ὁ,l-s---nd-,ATR
+5,Φιλαύλῳ,φίλαυλος,a-s---nd-,ADV
+6,:,punc1,u--------,AuxK
+7,[0],,,PRED

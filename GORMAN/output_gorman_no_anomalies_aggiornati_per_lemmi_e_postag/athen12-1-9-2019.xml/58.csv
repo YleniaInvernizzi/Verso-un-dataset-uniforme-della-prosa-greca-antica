@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;μη;μή;d--------;AuxZ
+2;-δὲ;δέ;d--------;AuxZ
+3;ἀμαύρου;ἀμαυρόω;v2spma---;OBJ
+4;,;punc;u--------;AuxX
+5;φησί;φημί;v3spia---;PRED
+6;,;punc;u--------;AuxX
+7;τέρψιν;τέρψις;n-s---fa-;OBJ
+8;ἐν;ἐν;r--------;AuxP
+9;βίῳ;βίος;n-s---md-;ADV
+10;:;punc;u--------;AuxK

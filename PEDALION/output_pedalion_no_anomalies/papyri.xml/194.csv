@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|25932|2|1,1,ἀναγκαῖον,ἀναγκαῖος,a-s---nn-,PNOM
+1,Leuven|25932|2|2,2,ἔγνων,γιγνώσκω,v1saia---,PRED
+2,Leuven|25932|2|3,3,διά,διά,r--------,AuxP
+3,Leuven|25932|2|4,4,γραπτοῦ,γραπτός,a-s---ng-,ADV
+4,Leuven|25932|2|5,5,σε,σύ,p2s---ca-,OBJ
+5,Leuven|25932|2|6,6,ἀσπάσασθαι,ἀσπάζομαι,v--anm---,SBJ

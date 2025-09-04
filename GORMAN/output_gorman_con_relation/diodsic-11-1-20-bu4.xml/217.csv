@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,τῆς,ὁ,l-s---fg-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,νεὼς,ναῦς,n-s---fg-,SBJ
+4,βυθισθείσης,βυθίζω,v-sappfg-,ADV
+5,",",punc1,u--------,AuxX
+6,ταραχὴ,ταραχή,n-s---fn-,SBJ
+7,κατέσχε,κατέχω,v3saia---,PRED
+8,τὸ,ὁ,l-s---na-,ATR
+9,ναυτικὸν,ναυτικός,a-s---na-,OBJ
+10,τῶν,ὁ,l-p---mg-,ATR
+11,βαρβάρων,βάρβαρος,n-p---mg-,ATR
+12,·,punc1,u--------,AuxK

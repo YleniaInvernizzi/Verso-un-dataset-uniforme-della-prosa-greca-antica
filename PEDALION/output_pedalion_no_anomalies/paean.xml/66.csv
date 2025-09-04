@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|67|1,1,οὕτως,οὕτως,d--------,ADV
+1,Leuven|PaeanBrev|67|2,2,ὑπό,ὑπό,r--------,AuxP
+2,Leuven|PaeanBrev|67|3,3,βασιλεῦσιν,βασιλεύς,n-p---md-,OBJ
+3,Leuven|PaeanBrev|67|4,4,ἑπτά,ἑπτά,m--------,ATR
+4,Leuven|PaeanBrev|67|5,5,τοῖς,ὁ,l-p---nd-,ATR
+5,Leuven|PaeanBrev|67|6,6,ὅλοις,ὅλος,a-p---nd-,ATR
+6,Leuven|PaeanBrev|67|7,7,ἔτεσι,ἔτος,n-p---nd-,ADV
+7,Leuven|PaeanBrev|67|8,8,διακοσίοις,διακόσιοι,a-p---nd-,ATR_CO
+8,Leuven|PaeanBrev|67|9,9,τεσσαράκοντα,τεσσαράκοντα,m--------,ATR_CO
+9,Leuven|PaeanBrev|67|10,10,καί,καί,c--------,COORD
+10,Leuven|PaeanBrev|67|11,11,τρισί,τρεῖς,m-p---nd-,ATR_CO
+11,Leuven|PaeanBrev|67|12,12,τά,ὁ,l-p---nn-,ATR
+12,Leuven|PaeanBrev|67|13,13,τῆς,ὁ,l-s---fg-,ATR
+13,Leuven|PaeanBrev|67|14,14,Ῥώμης,Ῥώμη,n-s---fg-,ATR
+14,Leuven|PaeanBrev|67|15,15,διῳκήθη,διοικέω,v3saip---,PRED
+15,Leuven|PaeanBrev|67|16,16,πράγματα,πρᾶγμα,n-p---nn-,SBJ

@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,τρία,τρεῖς,a-p---na_,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,ἀγαθὰ,ἀγαθός,a-p---na-,OBJ
+4,πράξετε,πράσσω,v2pfia---,PRED
+5,:,punc1,u--------,AuxK

@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,δίκη,δίκη,n-s---fn-,SBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,κυβερνήσειεν,κυβερνάω,v3saoa---,PRED
+3,4,.,punc1,u--------,AuxK

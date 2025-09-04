@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|101|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|101|2,2,φάγεσθε,ἐσθίω,v2pfim---,PRED_CO
+Leuven|Genesis|101|3,3,ἀπ’,ἀπό,r--------,AuxP
+Leuven|Genesis|101|4,4,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+Leuven|Genesis|101|5,5,οὐδέ,οὐδέ,b--------,COORD
+Leuven|Genesis|101|6,6,μή,μή,d--------,AuxZ
+Leuven|Genesis|101|7,7,ἅψησθε,ἅπτω,v2pasm---,PRED_CO
+Leuven|Genesis|101|8,8,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+Leuven|Genesis|101|9,9,",",",",u--------,AuxX
+Leuven|Genesis|101|10,10,ἵνα,ἵνα,c--------,AuxC
+Leuven|Genesis|101|11,11,μή,μή,d--------,AuxZ
+Leuven|Genesis|101|12,12,ἀποθάνητε,ἀποθνῄσκω,v2pasa---,ADV
+Leuven|Genesis|101|13,13,.,.,u--------,AuxK

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|575|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis|575|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+Leuven|Genesis|575|3,3,Αγαρ,Αγαρ,n-s---fn-,SBJ
+Leuven|Genesis|575|4,4,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|575|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+Leuven|Genesis|575|6,6,κυρίου,κύριος,n-s---mg-,ATR
+Leuven|Genesis|575|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|575|8,8,λαλοῦντος,λαλέω,v-sppamg-,APOS
+Leuven|Genesis|575|9,9,πρός,πρός,r--------,AuxP
+Leuven|Genesis|575|10,10,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis|575|11,11,·,·,u--------,AuxK

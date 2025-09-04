@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|358|1,1,ὤιοντο,οἴομαι,v3piie---,PRED
+1,Leuven|Ps-Luc|358|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|358|3,3,ἀληθῶς,ἀληθής,d--------,ADV
+3,Leuven|Ps-Luc|358|4,4,ἄνθρωπον,ἄνθρωπος,n-s---ma-,PNOM
+4,Leuven|Ps-Luc|358|5,5,εἶναι,εἰμί,v--pna---,OBJ
+5,Leuven|Ps-Luc|358|6,6,τὸν,ὁ,l-s---ma-,ATR
+6,Leuven|Ps-Luc|358|7,7,ἐωνημένον,ὠνέομαι,v-srpema-,SBJ

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|573|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|573|2,2,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|Genesis|573|3,3,ἄγροικος,ἄγροικος,a-s---mn-,ATR
+Leuven|Genesis|573|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,PNOM
+Leuven|Genesis|573|5,5,·,·,u--------,AuxK

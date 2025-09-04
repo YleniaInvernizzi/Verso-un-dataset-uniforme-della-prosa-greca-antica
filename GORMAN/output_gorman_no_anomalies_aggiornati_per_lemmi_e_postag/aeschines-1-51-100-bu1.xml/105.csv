@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀγνοήσας;ἀγνοέω;v-sapamn-;ADV
+2;δ᾽;δέ;d--------;AuxY
+3;ὑμῶν;σύ;p2p---mg-;ATR
+4;τὸν;ὁ;l-s---ma-;ATR
+5;θόρυβον;θόρυβος;n-s---ma-;OBJ
+6;,;punc;u--------;AuxX
+7;ὁ;ὁ;l-s---mn-;ATR
+8;Αὐτόλυκος;Αὐτόλυκος;n-s---mn-;SBJ
+9;μάλα;μάλα;d--------;ADV
+10;σκυθρωπάσας;σκυθρωπάζω;v-sapamn-;ADV_CO
+11;καὶ;καί;c--------;COORD
+12;διαλιπὼν;διαλείπω;v-sapamn-;ADV_CO
+13;εἶπεν;λέγω;v3saia---;PRED
+14;:;punc;u--------;AuxK

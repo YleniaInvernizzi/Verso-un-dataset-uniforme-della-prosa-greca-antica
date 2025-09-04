@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἴθι,εἶμι,v2spma---,ExD
+2,δή,δή,d--------,AuxY
+3,νυν,νῦν,d--------,ADV
+4,εἰπὲ,εἶπον,v2sama---,PRED
+5,τούτοις,οὗτος,p-p---md-,OBJ
+6,",",punc1,u--------,AuxX
+7,τίς,τις,p-s---mn-,SBJ
+8,αὐτοὺς,αὐτός,p-p---ma-,OBJ
+9,βελτίους,βελτίων,a-p---mac,OCOMP
+10,ποιεῖ,ποιέω,v3spia---,OBJ
+11,;,punc1,u--------,AuxK

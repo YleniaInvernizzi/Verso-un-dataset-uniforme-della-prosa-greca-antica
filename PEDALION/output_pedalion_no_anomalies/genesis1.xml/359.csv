@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|360|1,1,ὡς,ὡς,c--------,AuxC
+1,Leuven|Genesis|360|2,2,Νεβρωδ,Νεβρωδ,n-s---mn-,APOS
+2,Leuven|Genesis|360|3,3,γίγας,γίγας,n-s---mn-,SBJ
+3,Leuven|Genesis|360|4,4,κυνηγός,κυνηγός,n-s---mn-,ATR
+4,Leuven|Genesis|360|5,5,ἐναντίον,ἐναντίον,r--------,AuxP
+5,Leuven|Genesis|360|6,6,κυρίου,κύριος,n-s---mg-,ADV

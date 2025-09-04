@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|71|1,1,εἰς,εἰς,r--------,AuxP
+Leuven|0557-001|71|2,2,φυλακήν,φυλακή,n-s---fa-,OBJ
+Leuven|0557-001|71|3,3,σε,σύ,p2s---ca-,OBJ
+Leuven|0557-001|71|4,4,βαλῶ,βάλλω,v1sfia---,PRED
+Leuven|0557-001|71|5,5,.,.,u--------,AuxK

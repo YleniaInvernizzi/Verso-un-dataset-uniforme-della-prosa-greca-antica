@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|318|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|318|2,2,πέμπεται,πέμπω,v3spie---,PRED
+2,Leuven|PaeanBrev|318|3,3,αὐτοῖς,αὐτός,p-p---md-,ADV
+3,Leuven|PaeanBrev|318|4,4,στράτευμα,στράτευμα,n-s---nn-,SBJ
+4,Leuven|PaeanBrev|318|5,5,Λακωνικόν,Λακωνικός,a-s---nn-,ATR
+5,Leuven|PaeanBrev|318|6,6,ὑφʼ,ὑπό,r--------,AuxP
+6,Leuven|PaeanBrev|318|7,7,ἡγεμόνι,ἡγεμών,n-s---md-,OBJ
+7,Leuven|PaeanBrev|318|8,8,Ξανθίππῳ,Ξάνθιππος,n-s---md-,APOS

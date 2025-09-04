@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀρχὴ,ἀρχή,n-s---fn-,PNOM_CO
+2,καὶ,καί,c--------,COORD
+3,ῥίζα,ῥίζα,n-s---fn-,PNOM_CO
+4,παντὸς,πᾶς,a-s---ng-,ATR
+5,ἀγαθοῦ,ἀγαθός,a-s---ng-,ATR
+6,ἡ,ὁ,l-s---fn-,ATR
+7,τῆς,ὁ,l-s---fg-,ATR
+8,γαστρὸς,γαστήρ,n-s---fg-,ATR
+9,ἡδονή,ἡδονά,n-s---fn-,SBJ
+10,:,punc1,u--------,AuxK
+11,ἐστιν,εἰμί,v3spia---,PRED

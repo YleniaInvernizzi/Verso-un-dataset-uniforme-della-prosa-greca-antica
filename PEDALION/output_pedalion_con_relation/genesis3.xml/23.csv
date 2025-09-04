@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|24|1,1,γίνου,γίγνομαι,v2spme---,PRED_CO
+Leuven|Genesis_deel3|24|2,2,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel3|24|3,3,χιλιάδας,χιλιάς,n-p---fa-,PNOM
+Leuven|Genesis_deel3|24|4,4,μυριάδων,μυριάς,n-p---fg-,ATR
+Leuven|Genesis_deel3|24|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel3|24|6,6,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|24|7,7,κληρονομησάτω,κληρονομέω,v3sama---,PRED_CO
+Leuven|Genesis_deel3|24|8,8,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis_deel3|24|9,9,σπέρμα,σπέρμα,n-s---nn-,SBJ
+Leuven|Genesis_deel3|24|10,10,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel3|24|11,11,τάς,ὁ,l-p---fa-,ATR
+Leuven|Genesis_deel3|24|12,12,πόλεις,πόλις,n-p---fn-,OBJ
+Leuven|Genesis_deel3|24|13,13,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Genesis_deel3|24|14,14,ὑπεναντίων,ὑπεναντίος,a-p---mg-,ATR
+Leuven|Genesis_deel3|24|15,15,.,.,u--------,AuxK

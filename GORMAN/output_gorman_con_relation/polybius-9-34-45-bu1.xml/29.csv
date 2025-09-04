@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὤφειλε,ὀφέλλω,v3saia---,PRED
+2,ποιεῖν,ποιέω,v--pna---,OBJ
+3,τὰ,ὁ,l-p---na-,OBJ
+4,τοῦ,ὁ,l-s---mg-,ATR
+5,πολέμου,πόλεμος,n-s---mg-,ATR
+6,·,punc1,u--------,AuxK

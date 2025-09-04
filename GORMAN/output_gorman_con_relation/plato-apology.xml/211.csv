@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,θαυμάσιε,θαυμάσιος,a-s---mv-,ATR
+3,Μέλητε,Μέλητος,n-s---mv-,ExD
+4,",",punc1,u--------,AuxX
+5,ἵνα,ἵνα,c--------,AuxC
+6,τί,τις,p-s---na-,ADV
+7,ταῦτα,οὗτος,p-p---na-,OBJ
+8,λέγεις,λέγω3,v2spia---,ADV
+9,;,punc1,u--------,AuxK
+10,[0],,,PRED

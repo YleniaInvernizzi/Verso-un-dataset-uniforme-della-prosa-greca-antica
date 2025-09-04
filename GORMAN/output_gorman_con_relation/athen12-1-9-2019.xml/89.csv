@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἥμεθα,κάθημαι,v1piim---,PRED
+2,δαινύμενοι,δαίνυμι,v-pppemn-,ADV
+3,κρέα,κρέας,n-p---na-,OBJ_CO
+4,τ᾽,τε,d--------,AuxY
+5,ἄσπετα,ἄσπετος,a-p---na-,ATR
+6,καὶ,καί,c--------,COORD
+7,μέθυ,μέθυ,n-s---na-,OBJ_CO
+8,ἡδύ,ἡδύς,a-s---na-,ATR
+9,.,punc1,u--------,AuxK

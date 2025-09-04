@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,πότερον,πότερος,a-s---na-,ADV
+2,ταῖς,ὁ,l-p---fd-,ATR
+3,ναυσίν,ναῦς,n-p---fd-,OBJ
+4,;,punc1,u--------,AuxK
+5,[0],,,PRED

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,καί,καί,d-------_,AuxY
+2,μοι,ἐγώ,p1s---md-,ADV
+3,κάλει,καλέω,v2spma---,PRED
+4,Αἰήτην,Αἰήτης,n-s---ma-,OBJ
+5,Κειριάδην,Κειριάδης,n-s---ma-,ATR
+6,.,punc1,u--------,AuxK

@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,δεινά,δεινός,a-p---na-,OBJ_CO
+2,",",punc1,u--------,COORD
+3,δεινὰ,δεινός,a-p---na-,OBJ_CO
+4,κοὐκ,οὐ,d--------,AuxZ
+5,ἀνασχετὰ,ἀνασχετός,a-p---na-,OBJ_CO
+6,ἐν,ἐν,r--------,AuxP
+7,τῇ,ὁ,l-s---fd-,ATR
+8,πόλει,πόλις,n-s---fd-,ADV
+9,πράττουσιν,πράσσω,v3ppia---,PRED
+10,οἱ,ὁ,l-p---mn-,ATR
+11,νεώτεροι,νέος,a-p---mnc,SBJ
+12,.,punc1,u--------,AuxK

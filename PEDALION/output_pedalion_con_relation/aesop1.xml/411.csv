@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|1273|1,1,καί,καί,d--------,AuxY
+Leuven|0096-00#|1273|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0096-00#|1273|3,3,Βορέας,Βορέας,n-s---mn-,SBJ
+Leuven|0096-00#|1273|4,4,ἀρξάμενος,ἄρχω,v-sapmmn-,ADV
+Leuven|0096-00#|1273|5,5,σφοδρός,σφοδρός,a-s---mn-,PNOM
+Leuven|0096-00#|1273|6,6,ἦν,εἰμί,v3siia---,PRED
+Leuven|0096-00#|1273|7,7,·,·,u--------,AuxK

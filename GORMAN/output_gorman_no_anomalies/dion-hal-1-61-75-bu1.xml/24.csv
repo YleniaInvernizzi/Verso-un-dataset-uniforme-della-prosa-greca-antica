@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ἀγχίσου,Ἀγχίσης,n-s---mg-,PNOM_CO
+1,2,δὲ,δέ,d--------,AuxY
+2,3,καὶ,καί,c--------,COORD
+3,4,Ἀφροδίτης,Ἀφροδίτη,n-s---fg-,PNOM_CO
+4,5,Αἰνείας,Αἰνείας,n-s---mn-,SBJ
+5,6,.,punc1,u--------,AuxK
+6,7,ἦν,εἰμί,v3siia---,PRED

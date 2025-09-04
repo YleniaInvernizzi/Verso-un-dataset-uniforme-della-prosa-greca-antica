@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔψαλλον,ψάλλω,v3piia---,PRED_CO
+2,δὲ,δέ,d--------,AuxY
+3,αὗται,οὗτος,p-p---fn-,SBJ
+4,καὶ,καί,c--------,APOS
+5,ᾖδον,ἀείδω,v3piia---,PRED_CO
+6,ἐκείνου,ἐκεῖνος,p-s---mg-,SBJ
+7,δειπνοῦντος,δειπνέω,v-sppamg-,ADV
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|83|1,1,ὥστε,ὥστε,d--------,AuxY
+1,Leuven|Ps-Luc|83|2,2,ἀπόδυσαι,ἀποδύω,v2samm---,PRED_CO
+3,Leuven|Ps-Luc|83|4,4,καὶ,καί,c--------,COORD
+4,Leuven|Ps-Luc|83|5,5,ἤδη,ἤδη,d--------,ADV
+5,Leuven|Ps-Luc|83|6,6,παλαίωμεν,παλαίω,v1ppsa---,PRED_CO

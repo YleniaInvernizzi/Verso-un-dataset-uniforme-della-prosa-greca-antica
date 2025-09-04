@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|38|1,1,λῆρος,λῆρος,n-s---mn-,PNOM
+Leuven|0062-020|38|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0062-020|38|3,3,ἄλλως,ἄλλος,d--------,ADV
+Leuven|0062-020|38|4,4,τὸ,ὁ,l-s---nn-,ATR
+Leuven|0062-020|38|5,5,τοιοῦτον,τοιοῦτος,p-s---nn-,!!!congruentiefout geslacht?!!!SBJ
+Leuven|0062-020|38|6,6,.,.,u--------,AuxK

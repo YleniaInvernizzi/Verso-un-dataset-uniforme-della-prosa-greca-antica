@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγύμναζον;γυμνάζω;v3piia---;PRED_CO
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;c--------;COORD
+4;συνέταττον;συντάσσω;v3piia---;PRED_CO
+5;τοὺς;ὁ;l-p---ma-;ATR
+6;πολιτικοὺς;πολιτικός;a-p---ma-;ATR
+7;ἱππεῖς;ἱππεύς;n-p---ma-;OBJ
+8;:;punc;u--------;AuxK

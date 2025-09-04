@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καίτοι,καίτοι,d--------,AuxY
+1,2,ποτέρῳ,πότερος,a-s---nd-,OBJ
+2,3,χρὴ,χρή,v3spia---,PRED
+3,4,πιστεῦσαι,πιστεύω,v--ana---,SBJ
+4,5,;,punc1,u--------,AuxK

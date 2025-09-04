@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|356|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|356|2,2,σπεύσασα,σπεύδω,v-sapafn-,ADV
+Leuven|Genesis_deel2|356|3,3,καθεῖλεν,καθαιρέω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|356|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|356|5,5,ὑδρίαν,ὑδρία,n-s---fa-,OBJ
+Leuven|Genesis_deel2|356|6,6,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis_deel2|356|7,7,ἀφʼ,ἀπό,r--------,AuxP
+Leuven|Genesis_deel2|356|8,8,ἑαυτῆς,ἑαυτοῦ,p-s---fg-,ADV
+Leuven|Genesis_deel2|356|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|356|10,10,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|356|11,11,·,·,u--------,AuxK

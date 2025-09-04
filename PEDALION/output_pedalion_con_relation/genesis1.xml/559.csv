@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|560|1,1,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis|560|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|560|3,3,παιδίσκη,παιδίσκη,n-s---fn-,SBJ
+Leuven|Genesis|560|4,4,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|560|5,5,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|560|6,6,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|Genesis|560|7,7,χερσίν,χείρ,n-p---fd-,PNOM
+Leuven|Genesis|560|8,8,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|560|9,9,·,·,u--------,AuxK
+Leuven|Genesis|560|10,10,[0],,,PRED

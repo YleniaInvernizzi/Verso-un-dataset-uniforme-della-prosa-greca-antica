@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|292|1,1,γίνεται,γίγνομαι,v3spie---,PRED
+1,Leuven|PaeanBrev|292|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|292|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|PaeanBrev|292|4,4,τῇ,ὁ,l-s---fd-,ATR
+4,Leuven|PaeanBrev|292|5,5,Σικελίᾳ,Σικελία,n-s---fd-,ADV
+5,Leuven|PaeanBrev|292|6,6,συμπλοκή,συμπλοκή,n-s---fn-,SBJ

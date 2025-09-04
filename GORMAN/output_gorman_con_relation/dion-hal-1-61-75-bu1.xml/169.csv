@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Σικελὸς,Σικελός,n-s---mn-,SBJ
+2,ὄνομα,ὄνομα,n-s---nn-,PNOM
+3,αὐτῷ,αὐτός,p-s---md-,ATR
+4,.,punc1,u--------,AuxK
+5,ἦν,εἰμί,v3siia---,PRED

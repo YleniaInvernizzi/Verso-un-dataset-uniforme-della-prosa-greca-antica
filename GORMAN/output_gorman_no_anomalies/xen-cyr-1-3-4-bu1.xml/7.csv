@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὦ,ὦ,i--------,AuxZ
+1,2,μῆτερ,μήτηρ,n-s---fv-,ExD
+2,3,",",punc1,u--------,AuxX
+3,4,ὡς,ὡς,d--------,AuxZ
+4,5,καλός,καλός,a-s---mn-,PNOM
+5,6,μοι,ἐγώ,p1s---md-,ATR
+6,7,ὁ,ὁ,l-s---mn-,ATR
+7,8,πάππος,πάππος,n-s---mn-,SBJ
+8,9,.,punc1,u--------,AuxK
+9,10,ἐστιν,εἰμί,v3spia---,PRED

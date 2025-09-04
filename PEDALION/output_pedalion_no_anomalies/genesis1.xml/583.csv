@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|584|1,1,ἐγώ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Genesis|584|2,2,εἰμι,εἰμί,v1spia---,PRED
+2,Leuven|Genesis|584|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|584|4,4,θεός,θεός,n-s---mn-,PNOM
+4,Leuven|Genesis|584|5,5,σου,σύ,p2s---cg-,ATR
+5,Leuven|Genesis|584|6,6,·,·,u--------,AuxK

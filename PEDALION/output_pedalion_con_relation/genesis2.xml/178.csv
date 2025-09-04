@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|179|1,1,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis_deel2|179|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis_deel2|179|3,3,ἔθνος,ἔθνος,n-s---na-,OCOMP
+Leuven|Genesis_deel2|179|4,4,μέγα,μέγας,a-s---na-,ATR
+Leuven|Genesis_deel2|179|5,5,ποιήσω,ποιέω,v1sfia---,PRED
+Leuven|Genesis_deel2|179|6,6,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel2|179|7,7,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|35|1,1,ἀρκῇ,ἀρκέω,v2spie---,PRED
+Leuven|0557-001|35|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|35|3,3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+Leuven|0557-001|35|4,4,;,;,u--------,AuxK

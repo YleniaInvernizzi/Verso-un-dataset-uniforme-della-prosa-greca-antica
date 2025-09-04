@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|2|1,1,πρὸ,πρό,r--------,AuxP
+Leuven|21342|2|2,2,μὲν,μέν,d--------,AuxY
+Leuven|21342|2|3,3,πάντων,πᾶς,a-p---ng-,ADV
+Leuven|21342|2|4,4,εὔχομαί,εὔχομαι,v1spie---,PRED
+Leuven|21342|2|5,5,σε,σύ,p2s---ca-,SBJ
+Leuven|21342|2|6,6,ὑγιαίνειν,ὑγιαίνω,v--pna---,OBJ_CO
+Leuven|21342|2|7,7,καὶ,καί,b--------,COORD
+Leuven|21342|2|8,8,εὐτυχεῖν,εὐτυχέω,v--pna---,OBJ_CO
+Leuven|21342|2|9,9,.,.,u--------,AuxK

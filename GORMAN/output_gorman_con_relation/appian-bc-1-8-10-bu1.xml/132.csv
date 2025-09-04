@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὕστερον,ὕστερος,a-s---na-,ADV
+2,γὰρ,γάρ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,πλέοσι,πλείων,a-p---fdc,ADV
+5,τούτων,οὗτος,p-p---fg-,ADV
+6,.,punc1,u--------,AuxK
+7,ἐχώρουν,χωρέω,v3piia---,PRED

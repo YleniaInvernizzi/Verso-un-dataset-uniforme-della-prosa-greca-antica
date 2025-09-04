@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,συμπαρῄει,συμπάρειμι2,v3siia---,PRED
+1,2,δὲ,δέ,d--------,AuxY
+2,3,καὶ,καί,d--------,AuxZ
+3,4,Θώραξ,θώραξ,n-s---mn-,SBJ
+4,5,τὸ,ὁ,l-s---na-,ATR
+5,6,πεζὸν,πεζός,a-s---ma-,OBJ
+6,7,ἔχων,ἔχω,v-sppamn-,ADV
+7,8,.,punc1,u--------,AuxK

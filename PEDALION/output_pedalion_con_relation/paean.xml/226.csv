@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|228|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|228|2,2,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|228|3,3,δρόμον,δρόμος,n-s---ma-,OBJ
+Leuven|PaeanBrev|228|4,4,ἐπʼ,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|228|5,5,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|PaeanBrev|228|6,6,ποιούμενοι,ποιέω,v-pppemn-,ADV
+Leuven|PaeanBrev|228|7,7,παρά,παρά,r--------,AuxP
+Leuven|PaeanBrev|228|8,8,Γνέου,Γνέος,n-s---mg-,OBJ
+Leuven|PaeanBrev|228|9,9,Κορνηλίου,Κορνήλιος,n-s---mg-,APOS
+Leuven|PaeanBrev|228|10,10,Δολοβέλλου,Δολαβέλλας,n-s---mg-,APOS
+Leuven|PaeanBrev|228|11,11,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|PaeanBrev|228|12,12,ὑπάτου,ὕπατος,a-s---mg-,APOS
+Leuven|PaeanBrev|228|13,13,πανωλεθρίᾳ,πανωλεθρία,n-s---fd-,ADV
+Leuven|PaeanBrev|228|14,14,διεφθάρησαν,διαφθείρω,v3paip---,PRED
+Leuven|PaeanBrev|228|15,15,.,.,u--------,AuxK

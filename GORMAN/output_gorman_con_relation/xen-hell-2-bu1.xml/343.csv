@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,εἵλοντο,αἱρέω,v3paim---,PRED_CO
+3,δέκα,δέκα,a-_---___,OBJ
+4,",",punc1,u--------,COORD
+5,ἕνα,εἷς,a-s---ma_,OBJ
+6,ἀπὸ,ἀπό,r--------,AuxP
+7,φυλῆς,φυλή,n-s---fg-,ADV
+8,.,punc1,u--------,AuxK
+9,εἵλοντο,αἱρέω,v3paim---,PRED_CO

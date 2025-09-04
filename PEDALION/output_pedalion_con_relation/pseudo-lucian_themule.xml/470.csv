@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|471|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|471|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|471|3,3,τρυφὴν,τρυφή,n-s---fa-,OCOMP
+Leuven|Ps-Luc|471|4,4,ἐποιούμην,ποιόω,v1siie---,PRED
+Leuven|Ps-Luc|471|5,5,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|471|6,6,ἐκείνων,ἐκεῖνος,p-p---mg-,ATR
+Leuven|Ps-Luc|471|7,7,ἄγνοιαν,ἄγνοια,n-s---fa-,OBJ
+Leuven|Ps-Luc|471|8,8,.,.,u--------,AuxK

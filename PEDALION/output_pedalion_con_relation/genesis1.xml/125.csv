@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|126|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|126|2,2,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|126|3,3,γυναικί,γυνή,n-s---fd-,OBJ
+Leuven|Genesis|126|4,4,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|126|5,5,·,·,u--------,AuxK

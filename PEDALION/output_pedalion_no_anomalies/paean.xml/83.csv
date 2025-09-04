@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|84|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|PaeanBrev|84|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|84|3,3,δή,δή,d--------,AuxY
+3,Leuven|PaeanBrev|84|4,4,λειπόμενος,λείπω,v-sppemn-,SBJ
+4,Leuven|PaeanBrev|84|5,5,ἀεί,ἀεί,d--------,ADV
+5,Leuven|PaeanBrev|84|6,6,κύριος,κύριος,n-s---mn-,PNOM
+6,Leuven|PaeanBrev|84|7,7,ἦν,εἰμί,v3siia---,PRED
+7,Leuven|PaeanBrev|84|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|PaeanBrev|84|9,9,τοῦ,ὁ,l-s---mg-,ATR
+9,Leuven|PaeanBrev|84|10,10,κοινωνοῦ,κοινωνός,n-s---mg-,ATR
+10,Leuven|PaeanBrev|84|11,11,χειροτονίας,χειροτονία,n-s---fg-,OBJ

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|208|1,1,ἀναστάς,ἀνίστημι,v-sapamn-,ADV
+1,Leuven|Genesis_deel2|208|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|208|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|208|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis_deel2|208|5,5,πρωί,πρωΐ,d--------,ADV
+5,Leuven|Genesis_deel2|208|6,6,ἐπέσαξεν,ἐπισάττω,v3saia---,PRED
+6,Leuven|Genesis_deel2|208|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|Genesis_deel2|208|8,8,ὄνον,ὄνος,n-s---fa-,OBJ
+8,Leuven|Genesis_deel2|208|9,9,αὐτοῦ,αὐτός,p-s---mg-,ATR

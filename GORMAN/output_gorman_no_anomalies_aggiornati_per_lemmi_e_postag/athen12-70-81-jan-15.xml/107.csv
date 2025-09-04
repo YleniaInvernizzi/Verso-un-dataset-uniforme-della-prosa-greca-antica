@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;κακῶς;κακός;d--------;ADV
+2;ἔχεις;ἔχω;v2spia---;PRED_CO
+3;,;punc;u--------;COORD
+4;στρουθὶς;στρουθίς;n-s---fn-;PNOM
+5;ἀκαρὴς;ἀκαρής;a-s---fn-;ATR
+6;νὴ;νή;r--------;AuxP
+7;Δί᾽;Ζεύς;n-s---md-;ADV
+8;ἐγένου;γίγνομαι;v2saim---;PRED_CO
+9;πεφιλιππίδωσαι;φιλιππιδόομαι;v2srie---;PRED_CO
+10;.;punc;u--------;AuxK

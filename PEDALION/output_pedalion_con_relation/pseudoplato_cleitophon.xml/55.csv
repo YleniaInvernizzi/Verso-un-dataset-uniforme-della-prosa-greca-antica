@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|56|1,1,συνέβαινε,συμβαίνω,v3siia---,PRED
+Leuven|0059-00x|56|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0059-00x|56|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|0059-00x|56|4,4,τὰ,ὁ,l-p---na-,ATR
+Leuven|0059-00x|56|5,5,πλείω,πολύς,a-p---nac,ADV
+Leuven|0059-00x|56|6,6,τὰς,ὁ,l-p---fa-,ATR
+Leuven|0059-00x|56|7,7,τοιαύτας,τοιοῦτος,p-p---fa-,SBJ
+Leuven|0059-00x|56|8,8,βλαβερὰς,βλαβερός,a-p---fa-,PNOM
+Leuven|0059-00x|56|9,9,ἢ,ἤ,c--------,AuxC
+Leuven|0059-00x|56|10,10,ἀγαθὰς,ἀγαθός,a-p---fa-,PNOM
+Leuven|0059-00x|56|11,11,εἶναι,εἰμί,v--pna---,SBJ
+Leuven|0059-00x|56|12,12,.,.,u--------,AuxK
+Leuven|0059-00x|56|13,13,[1],_,-,ADV

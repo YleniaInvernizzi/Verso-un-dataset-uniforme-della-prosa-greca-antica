@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,κωλύειν,κωλύω,v--pna---,OBJ
+2,δὲ,δέ,d--------,AuxZ
+3,οὐδεὶς,οὐδείς,p-s---mn-,SBJ
+4,ἔτι,ἔτι,d--------,ADV
+5,ἐπειρᾶτο,πειράω,v3siie---,PRED
+6,.,punc1,u--------,AuxK

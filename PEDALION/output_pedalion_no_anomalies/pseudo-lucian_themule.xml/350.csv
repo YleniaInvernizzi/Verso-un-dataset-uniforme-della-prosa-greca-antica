@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|351|1,1,ὁρᾶις,ὁράω,v2spia---,PRED_CO
+2,Leuven|Ps-Luc|351|3,3,ἔφη,φημί,v3siia---,ExD
+4,Leuven|Ps-Luc|351|5,5,οὗτος,οὗτος,p-s---mn-,SBJ
+5,Leuven|Ps-Luc|351|6,6,μόνος,μόνος,a-s---mn-,ADV
+6,Leuven|Ps-Luc|351|7,7,οὐχ,οὐ,d--------,AuxZ
+7,Leuven|Ps-Luc|351|8,8,εὕρηκε,εὑρίσκω,v3sria---,PRED_CO
+8,Leuven|Ps-Luc|351|9,9,κύριον,κύριος,n-s---ma-,OBJ

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31346|8|1,1,τὰ,ὁ,l-p---na-,OBJ
+1,Leuven|31346|8|2,2,κατὰ,κατά,r--------,AuxP
+2,Leuven|31346|8|3,3,σὲ,σύ,p2s---ca-,ATR
+3,Leuven|31346|8|4,4,διοίκησον,διοικέω,v2sama---,PRED
+4,Leuven|31346|8|5,5,ὡς,ὡς,c--------,AuxC
+5,Leuven|31346|8|6,6,πρέπον,πρέπω,v-sppann-,PNOM
+6,Leuven|31346|8|7,7,ἐστίν,εἰμί,v3spia---,ADV
+8,Leuven|31346|8|9,9,μὴ,μή,c--------,AuxC
+9,Leuven|31346|8|10,10,τέλειον,τέλειος,a-s---na-,OBJ
+10,Leuven|31346|8|11,11,ἀνατραπῶμεν,ἀνατρέπω,v1pasp---,ADV

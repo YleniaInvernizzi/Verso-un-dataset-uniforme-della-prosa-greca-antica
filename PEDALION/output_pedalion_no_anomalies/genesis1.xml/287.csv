@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|288|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|288|2,2,ἐξελθών,ἐξέρχομαι,v-sapamn-,ADV
+2,Leuven|Genesis|288|3,3,οὐχ,οὐ,d--------,AuxZ
+3,Leuven|Genesis|288|4,4,ὑπέστρεψεν,ὑποστρέφω,v3saia---,PRED
+4,Leuven|Genesis|288|5,5,ἕως,ἕως,r--------,AuxP
+5,Leuven|Genesis|288|6,6,τοῦ,ὁ,l-s---ng-,ATR
+6,Leuven|Genesis|288|7,7,ξηρανθῆναι,ξηραίνω,v--anp---,ADV
+7,Leuven|Genesis|288|8,8,τό,ὁ,l-s---na-,ATR
+8,Leuven|Genesis|288|9,9,ὕδωρ,ὕδωρ,n-s---na-,OBJ
+9,Leuven|Genesis|288|10,10,ἀπό,ἀπό,r--------,AuxP
+10,Leuven|Genesis|288|11,11,τῆς,ὁ,l-s---fg-,ATR
+11,Leuven|Genesis|288|12,12,γῆς,γῆ,n-s---fg-,ADV

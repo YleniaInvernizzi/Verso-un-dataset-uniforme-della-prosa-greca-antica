@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,ATR
+2,δʼ,δέ,d--------,AuxY
+3,αὖ,αὖ,d--------,ADV
+4,τεταγμένοι,τάσσω,v-prpemn-,SBJ
+5,",",punc1,u--------,AuxX
+6,ἐπεὶ,ἐπεί,c--------,AuxC
+7,ὥρα,ὥρα,n-s---fn-,SBJ
+8,ἦν,εἰμί,v3siia---,ADV
+9,",",punc1,u--------,AuxX
+10,δεῖπνον,δεῖπνον,n-s---na-,SBJ
+11,παρετίθεσαν,παρατίθημι,v3piia---,PRED
+12,·,punc1,u--------,AuxK

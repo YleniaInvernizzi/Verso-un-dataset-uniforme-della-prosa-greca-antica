@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ὁ;ὁ;l-s---mn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;Κροῖσος;Κροῖσος;n-s---mn-;SBJ
+4;ὡς;ὡς;c--------;AuxC
+5;εἶδε;ὁράω;v3saia---;ADV
+6;τὸν;ὁ;l-s---ma-;ATR
+7;Κῦρον;Κῦρος;n-s---ma-;OBJ
+8;,;punc;u--------;AuxX
+9;χαῖρε;χαίρω;v2spma---;OBJ
+10;,;punc;u--------;AuxX
+11;ὦ;ὦ;i--------;AuxZ
+12;δέσποτα;δεσπότης;n-s---mv-;ExD
+13;,;punc;u--------;AuxX
+14;ἔφη;φημί;v3siia---;PRED
+15;·;punc;u--------;AuxK

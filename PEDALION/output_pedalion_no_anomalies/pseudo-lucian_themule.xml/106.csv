@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|107|1,1,οἶμαι,οἴομαι,v1spie---,PRED
+1,Leuven|Ps-Luc|107|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|107|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|Ps-Luc|107|4,4,σὲ,σύ,p2s---ca-,SBJ
+4,Leuven|Ps-Luc|107|5,5,οὐκ,οὐ,d--------,AuxZ
+5,Leuven|Ps-Luc|107|6,6,ἀπείρως,ἄπειρος,d--------,ADV
+6,Leuven|Ps-Luc|107|7,7,τῆσδε,ὅδε,p-s---fg-,ATR
+7,Leuven|Ps-Luc|107|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|Ps-Luc|107|9,9,τέχνης,τέχνη,n-s---fg-,ADV
+9,Leuven|Ps-Luc|107|10,10,ἔχειν,ἔχω,v--pna---,OBJ

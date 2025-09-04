@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;πολλοὺς;πολύς;a-p---ma-;OBJ
+2;δ᾽;δέ;d--------;AuxY
+3;ὑπερβὰς;ὑπερβαίνω;v-sapamn-;ADV
+4;ἑνὸς;εἷς;n-s---mg-;OBJ
+5;τῶν;ὁ;l-p---mg-;ATR
+6;δεινὰ;δεινός;a-p---na-;OBJ
+7;πεπονθότων;πάσχω;v-prpamg-;ATR
+8;μνησθήσομαι;μιμνῄσκω;v1sfip---;PRED
+9;.;punc;u--------;AuxK

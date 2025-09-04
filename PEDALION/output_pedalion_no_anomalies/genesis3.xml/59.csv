@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|60|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|60|2,2,αὗται,οὗτος,p-p---fn-,SBJ
+2,Leuven|Genesis_deel3|60|3,3,αἱ,ὁ,l-p---fn-,ATR
+3,Leuven|Genesis_deel3|60|4,4,γενέσεις,γένεσις,n-p---fn-,PNOM
+4,Leuven|Genesis_deel3|60|5,5,Ισαακ,Ισαακ,n-s---mg-,ATR
+5,Leuven|Genesis_deel3|60|6,6,τοῦ,ὁ,l-s---mg-,ATR
+6,Leuven|Genesis_deel3|60|7,7,υἱοῦ,υἱός,n-s---mg-,APOS
+7,Leuven|Genesis_deel3|60|8,8,Αβρααμ,Αβρααμ,n-s---mg-,ATR

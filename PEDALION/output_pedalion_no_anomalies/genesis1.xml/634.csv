@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|635|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|Genesis|635|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|635|3,3,ἀποκριθείς,ἀποκρίνω,v-sappmn-,ADV
+3,Leuven|Genesis|635|4,4,εἶπεν,λέγω,v3saia---,PRED
+4,Leuven|Genesis|635|5,5,·,·,u--------,AuxK

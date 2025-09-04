@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|30|1,1,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|30|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|30|3,3,δεῖπνον,δεῖπνον,n-s---nn-,SBJ
+Leuven|Ps-Luc|30|4,4,οὐ,οὐ,d--------,AuxZ
+Leuven|Ps-Luc|30|5,5,σφόδρα,σφόδρα,d--------,ADV
+Leuven|Ps-Luc|30|6,6,λιτόν,λιτός,a-s---nn-,PNOM
+Leuven|Ps-Luc|30|7,7,·,·,u--------,AuxK
+Leuven|Ps-Luc|30|8,8,ἦν,εἰμί,v3siia---,PRED

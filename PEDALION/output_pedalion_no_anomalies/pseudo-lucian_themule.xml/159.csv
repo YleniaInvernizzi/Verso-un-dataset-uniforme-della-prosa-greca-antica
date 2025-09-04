@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|160|1,1,ὥστε,ὥστε,d--------,AuxY
+1,Leuven|Ps-Luc|160|2,2,ἐς,εἰς,r--------,AuxP
+2,Leuven|Ps-Luc|160|3,3,τὴν,ὁ,l-s---fa-,ATR
+3,Leuven|Ps-Luc|160|4,4,τότε,τότε,d--------,ADV
+4,Leuven|Ps-Luc|160|5,5,καὶ,καί,d--------,AuxZ
+5,Leuven|Ps-Luc|160|6,6,ἔμεινα,μένω,v1saia---,PRED
+6,Leuven|Ps-Luc|160|7,7,ὄνος,ὄνος,n-s---mn-,PNOM

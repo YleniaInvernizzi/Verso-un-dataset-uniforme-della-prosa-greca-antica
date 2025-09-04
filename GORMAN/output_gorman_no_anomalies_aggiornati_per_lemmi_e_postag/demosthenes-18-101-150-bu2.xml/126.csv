@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;οὐ;οὐ;d--------;AuxZ
+2;-δὲ;δέ;d--------;AuxZ
+3;γὰρ;γάρ;d--------;AuxY
+4;ὧν;ὅς;p-p---ng-;PNOM
+5;ἔτυχεν;τυγχάνω;v3saia---;PNOM_CO
+6;ἦν;εἰμί;v3siia---;PRED
+7;,;punc;u--------;AuxX
+8;ἀλλ᾽;ἀλλά;c--------;COORD
+9;οἷς;ὅς;p-p---nd-;OBJ
+10;ὁ;ὁ;l-s---mn-;ATR
+11;δῆμος;δῆμος;n-s---mn-;SBJ
+12;καταρᾶται;καταράομαι;v3spie---;PNOM_CO
+13;.;punc;u--------;AuxK

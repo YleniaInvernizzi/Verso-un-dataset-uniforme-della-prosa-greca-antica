@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔχει,ἔχω,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,αὐτῷ,αὐτός,a-s---md_,ATR
+4,ἐν,ἐν,r--------,AuxP
+5,Φορωνίδι,Φορωνίς,n-s---fd-,ADV
+6,ὁ,ὁ,l-s---mn-,ATR
+7,λόγος,λόγος,n-s---mn-,SBJ
+8,ὧδε,ὧδε,d--------,ADV
+9,:,punc1,u--------,AuxK

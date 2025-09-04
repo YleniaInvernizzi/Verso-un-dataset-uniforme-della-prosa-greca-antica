@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγίνετο;γίγνομαι;v3siie---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;ἡ;ὁ;l-s---fn-;ATR
+4;κρίσις;κρίσις;n-p---fa-;SBJ
+5;τόνδε;ὅδε;a-s---ma-;ATR
+6;τὸν;ὁ;l-s---ma-;ATR
+7;τρόπον;τρόπος;n-s---ma-;ADV
+8;.;punc;u--------;AuxK

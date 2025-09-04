@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐφʼ,ἐπί,r--------,AuxP
+1,2,οὓς,ὅς,p-p---ma-,ADV
+2,3,ὁ,ὁ,l-s---mn-,ATR
+3,4,Κράσσος,Κράσσος,n-s---mn-,SBJ
+4,5,ἀνέβαινεν,ἀναβαίνω,v3siia---,PRED
+5,6,.,punc1,u--------,AuxK

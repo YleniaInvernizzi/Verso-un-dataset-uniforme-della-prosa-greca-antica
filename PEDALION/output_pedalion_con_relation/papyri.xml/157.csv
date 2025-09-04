@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|26|1,1,καὶ,καί,d--------,AuxY
+Leuven|21342|26|2,2,οὐκ,οὐ,d--------,AuxZ
+Leuven|21342|26|3,3,ἦν,εἰμί,v3siia---,PRED
+Leuven|21342|26|4,4,μέγα,μέγας,a-s---nn-,ATR
+Leuven|21342|26|5,5,πρᾶγμα,πρᾶγμα,n-s---nn-,SBJ
+Leuven|21342|26|6,6,G,G,---------,GAP
+Leuven|21342|26|7,7,G,G,---------,GAP
+Leuven|21342|26|8,8,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,γὰρ,γάρ,d--------,AuxY
+3,ἔστιν,εἰμί,v3spia---,PRED
+4,ἄρχειν,ἄρχω,v--pna---,SBJ
+5,μὴ,μή,d--------,AuxZ
+6,διδόντα,δίδωμι,v-sppama-,SBJ
+7,μισθόν,μισθός,n-s---ma-,OBJ
+8,.,punc1,u--------,AuxK

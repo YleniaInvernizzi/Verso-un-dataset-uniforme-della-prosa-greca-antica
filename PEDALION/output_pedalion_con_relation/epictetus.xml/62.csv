@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|63|1,1,μή,μή,d--------,AuxZ
+Leuven|0557-001|63|2,2,τις,τις,p-s---cn-,SBJ
+Leuven|0557-001|63|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|63|4,4,κωλύει,κωλύω,v3spia---,PRED
+Leuven|0557-001|63|5,5,γελῶντα,γελάω,v-sppama-,ADV_CO
+Leuven|0557-001|63|6,6,καί,καί,c--------,AuxY
+Leuven|0557-001|63|7,7,εὐθυμοῦντα,εὐθυμέω,v-sppama-,ADV_CO
+Leuven|0557-001|63|8,8,καί,καί,c--------,COORD
+Leuven|0557-001|63|9,9,εὐροοῦντα,εὐροέω,v-sppama-,ADV_CO
+Leuven|0557-001|63|10,10,;,;,u--------,AuxK
+Leuven|0557-001|63|11,11,[0],,,OBJ

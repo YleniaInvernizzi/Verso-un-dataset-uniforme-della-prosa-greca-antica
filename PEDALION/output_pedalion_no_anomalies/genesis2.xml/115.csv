@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|116|1,1,ἐν,ἐν,r--------,AuxP
+1,Leuven|Genesis_deel2|116|2,2,καθαρᾷ,καθαρός,a-s---fd-,ATR
+2,Leuven|Genesis_deel2|116|3,3,καρδίᾳ,καρδία,n-s---fd-,ADV
+3,Leuven|Genesis_deel2|116|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis_deel2|116|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Genesis_deel2|116|6,6,δικαιοσύνῃ,δικαιοσύνη,n-s---fd-,ADV
+6,Leuven|Genesis_deel2|116|7,7,χειρῶν,χείρ,n-p---fg-,ATR
+7,Leuven|Genesis_deel2|116|8,8,ἐποίησα,ποιέω,v1saia---,PRED
+8,Leuven|Genesis_deel2|116|9,9,τοῦτο,οὗτος,p-s---na-,OBJ

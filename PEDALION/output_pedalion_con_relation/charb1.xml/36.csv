@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|37|1,1,ὑμέναιος,ὑμέναιος,n-s---mn-,SBJ
+Leuven|0554-001|37|2,2,ᾔδετο,ἀείδω,v3siie---,PRED
+Leuven|0554-001|37|3,3,κατὰ,κατά,r--------,AuxP
+Leuven|0554-001|37|4,4,πᾶσαν,πᾶς,a-s---fa-,ATR
+Leuven|0554-001|37|5,5,τὴν,ὁ,l-s---fa-,ATR
+Leuven|0554-001|37|6,6,πόλιν,πόλις,n-s---fa-,ADV
+Leuven|0554-001|37|7,7,·,·,u--------,AuxK

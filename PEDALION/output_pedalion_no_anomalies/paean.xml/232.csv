@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|234|1,1,ἐπί,ἐπί,r--------,AuxP
+1,Leuven|PaeanBrev|234|2,2,τούτῳ,οὗτος,p-s---nd-,ADV
+2,Leuven|PaeanBrev|234|3,3,ὕπατος,ὕπατος,n-s---mn-,OCOMP
+3,Leuven|PaeanBrev|234|4,4,ἐχειροτονήθη,χειροτονέω,v3saip---,PRED
+4,Leuven|PaeanBrev|234|5,5,Πούβλιος,Πούβλιος,n-s---mn-,SBJ
+5,Leuven|PaeanBrev|234|6,6,Οὐαλέριος,Οὐαλέριος,n-s---mn-,APOS
+6,Leuven|PaeanBrev|234|7,7,Λευῖνος,Λευῖνος,n-s---mn-,APOS

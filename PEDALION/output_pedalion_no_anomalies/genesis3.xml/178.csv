@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|179|1,1,μόνον,μόνον,d--------,ADV
+1,Leuven|Genesis_deel3|179|2,2,ὑπάκουσον,ὑπακούω,v2sama---,PRED_CO
+2,Leuven|Genesis_deel3|179|3,3,τῆς,ὁ,l-s---fg-,ATR
+3,Leuven|Genesis_deel3|179|4,4,φωνῆς,φωνή,n-s---fg-,OBJ
+4,Leuven|Genesis_deel3|179|5,5,μου,ἐγώ,p1s---cg-,ATR
+5,Leuven|Genesis_deel3|179|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel3|179|7,7,πορευθείς,πορεύω,v-sappmn-,ADV
+7,Leuven|Genesis_deel3|179|8,8,ἔνεγκε,φέρω,v2sama---,PRED_CO
+8,Leuven|Genesis_deel3|179|9,9,μοι,ἐγώ,p1s---cd-,OBJ

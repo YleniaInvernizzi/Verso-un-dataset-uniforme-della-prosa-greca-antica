@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ὀλίγα;ὀλίγος;a-p---na-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;ἦλθον;ἔρχομαι;v3paia---;PRED_CO
+5;ἔχοντες;ἔχω;v-pppamn-;ADV
+6;χρήματα;χρῆμα;n-p---na-;OBJ
+7;,;punc;u--------;AuxX
+8;πολλῶν;πολύς;a-p---ng-;OBJ
+9;δὲ;δέ;c--------;COORD
+10;προσεδεήθησαν;προσδέομαι;v3paip---;PRED_CO
+11;:;punc;u--------;AuxK

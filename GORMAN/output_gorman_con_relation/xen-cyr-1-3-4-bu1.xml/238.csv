@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτʼ,οὗτος,p-p---nn-,SBJ
+2,εἰπόντος,εἶπον,v-sapamg-,ADV
+3,αὐτοῦ,αὐτός,p-s---mg-,SBJ
+4,ἔδοξέ,δοκέω,v3saia---,PRED
+5,τι,τις,p-s---na-,OBJ
+6,λέγειν,λέγω3,v--pna---,OBJ
+7,τῷ,ὁ,l-s---md-,ATR
+8,Ἀστυάγει,Ἀστυάγης,n-s---md-,OBJ
+9,.,punc1,u--------,AuxK

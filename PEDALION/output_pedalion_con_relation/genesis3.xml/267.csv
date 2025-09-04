@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|268|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|268|2,2,ἀπήντησεν,ἀπαντάω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|268|3,3,τόπῳ,τόπος,n-s---md-,OBJ
+Leuven|Genesis_deel3|268|4,4,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|268|5,5,ἐκοιμήθη,κοιμάω,v3saip---,PRED_CO
+Leuven|Genesis_deel3|268|6,6,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis_deel3|268|7,7,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|61|1,1,Αβρααμ,Αβρααμ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|61|2,2,ἐγέννησεν,γεννάω,v3saia---,PRED
+Leuven|Genesis_deel3|61|3,3,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel3|61|4,4,Ισαακ,Ισαακ,n-s---ma-,OBJ
+Leuven|Genesis_deel3|61|5,5,.,.,u--------,AuxK

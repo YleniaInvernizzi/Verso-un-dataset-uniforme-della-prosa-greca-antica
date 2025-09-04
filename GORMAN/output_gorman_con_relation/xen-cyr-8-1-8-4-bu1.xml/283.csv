@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡγεῖτο,ἡγέομαι,v3siim---,PRED
+2,δʼ,δέ,d--------,AuxY
+3,αὐτῶν,αὐτός,p-p---mg-,OBJ
+4,Χρυσάντας,Χρυσάντας,n-s---mn-,SBJ
+5,·,punc1,u--------,AuxK

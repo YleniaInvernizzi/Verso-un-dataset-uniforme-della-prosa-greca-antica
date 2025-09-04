@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|195|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|195|2,2,τοῦτον,οὗτος,p-s---ma-,OBJ
+Leuven|PaeanBrev|195|3,3,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|195|4,4,ἡττήθησαν,ἡσσάομαι,v3paim---,PRED_CO
+Leuven|PaeanBrev|195|5,5,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|195|6,6,Λατῖνοι,Λατῖνος,n-p---mn-,SBJ
+Leuven|PaeanBrev|195|7,7,καί,καί,b--------,COORD
+Leuven|PaeanBrev|195|8,8,θρίαμβον,θρίαμβος,n-s---ma-,OBJ
+Leuven|PaeanBrev|195|9,9,ἔσχεν,ἔχω,v3saia---,PRED_CO
+Leuven|PaeanBrev|195|10,10,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|195|11,11,νίκη,νίκη,n-s---fn-,SBJ
+Leuven|PaeanBrev|195|12,12,·,·,u--------,AuxK

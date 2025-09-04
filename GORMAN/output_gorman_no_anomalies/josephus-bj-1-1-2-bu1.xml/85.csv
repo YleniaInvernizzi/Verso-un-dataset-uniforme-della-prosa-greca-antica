@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Φιλαδελφείας,Φιλαδέλφεια,n-s---fg-,ATR
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,ἦν,εἰμί,v3siia---,PRED
+3,4,τύραννος,τύραννος,n-s---mn-,PNOM
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀλλ᾽;ἀλλά;d--------;AuxY
+2;ἐν;ἐν;r--------;AuxP
+3;τούτῳ;οὗτος;p-s---nd-;ADV
+4;κραυγὴ;κραυγή;n-s---fn-;SBJ
+5;γίγνεται;γίγνομαι;v3spie---;PRED_CO
+6;καὶ;καί;c--------;COORD
+7;ᾤχοντο;οἴχομαι;v3piie---;PRED_CO
+8;φεύγοντες;φεύγω;v-pppamn-;ADV
+9;.;punc;u--------;AuxK

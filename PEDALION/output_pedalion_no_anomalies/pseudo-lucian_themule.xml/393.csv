@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|394|1,1,ἐνταῦθα,ἐνταῦθα,d--------,OBJ
+1,Leuven|Ps-Luc|394|2,2,εἰσδραμὼν,εἰστρέχω,v-sapamn-,ADV
+2,Leuven|Ps-Luc|394|3,3,ἀνατρέπω,ἀνατρέπω,v1spia---,PRED
+3,Leuven|Ps-Luc|394|4,4,πάντα,πᾶς,a-p---na-,OBJ
+4,Leuven|Ps-Luc|394|5,5,τῶι,ὁ,l-s---nd-,ATR
+5,Leuven|Ps-Luc|394|6,6,σκιρτήματι,σκίρτημα,n-s---nd-,ADV
+6,Leuven|Ps-Luc|394|7,7,καὶ,καί,c--------,AuxY
+7,Leuven|Ps-Luc|394|8,8,λυχνίαν,λυχνία,n-s---fa-,APOS_CO
+8,Leuven|Ps-Luc|394|9,9,καὶ,καί,c--------,COORD
+9,Leuven|Ps-Luc|394|10,10,τραπέζας,τράπεζα,n-p---fa-,APOS_CO

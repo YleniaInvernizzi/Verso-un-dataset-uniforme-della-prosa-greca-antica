@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔπειτεν;ἔπειτα;d--------;AuxY
+2;εἰπεῖν;λέγω;v--ana---;OBJ
+3;φασι;φημί;v3ppia---;PRED
+4;τὴν;ὁ;l-s---fa-;ATR
+5;Γναθαίνιον;Γναθαίνιος;n-s---fa-;SBJ
+6;:;punc;u--------;AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|180|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|180|2,2,ἦν,εἰμί,v3siia---,PRED
+Leuven|Genesis|180|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|180|4,4,πατήρ,πατήρ,n-s---mn-,PNOM
+Leuven|Genesis|180|5,5,οἰκούντων,οἰκέω,v-pppamg-,ATR
+Leuven|Genesis|180|6,6,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|180|7,7,σκηναῖς,σκηνή,n-p---fd-,ADV
+Leuven|Genesis|180|8,8,κτηνοτρόφων,κτηνοτρόφος,a-p---ng-,ATR
+Leuven|Genesis|180|9,9,.,.,u--------,AuxK

@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|5364|3|1,1,ἀπῆγμαι,ἀπάγω,v1srie---,PRED
+1,Leuven|5364|3|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|5364|3|3,3,πρὸς,πρός,r--------,AuxP
+3,Leuven|5364|3|4,4,τοῦτο,οὗτος,p-s---na-,ADV
+4,Leuven|5364|3|5,5,ἀδίκως,ἄδικος,d--------,ADV

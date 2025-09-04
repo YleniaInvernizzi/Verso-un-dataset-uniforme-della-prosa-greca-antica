@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,Φρύνη,Φρύνη,n-s---fn-,SBJ
+2,συνδειπνοῦσά,συνδειπνέω,v-sppafn-,ADV
+3,ποτε,ποτέ,d--------,ADV
+4,γράσωνι,γράσων,n-s---md-,OBJ
+5,ἄρασα,αἴρω,v-sapafn-,ADV
+6,φορίνην,φορίνη,n-s---fa-,OBJ
+7,λαβέ,λαμβάνω,v2sama---,OBJ_CO
+8,",",punc1,u--------,AuxX
+9,εἶπε,εἶπον,v3saia---,PRED
+10,",",punc1,u--------,AuxX
+11,καὶ,καί,c--------,COORD
+12,ταῦτα,οὗτος,p-p---na-,OBJ
+13,τράγε,τρώγω,v2sama---,OBJ_CO
+14,.,punc1,u--------,AuxK

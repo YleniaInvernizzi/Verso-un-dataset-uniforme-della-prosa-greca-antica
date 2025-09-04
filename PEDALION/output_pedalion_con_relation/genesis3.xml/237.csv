@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|238|1,1,οὐχ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel3|238|2,2,ὑπελίπω,ὑπολείπω,v2saim---,PRED
+Leuven|Genesis_deel3|238|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis_deel3|238|4,4,εὐλογίαν,εὐλογία,n-s---fa-,OBJ
+Leuven|Genesis_deel3|238|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel3|238|6,6,πάτερ,πατήρ,n-s---mv-,ExD
+Leuven|Genesis_deel3|238|7,7,;,;,u--------,AuxK

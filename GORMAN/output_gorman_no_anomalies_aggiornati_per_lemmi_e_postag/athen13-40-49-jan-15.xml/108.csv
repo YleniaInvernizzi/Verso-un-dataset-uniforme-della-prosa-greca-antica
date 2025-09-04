@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;Πτολεμαῖε;Πτολεμαῖος;n-s---mv-;ExD
+2;,;punc;u--------;AuxX
+3;διψῶ;διψάω;v1spia---;OBJ
+4;,;punc;u--------;AuxX
+5;φησί;φημί;v3spia---;PRED
+6;,;punc;u--------;AuxX
+7;παππία;παππίας;n-s---mv-;ATR
+8;,;punc;u--------;AuxX
+9;σφόδρα;σφοδρός;d--------;ADV
+10;:;punc;u--------;AuxK

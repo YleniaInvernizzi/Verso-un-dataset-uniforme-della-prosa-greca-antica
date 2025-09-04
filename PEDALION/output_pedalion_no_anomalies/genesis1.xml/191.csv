@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|192|1,1,ᾗ,ὅς,p-s---fd-,ATR
+1,Leuven|Genesis|192|2,2,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+2,Leuven|Genesis|192|3,3,ἐποίησεν,ποιέω,v3saia---,ADV
+3,Leuven|Genesis|192|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|192|5,5,θεός,θεός,n-s---mn-,SBJ
+5,Leuven|Genesis|192|6,6,τόν,ὁ,l-s---ma-,ATR
+6,Leuven|Genesis|192|7,7,Αδαμ,Αδαμ,n-s---ma-,OBJ
+8,Leuven|Genesis|192|9,9,κατ’,κατά,r--------,AuxP
+9,Leuven|Genesis|192|10,10,εἰκόνα,εἰκών,n-s---fa-,ADV
+10,Leuven|Genesis|192|11,11,θεοῦ,θεός,n-s---mg-,ATR
+11,Leuven|Genesis|192|12,12,ἐποίησεν,ποιέω,v3saia---,PRED
+12,Leuven|Genesis|192|13,13,αὐτόν,αὐτός,p-s---ma-,OBJ
+13,Leuven|Genesis|192|14,14,·,·,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τῇ;ὁ;l-s---fd-;ATR
+2;μέντοι;μέντοι;d--------;AuxY
+3;κατασκευῇ;κατασκευή;n-s---fd-;ADV
+4;πολὺ;πολύς;a-s---na-;ADV
+5;τῆς;ὁ;l-s---fg-;ATR
+6;δόξης;δόξα;n-s---fg-;ADV
+7;ἐστὶ;εἰμί;v3spia---;PRED
+8;καταδεέστερος;καταδεής;a-s---mnc;PNOM
+9;:;punc;u--------;AuxK

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἄλλοι;ἄλλος;a-p---mn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;Πέρσαι;Πέρσης;n-p---mn-;PNOM
+4;εἰσὶ;εἰμί;v3ppia---;PRED
+5;οἵδε;ὅδε;p-p---mn-;SBJ_AP
+6;,;punc;u--------;APOS
+7;Πανθιαλαῖοι;Πανθιαλαῖοι;n-p---mn-;SBJ_AP_CO
+8;Δηρουσιαῖοι;Δηρουσιαῖοι;n-p---mn-;SBJ_AP_CO
+9;Γερμάνιοι;Γερμάνιος;n-p---mn-;SBJ_AP_CO
+10;.;punc;u--------;AuxK

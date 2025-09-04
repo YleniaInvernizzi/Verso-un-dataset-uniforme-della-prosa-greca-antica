@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐχὶ,οὐ,d--------,AuxZ
+2,τοὺς,ὁ,l-p---ma-,ATR
+3,νέους,νέος,a-p---ma-,OBJ
+4,παιδεύεις,παιδεύω,v2spia---,PRED
+5,;,punc1,u--------,AuxX

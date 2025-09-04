@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|506|1,1,δός,δίδωμι,v2sama---,PRED_CO
+Leuven|Genesis|506|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis|506|3,3,τούς,ὁ,l-p---ma-,ATR
+Leuven|Genesis|506|4,4,ἄνδρας,ἀνήρ,n-p---ma-,OBJ
+Leuven|Genesis|506|5,5,",",",",u--------,AuxX
+Leuven|Genesis|506|6,6,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|506|7,7,δέ,δέ,b--------,COORD
+Leuven|Genesis|506|8,8,ἵππον,ἵππος,n-s---fa-,OBJ
+Leuven|Genesis|506|9,9,λαβέ,λαμβάνω,v2sama---,PRED_CO
+Leuven|Genesis|506|10,10,σεαυτῷ,σεαυτοῦ,p2s---md-,ADV
+Leuven|Genesis|506|11,11,.,.,u--------,AuxK

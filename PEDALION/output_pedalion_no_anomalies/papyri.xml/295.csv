@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27107|8|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+1,Leuven|27107|8|2,2,σε,σύ,p2s---ca-,OBJ
+2,Leuven|27107|8|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|27107|8|5,5,τιμιώτατε,τίμιος,a-s---mvs,ExD

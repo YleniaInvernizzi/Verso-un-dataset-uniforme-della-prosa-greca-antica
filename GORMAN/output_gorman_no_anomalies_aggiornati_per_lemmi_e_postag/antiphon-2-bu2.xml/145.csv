@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ὅ;ὁ;l-s---mn-;ATR
+2;τε;τε;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;καταμαρτυρῶν;καταμαρτυρέω;v-sppamn-;SBJ
+5;μου;ἐγώ;p1s---mg-;OBJ
+6;ἄπιστος;ἄπιστος;a-s---mn-;PNOM
+7;ἐλήλεγκται;ἐλέγχω;v3srie---;PRED_CO
+8;ὤν;εἰμί;v-sppamn-;PNOM
+9;,;punc;u--------;AuxX
+10;ὅ;ὁ;l-s---mn-;ATR
+11;τε;τε;c--------;COORD
+12;ἔλεγχος;ἔλεγχος;n-s---mn-;SBJ
+13;οὐκ;οὐ;d--------;AuxZ
+14;ἔστι;εἰμί;v3spia---;PRED_CO
+15;:;punc;u--------;AuxK

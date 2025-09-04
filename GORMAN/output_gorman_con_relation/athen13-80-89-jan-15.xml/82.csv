@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,εἶτ᾽,εἶτα,d--------,AuxY
+2,εἰς,εἰς,r--------,AuxP
+3,τὸν,ὁ,l-s---ma-,ATR
+4,νεὼν,ναός,n-s---ma-,OBJ
+5,κατέκλεισεν,κατακλείω,v3saia---,PRED
+6,αὑτόν,ἑαυτοῦ,p-s---ma-,OBJ
+7,.,punc1,u--------,AuxK

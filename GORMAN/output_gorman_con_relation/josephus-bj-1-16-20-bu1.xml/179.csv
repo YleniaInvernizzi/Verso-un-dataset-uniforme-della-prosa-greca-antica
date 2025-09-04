@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,παρεῖχεν,παρέχω,v3siia---,PRED
+2,μέντοι,μέντοι,d--------,AuxY
+3,δέους,δέος,n-s---ng-,ATR
+4,πλέον,πλέος,a-s---nac,OBJ
+5,ἢ,ἤ1,c--------,AuxC
+6,ἔπασχεν,πάσχω,v3siia---,ADV
+7,:,punc1,u--------,AuxK

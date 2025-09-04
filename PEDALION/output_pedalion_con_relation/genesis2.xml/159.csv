@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|160|1,1,ἔκβαλε,ἐκβάλλω,v2sama---,PRED
+Leuven|Genesis_deel2|160|2,2,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|160|3,3,παιδίσκην,παιδίσκη,n-s---fa-,OBJ_CO
+Leuven|Genesis_deel2|160|4,4,ταύτην,οὗτος,p-s---fa-,ATR
+Leuven|Genesis_deel2|160|5,5,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|160|6,6,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|160|7,7,υἱόν,υἱός,n-s---ma-,OBJ_CO
+Leuven|Genesis_deel2|160|8,8,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis_deel2|160|9,9,·,·,u--------,AuxK

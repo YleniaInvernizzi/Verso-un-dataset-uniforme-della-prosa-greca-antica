@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;νὴ;νή;r--------;AuxP
+2;Δίʼ;Ζεύς;n-s---ma-;ExD
+3;,;punc;u--------;AuxX
+4;ἔφη;φημί;v3siia---;AuxY
+5;,;punc;u--------;AuxX
+6;πολλαπλασίων;πολλαπλάσιος;a-p---ng-;ATR
+7;μὲν;μέν;d--------;AuxY
+8;οὖν;οὖν;d--------;AuxY
+9;χρημάτων;χρῆμα;n-p---ng-;ADV
+10;.;punc;u--------;AuxK
+11;ἐστιν;εἰμί;v3spia---;PRED
+12;ἀξία;ἄξιος;a-s---fn-;PNOM

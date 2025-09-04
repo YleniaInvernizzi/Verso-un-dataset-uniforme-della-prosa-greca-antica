@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|148|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|148|2,2,νικᾷ,νικάω,v3spia---,PRED
+Leuven|PaeanBrev|148|3,3,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|148|4,4,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|PaeanBrev|148|5,5,τῇ,ὁ,l-s---fd-,ATR
+Leuven|PaeanBrev|148|6,6,πρώτῃ,πρῶτος,a-s---fd-,ATR
+Leuven|PaeanBrev|148|7,7,συμπλοκῇ,συμπλοκή,n-s---fd-,ADV
+Leuven|PaeanBrev|148|8,8,.,.,u--------,AuxK

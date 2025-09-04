@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;ἐπειδάν;ἐπειδάν;c--------;AuxC
+3;,;punc;u--------;AuxX
+4;ἔφη;φημί;v3siia---;AuxY
+5;,;punc;u--------;AuxX
+6;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+7;ἡγῶμαι;ἡγέομαι;v1spsm---;ADV
+8;,;punc;u--------;AuxX
+9;ἕπεσθε;ἕπομαι;v2ppme---;PRED
+10;ἐν;ἐν;r--------;AuxP
+11;τῇ;ὁ;l-s---fd-;ATR
+12;ῥηθείσῃ;ἐρῶ;v-sappfd-;ATR
+13;χώρᾳ;χώρα;n-s---fd-;ADV
+14;.;punc;u--------;AuxK

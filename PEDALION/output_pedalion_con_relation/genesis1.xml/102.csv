@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|103|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|103|2,2,θανάτῳ,θάνατος,n-s---md-,ADV
+Leuven|Genesis|103|3,3,ἀποθανεῖσθε,ἀποθνῄσκω,v2pfim---,PRED
+Leuven|Genesis|103|4,4,·,·,u--------,AuxK

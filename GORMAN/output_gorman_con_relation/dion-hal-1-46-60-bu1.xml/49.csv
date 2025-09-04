@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---ng-,ATR
+2,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+3,μνήμην,μνήμη,n-s---fa-,OBJ
+4,ὡς,ὡς,c--------,AuxC
+5,ἂν,ἄν1,d--------,AuxY
+6,οἷός,οἷος,a-s---mn-,PNOM
+7,τε,τε,d--------,AuxZ
+8,ὦ,εἰμί,v1spsa---,ADV
+9,πολλῶν,πολύς,a-p---ng-,PNOM
+10,ὄντων,εἰμί,v-pppang-,ATR
+11,βραχυτάτην,βραχύς,a-s---fa-,ATR
+12,ποιήσομαι,ποιέω,v1sfim---,PRED
+13,.,punc1,u--------,AuxK

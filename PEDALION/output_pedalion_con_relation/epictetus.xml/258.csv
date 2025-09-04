@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|259|1,1,Καταλαμβάνεις,καταλαμβάνω,v2spia---,PRED
+Leuven|0557-001|259|2,2,ὅτι,ὅτι,c--------,AuxC
+Leuven|0557-001|259|3,3,ἐγρήγορας,ἐγείρω,v2sria---,OBJ
+Leuven|0557-001|259|4,4,;,;,u--------,AuxK

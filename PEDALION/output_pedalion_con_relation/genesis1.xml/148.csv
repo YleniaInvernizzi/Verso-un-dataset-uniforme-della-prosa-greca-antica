@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|149|1,1,ἵνα,ἵνα,c--------,ADV
+Leuven|Genesis|149|2,2,τί,τίς,p-s---na-,ADV
+Leuven|Genesis|149|3,3,περίλυπος,περίλυπος,a-s---mn-,PNOM
+Leuven|Genesis|149|4,4,ἐγένου,γίγνομαι,v2saim---,PRED_CO
+Leuven|Genesis|149|5,5,",",",",u--------,AuxX
+Leuven|Genesis|149|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|149|7,7,ἵνα,ἵνα,c--------,ADV
+Leuven|Genesis|149|8,8,τί,τίς,p-s---na-,ADV
+Leuven|Genesis|149|9,9,συνέπεσεν,συμπίπτω,v3saia---,PRED_CO
+Leuven|Genesis|149|10,10,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|149|11,11,πρόσωπον,πρόσωπον,n-s---na-,OBJ
+Leuven|Genesis|149|12,12,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|149|13,13,;,;,u--------,AuxK

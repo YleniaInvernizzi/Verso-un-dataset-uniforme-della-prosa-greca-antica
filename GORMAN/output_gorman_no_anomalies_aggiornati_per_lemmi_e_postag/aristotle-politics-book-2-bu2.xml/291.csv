@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;πάντα;πᾶς;a-p---na-;OBJ
+4;καταδικάσουσιν;καταδικάζω;v3pfia---;PRED_CO
+5;,;punc;u--------;AuxX
+6;οἱ;ὁ;l-p---mn-;SBJ
+7;δ᾽;δέ;c--------;COORD
+8;οὐδέν;οὐδείς;p-s---na-;OBJ
+9;.;punc;u--------;AuxK
+10;καταδικάσουσιν;καταδικάζω;v3pfia---;PRED_CO

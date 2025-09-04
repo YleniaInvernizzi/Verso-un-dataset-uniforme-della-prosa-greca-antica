@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|349|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|349|2,2,ἐλθών,ἔρχομαι,v-sapamn-,ADV
+2,Leuven|Genesis_deel2|349|3,3,σήμερον,σήμερον,d--------,ADV
+3,Leuven|Genesis_deel2|349|4,4,ἐπί,ἐπί,r--------,AuxP
+4,Leuven|Genesis_deel2|349|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis_deel2|349|6,6,πηγήν,πηγή,n-s---fa-,OBJ
+6,Leuven|Genesis_deel2|349|7,7,εἶπα,λέγω,v1saia---,PRED

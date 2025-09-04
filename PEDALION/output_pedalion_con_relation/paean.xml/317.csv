@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|319|1,1,συγκροτηθέντος,συγκροτέω,v-sappmg-,ADV
+Leuven|PaeanBrev|319|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|PaeanBrev|319|3,3,πολέμου,πόλεμος,n-s---mg-,SBJ
+Leuven|PaeanBrev|319|4,4,μεταπίπτει,μεταπίπτω,v3spia---,PRED
+Leuven|PaeanBrev|319|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|PaeanBrev|319|6,6,Ῥηγούλῳ,Ῥήγουλος,n-s---md-,OBJ
+Leuven|PaeanBrev|319|7,7,τά,ὁ,l-p---nn-,ATR
+Leuven|PaeanBrev|319|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|319|9,9,τύχης,τύχη,n-s---fg-,ATR
+Leuven|PaeanBrev|319|10,10,·,·,u--------,AuxK
+Leuven|PaeanBrev|319|11,11,[0],,,SBJ

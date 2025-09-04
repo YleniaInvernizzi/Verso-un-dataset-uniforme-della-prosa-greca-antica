@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|77|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|77|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|77|3,3,ποταμός,ποταμός,n-s---mn-,APOS
+Leuven|Genesis|77|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|77|5,5,τέταρτος,τέταρτος,a-s---mn-,ATR
+Leuven|Genesis|77|6,6,",",",",u--------,AuxX
+Leuven|Genesis|77|7,7,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|77|8,8,Εὐφράτης,Εὐφράτης,n-s---mn-,PNOM
+Leuven|Genesis|77|9,9,.,.,u--------,AuxK
+Leuven|Genesis|77|10,10,[0],,,PRED

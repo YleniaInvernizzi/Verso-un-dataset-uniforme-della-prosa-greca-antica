@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|80|1,1,διά,διά,r--------,AuxP
+1,Leuven|Genesis_deel2|80|2,2,τοῦτο,οὗτος,p-s---na-,ADV
+2,Leuven|Genesis_deel2|80|3,3,ἐκάλεσεν,καλέω,v3saia---,PRED
+3,Leuven|Genesis_deel2|80|4,4,τό,ὁ,l-s---na-,ATR
+4,Leuven|Genesis_deel2|80|5,5,ὄνομα,ὄνομα,n-s---na-,OBJ
+5,Leuven|Genesis_deel2|80|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|Genesis_deel2|80|7,7,πόλεως,πόλις,n-s---fg-,ATR
+7,Leuven|Genesis_deel2|80|8,8,ἐκείνης,ἐκεῖνος,p-s---fg-,ATR
+8,Leuven|Genesis_deel2|80|9,9,Σηγωρ,Σηγωρ,n-s----a-,OCOMP

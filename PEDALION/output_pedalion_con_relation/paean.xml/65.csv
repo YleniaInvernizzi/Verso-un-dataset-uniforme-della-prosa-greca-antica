@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|66|1,1,τετάρτῳ,τέταρτος,a-s---nd-,ATR_CO
+Leuven|PaeanBrev|66|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|66|3,3,καί,καί,b--------,COORD
+Leuven|PaeanBrev|66|4,4,εἰκοστῷ,εἰκοστός,a-s---nd-,ATR_CO
+Leuven|PaeanBrev|66|5,5,ἔτει,ἔτος,n-s---nd-,ADV
+Leuven|PaeanBrev|66|6,6,βασιλείας,βασιλεία,n-s---fg-,ATR
+Leuven|PaeanBrev|66|7,7,μετά,μετά,r--------,AuxP
+Leuven|PaeanBrev|66|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|66|9,9,γαμετῆς,γαμετή,n-s---fg-,ADV_CO
+Leuven|PaeanBrev|66|10,10,καί,καί,b--------,COORD
+Leuven|PaeanBrev|66|11,11,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|66|12,12,παίδων,παῖς,n-p---cg-,ADV_CO
+Leuven|PaeanBrev|66|13,13,φυγήν,φυγή,n-s---fa-,OBJ
+Leuven|PaeanBrev|66|14,14,ἑαυτοῦ,ἑαυτοῦ,p-s---mg-,OBJ
+Leuven|PaeanBrev|66|15,15,κατεψηφίσατο,καταψηφίζομαι,v3saim---,PRED
+Leuven|PaeanBrev|66|16,16,.,.,u--------,AuxK

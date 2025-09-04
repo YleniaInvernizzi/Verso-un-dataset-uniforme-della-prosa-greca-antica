@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;λέγεται;λέγω;v3spie---;PRED
+2;δʼ;δέ;d--------;AuxY
+3;ἓν;εἷς;a-s---nn-;ATR
+4;ῥῆμα;ῥῆμα;n-s---nn-;SBJ
+5;καὶ;καί;d--------;AuxZ
+6;τοῦτο;οὗτος;p-s---nn-;PNOM
+7;αὐτοῦ;αὐτός;p-s---mg-;ATR
+8;.;punc;u--------;AuxK
+9;εἶναι;εἰμί;v--pna---;OBJ

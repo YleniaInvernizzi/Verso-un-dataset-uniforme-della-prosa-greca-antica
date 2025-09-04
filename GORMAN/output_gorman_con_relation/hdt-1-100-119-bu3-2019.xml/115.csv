@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,ποιέω,ποιέω,v1spia---,PRED
+2,δὴ,δή,d--------,AuxY
+3,ὧδε,ὧδε,d--------,ADV
+4,:,punc1,u--------,AuxK

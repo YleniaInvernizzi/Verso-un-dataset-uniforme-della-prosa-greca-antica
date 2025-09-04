@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|123|1,1,ἀγρόν,ἀγρός,n-s---ma-,OBJ
+1,Leuven|PaeanBrev|123|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|123|3,3,ἔχων,ἔχω,v-sppamn-,ADV_CO
+3,Leuven|PaeanBrev|123|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|PaeanBrev|123|5,5,Κικιννάτος,Κικιννάτος,n-s---mn-,SBJ
+5,Leuven|PaeanBrev|123|6,6,καί,καί,c--------,AuxY
+6,Leuven|PaeanBrev|123|7,7,τοῦτον,οὗτος,p-s---ma-,OBJ
+7,Leuven|PaeanBrev|123|8,8,αὐτῷ,αὐτός,p-s---nd-,ATR
+8,Leuven|PaeanBrev|123|9,9,σώματι,σῶμα,n-s---nd-,ADV
+9,Leuven|PaeanBrev|123|10,10,γεωργῶν,γεωργέω,v-sppamn-,ADV_CO
+10,Leuven|PaeanBrev|123|11,11,ἐφεστηκώς,ἐφίστημι,v-srpamn-,ADV_CO
+11,Leuven|PaeanBrev|123|12,12,τε,τε,c--------,COORD
+12,Leuven|PaeanBrev|123|13,13,ἀρότρῳ,ἄροτρον,n-s---nd-,OBJ
+13,Leuven|PaeanBrev|123|14,14,παρέλαβε,παραλαμβάνω,v3saia---,PRED
+14,Leuven|PaeanBrev|123|15,15,τήν,ὁ,l-s---fa-,ATR
+15,Leuven|PaeanBrev|123|16,16,ἐξουσίαν,ἐξουσία,n-s---fa-,OBJ

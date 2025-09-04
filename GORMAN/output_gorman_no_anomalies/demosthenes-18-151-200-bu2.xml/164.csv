@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀντέκρουσέ,ἀντικρούω,v3saia---,PRED_CO
+1,2,τι,τις,p-s---nn-,SBJ
+2,3,καὶ,καί,c--------,COORD
+3,4,γέγον᾽,γίγνομαι,v3sria---,PRED_CO
+4,5,οἷον,οἷος,a-s---nn-,SBJ
+5,6,οὐκ,οὐ,d--------,AuxZ
+6,7,ἔδει,δεῖ,v3siia---,PNOM
+7,8,:,punc1,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31368|1|1,1,Σαραπάμμων,Σαραπάμμων,n-s---mn-,SBJ
+Leuven|31368|1|2,2,Πιπερᾶτι,Πιπερᾶς,n-s---md-,OBJ
+Leuven|31368|1|3,3,.,.,u--------,AuxK
+Leuven|31368|1|4,4,[1],_,_,PRED

@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,οὕτως,οὕτως,d--------,ADV
+2,ἔξεισιν,ἔξειμι2,v3spia---,PRED
+3,πρὸς,πρός,r--------,AuxP
+4,μάχην,μάχη,n-s---fa-,ADV
+5,.,punc1,u--------,AuxK

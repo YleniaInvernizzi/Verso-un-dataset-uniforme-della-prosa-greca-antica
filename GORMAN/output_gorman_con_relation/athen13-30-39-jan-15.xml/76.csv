@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ὃς,ὅς,p-s---mn-,SBJ
+3,ἁρπάσας,ἁρπάζω,v-sapamn-,ADV
+4,αὐτὴν,αὐτός,p-s---fa-,OBJ
+5,ἀπήγαγεν,ἀπάγω,v3saia---,PRED_CO
+6,ἐπὶ,ἐπί,r--------,AuxP
+7,τὸ,ὁ,l-s---na-,ATR
+8,ἅρμα,ἅρμα,n-s---na-,ADV
+9,καὶ,καί,c--------,COORD
+10,ἔφυγεν,φεύγω,v3saia---,PRED_CO
+11,ἔχων,ἔχω,v-sppamn-,ADV
+12,τὴν,ὁ,l-s---fa-,ATR
+13,Ὀδάτιν,Ὀδάτις,n-s---fa-,OBJ
+14,.,punc1,u--------,AuxK

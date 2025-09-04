@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|20|1,1,τί,τίς,p-s---na-,OBJ
+Leuven|21342|20|2,2,ἐὰν,ἐάν,c--------,AuxC
+Leuven|21342|20|3,3,ποιήσῃ,ποιέω,v3sasa---,ADV
+Leuven|21342|20|4,4,γράψον,γράφω,v2sama---,PRED
+Leuven|21342|20|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|21342|20|6,6,.,.,u--------,AuxK

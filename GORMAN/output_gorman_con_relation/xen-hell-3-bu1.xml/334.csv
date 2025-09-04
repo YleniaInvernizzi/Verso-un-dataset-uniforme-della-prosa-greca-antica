@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀξίαν,ἄξιος,a-s---fa-,OCOMP
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,ὅλην,ὅλος,a-s---fa-,ATR
+5,τὴν,ὁ,l-s---fa-,ATR
+6,πόλιν,πόλις,n-s---fa-,OBJ
+7,ἐν,ἐν,r--------,AuxP
+8,ᾗ,ὅς,p-s---fd-,PNOM
+9,ἦν,εἰμί,v3siia---,ATR
+10,τὴν,ὁ,l-s---fa-,ATR
+11,Ἔφεσον,Ἔφεσος,n-s---fa-,ATR
+12,θέας,θέα,n-s---fg-,ADV
+13,ἐποίησεν,ποιέω,v3saia---,PRED
+14,·,punc1,u--------,AuxK

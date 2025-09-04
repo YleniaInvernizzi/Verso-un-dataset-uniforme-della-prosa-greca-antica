@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|5|1,1,ἡμέρας,ἡμέρα,n-p---fa-,OBJ
+Leuven|30514|5|2,2,ἔχουσι,ἔχω,v3ppia---,PRED
+Leuven|30514|5|3,3,λαμβάνειν,λαμβάνω,v--pna---,ADV
+Leuven|30514|5|4,4,.,.,u--------,AuxK

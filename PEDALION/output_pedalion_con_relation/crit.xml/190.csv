@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|190|1,1,ταῦτα,οὗτος,p-p---na-,OBJ_CO
+Leuven|0059-003|190|2,2,ἢ,ἤ,c--------,COORD
+Leuven|0059-003|190|3,3,τί,τίς,p-s---na-,OBJ_CO
+Leuven|0059-003|190|4,4,ἐροῦμεν,λέγω,v1pfia---,PRED
+Leuven|0059-003|190|5,5,;,;,u--------,AuxK

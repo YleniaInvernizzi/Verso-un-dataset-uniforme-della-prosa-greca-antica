@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐρεῖ,ἐρέω,v3spia---,PRED
+2,τις,τις,p-s---mn-,SBJ
+3,ὡς,ὡς,c--------,COORD
+4,Κλυταιμνήστρα,Κλυταιμνήστρη,n-s---fn-,SBJ
+5,κακὴ,κακός,a-s---fn-,PNOM
+6,:,punc1,u--------,AuxK
+7,[0],,,OBJ

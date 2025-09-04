@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21341|9|1,1,ἄλλο,ἄλλος,p-s---nn-,PNOM
+Leuven|21341|9|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|21341|9|3,3,ἐλεύθερον,ἐλεύθερος,a-s---nn-,SBJ
+Leuven|21341|9|4,4,ἄλλο,ἄλλος,p-s---nnp,PNOM
+Leuven|21341|9|5,5,δουλάριν,δουλάριον,n-s---nnp,SBJ
+Leuven|21341|9|6,6,.,.,u--------,AuxK
+Leuven|21341|9|7,7,[0],_,_,PRED_CO
+Leuven|21341|9|8,8,[1],_,_,COORD
+Leuven|21341|9|9,9,[2],_,_,PRED_CO

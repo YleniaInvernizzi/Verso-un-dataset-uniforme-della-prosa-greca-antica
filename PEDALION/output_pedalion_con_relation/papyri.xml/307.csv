@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27112|3|1,1,ἐρωτῶ,ἐρωτάω,v1spia---,PRED_CO
+Leuven|27112|3|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|27112|3|3,3,γράψαι,γράφω,v--ana---,OBJ
+Leuven|27112|3|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|27112|3|5,5,καὶ,καί,b--------,COORD
+Leuven|27112|3|6,6,οἱ,ὁ,l-p---mn-,ATR
+Leuven|27112|3|7,7,θεοί,θεός,n-p---mn-,SBJ
+Leuven|27112|3|8,8,σε,σύ,p2s---ca-,OBJ
+Leuven|27112|3|9,9,τὸ,ὁ,l-s---na-,ATR
+Leuven|27112|3|10,10,αὐτὸ,αὐτός,p-s---na-,OBJ
+Leuven|27112|3|11,11,ἐρωτῶσι,ἐρωτάω,v3ppia---,PRED_CO
+Leuven|27112|3|12,12,.,.,u--------,AuxK

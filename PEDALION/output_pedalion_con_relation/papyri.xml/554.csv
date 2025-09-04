@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|7|1,1,καί,καί,d--------,AuxZ
+Leuven|30514|7|2,2,ἐάν,ἐάν,c--------,AuxC
+Leuven|30514|7|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|30514|7|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|30514|7|5,5,θέλῃ,ἐθέλω,v3spsa---,ADV
+Leuven|30514|7|6,6,κατέλαβα,καταλαμβάνω,v1saia---,PRED
+Leuven|30514|7|7,7,σε,σύ,p2s---ca-,OBJ
+Leuven|30514|7|8,8,.,.,u--------,AuxK

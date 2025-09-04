@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐκ,ἐκ,r--------,AuxP
+1,2,βασιλευομένων,βασιλεύω,v-pppefg-,ADV
+2,3,γὰρ,γάρ,d--------,AuxY
+3,4,συνῆλθον,συνέρχομαι,v3paia---,PRED
+4,5,:,punc1,u--------,AuxK

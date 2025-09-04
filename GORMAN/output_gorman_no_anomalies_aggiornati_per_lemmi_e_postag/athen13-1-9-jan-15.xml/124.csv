@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;Μένανδρος;Mένανδρος;n-s---mn-;SBJ
+2;δ᾽;δέ;d--------;AuxY
+3;ἐν;ἐν;r--------;AuxP
+4;Ἀρρηφόρῳ;ἀρρηφόρος;n-s---fd-;ADV_CO
+5;ἢ;ἤ;c--------;COORD
+6;Αὐλητρίδι;αὐλητρίς;n-s---fd-;ADV_CO
+7;:;punc;u--------;AuxK

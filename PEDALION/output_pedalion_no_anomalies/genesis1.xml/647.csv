@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|648|1,1,εἰς,εἰς,r--------,AuxP
+1,Leuven|Genesis|648|2,2,τόν,ὁ,l-s---ma-,ATR
+2,Leuven|Genesis|648|3,3,καιρόν,καιρός,n-s---ma-,ADV
+3,Leuven|Genesis|648|4,4,τοῦτον,οὗτος,p-s---ma-,ATR
+4,Leuven|Genesis|648|5,5,ἀναστρέψω,ἀναστρέφω,v1sfia---,PRED_CO
+5,Leuven|Genesis|648|6,6,πρός,πρός,r--------,AuxP
+6,Leuven|Genesis|648|7,7,σέ,σύ,p2s---ca-,OBJ
+7,Leuven|Genesis|648|8,8,εἰς,εἰς,r--------,AuxP
+8,Leuven|Genesis|648|9,9,ὥρας,ὥρα,n-p---fa-,ADV
+10,Leuven|Genesis|648|11,11,καί,καί,c--------,COORD
+11,Leuven|Genesis|648|12,12,ἔσται,εἰμί,v3sfim---,PRED_CO
+12,Leuven|Genesis|648|13,13,τῇ,ὁ,l-s---fd-,ATR
+13,Leuven|Genesis|648|14,14,Σαρρα,Σαρρα,n-s---fd-,PNOM
+14,Leuven|Genesis|648|15,15,υἱός,υἱός,n-s---mn-,SBJ

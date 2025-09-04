@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡνίκ᾽,ἡνίκα,c--------,AuxC
+2,ἐχρῆν,χρή,v3siia---,ADV
+3,δύνειν,δύω2,v--pna---,SBJ
+4,",",punc1,u--------,AuxX
+5,νῦν,νῦν,d--------,ADV
+6,ἄρχεται,ἄρχω,v3spie---,PRED
+7,ἡδύνεσθαι,ἡδύνω,v--pne---,OBJ
+8,.,punc1,u--------,AuxK

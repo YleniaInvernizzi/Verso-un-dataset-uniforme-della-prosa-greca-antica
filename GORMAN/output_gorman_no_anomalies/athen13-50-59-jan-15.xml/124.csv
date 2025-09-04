@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πρὸς,πρός,r--------,AuxP
+1,2,ὃν,ὅς,p-s---ma-,ADV
+2,3,ὁ,ὁ,l-s---mn-,ATR
+3,4,Μυρτίλος,Μυρτίλος,n-s---mn-,SBJ
+4,5,ἔφη,φημί,v3siia---,PRED
+5,6,:,punc1,u--------,AuxK

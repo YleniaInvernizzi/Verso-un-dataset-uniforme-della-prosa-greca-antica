@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|165|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|0557-001|165|2,2,σοί,σύ,p2s---cd-,ADV
+Leuven|0557-001|165|3,3,ἄμεινον,ἀμείνων,a-s---nnc,PNOM
+Leuven|0557-001|165|4,4,",",",",u--------,AuxX
+Leuven|0557-001|165|5,5,ἄφελε,ἀφαιρέω,v2sama---,PRED
+Leuven|0557-001|165|6,6,.,.,u--------,AuxK
+Leuven|0557-001|165|7,7,[0],,,ADV

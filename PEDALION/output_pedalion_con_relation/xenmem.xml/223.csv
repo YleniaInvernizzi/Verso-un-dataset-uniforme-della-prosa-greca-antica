@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|224|1,1,βελτίους,βελτίων,a-p---mac,OCOMP
+Leuven|0032-002|224|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0032-002|224|3,3,ποιῶν,ποιέω,v-sppamn-,ADV
+Leuven|0032-002|224|4,4,τοὺς,ὁ,l-p---ma-,ATR
+Leuven|0032-002|224|5,5,συγγιγνομένους,συγγίγνομαι,v-pppema-,OBJ
+Leuven|0032-002|224|6,6,ἀπέπεμπεν,ἀποπέμπω,v3siia---,PRED
+Leuven|0032-002|224|7,7,.,.,u--------,AuxK

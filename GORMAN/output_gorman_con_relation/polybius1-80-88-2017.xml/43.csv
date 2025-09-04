@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Βάρκας,Βάρκα,n-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,παραλαβὼν,παραλαμβάνω,v-sapamn-,PNOM
+4,Ἀννίβαν,Ἀννίβας,n-s---ma-,OBJ
+5,τὸν,ὁ,l-s---ma-,ATR
+6,στρατηγόν,στρατηγός,n-s---ma-,ATR
+7,:,punc1,u--------,AuxK
+8,ἦν,εἰμί,v3siia---,PRED

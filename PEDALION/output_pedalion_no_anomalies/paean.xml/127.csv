@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|128|1,1,ἐκαλοῦντο,καλέω,v3piie---,PRED
+1,Leuven|PaeanBrev|128|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|128|3,3,οὗτοι,οὗτος,p-p---mn-,SBJ
+3,Leuven|PaeanBrev|128|4,4,δεκανδρικοί,δεκανδρικός,a-p---mn-,OCOMP

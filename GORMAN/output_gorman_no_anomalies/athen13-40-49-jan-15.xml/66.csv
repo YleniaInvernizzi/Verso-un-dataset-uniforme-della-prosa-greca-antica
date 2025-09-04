@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μοὶ,ἐγώ,p-s---fd-,OBJ
+1,2,μὲν,μέν,d--------,AuxY
+2,3,δὸς,δίδωμι,v2sama---,PRED
+3,4,ὅσον,ὅσος,a-s---na-,OBJ
+4,5,ἐπιθυμεῖς,ἐπιθυμέω,v2spia---,OBJ
+5,6,",",punc1,u--------,AuxX
+6,7,πάτερ,πατήρ,n-s---mv-,ExD
+7,8,:,punc1,u--------,AuxK

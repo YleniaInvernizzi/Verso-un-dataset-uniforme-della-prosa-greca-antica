@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,μύροις,μῦρος,n-p---md-,ADV
+3,ἐλούετο,λούω,v3siie---,PRED_CO
+4,καὶ,καί,c--------,COORD
+5,ἔφασκεν,φάσκω,v3siia---,PRED_CO
+6,ὅτι,ὅτι,c--------,AuxC
+7,:,punc1,u--------,AuxK

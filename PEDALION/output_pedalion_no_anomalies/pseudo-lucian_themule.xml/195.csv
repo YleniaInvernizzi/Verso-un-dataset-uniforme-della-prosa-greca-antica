@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|196|1,1,ἐκοινώνουν,κοινωνέω,v3piia---,PRED
+1,Leuven|Ps-Luc|196|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|196|3,3,οὗτοι,οὗτος,p-p---mn-,SBJ
+3,Leuven|Ps-Luc|196|4,4,ἀλλήλοις,ἀλλήλων,p-p---md-,OBJ

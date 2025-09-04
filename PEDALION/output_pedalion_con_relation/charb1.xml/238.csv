@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|239|1,1,καλός,καλός,a-s---mn-,ATR
+Leuven|0554-001|239|2,2,γε,γε,d--------,AuxZ
+Leuven|0554-001|239|3,3,λῃστὴς,λῃστής,n-s---mn-,PNOM
+Leuven|0554-001|239|4,4,φοβηθεὶς,φοβέω,v-sappmn-,ADV
+Leuven|0554-001|239|5,5,γυναῖκα,γυνή,n-s---fa-,OBJ
+Leuven|0554-001|239|6,6,.,.,u--------,AuxK
+Leuven|0554-001|239|7,7,[0],,,PRED

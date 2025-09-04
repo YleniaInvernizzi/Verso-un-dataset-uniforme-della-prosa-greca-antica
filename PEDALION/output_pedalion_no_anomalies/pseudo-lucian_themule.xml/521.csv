@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|522|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|522|2,2,ἐγώ,ἐγώ,p1s---cn-,SBJ
+3,Leuven|Ps-Luc|522|4,4,πατὴρ,πατήρ,n-s---mn-,SBJ
+4,Leuven|Ps-Luc|522|5,5,μέν,μέν,d--------,AuxY
+6,Leuven|Ps-Luc|522|7,7,ἔφην,φημί,v1siia---,PRED

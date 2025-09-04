@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|83|7|1,1,προστατεῖ,προστατέω,v3spia---,PRED_CO
+Leuven|83|7|2,2,ἡμῶν,ἐγώ,p1p---cg-,OBJ
+Leuven|83|7|3,3,μεγάλως,μέγας,d--------,ADV
+Leuven|83|7|4,4,Πτολίων,Πτολίων,n-s---mn-,SBJ
+Leuven|83|7|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|83|7|6,6,στρατηγός,στρατηγός,n-s---mn-,APOS
+Leuven|83|7|7,7,καί,καί,b--------,COORD
+Leuven|83|7|8,8,χάριν,χάρις,n-s---fa-,OBJ
+Leuven|83|7|9,9,αὐτῷ,αὐτός,p-s---mdp,ATR
+Leuven|83|7|10,10,μεγάλως,μέγας,d--------,ADV
+Leuven|83|7|11,11,ἔχομεν,ἔχω,v1ppia---,PRED_CO
+Leuven|83|7|12,12,.,.,u--------,AuxK

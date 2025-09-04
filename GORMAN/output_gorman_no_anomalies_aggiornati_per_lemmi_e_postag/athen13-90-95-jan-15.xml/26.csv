@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;κατανέγνων;καταναγιγνώσκω;v1saia---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;αὐτοῦ;αὐτός;p-s---mg-;ATR
+4;πᾶσαν;πᾶς;a-s---fa-;ATR
+5;τὴν;ὁ;l-s---fa-;ATR
+6;Ἱστορίαν;Ἱστορίη;n-s---fa-;OBJ
+7;.;punc;u--------;AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|14|1,1,καὶ,καί,d--------,AuxY
+Leuven|31346|14|2,2,δήλωσόν,δηλόω,v2sama---,PRED
+Leuven|31346|14|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|31346|14|4,4,πῶς,πῶς,d--------,ADV
+Leuven|31346|14|5,5,ἔσχεν,ἔχω,v3saia---,OBJ
+Leuven|31346|14|6,6,Δίδυμος,Δίδυμος,n-s---mn-,SBJ
+Leuven|31346|14|7,7,·,·,u--------,AuxK

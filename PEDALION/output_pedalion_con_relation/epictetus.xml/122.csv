@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|123|1,1,τί,τίς,p-s---na-,OBJ
+Leuven|0557-001|123|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0557-001|123|3,3,μου,ἐγώ,p1s---cg-,OBJ
+Leuven|0557-001|123|4,4,πυνθάνῃ,πυνθάνομαι,v3spsa---,PRED
+Leuven|0557-001|123|5,5,;,;,u--------,AuxK

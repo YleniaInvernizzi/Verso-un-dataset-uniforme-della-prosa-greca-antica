@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡς,ὡς,d--------,AuxZ
+2,καλῶς,καλός,d--------,ADV
+3,Φρύνιχος,Φρύνιχος,n-s---mn-,SBJ
+4,ἐποίησεν,ποιέω,v3saia---,PRED
+5,εἴπας,εἶπον,v-sapamn-,ADV
+6,:,punc1,u--------,AuxK

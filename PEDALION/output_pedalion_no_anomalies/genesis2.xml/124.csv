@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|125|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis_deel2|125|2,2,τι,τις,p-s---na-,OBJ
+2,Leuven|Genesis_deel2|125|3,3,ἡμάρτομεν,ἁμαρτάνω,v1paia---,PRED
+3,Leuven|Genesis_deel2|125|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|Genesis_deel2|125|5,5,σέ,σύ,p2s---ca-,ADV
+6,Leuven|Genesis_deel2|125|7,7,ὅτι,ὅτι,c--------,AuxC
+7,Leuven|Genesis_deel2|125|8,8,ἐπήγαγες,ἐπάγω,v2saia---,ADV
+8,Leuven|Genesis_deel2|125|9,9,ἐπʼ,ἐπί,r--------,AuxP
+9,Leuven|Genesis_deel2|125|10,10,ἐμέ,ἐγώ,p1s---ca-,OBJ_CO
+10,Leuven|Genesis_deel2|125|11,11,καί,καί,c--------,COORD
+11,Leuven|Genesis_deel2|125|12,12,ἐπί,ἐπί,r--------,AuxP
+12,Leuven|Genesis_deel2|125|13,13,τήν,ὁ,l-s---fa-,ATR
+13,Leuven|Genesis_deel2|125|14,14,βασιλείαν,βασιλεία,n-s---fa-,OBJ_CO
+14,Leuven|Genesis_deel2|125|15,15,μου,ἐγώ,p1s---cg-,ATR
+15,Leuven|Genesis_deel2|125|16,16,ἁμαρτίαν,ἁμαρτία,n-s---fa-,OBJ
+16,Leuven|Genesis_deel2|125|17,17,μεγάλην,μέγας,a-s---fa-,ATR

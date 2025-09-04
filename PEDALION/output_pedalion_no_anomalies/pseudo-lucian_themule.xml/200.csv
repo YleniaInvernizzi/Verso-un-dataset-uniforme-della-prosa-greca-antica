@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|201|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|201|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|201|3,3,ἐπειδὰν,ἐπειδάν,c--------,AuxC
+3,Leuven|Ps-Luc|201|4,4,ἴδοιμι,ὁράω,v1saoa---,ADV
+4,Leuven|Ps-Luc|201|5,5,τὴν,ὁ,l-s---fa-,ATR
+5,Leuven|Ps-Luc|201|6,6,γραῦν,γραῦς,n-s---fa-,SBJ
+6,Leuven|Ps-Luc|201|7,7,ἐξιοῦσαν,ἔξειμι,v-sppafa-,OBJ
+7,Leuven|Ps-Luc|201|8,8,τῶν,ὁ,l-p---mg-,ATR
+8,Leuven|Ps-Luc|201|9,9,ἔνδον,ἔνδον,d--------,ATR
+9,Leuven|Ps-Luc|201|10,10,ἄρτον,ἄρτος,n-s---ma-,OBJ
+10,Leuven|Ps-Luc|201|11,11,ἤσθιον,ἐσθίω,v1siia---,PRED

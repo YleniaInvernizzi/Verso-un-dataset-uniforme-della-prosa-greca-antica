@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0058-001|41|1,1,ἤδη,ἤδη,d--------,ADV
+Leuven|0058-001|41|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0058-001|41|3,3,τοιόνδε,τοιόσδε,p-s---nn-,SBJ
+Leuven|0058-001|41|4,4,συνέβη,συμβαίνω,v3saia---,PRED
+Leuven|0058-001|41|5,5,.,.,u--------,AuxK

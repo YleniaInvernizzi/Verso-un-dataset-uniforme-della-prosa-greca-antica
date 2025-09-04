@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐγώ,ἐγώ,p1s---mn-,SBJ
+1,2,σοι,σοι,p2s---md-,OBJ
+2,3,ξενίαν,ξενία,n-s---fa-,OBJ
+3,4,Ἀλεξάνδρου,Ἀλέξανδρος,n-s---mg-,ATR
+4,5,;,punc1,u--------,AuxK

@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|223|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|223|2,2,ἐπειδὴ,ἐπειδή,c--------,AuxC
+Leuven|Ps-Luc|223|3,3,νὺξ,νύξ,n-s---fn-,SBJ
+Leuven|Ps-Luc|223|4,4,ἦν,εἰμί,v3siia---,ADV
+Leuven|Ps-Luc|223|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|223|6,6,ἀπήιεσαν,ἄπειμι,v3piia---,PRED
+Leuven|Ps-Luc|223|7,7,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|223|8,8,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|223|9,9,λοιπὰ,λοιπός,a-p---na-,OBJ
+Leuven|Ps-Luc|223|10,10,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|223|11,11,σκευῶν,σκεῦος,n-p---ng-,ATR
+Leuven|Ps-Luc|223|12,12,ἀνασῶσαι,ἀνασῴζω,v--ana---,ADV
+Leuven|Ps-Luc|223|13,13,.,.,u--------,AuxK

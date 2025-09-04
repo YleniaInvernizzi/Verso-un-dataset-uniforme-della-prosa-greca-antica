@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|341|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|341|2,2,ὥρκισεν,ὁρκίζω,v3saia---,PRED
+2,Leuven|Genesis_deel2|341|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|Genesis_deel2|341|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis_deel2|341|5,5,κύριος,κύριος,n-s---mn-,SBJ
+5,Leuven|Genesis_deel2|341|6,6,μου,ἐγώ,p1s---cg-,ATR
+6,Leuven|Genesis_deel2|341|7,7,λέγων,λέγω,v-sppamn-,ADV

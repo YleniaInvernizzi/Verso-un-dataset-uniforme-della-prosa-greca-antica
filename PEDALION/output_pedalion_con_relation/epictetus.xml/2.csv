@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|3|1,1,μέχρι,μέχρι,r--------,AuxP
+Leuven|0557-001|3|2,2,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|0557-001|3|3,3,διαγνῶναι,διαγιγνώσκω,v--ana---,ADV
+Leuven|0557-001|3|4,4,τά,ὁ,l-p---na-,ATR
+Leuven|0557-001|3|5,5,γράμματα,γράμμα,n-p---na-,OBJ
+Leuven|0557-001|3|6,6,.,.,u--------,AuxK
+Leuven|0557-001|3|7,7,[0],,,PRED

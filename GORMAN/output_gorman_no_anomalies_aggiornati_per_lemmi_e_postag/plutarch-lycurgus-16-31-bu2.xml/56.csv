@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;σὺ;σύ;p2s---mn-;SBJ
+2;γάρ;γάρ;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;ἔφη;φημί;v3siia---;PRED
+5;,;punc;u--------;AuxX
+6;πρῶτος;πρῶτος;a-s---mns;ATV
+7;ἐν;ἐν;r--------;AuxP
+8;τῇ;ὁ;l-s---fd-;ATR
+9;οἰκίᾳ;οἰκία;n-p---fn-;ADV
+10;σου;σύ;p2s---mg-;ATR
+11;ποίησον;ποιέω;v2sama---;OBJ
+12;δημοκρατίαν;δημοκρατία;n-s---fa-;OBJ
+13;.;punc;u--------;AuxK

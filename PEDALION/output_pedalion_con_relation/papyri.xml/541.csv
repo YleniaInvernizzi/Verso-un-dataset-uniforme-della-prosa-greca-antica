@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30385|16|1,1,ἵνα,ἵνα,c--------,AuxC
+Leuven|30385|16|2,2,μὴ,μή,d--------,AuxZ
+Leuven|30385|16|3,3,δοκῶ,δοκέω,v1spsa---,ADV
+Leuven|30385|16|4,4,πολλὰ,πολύς,a-p---na-,OBJ
+Leuven|30385|16|5,5,γράφειν,γράφω,v--pna---,OBJ
+Leuven|30385|16|6,6,",",",",u--------,AuxX
+Leuven|30385|16|7,7,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+Leuven|30385|16|8,8,σε,σύ,p2s---ca-,SBJ
+Leuven|30385|16|9,9,εὔχομαι,εὔχομαι,v1spie---,PRED
+Leuven|30385|16|10,10,.,.,u--------,AuxK

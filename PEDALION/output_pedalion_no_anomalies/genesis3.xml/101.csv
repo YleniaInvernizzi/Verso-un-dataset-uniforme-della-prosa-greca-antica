@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|102|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|102|2,2,κατῴκησεν,κατοικέω,v3saia---,PRED
+2,Leuven|Genesis_deel3|102|3,3,Ισαακ,Ισαακ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|102|4,4,ἐν,ἐν,r--------,AuxP
+4,Leuven|Genesis_deel3|102|5,5,Γεραροις,Γεραρα,n-p----d-,OBJ

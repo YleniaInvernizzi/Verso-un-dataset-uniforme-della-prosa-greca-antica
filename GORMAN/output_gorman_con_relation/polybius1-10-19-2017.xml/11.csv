@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸν,ὁ,l-s---ma-,ATR
+2,δ᾽,δέ,d--------,AuxY
+3,Ἄππιον,̓́Αππιος,n-s---ma-,OBJ
+4,ἐπεσπῶντο,ἐπισπάω,v3piie---,PRED_CO
+5,καὶ,καί,c--------,COORD
+6,τούτῳ,οὗτος,p-s---md-,OBJ
+7,τὴν,ὁ,l-s---fa-,ATR
+8,πόλιν,πόλις,n-s---fa-,OBJ
+9,ἐνεχείριζον,ἐγχειρίζω,v3piia---,PRED_CO
+10,.,punc1,u--------,AuxK

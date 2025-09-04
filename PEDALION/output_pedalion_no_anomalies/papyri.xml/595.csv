@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31346|13|1,1,ἀλλʼ,ἀλλά,c--------,AuxY
+1,Leuven|31346|13|2,2,ὅρα,ὁράω,v2spma---,PRED
+2,Leuven|31346|13|3,3,μὴ,μή,c--------,AuxC
+3,Leuven|31346|13|4,4,καταλείψῃς,καταλείπω,v2sasa---,OBJ
+4,Leuven|31346|13|5,5,με,ἐγώ,p1s---ca-,OBJ
+5,Leuven|31346|13|6,6,θλιβόμενον,θλίβω,v-sppema-,ADV

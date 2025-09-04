@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|250|1,1,ἡμέρα,ἡμέρα,n-s---fn-,SBJ
+Leuven|4029-001|250|2,2,δὲ,δέ,d--------,AuxY
+Leuven|4029-001|250|3,3,ἦν,εἰμί,v3siia---,PRED
+Leuven|4029-001|250|4,4,ἤδη,ἤδη,d--------,ADV
+Leuven|4029-001|250|5,5,.,.,u--------,AuxK

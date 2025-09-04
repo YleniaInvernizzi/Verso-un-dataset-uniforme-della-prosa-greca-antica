@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|315|1,1,ὑμεῖς,σύ,p2p---cn-,SBJ
+Leuven|Genesis|315|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|315|3,3,αὐξάνεσθε,αὐξάνω,v2ppme---,PRED_CO
+Leuven|Genesis|315|4,4,καί,καί,b--------,AuxY
+Leuven|Genesis|315|5,5,πληθύνεσθε,πληθύνω,v2ppme---,PRED_CO
+Leuven|Genesis|315|6,6,καί,καί,b--------,AuxY
+Leuven|Genesis|315|7,7,πληρώσατε,πληρόω,v2pama---,PRED_CO
+Leuven|Genesis|315|8,8,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|315|9,9,γῆν,γῆ,n-s---fa-,OBJ
+Leuven|Genesis|315|10,10,καί,καί,b--------,COORD
+Leuven|Genesis|315|11,11,πληθύνεσθε,πληθύνω,v2ppme---,PRED_CO
+Leuven|Genesis|315|12,12,ἐπ’,ἐπί,r--------,AuxP
+Leuven|Genesis|315|13,13,αὐτῆς,αὐτός,p-s---fg-,ADV
+Leuven|Genesis|315|14,14,.,.,u--------,AuxK

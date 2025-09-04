@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;Αἰσχύλος;Αἰσχύλος;n-s---mn-;SBJ
+2;ἔφη;φημί;v3siia---;PRED
+3;ὁ;ὁ;l-s---mn-;ATR
+4;Ἀλεξανδρεὺς;Ἀλεξανδρεύς;n-s---mn-;ATR
+5;ἐν;ἐν;r--------;AuxP
+6;Ἀμφιτρύωνι;Ἀμφιτρύων;n-s---md-;ADV
+7;.;punc;u--------;AuxK

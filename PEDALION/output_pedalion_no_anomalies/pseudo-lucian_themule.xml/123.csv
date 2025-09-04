@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|124|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|124|2,2,ἦν,εἰμί,v3siia---,PRED
+2,Leuven|Ps-Luc|124|3,3,ἄλλο,ἄλλος,p-s---nn-,ATR
+3,Leuven|Ps-Luc|124|4,4,οὐδὲν,οὐδείς,p-s---nn-,PNOM
+4,Leuven|Ps-Luc|124|5,5,ἢ,ἤ,c--------,AuxC
+5,Leuven|Ps-Luc|124|6,6,κόραξ,κόραξ,n-s---mn-,ADV
+6,Leuven|Ps-Luc|124|7,7,νυκτερινός,νυκτερινός,a-s---mn-,ATR

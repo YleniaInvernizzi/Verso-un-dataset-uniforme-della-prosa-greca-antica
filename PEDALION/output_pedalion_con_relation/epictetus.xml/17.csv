@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|18|1,1,αὐτό,αὐτός,p-s---nn-,ADV
+Leuven|0557-001|18|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0557-001|18|3,3,οὐ,οὐ,d--------,AuxZ
+Leuven|0557-001|18|4,4,λέγει,λέγω,v3spia---,PRED
+Leuven|0557-001|18|5,5,.,.,u--------,AuxK

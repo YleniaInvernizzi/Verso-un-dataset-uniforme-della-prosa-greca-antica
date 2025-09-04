@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|137|1,1,ῥάιστη,ῥᾴδιος,a-s---fns,PRED
+1,Leuven|Ps-Luc|137|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|137|3,3,ἡ,ὁ,l-s---fn-,ATR
+3,Leuven|Ps-Luc|137|4,4,τούτου,οὗτος,p-s---ng-,ATR
+4,Leuven|Ps-Luc|137|5,5,θεραπεία,θεραπεία,n-s---fn-,SBJ

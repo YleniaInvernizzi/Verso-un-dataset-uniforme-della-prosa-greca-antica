@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|120|1,1,"""","""",u--------,AuxG
+Leuven|0093-009|120|2,2,τί,τίς,p-s---na-,OBJ
+Leuven|0093-009|120|3,3,λέγεις,λέγω,v2spia---,PRED
+Leuven|0093-009|120|4,4,;,;,u--------,AuxK

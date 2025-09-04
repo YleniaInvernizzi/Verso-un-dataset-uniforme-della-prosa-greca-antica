@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|31|1,1,μετά,μετά,r--------,AuxP
+1,Leuven|PaeanBrev|31|2,2,ταύτας,οὗτος,p-p---fa-,ATR
+2,Leuven|PaeanBrev|31|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|31|4,4,τάς,ὁ,l-p---fa-,ATR
+4,Leuven|PaeanBrev|31|5,5,νίκας,νίκη,n-p---fa-,ADV
+5,Leuven|PaeanBrev|31|6,6,καί,καί,d--------,AuxZ
+6,Leuven|PaeanBrev|31|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|PaeanBrev|31|8,8,πόλιν,πόλις,n-s---fa-,OBJ
+8,Leuven|PaeanBrev|31|9,9,ηὔξησε,αὐξάνω,v3saia---,PRED
+9,Leuven|PaeanBrev|31|10,10,τόν,ὁ,l-s---ma-,ATR
+10,Leuven|PaeanBrev|31|11,11,Κέλλοιν,Κέλλοιν,n-s---ma-,ATR
+11,Leuven|PaeanBrev|31|12,12,αὐτῇ,αὐτός,p-s---fd-,OBJ
+12,Leuven|PaeanBrev|31|13,13,προσθείς,προστίθημι,v-sapamn-,ADV
+13,Leuven|PaeanBrev|31|14,14,λόφον,λόφος,n-s---ma-,OBJ

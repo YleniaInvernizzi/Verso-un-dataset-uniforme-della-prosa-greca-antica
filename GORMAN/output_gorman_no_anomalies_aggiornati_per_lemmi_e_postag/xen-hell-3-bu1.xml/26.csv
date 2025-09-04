@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ὁ;ὁ;l-s---mn-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;οὖν;οὖν;d--------;AuxY
+4;Θίβρων;Θίβρων;n-s---mn-;SBJ
+5;ἀπῆλθεν;ἀπέρχομαι;v3saia---;PRED_CO
+6;οἴκαδε;οἴκαδε;d--------;ADV
+7;καὶ;καί;c--------;COORD
+8;ζημιωθεὶς;ζημιόω;v-sappmn-;ADV
+9;ἔφυγε;φεύγω;v3saia---;PRED_CO
+10;·;punc;u--------;AuxK

@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;πελάτης;πελάτης;n-s---mn-;SBJ
+3;τις;τις;a-s---cn-;ATR
+4;εἶχεν;ἔχω;v3siia---;PRED
+5;αὐτήν;αὐτός;p-s---fa-;OBJ
+6;,;punc;u--------;AuxX
+7;οὓς;ὅς;p-p---ma-;OBJ
+8;κλιέντης;κλιέντης;n-p---ma-;OCOMP
+9;Ῥωμαῖοι;Ῥωμαῖος;n-p---mn-;SBJ
+10;καλοῦσιν;καλέω;v3ppia---;ATR
+11;·;punc;u--------;AuxK

@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|3|1,1,ἐχάρην,χαίρω,v1saip---,PRED_CO
+Leuven|27086|3|2,2,πῶς,πῶς,d--------,ADV
+Leuven|27086|3|3,3,ἔπεμψάς,πέμπω,v2saia---,OBJ
+Leuven|27086|3|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|27086|3|5,5,τὸν,ὁ,l-s---ma-,ATR
+Leuven|27086|3|6,6,υἱὸν,υἱός,n-s---ma-,OBJ
+Leuven|27086|3|7,7,ἕως,ἕως,c--------,AuxC
+Leuven|27086|3|8,8,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|27086|3|9,9,προσκυνήσω,προσκυνέω,v1sasa---,ADV
+Leuven|27086|3|10,10,",",",",u--------,AuxX
+Leuven|27086|3|11,11,ἀλλὰ,ἀλλά,b--------,COORD
+Leuven|27086|3|12,12,οὐκ,οὐ,d--------,AuxZ
+Leuven|27086|3|13,13,G,G,v2sria---,PRED_CO
+Leuven|27086|3|14,14,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|27086|3|15,15,ἀνθρώπῳ,ἄνθρωπος,n-s---md-,OBJ
+Leuven|27086|3|16,16,.,.,u--------,AuxK

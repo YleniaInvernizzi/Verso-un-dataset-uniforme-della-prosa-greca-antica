@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|194|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|194|2,2,ἐπωνόμασεν,ἐπονομάζω,v3saia---,PRED
+Leuven|Genesis|194|3,3,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|194|4,4,ὄνομα,ὄνομα,n-s---na-,OBJ
+Leuven|Genesis|194|5,5,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|Genesis|194|6,6,Αδαμ,Αδαμ,n-s---ma-,OCOMP
+Leuven|Genesis|194|7,7,",",",",u--------,AuxX
+Leuven|Genesis|194|8,8,ᾗ,ὅς,p-s---fd-,OBJ
+Leuven|Genesis|194|9,9,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+Leuven|Genesis|194|10,10,ἐποίησεν,ποιέω,v3saia---,ATR
+Leuven|Genesis|194|11,11,αὐτούς,αὐτός,p-p---ma-,OBJ
+Leuven|Genesis|194|12,12,.,.,u--------,AuxK

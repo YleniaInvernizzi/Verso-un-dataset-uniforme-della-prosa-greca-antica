@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|677|6|1,1,γράψον,γράφω,v2sama---,PRED
+1,Leuven|677|6|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|677|6|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|677|6|4,4,καί,καί,c--------,AuxY
+4,Leuven|677|6|5,5,ὅπου,ὅπου,d--------,ADV
+5,Leuven|677|6|6,6,δεήσει,δέω,v3sfia---,OBJ
+6,Leuven|677|6|7,7,τό,ὁ,l-s---na-,ATR
+7,Leuven|677|6|8,8,κερμάτιον,κερμάτιον,n-s---na-,OBJ
+8,Leuven|677|6|9,9,ἀποστεῖλαι,ἀποστέλλω,v--ana---,SBJ

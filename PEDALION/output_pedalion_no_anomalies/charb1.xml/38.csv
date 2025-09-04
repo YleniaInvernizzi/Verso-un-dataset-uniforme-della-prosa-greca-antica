@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|39|1,1,ἐρραίνετο,ῥαίνω,v3siie---,PRED
+1,Leuven|0554-001|39|2,2,τὰ,ὁ,l-p---nn-,ATR
+2,Leuven|0554-001|39|3,3,πρόθυρα,πρόθυρον,n-p---nn-,SBJ
+3,Leuven|0554-001|39|4,4,οἴνῳ,οἶνος,n-s---md-,ADV_CO
+4,Leuven|0554-001|39|5,5,καὶ,καί,c--------,COORD
+5,Leuven|0554-001|39|6,6,μύροις,μύρον,n-p---nd-,ADV_CO

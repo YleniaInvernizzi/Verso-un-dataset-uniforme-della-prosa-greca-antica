@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|345|1,1,τοσοῦτον,τοσοῦτος,p-s---nn-,PNOM
+Leuven|PaeanBrev|345|2,2,ἦν,εἰμί,v3siia---,PRED
+Leuven|PaeanBrev|345|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|PaeanBrev|345|4,4,φρόνημα,φρόνημα,n-s---nn-,SBJ
+Leuven|PaeanBrev|345|5,5,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|345|6,6,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,ATR
+Leuven|PaeanBrev|345|7,7,·,·,u--------,AuxK

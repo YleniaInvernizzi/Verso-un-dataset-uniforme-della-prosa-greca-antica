@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|249|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|249|2,2,ἐνεκότει,ἐγκοτέω,v3siia---,PRED
+Leuven|Genesis_deel3|249|3,3,Ησαυ,Ησαυ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|249|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis_deel3|249|5,5,Ιακωβ,Ἰακώβ,n-s---md-,OBJ
+Leuven|Genesis_deel3|249|6,6,περί,περί,r--------,AuxP
+Leuven|Genesis_deel3|249|7,7,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel3|249|8,8,εὐλογίας,εὐλογία,n-s---fg-,ADV
+Leuven|Genesis_deel3|249|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel3|249|10,10,ἧς,ὅς,p-s---fg-,OBJ
+Leuven|Genesis_deel3|249|11,11,εὐλόγησεν,εὐλογέω,v3saia---,ATR
+Leuven|Genesis_deel3|249|12,12,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel3|249|13,13,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel3|249|14,14,πατήρ,πατήρ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|249|15,15,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel3|249|16,16,·,·,u--------,AuxK

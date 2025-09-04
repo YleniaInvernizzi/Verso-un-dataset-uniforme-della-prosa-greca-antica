@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-00x|17|1,1,ἥττων,ἥττων,a-s---mnc,PNOM
+1,Leuven|0059-00x|17|2,2,ὃς,ὅς,p-s---mn-,SBJ
+2,Leuven|0059-00x|17|3,3,ἂν,ἄν,d--------,AuxY
+3,Leuven|0059-00x|17|4,4,ᾖ,εἰμί,v3spsa---,SBJ
+5,Leuven|0059-00x|17|6,6,φατέ,φημί,v2ppia---,ExD
+7,Leuven|0059-00x|17|8,8,τῶν,ὁ,l-p---fg-,ATR
+8,Leuven|0059-00x|17|9,9,ἡδονῶν,ἡδονή,n-p---fg-,ADV

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔδοξεν,δοκέω,v3saia---,PRED
+2,οὖν,οὖν,d--------,AuxY
+3,αὐτῷ,αὐτός,p-s---md-,OBJ
+4,πολλὴ,πολύς,a-s---fn-,ATR
+5,στρατιὰ,στρατιά,n-s---fn-,SBJ
+6,παρεῖναι,πάρειμι1,v--pna---,OBJ
+7,·,punc1,u--------,AuxK

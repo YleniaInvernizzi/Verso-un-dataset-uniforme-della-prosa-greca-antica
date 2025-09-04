@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,παυσάμενος,παύω,v-sapmmn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,βασίλευε,βασιλεύω,v2spma---,PRED_CO
+4,τῶν,ὁ,l-p---mg-,OBJ
+5,σεωυτοῦ,σαυτοῦ,p-s---mg-,ATR
+6,",",punc1,u--------,AuxX
+7,καὶ,καί,c--------,COORD
+8,ἡμέας,ἐγώ,p1p---ma-,SBJ
+9,ἀνέχευ,ἀνέχω,v2spme---,PRED_CO
+10,ὁρέων,ὁράω,v-sppamn-,ADV
+11,ἄρχοντας,ἄρχω,v-pppafa-,OBJ
+12,τῶν,ὅς,p-p---mg-,OBJ
+13,περ,πέρ,d--------,AuxZ
+14,ἄρχομεν,ἄρχω,v1ppia---,OBJ
+15,.,punc1,u--------,AuxK

@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|49|1,1,λαμπρὸς,λαμπρός,a-s---mn-,PNOM_CO
+Leuven|Ps-Luc|49|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|49|3,3,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|49|4,4,πολυτελὴς,πολυτελής,a-s---mn-,PNOM_CO
+Leuven|Ps-Luc|49|5,5,γέγονεν,γίγνομαι,v3sria---,PRED
+Leuven|Ps-Luc|49|6,6,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|49|7,7,ἐμέ,ἐγώ,p1s---ca-,ATR
+Leuven|Ps-Luc|49|8,8,",",",",u--------,AuxX
+Leuven|Ps-Luc|49|9,9,ὥστε,ὥστε,c--------,AuxC
+Leuven|Ps-Luc|49|10,10,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|49|11,11,ἐγκαλέσαι,ἐγκαλέω,v3saoa---,ADV
+Leuven|Ps-Luc|49|12,12,ἄν,ἄν,d--------,AuxY
+Leuven|Ps-Luc|49|13,13,τις,τις,p-s---cn-,SBJ
+Leuven|Ps-Luc|49|14,14,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|49|15,15,τρυφῆι,τρυφή,n-s---fd-,ADV
+Leuven|Ps-Luc|49|16,16,.,.,u--------,AuxK

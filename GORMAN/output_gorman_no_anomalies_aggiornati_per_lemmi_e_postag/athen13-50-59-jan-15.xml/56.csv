@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;Κοσσύφας;Κοσσύφη;n-s---fg-;OBJ_CO
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxY
+4;Γαλήνας;Γαλήνη;n-s---fg-;OBJ_CO
+5;καὶ;καί;c--------;COORD
+6;Κορώνας;Κορώνη;n-s---fg-;OBJ_CO
+7;οὐ;οὐ;d--------;AuxZ
+8;λέγω;λέγω;v1spia---;PRED
+9;:;punc;u--------;AuxK

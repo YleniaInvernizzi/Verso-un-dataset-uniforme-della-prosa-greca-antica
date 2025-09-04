@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|264|1,1,θάψον,θάπτω,v2sama---,PRED
+Leuven|Genesis_deel2|264|2,2,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|264|3,3,νεκρόν,νεκρός,a-s---ma-,OBJ
+Leuven|Genesis_deel2|264|4,4,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|264|5,5,.,.,u--------,AuxK

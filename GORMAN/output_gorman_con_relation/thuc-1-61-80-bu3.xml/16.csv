@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἱππῆς,ἱππεύς,n-p---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,οὐδετέροις,οὐδέτερος,a-p---md-,ATR
+4,παρεγένοντο,παραγίγνομαι,v3paim---,PRED
+5,.,punc1,u--------,AuxK

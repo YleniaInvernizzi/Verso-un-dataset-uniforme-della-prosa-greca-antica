@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;καί;καί;d--------;AuxY
+2;σφι;σφεῖς;p3p---md-;PNOM
+3;τριξὰ;τριξός;a-p---nn-;ATR
+4;ἐξευρήματα;ἐξεύρημα;n-p---nn-;SBJ
+5;ἐγένετο;γίγνομαι;v3saim---;PRED
+6;,;punc;u--------;AuxX
+7;τοῖσι;ὁ;p-p---nd-;OBJ
+8;οἱ;ὁ;l-p---mn-;ATR
+9;Ἕλληνες;Ἕλλην;n-p---mn-;SBJ
+10;ἐχρήσαντο;χράω;v3paim---;ATR
+11;:;punc;u--------;AuxK

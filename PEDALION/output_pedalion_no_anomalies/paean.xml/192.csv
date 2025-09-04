@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|194|1,1,τῶν,ὁ,l-p---mg-,ATR
+1,Leuven|PaeanBrev|194|2,2,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,SBJ
+2,Leuven|PaeanBrev|194|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|194|4,4,οὐ,οὐ,d--------,AuxZ
+4,Leuven|PaeanBrev|194|5,5,συνθεμένων,συντίθημι,v-papmmg-,ADV
+5,Leuven|PaeanBrev|194|6,6,ἀνήφθη,ἀνάπτω,v3saip---,PRED
+6,Leuven|PaeanBrev|194|7,7,πόλεμος,πόλεμος,n-s---mn-,SBJ
+7,Leuven|PaeanBrev|194|8,8,μέγιστος,μέγας,a-s---mn-,ATR
+9,Leuven|PaeanBrev|194|10,10,εἵπερ,εἴπερ,c--------,AuxC
+10,Leuven|PaeanBrev|194|11,11,τις,τις,p-s---cn-,SBJ
+11,Leuven|PaeanBrev|194|12,12,ἄλλος,ἄλλος,p-s---mn-,ATR

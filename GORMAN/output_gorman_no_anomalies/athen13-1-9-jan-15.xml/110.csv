@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ἄλκηστιν,Ἄλκηστις,n-s---fa-,OBJ
+1,2,ἀντέθηκα,ἀντιτίθημι,v1saia---,PRED
+2,3,χρηστήν,χρηστός,a-s---fa-,ATR
+3,4,.,punc1,u--------,AuxK

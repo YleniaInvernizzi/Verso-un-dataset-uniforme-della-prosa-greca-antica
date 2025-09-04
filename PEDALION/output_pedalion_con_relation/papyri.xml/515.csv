@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30269|10|1,1,ἀρκεῖ,ἀρκέω,v3spia---,PRED
+Leuven|30269|10|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|30269|10|3,3,ἅ,ὅς,p-p---na-,OBJ
+Leuven|30269|10|4,4,ἔχω,ἔχω,v1spia---,SBJ
+Leuven|30269|10|5,5,ὧδε,ὧδε,d--------,ADV
+Leuven|30269|10|6,6,.,.,u--------,AuxK

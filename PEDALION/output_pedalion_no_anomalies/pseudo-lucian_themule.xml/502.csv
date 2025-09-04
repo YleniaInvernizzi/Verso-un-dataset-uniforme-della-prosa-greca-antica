@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|503|1,1,ἡ,ὁ,l-s---fn-,SBJ
+1,Leuven|Ps-Luc|503|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|503|3,3,κατεχρήσατό,καταχράω,v3saim---,PRED
+3,Leuven|Ps-Luc|503|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+4,Leuven|Ps-Luc|503|5,5,δεινῶς,δεινός,d--------,ADV

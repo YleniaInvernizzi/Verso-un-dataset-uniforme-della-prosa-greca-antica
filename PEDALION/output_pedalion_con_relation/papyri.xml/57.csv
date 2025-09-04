@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1781|7|1,1,ἔγραψα,γράφω,v1saia---,PRED
+Leuven|1781|7|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|1781|7|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|1781|7|4,4,ἵνα,ἵνα,c--------,AuxC
+Leuven|1781|7|5,5,εἰδῆις,οἶδα,v2srsa---,ADV
+Leuven|1781|7|6,6,ὅτι,ὅτι,c--------,AuxC
+Leuven|1781|7|7,7,Κρότος,Κρότος,n-s---mn-,SBJ
+Leuven|1781|7|8,8,αἴτιος,αἴτιος,a-s---mn-,PNOM
+Leuven|1781|7|9,9,.,.,u--------,AuxK
+Leuven|1781|7|10,10,[0],_,_,OBJ

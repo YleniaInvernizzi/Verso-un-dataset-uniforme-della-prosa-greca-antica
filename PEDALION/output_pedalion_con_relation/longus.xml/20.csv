@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0561-001|21|1,1,τά,ὁ,l-p---nn-,ATR
+Leuven|0561-001|21|2,2,ἀγάλματα,ἄγαλμα,n-p---nn-,SBJ
+Leuven|0561-001|21|3,3,τῶν,ὁ,l-p---fg-,ATR
+Leuven|0561-001|21|4,4,Νυμφῶν,Νύμφη,n-p---fg-,ATR
+Leuven|0561-001|21|5,5,αὐτῶν,αὐτός,p-p---fg-,ATR
+Leuven|0561-001|21|6,6,λίθοις,λίθος,n-p---md-,ADV
+Leuven|0561-001|21|7,7,ἐπεποίητο,ποιέω,v3slie---,PRED
+Leuven|0561-001|21|8,8,·,·,u--------,AuxK

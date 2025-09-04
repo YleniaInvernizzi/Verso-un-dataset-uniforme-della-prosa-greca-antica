@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|245|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|245|2,2,οὕτως,οὕτως,d--------,ADV
+Leuven|Genesis|245|3,3,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|Genesis|245|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|245|5,5,κιβωτόν,κιβωτός,n-s---fa-,OBJ
+Leuven|Genesis|245|6,6,·,·,u--------,AuxK

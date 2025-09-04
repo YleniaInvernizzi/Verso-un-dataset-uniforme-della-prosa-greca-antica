@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|258|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|258|2,2,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+2,Leuven|Genesis|258|3,3,Νωε,Νωε,n-s---mn-,SBJ
+3,Leuven|Genesis|258|4,4,πάντα,πᾶς,a-p---na-,OBJ
+5,Leuven|Genesis|258|6,6,ὅσα,ὅσος,p-p---na-,OBJ
+6,Leuven|Genesis|258|7,7,ἐνετείλατο,ἐντέλλομαι,v3saim---,ATR
+7,Leuven|Genesis|258|8,8,αὐτῷ,αὐτός,p-s---md-,OBJ
+8,Leuven|Genesis|258|9,9,κύριος,κύριος,n-s---mn-,SBJ
+9,Leuven|Genesis|258|10,10,ὁ,ὁ,l-s---mn-,ATR
+10,Leuven|Genesis|258|11,11,θεός,θεός,n-s---mn-,APOS
+12,Leuven|Genesis|258|13,13,οὕτως,οὕτως,d--------,ADV
+13,Leuven|Genesis|258|14,14,ἐποίησεν,ποιέω,v3saia---,PRED_CO

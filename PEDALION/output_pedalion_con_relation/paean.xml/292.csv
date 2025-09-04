@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|294|1,1,τῷ,ὁ,l-s---md-,ATR
+Leuven|PaeanBrev|294|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|294|3,3,ἐξῆς,ἑξῆς,d--------,ATR
+Leuven|PaeanBrev|294|4,4,ἐνιαυτῷ,ἐνιαυτός,n-s---md-,ADV
+Leuven|PaeanBrev|294|5,5,Οὐαλέριος,Οὐαλέριος,n-s---mn-,APOS
+Leuven|PaeanBrev|294|6,6,Μάρκος,Μάρκος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|294|7,7,καί,καί,b--------,COORD
+Leuven|PaeanBrev|294|8,8,Ὠτακίλιος,Ὠτακίλιος,n-s---mn-,APOS
+Leuven|PaeanBrev|294|9,9,Κράσος,Κράσος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|294|10,10,ὕπατοι,ὕπατος,n-p---mn-,APOS
+Leuven|PaeanBrev|294|11,11,μεγάλα,μέγας,a-p---nap,OBJ
+Leuven|PaeanBrev|294|12,12,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|294|13,13,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|294|14,14,Σικελίαν,Σικελία,n-s---fa-,ADV
+Leuven|PaeanBrev|294|15,15,εἰργάσαντο,ἐργάζομαι,v3paim---,PRED
+Leuven|PaeanBrev|294|16,16,.,.,u--------,AuxK

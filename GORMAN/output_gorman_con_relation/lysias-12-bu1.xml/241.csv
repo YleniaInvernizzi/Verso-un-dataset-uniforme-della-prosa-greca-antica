@@ -1,0 +1,4 @@
+@id,@form,@lemma,@postag,@relation
+1,παύσομαι,παύω,v1sfim---,PRED
+2,κατηγορῶν,κατηγορέω,v-sppamn-,PNOM
+3,.,punc1,u--------,AuxK

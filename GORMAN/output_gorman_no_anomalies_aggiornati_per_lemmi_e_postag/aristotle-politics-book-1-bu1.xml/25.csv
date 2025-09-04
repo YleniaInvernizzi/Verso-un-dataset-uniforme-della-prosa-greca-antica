@@ -1,0 +1,5 @@
+@id;@form;@lemma;@postag;@relation
+1;σποράδες;σποράς;n-p---mn-;PNOM
+2;γάρ;γάρ;d--------;AuxY
+3;:;punc;u--------;AuxK
+4;εἰσίν;εἰμί;v3ppia---;PRED

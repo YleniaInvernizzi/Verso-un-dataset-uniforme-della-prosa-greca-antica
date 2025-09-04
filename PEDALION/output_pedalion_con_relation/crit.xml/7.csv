@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|8|1,1,ἄρτι,ἄρτι,d--------,ADV
+Leuven|0059-003|8|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0059-003|8|3,3,ἥκεις,ἥκω,v2spia---,PRED_CO
+Leuven|0059-003|8|4,4,ἢ,ἤ,c--------,COORD
+Leuven|0059-003|8|5,5,πάλαι,πάλαι,d--------,ADV
+Leuven|0059-003|8|6,6,;,;,u--------,AuxK
+Leuven|0059-003|8|7,7,[0],,,PRED_CO

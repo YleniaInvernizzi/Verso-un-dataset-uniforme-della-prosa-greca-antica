@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|252|1,1,τοῖς,ὁ,l-p---md-,ATR
+1,Leuven|Ps-Luc|252|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|252|3,3,λόγοις,λόγος,n-p---md-,OBJ
+3,Leuven|Ps-Luc|252|4,4,τούτοις,οὗτος,p-p---md-,ATR
+4,Leuven|Ps-Luc|252|5,5,τὸ,ὁ,l-s---nn-,ATR
+5,Leuven|Ps-Luc|252|6,6,ξύλον,ξύλον,n-s---nn-,SBJ
+6,Leuven|Ps-Luc|252|7,7,εἵπετο,ἕπομαι,v3siie---,PRED_CO
+8,Leuven|Ps-Luc|252|9,9,καὶ,καί,c--------,COORD
+9,Leuven|Ps-Luc|252|10,10,ἤδη,ἤδη,d--------,ADV
+10,Leuven|Ps-Luc|252|11,11,ἕλκος,ἕλκος,n-s---na-,OBJ
+11,Leuven|Ps-Luc|252|12,12,τῶι,ὁ,l-s---md-,ATR
+12,Leuven|Ps-Luc|252|13,13,μηρῶι,μηρός,n-s---md-,ADV
+13,Leuven|Ps-Luc|252|14,14,εἶχον,ἔχω,v1siia---,PRED_CO
+14,Leuven|Ps-Luc|252|15,15,νουθετούμενος,νουθετέω,v-sppemn-,ADV

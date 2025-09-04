@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,εὕρημά,εὕρημα,n-s---nn-,SBJ
+2,τι,τις,p-s---nn-,ATR
+3,Μοισᾶν,Μοῦσα,n-p---fg-,ATR
+4,.,.,u--------,AuxK
+5,E,E,z--------,PRED

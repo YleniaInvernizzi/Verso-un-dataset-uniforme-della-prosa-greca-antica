@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|392|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Ps-Luc|392|2,2,μὲν,μέν,d--------,AuxY
+2,Leuven|Ps-Luc|392|3,3,οὖν,οὖν,d--------,AuxY
+3,Leuven|Ps-Luc|392|4,4,ἀνόσιος,ἀνόσιος,a-s---mn-,ATR
+4,Leuven|Ps-Luc|392|5,5,οὗτος,οὗτος,p-s---mn-,ATR
+5,Leuven|Ps-Luc|392|6,6,ὁ-,ὁ,l-s---mn-,ATR
+6,Leuven|Ps-Luc|392|7,7,ἐμὸς,ἐμός,a-s---mn-,ATR
+7,Leuven|Ps-Luc|392|8,8,μάγειρος,μάγειρος,n-s---mn-,SBJ
+8,Leuven|Ps-Luc|392|9,9,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+9,Leuven|Ps-Luc|392|10,10,πλησίον,πλήσιος,r--------,AuxP
+10,Leuven|Ps-Luc|392|11,11,ἑστὼς,ἵστημι,v-srpamn-,ADV
+11,Leuven|Ps-Luc|392|12,12,τῆι,ὁ,l-s---fd-,ATR
+12,Leuven|Ps-Luc|392|13,13,γυναικὶ,γυνή,n-s---fd-,OBJ
+13,Leuven|Ps-Luc|392|14,14,ταῦτα,οὗτος,p-p---na-,OBJ
+14,Leuven|Ps-Luc|392|15,15,συνεβουλεύετο,συμβουλεύω,v3siie---,PRED

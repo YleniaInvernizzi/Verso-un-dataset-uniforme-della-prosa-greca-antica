@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Ζεῦ,Ζεύς,n-s---mv-,ExD
+2,",",punc1,u--------,AuxX
+3,σὺ,σύ,p-s---mn-,SBJ
+4,δ᾽,δέ,d--------,AuxY
+5,Ὄλυμπον,Ὄλυμπος,n-s---ma-,OBJ
+6,ἔχε,ἔχω,v3siia---,PRED
+7,.,punc1,u--------,AuxK

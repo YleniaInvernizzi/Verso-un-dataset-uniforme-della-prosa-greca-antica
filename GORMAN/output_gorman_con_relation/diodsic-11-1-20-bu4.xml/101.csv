@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀδύνατον,ἀδύνατος,a-s---na-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,εἶναι,εἰμί,v--pna---,OBJ
+4,τοῖς,ὁ,l-p---md-,ATR
+5,μείνασι,μένω,v-papamd-,OBJ
+6,τυχεῖν,τυγχάνω,v--ana---,SBJ
+7,σωτηρίας,σωτηρία,n-s---fg-,OBJ
+8,·,punc1,u--------,AuxK
+9,[0],,,PRED

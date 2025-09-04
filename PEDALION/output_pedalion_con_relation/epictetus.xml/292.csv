@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|293|1,1,ἐφʼ,ἐπί,r--------,AuxP
+Leuven|0557-001|293|2,2,ἡμῶν,ἐγώ,p1p---cg-,ADV
+Leuven|0557-001|293|3,3,μόνων,μόνος,a-p---mg-,ATR
+Leuven|0557-001|293|4,4,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|0557-001|293|5,5,ταῦτα,οὗτος,p-p---nn-,SBJ
+Leuven|0557-001|293|6,6,;,;,u--------,AuxK

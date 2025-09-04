@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|48|1,1,μηδαμῶς,μηδαμῶς,d--------,ADV
+Leuven|Ps-Luc|48|2,2,",",",",u--------,AuxX
+Leuven|Ps-Luc|48|3,3,εἶπον,λέγω,v1saia---,PRED
+Leuven|Ps-Luc|48|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|48|5,5,ὦ,ὦ,i--------,AuxZ
+Leuven|Ps-Luc|48|6,6,μῆτερ,μήτηρ,n-s---fv-,ExD
+Leuven|Ps-Luc|48|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|48|8,8,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|Ps-Luc|48|9,9,εἴπηις,λέγω,v2sasa---,OBJ
+Leuven|Ps-Luc|48|10,10,.,.,u--------,AuxK

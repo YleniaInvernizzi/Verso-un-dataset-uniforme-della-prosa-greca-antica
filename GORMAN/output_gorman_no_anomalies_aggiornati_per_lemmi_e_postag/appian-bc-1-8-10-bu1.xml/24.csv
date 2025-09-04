@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;χρήματά;χρῆμα;n-p---na-;OBJ_CO
+4;τε;τε;d--------;AuxY
+5;αὐτῷ;αὐτός;p-s---md-;OBJ
+6;καὶ;καί;c--------;COORD
+7;στρατιὰν;στρατιά;n-s---fa-;OBJ_CO
+8;συνετέλουν;συντελέω;v3piia---;PRED
+9;·;punc;u--------;AuxK

@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,μέσον,μέσος,a-s---na-,OBJ
+4,αὐτῆς,αὐτός,p-s---fg-,ATR
+5,ποταμὸς,ποταμός,n-s---mn-,SBJ
+6,διέργει,διείργω,v3spia---,PRED
+7,",",punc1,u--------,AuxX
+8,τῷ,ὅς,p-s---md-,ATR
+9,οὔνομα,ὄνομα,n-s---nn-,SBJ
+10,ἐστὶ,εἰμί,v3spia---,ATR
+11,Εὐφρήτης,Εὐφρήτης,n-s---mn-,PNOM
+12,:,punc1,u--------,AuxK

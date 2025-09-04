@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐδένα,οὐδείς,a-s---ma-,ATR
+1,2,νομίζω,νομίζω,v1spia---,PRED
+2,3,θεὸν,θεός,n-s---ma-,SBJ
+3,4,εἶναι,εἰμί,v--pna---,OBJ
+4,5,;,punc1,u--------,AuxK

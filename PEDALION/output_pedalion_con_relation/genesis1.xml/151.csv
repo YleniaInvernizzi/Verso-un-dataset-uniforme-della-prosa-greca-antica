@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|152|1,1,πρός,πρός,r--------,AuxP
+Leuven|Genesis|152|2,2,σέ,σύ,p2s---ca-,PNOM
+Leuven|Genesis|152|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|152|4,4,ἀποστροφή,ἀποστροφή,n-s---fn-,SBJ
+Leuven|Genesis|152|5,5,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|152|6,6,",",",",u--------,AuxX
+Leuven|Genesis|152|7,7,καί,καί,b--------,COORD
+Leuven|Genesis|152|8,8,σύ,σύ,p2s---cn-,SBJ
+Leuven|Genesis|152|9,9,ἄρξεις,ἄρχω,v2sfia---,PRED_CO
+Leuven|Genesis|152|10,10,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+Leuven|Genesis|152|11,11,.,.,u--------,AuxK
+Leuven|Genesis|152|12,12,[0],,,PRED_CO

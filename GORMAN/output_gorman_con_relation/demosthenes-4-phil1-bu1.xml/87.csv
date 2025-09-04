@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτο,οὗτος,p-s---na-,OBJ
+2,δὴ,δή,d--------,AuxY
+3,καὶ,καί,d--------,AuxY
+4,περαίνω,περαίνω,v1spia---,PRED
+5,.,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῖς,ὁ,l-p---md-,ATR
+2,μὲν,μέν,d--------,AuxY
+3,γὰρ,γάρ,d--------,AuxY
+4,ἀτυχοῦσι,ἀτυχέω,v-pppamd-,OBJ
+5,νεωτερίζειν,νεωτερίζω,v--pna---,SBJ
+6,συμφέρει,συμφέρω,v3spia---,PRED
+7,:,punc1,u--------,AuxK

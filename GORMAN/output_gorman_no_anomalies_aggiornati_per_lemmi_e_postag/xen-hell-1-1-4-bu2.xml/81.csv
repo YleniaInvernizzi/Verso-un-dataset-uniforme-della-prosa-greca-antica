@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐκεῖ;ἐκεῖ;d--------;ADV
+2;δὲ;δέ;d--------;AuxY
+3;μείνας;μένω;v-sapamn-;ADV
+4;τρεῖς;τρεῖς;a-p---fa-;ATR
+5;ἡμέρας;ἡμέρα;n-p---fa-;ADV
+6;ἔπλευσεν;πλέω;v3saia---;PRED
+7;εἰς;εἰς;r--------;AuxP
+8;Πύγελα;Πύγελα;n-s---fa-;OBJ
+9;·;punc;u--------;AuxK

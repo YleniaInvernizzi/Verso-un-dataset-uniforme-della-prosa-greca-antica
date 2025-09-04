@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|583|1,1,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+Leuven|Genesis|583|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|583|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|583|4,4,ἐτῶν,ἔτος,n-p---ng-,PNOM
+Leuven|Genesis|583|5,5,ἐνενήκοντα,ἐνενήκοντα,m--------,ATR
+Leuven|Genesis|583|6,6,ἐννέα,ἐννέα,m--------,ATR
+Leuven|Genesis|583|7,7,",",",",u--------,AuxX
+Leuven|Genesis|583|8,8,καί,καί,b--------,AuxY
+Leuven|Genesis|583|9,9,ὤφθη,ὁράω,v3saip---,PRED_CO
+Leuven|Genesis|583|10,10,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|583|11,11,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|583|12,12,Αβραμ,Αβραμ,n-s---md-,ADV
+Leuven|Genesis|583|13,13,καί,καί,b--------,COORD
+Leuven|Genesis|583|14,14,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis|583|15,15,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis|583|16,16,·,·,u--------,AuxK

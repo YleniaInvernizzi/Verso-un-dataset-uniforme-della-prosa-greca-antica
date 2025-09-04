@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|49|1,1,τάφρους,τάφρος,n-p---fa-,OBJ
+1,Leuven|PaeanBrev|49|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|49|3,3,ὤρυξε,ὀρύσσω,v3saia---,PRED
+3,Leuven|PaeanBrev|49|4,4,πρό,πρό,r--------,AuxP
+4,Leuven|PaeanBrev|49|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|PaeanBrev|49|6,6,τείχους,τεῖχος,n-s---ng-,ADV
+6,Leuven|PaeanBrev|49|7,7,κύκλῳ,κύκλος,n-s---md-,ADV

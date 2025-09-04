@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|20|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|20|2,2,συνήχθη,συνέχω,v3saip---,PRED_CO
+2,Leuven|Genesis|20|3,3,τό,ὁ,l-s---nn-,ATR
+3,Leuven|Genesis|20|4,4,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+4,Leuven|Genesis|20|5,5,τό,ὁ,l-s---nn-,ATR
+5,Leuven|Genesis|20|6,6,ὑποκάτω,ὑποκάτω,r--------,AuxP
+6,Leuven|Genesis|20|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|Genesis|20|8,8,οὐρανοῦ,οὐρανός,n-s---mg-,ATR
+8,Leuven|Genesis|20|9,9,εἰς,εἰς,r--------,AuxP
+9,Leuven|Genesis|20|10,10,τάς,ὁ,l-p---fa-,ATR
+10,Leuven|Genesis|20|11,11,συναγωγάς,συναγωγή,n-p---fa-,ADV
+11,Leuven|Genesis|20|12,12,αὐτῶν,αὐτός,p-p---mg-,ATR
+13,Leuven|Genesis|20|14,14,καί,καί,c--------,COORD
+14,Leuven|Genesis|20|15,15,ὤφθη,ὁράω,v3saip---,PRED_CO
+15,Leuven|Genesis|20|16,16,ἡ,ὁ,l-s---fn-,ATR
+16,Leuven|Genesis|20|17,17,ξηρά,ξηρός,a-s---fn-,SBJ

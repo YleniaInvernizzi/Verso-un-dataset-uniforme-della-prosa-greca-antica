@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,κατὰ,κατά,r--------,AuxP
+1,2,τῆς,ὁ,l-s---fg-,ATR
+2,3,πατρίδος,πατρίς,n-s---fg-,ADV
+3,4,:,punc1,u--------,AuxK

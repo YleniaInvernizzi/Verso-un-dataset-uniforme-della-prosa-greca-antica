@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;τελευτησάντων;τελευτάω;v-papamg-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;πάντων;πᾶς;a-p---mg-;SBJ
+4;διέλαθεν;διαλανθάνω;v3saia---;PRED
+5;ἔχων;ἔχω;v-sppamn-;ATV
+6;ὁ;ὁ;l-s---mn-;ATR
+7;Διόμνηστος;Διόμνηστος;n-s---mn-;SBJ
+8;τὸ;ὁ;l-s---na-;ATR
+9;χρυσίον;χρυσίον;n-s---na-;OBJ
+10;.;punc;u--------;AuxK

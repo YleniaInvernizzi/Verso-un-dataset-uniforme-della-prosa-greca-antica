@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,αὐτὸς,αὐτός,a-s---mn_,ATR
+3,κίνδυνος,κίνδυνος,n-s---mn-,SBJ
+4,ὑπολείπεται,ὑπολείπω,v3spie---,PRED
+5,;,punc1,u--------,AuxK

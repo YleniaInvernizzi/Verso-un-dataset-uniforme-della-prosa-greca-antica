@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,ποῖ,ποι,d--------,ADV
+2,οὖν,οὖν,d--------,AuxY
+3,προσορμιούμεθʼ,προσορμίζομαι,v1pfim---,PRED
+4,;,punc1,u--------,AuxK

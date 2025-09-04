@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀλλὰ,ἀλλά,d--------,AuxY
+2,καὶ,καί,d--------,AuxZ
+3,Ἡράκλειτος,Ἡράκλειτος,n-s---mn-,SBJ
+4,ὁ,ὁ,l-s---mn-,ATR
+5,θεῖός,θεῖος1,a-s---mn-,ATR
+6,φησι,φημί,v3spia---,PRED
+7,:,punc1,u--------,AuxK

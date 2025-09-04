@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡς,ὡς,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Γύγης,Γύγης,n-s---mn-,SBJ
+5,ἀπίκετο,ἀφικνέομαι,v3saim---,ADV
+6,",",punc1,u--------,AuxX
+7,ἔλεγε,λέγω3,v3siia---,PRED
+8,ἡ,ὁ,l-s---fn-,ATR
+9,γυνὴ,γυνή,n-s---fn-,SBJ
+10,τάδε,ὅδε,p-p---na-,OBJ
+11,.,punc1,u--------,AuxK

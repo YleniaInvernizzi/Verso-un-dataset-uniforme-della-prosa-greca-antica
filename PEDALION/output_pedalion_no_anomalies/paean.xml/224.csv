@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|226|1,1,ὡς,ὡς,c--------,AuxC
+1,Leuven|PaeanBrev|226|2,2,ἔπος,ἔπος,n-s---na-,OBJ
+2,Leuven|PaeanBrev|226|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|226|4,4,εἰπεῖν,λέγω,v--ana---,ExD
+5,Leuven|PaeanBrev|226|6,6,οὐδέν,οὐδείς,p-s---na-,OBJ
+6,Leuven|PaeanBrev|226|7,7,τῶν,ὁ,l-p---ng-,ATR
+7,Leuven|PaeanBrev|226|8,8,ἐντός,ἐντός,r--------,AuxP
+8,Leuven|PaeanBrev|226|9,9,τῆς,ὁ,l-s---fg-,ATR
+9,Leuven|PaeanBrev|226|10,10,Ἰταλίας,Ἰταλία,n-s---fg-,ATR
+10,Leuven|PaeanBrev|226|11,11,ἐθνῶν,ἔθνος,n-p---ng-,ATR
+11,Leuven|PaeanBrev|226|12,12,οὕτω,οὕτως,d--------,ADV
+12,Leuven|PaeanBrev|226|13,13,τάς,ὁ,l-p---fa-,ATR
+13,Leuven|PaeanBrev|226|14,14,Ῥωμαϊκάς,Ῥωμαῖος,a-p---fa-,ATR
+14,Leuven|PaeanBrev|226|15,15,δυνάμεις,δύναμις,n-p---fa-,OBJ
+15,Leuven|PaeanBrev|226|16,16,κατειργάσατο,κατεργάζομαι,v3saim---,PRED

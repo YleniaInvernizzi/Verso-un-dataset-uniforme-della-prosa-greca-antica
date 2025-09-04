@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;καί;καί;d--------;AuxY
+2;μοι;ἐγώ;p1s----d-;ADV
+3;λαβὲ;λαμβάνω;v2sama---;PRED_CO
+4;τὸ;ὁ;l-s---na-;ATR
+5;ψήφισμα;ψήφισμα;n-s---na-;OBJ
+6;τοῦτο;οὗτος;a-s---na-;ATR
+7;καὶ;καί;c--------;COORD
+8;ἀνάγνωθι;ἀναγιγνώσκω;v2sama---;PRED_CO
+9;αὐτοῖς;αὐτός;p-p---md-;OBJ
+10;.;punc;u--------;AuxK

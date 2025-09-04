@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|322|1,1,κοιμηθεὶς,κοιμάω,v-sappmn-,ADV
+Leuven|0554-001|322|2,2,δὲ,δέ,b--------,AuxY
+Leuven|0554-001|322|3,3,ἐνύπνιον,ἐνύπνιον,n-s---na-,OCOMP
+Leuven|0554-001|322|4,4,εἶδε,ὁράω,v3saia---,PRED
+Leuven|0554-001|322|5,5,κεκλεισμένας,κλείω,v-prpefa-,ATR
+Leuven|0554-001|322|6,6,τὰς,ὁ,l-p---fa-,ATR
+Leuven|0554-001|322|7,7,θύρας,θύρα,n-p---fa-,OBJ
+Leuven|0554-001|322|8,8,.,.,u--------,AuxK

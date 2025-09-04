@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|327|1,1,παραχρῆμα,παραχρῆμα,d--------,ADV
+Leuven|PaeanBrev|327|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|327|3,3,διακοσίας,διακόσιοι,m-p---fa-,ATR
+Leuven|PaeanBrev|327|4,4,ἐπισκευασάμενοι,ἐπισκευάζω,v-papmmn-,ADV
+Leuven|PaeanBrev|327|5,5,ναῦς,ναῦς,n-p---fa-,OBJ
+Leuven|PaeanBrev|327|6,6,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|327|7,7,ἑτέρας,ἕτερος,a-p---fa-,ATR
+Leuven|PaeanBrev|327|8,8,παρεσκευάσαντο,παρασκευάζω,v3paim---,PRED
+Leuven|PaeanBrev|327|9,9,ναυμαχίας,ναυμαχία,n-p---fa-,ADV
+Leuven|PaeanBrev|327|10,10,.,.,u--------,AuxK

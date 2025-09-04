@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-00x|42|1,1,ἰατρική,ἰατρικός,a-s---fn-,SBJ
+1,Leuven|0059-00x|42|2,2,πού,που,d--------,ADV
+2,Leuven|0059-00x|42|3,3,τις,τις,p-s---cn-,ATR
+3,Leuven|0059-00x|42|4,4,λέγεται,λέγω,v3spie---,PRED
+4,Leuven|0059-00x|42|5,5,τέχνη,τέχνη,n-s---fn-,PNOM
+5,Leuven|0059-00x|42|6,6,·,·,u--------,AuxK

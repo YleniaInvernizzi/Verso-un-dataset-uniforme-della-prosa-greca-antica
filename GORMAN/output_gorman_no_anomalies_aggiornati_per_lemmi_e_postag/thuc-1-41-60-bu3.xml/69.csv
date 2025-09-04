@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;πέμψαντές;πέμπω;v-papamn-;ADV
+2;τε;τε;d--------;AuxY
+3;ἔλεγον;λέγω;v3piia---;PRED
+4;τοιάδε;τοιόσδε;p-p---na-;OBJ
+5;.;punc;u--------;AuxK

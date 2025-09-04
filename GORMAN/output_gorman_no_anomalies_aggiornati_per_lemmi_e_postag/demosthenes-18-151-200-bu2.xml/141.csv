@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;τὸ;ὁ;l-s---nn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;μέλλον;μέλλω;v-sppann-;SBJ_CO
+4;ἢ;ἤ;c--------;COORD
+5;τὸ;ὁ;l-s---nn-;ATR
+6;παρὸν;πάρειμι;v-sppann-;SBJ_CO
+7;τὴν;ὁ;l-s---fa-;ATR
+8;τοῦ;ὁ;l-s---mg-;ATR
+9;συμβούλου;σύμβουλος;n-s---mg-;ATR
+10;τάξιν;τάξις;n-s---fa-;OBJ
+11;ἀπαιτεῖ;ἀπαιτέω;v3spia---;PRED
+12;.;punc;u--------;AuxK

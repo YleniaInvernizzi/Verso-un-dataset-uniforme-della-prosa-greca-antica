@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,μαινόμενος,μαίνομαι,v-sppemn-,PNOM
+2,γάρ,γάρ,d--------,AuxY
+3,τίς,τις,p-s---mn-,SBJ
+4,ἐστιν,εἰμί,v3spia---,PRED
+5,",",punc1,u--------,AuxX
+6,ὡς,ὡς,c--------,AuxC
+7,ἔοικεν,ἔοικα,v3sria---,AuxY
+8,.,punc1,u--------,AuxK

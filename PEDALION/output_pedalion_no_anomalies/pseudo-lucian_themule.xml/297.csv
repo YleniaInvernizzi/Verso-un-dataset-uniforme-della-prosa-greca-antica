@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|298|1,1,τοῦτό,οὗτος,p-s---nn-,SBJ
+1,Leuven|Ps-Luc|298|2,2,με,ἐγώ,p1s---ca-,OBJ
+2,Leuven|Ps-Luc|298|3,3,καινῶς,καινός,d--------,ADV
+3,Leuven|Ps-Luc|298|4,4,ἑκάστοτε,ἑκάστοτε,d--------,ADV
+4,Leuven|Ps-Luc|298|5,5,ἀπώλλυε,ἀπόλλυμι,v3siia---,PRED

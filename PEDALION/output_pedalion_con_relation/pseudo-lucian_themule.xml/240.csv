@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|241|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|241|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|241|3,3,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|241|4,4,τε,τε,b--------,AuxY
+Leuven|Ps-Luc|241|5,5,ἔρωτι,ἔρως,n-s---md-,ADV_CO
+Leuven|Ps-Luc|241|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|241|7,7,φυγῆς,φυγή,n-s---fg-,ATR
+Leuven|Ps-Luc|241|8,8,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|241|9,9,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|241|10,10,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|241|11,11,κόρης,κόρη,n-s---fg-,ATR
+Leuven|Ps-Luc|241|12,12,σπουδῆι,σπουδή,n-s---fd-,ADV_CO
+Leuven|Ps-Luc|241|13,13,ἔφυγον,φεύγω,v1saia---,ADV
+Leuven|Ps-Luc|241|14,14,ἵππου,ἵππος,n-s---mg-,ATR
+Leuven|Ps-Luc|241|15,15,δρόμωι,δρόμος,n-s---md-,ADV
+Leuven|Ps-Luc|241|16,16,·,·,u--------,AuxK

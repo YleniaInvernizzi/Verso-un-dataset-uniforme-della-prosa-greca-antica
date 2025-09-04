@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+2,πολῖται,πολίτης,n-p---mv-,ATR
+3,",",punc1,u--------,AuxX
+4,τί,τις,a-s---na_,ADV
+5,ἡμᾶς,ἐγώ,p1p---ma-,OBJ
+6,ἐξελαύνετε,ἐξελαύνω,v2ppia---,PRED
+7,;,punc1,u--------,AuxK

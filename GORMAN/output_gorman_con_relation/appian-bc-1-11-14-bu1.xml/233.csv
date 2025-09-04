@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δʼ,δέ,d--------,AuxY
+3,ὑπανίστατο,ὑπανίσταμαι,v3siie---,PRED_CO
+4,καὶ,καί,c--------,COORD
+5,προσέτρεχε,προστρέχω,v3siia---,PRED_CO
+6,.,punc1,u--------,AuxK

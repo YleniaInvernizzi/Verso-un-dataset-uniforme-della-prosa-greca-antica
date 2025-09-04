@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,γυναῖκα,γυνή,n-s---fa-,OBJ
+2,μὲν,μέν,d--------,AuxY
+3,γαμέει,γαμέω,v3spia---,PRED_CO
+4,ἕκαστος,ἕκαστος,a-s---mn-,SBJ
+5,",",punc1,u--------,AuxX
+6,ταύτῃσι,οὗτος,p-p---fd-,OBJ
+7,δὲ,δέ,c--------,COORD
+8,ἐπίκοινα,ἐπίκοινος,a-p---na-,ADV
+9,χρέωνται,χράω2,v3ppie---,PRED_CO
+10,:,punc1,u--------,AuxK

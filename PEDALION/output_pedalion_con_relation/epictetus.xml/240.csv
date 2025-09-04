@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|241|1,1,Πρίαμος,Πρίαμος,n-s---mn-,SBJ
+Leuven|0557-001|241|2,2,αὐτά,αὐτός,p-p---na-,OBJ
+Leuven|0557-001|241|3,3,οὐ,οὐ,d--------,AuxZ
+Leuven|0557-001|241|4,4,λέγει,λέγω,v3spia---,PRED
+Leuven|0557-001|241|5,5,;,;,u--------,AuxK

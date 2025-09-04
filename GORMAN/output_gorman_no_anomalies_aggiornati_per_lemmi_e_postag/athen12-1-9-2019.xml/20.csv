@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;φησὶ;φημί;v3spia---;PRED
+2;γοῦν;γοῦν;d--------;AuxY
+3;πρὸς;πρός;r--------;AuxP
+4;τοὺς;ὁ;l-p---ma-;ATR
+5;θεούς;θεός;n-p---ma-;ADV
+6;,;punc;u--------;AuxX
+7;ὅτ᾽;ὅτι;c--------;AuxC
+8;ἦλθον;ἔρχομαι;v3paia---;ADV
+9;αὐτὸν;αὐτός;p-s---ma-;OBJ
+10;θεασόμενοι;θεάομαι;v-pfpemn-;ADV
+11;δεδεμένον;δέω;v-srpema-;ATR
+12;:;punc;u--------;AuxK

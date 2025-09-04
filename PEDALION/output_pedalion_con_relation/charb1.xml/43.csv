@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|44|1,1,τῆς,ὁ,l-s---fg-,ATR
+Leuven|0554-001|44|2,2,δ’,δέ,d--------,AuxY
+Leuven|0554-001|44|3,3,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|0554-001|44|4,4,λύτο,λύω,v3saip---,PRED
+Leuven|0554-001|44|5,5,γούνατα,γόνυ,n-p---nn-,SBJ_CO
+Leuven|0554-001|44|6,6,καὶ,καί,c--------,COORD
+Leuven|0554-001|44|7,7,φίλον,φίλος,a-s---nn-,ATR
+Leuven|0554-001|44|8,8,ἦτορ,ἦτορ,n-s---nn-,SBJ_CO
+Leuven|0554-001|44|9,9,·,·,u--------,AuxK

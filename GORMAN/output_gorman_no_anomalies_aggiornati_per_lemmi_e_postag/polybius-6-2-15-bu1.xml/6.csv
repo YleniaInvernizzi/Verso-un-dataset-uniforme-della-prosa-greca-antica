@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ζήτει;ζητέω;v3siia---;PRED
+2;ἐν;ἐν;r--------;AuxP
+3;τῷ;ὁ;l-s---nd-;ADV
+4;περὶ;περί;r--------;AuxP
+5;στρατηγίας;στρατηγία;n-s---fg-;ATR
+6;.;punc;u--------;AuxK

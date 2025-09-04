@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὕτω,οὕτως,d--------,ADV
+2,σώφρονας,σώφρων,a-p---ma-,OCOMP
+3,παρέσχεθ᾽,παρέχω,v2paia---,PRED
+4,ὑμᾶς,σύ,p-p---ma-,OBJ
+5,αὐτούς,αὐτός,a-p---ma_,ATR
+6,:,punc1,u--------,AuxK

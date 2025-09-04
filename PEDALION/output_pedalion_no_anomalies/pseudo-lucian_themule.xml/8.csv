@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|9|1,1,ἔστι,εἰμί,v3spia---,PRED
+1,Leuven|Ps-Luc|9|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|9|3,3,φιλαργυρώτατος,φιλάργυρος,a-s---mns,PNOM
+3,Leuven|Ps-Luc|9|4,4,δεινῶς,δεινός,d--------,ADV

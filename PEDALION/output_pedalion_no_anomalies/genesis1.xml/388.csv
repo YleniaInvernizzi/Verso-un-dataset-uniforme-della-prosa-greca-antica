@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|389|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|389|2,2,κατέβη,καταβαίνω,v3saia---,PRED
+2,Leuven|Genesis|389|3,3,κύριος,κύριος,n-s---mn-,SBJ
+3,Leuven|Genesis|389|4,4,ἰδεῖν,ὁράω,v--ana---,ADV
+4,Leuven|Genesis|389|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|389|6,6,πόλιν,πόλις,n-s---fa-,OBJ_CO
+6,Leuven|Genesis|389|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|389|8,8,τόν,ὁ,l-s---ma-,ATR
+8,Leuven|Genesis|389|9,9,πύργον,πύργος,n-s---ma-,OBJ_CO
+10,Leuven|Genesis|389|11,11,ὅν,ὅς,p-s---ma-,OBJ
+11,Leuven|Genesis|389|12,12,ᾠκοδόμησαν,οἰκοδομέω,v3paia---,ATR
+12,Leuven|Genesis|389|13,13,οἱ,ὁ,l-p---mn-,ATR
+13,Leuven|Genesis|389|14,14,υἱοί,υἱός,n-p---mn-,SBJ
+14,Leuven|Genesis|389|15,15,τῶν,ὁ,l-p---mg-,ATR
+15,Leuven|Genesis|389|16,16,ἀνθρώπων,ἄνθρωπος,n-p---mg-,ATR

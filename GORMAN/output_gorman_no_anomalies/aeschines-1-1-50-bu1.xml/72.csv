@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νόμοι,νόμος,n-p---mn-,OBJ
+1,2,",",punc1,u--------,AuxX
+2,3,φησί,φημί,v3spia---,PRED
+3,4,",",punc1,u--------,AuxX
+4,5,περὶ,περί,r--------,AuxP
+5,6,εὐκοσμίας,εὐκοσμία,n-s---fg-,ATR
+6,7,.,punc1,u--------,AuxK

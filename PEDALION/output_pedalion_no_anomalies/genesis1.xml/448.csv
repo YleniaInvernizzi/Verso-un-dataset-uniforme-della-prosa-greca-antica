@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|449|1,1,καλέσας,καλέω,v-sapamn-,ADV
+1,Leuven|Genesis|449|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|449|3,3,Φαραω,Φαραώ,n-s---mn-,SBJ
+3,Leuven|Genesis|449|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|Genesis|449|5,5,Αβραμ,Αβραμ,n-s---ma-,OBJ
+5,Leuven|Genesis|449|6,6,εἶπεν,λέγω,v3saia---,PRED
+6,Leuven|Genesis|449|7,7,·,·,u--------,AuxK

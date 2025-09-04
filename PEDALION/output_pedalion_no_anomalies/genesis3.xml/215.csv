@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|216|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|216|2,2,δουλευσάτωσαν,δουλεύω,v3pama---,PRED_CO
+2,Leuven|Genesis_deel3|216|3,3,σοι,σύ,p2s---cd-,OBJ
+3,Leuven|Genesis_deel3|216|4,4,ἔθνη,ἔθνος,n-p---nn-,SBJ
+5,Leuven|Genesis_deel3|216|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel3|216|7,7,προσκυνήσουσιν,προσκυνέω,v3pfia---,PRED_CO
+7,Leuven|Genesis_deel3|216|8,8,σοι,σύ,p2s---cd-,OBJ
+8,Leuven|Genesis_deel3|216|9,9,ἄρχοντες,ἄρχων,n-p---mn-,SBJ

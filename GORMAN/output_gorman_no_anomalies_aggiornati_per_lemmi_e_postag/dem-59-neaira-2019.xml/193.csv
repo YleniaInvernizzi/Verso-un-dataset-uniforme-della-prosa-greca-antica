@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;κάλει;καλέω;v2spma---;PRED
+2;μοι;ἐγώ;p1s---md-;OBJ
+3;Θεογένην;Θεογένης;n-s---ma-;OBJ
+4;Ἑρχιέα;Ἑρχιεύς;n-s---ma-;ATR
+5;.;punc;u--------;AuxK

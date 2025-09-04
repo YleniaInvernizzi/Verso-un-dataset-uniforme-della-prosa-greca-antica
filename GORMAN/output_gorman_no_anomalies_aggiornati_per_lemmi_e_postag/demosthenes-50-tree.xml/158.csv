@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;ὧν;ὅς;p-p---ng-;ADV
+2;τί;τις;p-s---nn-;SBJ
+3;ἥδιόν;ἡδύς;a-s---nnc;PNOM
+4;ἐστιν;εἰμί;v3spia---;PRED_CO
+5;ἀνθρώπῳ;ἄνθρωπος;n-s---md-;ADV
+6;,;punc;u--------;AuxX
+7;ἢ;ἤ;c--------;COORD
+8;τοῦ;ὁ;p-s---ng-;ADV
+9;ἕνεκ’;ἕνεκα;r--------;AuxP
+10;ἄν;ἄν;d--------;AuxY
+11;τις;τις;p-s---cn-;SBJ
+12;εὔξαιτο;εὔχομαι;v3saom---;PRED_CO
+13;τούτων;οὗτος;p-p---ng-;OBJ
+14;στερηθεὶς;στερέω;v-sappmn-;ADV
+15;ζῆν;ζάω;v--pna---;OBJ
+16;";";punc;u--------;AuxK

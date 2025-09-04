@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,φησὶ,φημί,v3spia---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,δὴ,δή,d--------,AuxY
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,νέους,νέος,a-p---ma-,OBJ
+6,ἀδικεῖν,ἀδικέω,v--pna---,OBJ
+7,με,ἐγώ,p1s---ma-,SBJ
+8,διαφθείροντα,διαφθείρω,v-sppama-,ADV
+9,.,punc1,u--------,AuxK

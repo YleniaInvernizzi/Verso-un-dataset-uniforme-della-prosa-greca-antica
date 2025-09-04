@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|286|1,1,καθʼ,κατά,r--------,AuxP
+Leuven|PaeanBrev|286|2,2,ὧν,ὅς,p-p---mg-,ADV
+Leuven|PaeanBrev|286|3,3,ἁπάντων,ἅπας,a-p---mg-,ATR
+Leuven|PaeanBrev|286|4,4,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|286|5,5,νικήσαντες,νικάω,v-papamn-,SBJ
+Leuven|PaeanBrev|286|6,6,ἐθριάμβευσαν,θριαμβεύω,v3paia---,PRED
+Leuven|PaeanBrev|286|7,7,.,.,u--------,AuxK

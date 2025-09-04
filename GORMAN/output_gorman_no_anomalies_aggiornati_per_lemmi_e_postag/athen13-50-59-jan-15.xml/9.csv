@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;αὗται;οὗτος;p-p---fn-;SBJ
+2;Ἀφύαι;Ἀφύη;n-p---fn-;PNOM
+3;ἐκαλοῦντο;καλέω;v3piie---;PRED
+4;,;punc;u--------;AuxX
+5;ὅτι;ὅτι;c--------;AuxC
+6;λευκαὶ;λευκός;a-p---fn-;PNOM_CO
+7;καὶ;καί;c--------;COORD
+8;λεπταὶ;λεπτός;a-p---fn-;PNOM_CO
+9;οὖσαι;εἰμί;v-pppafn-;ADV
+10;τοὺς;ὁ;l-p---ma-;ATR
+11;ὀφθαλμοὺς;ὀφθαλμός;n-p---ma-;OBJ
+12;μεγάλους;μέγας;a-p---ma-;ATR
+13;εἶχον;ἔχω;v3piia---;ADV
+14;.;punc;u--------;AuxK

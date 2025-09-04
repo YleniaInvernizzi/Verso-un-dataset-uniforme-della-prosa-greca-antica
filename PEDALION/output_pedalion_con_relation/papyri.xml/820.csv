@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|8848|7|1,1,ἰδέ,ὁράω,v2sama---,ExD
+Leuven|8848|7|2,2,τό,ὁ,l-s---nn-,ATR
+Leuven|8848|7|3,3,ὄν,εἰμί,v-sppann-,SBJ
+Leuven|8848|7|4,4,τί,τίς,p-s---nn-,PNOM
+Leuven|8848|7|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|8848|7|6,6,;,;,u--------,AuxK

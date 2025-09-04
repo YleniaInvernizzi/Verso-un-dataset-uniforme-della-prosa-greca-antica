@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|232|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis|232|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|232|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|232|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|232|5,5,·,·,u--------,AuxK

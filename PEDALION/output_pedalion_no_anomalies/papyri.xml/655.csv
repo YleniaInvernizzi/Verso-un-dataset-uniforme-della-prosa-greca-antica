@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33329|1|1,1,κυρίῳ,κύριος,n-s---md-,OBJ
+1,Leuven|33329|1|2,2,μου,ἐγώ,p1s---cg-,ATR
+2,Leuven|33329|1|3,3,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+3,Leuven|33329|1|4,4,Στρατηγίῳ,Στρατήγιος,n-s---md-,APOS
+4,Leuven|33329|1|5,5,Ἠλίας,Ἠλίας,n-s---mn-,SBJ
+5,Leuven|33329|1|6,6,χαίρειν,χαίρω,v--pna---,OBJ

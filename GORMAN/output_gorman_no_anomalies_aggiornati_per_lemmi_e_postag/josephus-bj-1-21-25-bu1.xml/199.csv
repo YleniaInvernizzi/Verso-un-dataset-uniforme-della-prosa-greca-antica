@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;σιγῶντες;σιγάω;v-pppamn-;ATV
+2;δὲ;δέ;d--------;AuxY
+3;ἀπέθνησκον;ἀποθνῄσκω;v3piia---;PRED
+4;πολλοὶ;πολύς;a-p---mn-;SBJ
+5;καὶ;καί;d--------;AuxZ
+6;μηδὲν;μηδείς;p-s---na-;OBJ
+7;ὑπὲρ;ὑπέρ;r--------;AuxP
+8;τὸ;ὁ;l-s---na-;ATR
+9;συνειδὸς;σύνοιδα;v-srpana-;ADV
+10;εἰπόντες;λέγω;v-papamn-;ADV
+11;:;punc;u--------;AuxK

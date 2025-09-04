@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|360|1,1,τίνος,τίς,p-s---cg-,ATR
+Leuven|Genesis_deel2|360|2,2,εἶ,εἰμί,v2spia---,PRED
+Leuven|Genesis_deel2|360|3,3,θυγάτηρ,θυγάτηρ,n-s---fn-,PNOM
+Leuven|Genesis_deel2|360|4,4,;,;,u--------,AuxK

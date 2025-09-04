@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|248|1,1,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|248|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|248|3,3,θύραν,θύρα,n-s---fa-,OBJ
+Leuven|Genesis|248|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|248|5,5,κιβωτοῦ,κιβωτός,n-s---fg-,ATR
+Leuven|Genesis|248|6,6,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|Genesis|248|7,7,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|248|8,8,πλαγίων,πλάγιος,a-p---mg-,ADV
+Leuven|Genesis|248|9,9,·,·,u--------,AuxK

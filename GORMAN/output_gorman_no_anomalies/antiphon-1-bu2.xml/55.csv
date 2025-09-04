@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τῷ,ὁ,l-s---md-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,πατρὶ,πατήρ,n-s---md-,OBJ
+3,4,τῷ,ὁ,l-s---md-,ATR
+4,5,ἡμετέρῳ,ἡμέτερος,a-s---md-,ATR
+5,6,ἔλασσον,ἐλάσσων,a-s---nac,OBJ
+6,7,ἐνέχει,ἐγχύνω,v3siia---,PRED
+7,8,.,punc1,u--------,AuxK

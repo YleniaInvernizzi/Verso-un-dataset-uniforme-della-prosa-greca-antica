@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1872|2|1,1,σύ,σύ,p2s---cn-,SBJ
+Leuven|1872|2|2,2,μ’,ἐγώ,p1s---ca-,OBJ
+Leuven|1872|2|3,3,ἐξέθρεψας,ἐκτρέφω,v2saia---,PRED_CO
+Leuven|1872|2|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|1872|2|5,5,Αἰγύπτωι,Αἴγυπτος,n-s---fd-,ADV
+Leuven|1872|2|6,6,",",",",u--------,COORD
+Leuven|1872|2|7,7,δύνασαί,δύναμαι,v2spie---,PRED_CO
+Leuven|1872|2|8,8,με,ἐγώ,p1s---ca-,OBJ
+Leuven|1872|2|9,9,καὶ,καί,d--------,AuxZ
+Leuven|1872|2|10,10,ὧδε,ὧδε,d--------,ADV
+Leuven|1872|2|11,11,ἐκθρέψαι,ἐκτρέφω,v--ana---,OBJ
+Leuven|1872|2|12,12,.,.,u--------,AuxK

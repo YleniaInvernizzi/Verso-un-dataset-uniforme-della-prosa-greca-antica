@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;συκῆ;συκῆ;n-s---fn-;SBJ
+2;πετραίη;πετραῖος;a-s---fn-;ATR
+3;πολλὰς;πολύς;a-p---fa-;ATR
+4;βόσκουσα;βόσκω;v-sppafn-;PNOM
+5;κορώνας;κορώνη;n-p---fa-;OBJ
+6;,;punc;u--------;COORD
+7;εὐήθης;εὐήθης;a-s---fn-;ATR
+8;ξείνων;ξένος;n-p---mg-;ATR
+9;δέκτρια;δέκτρια;n-s---fn-;PNOM
+10;Πασιφίλη;Πασιφίλη;n-s---f--;SBJ
+11;.;punc;u--------;AuxK
+12;ἦν;εἰμί;v3siia---;PRED_CO
+13;ἦν;εἰμί;v3siia---;PRED_CO

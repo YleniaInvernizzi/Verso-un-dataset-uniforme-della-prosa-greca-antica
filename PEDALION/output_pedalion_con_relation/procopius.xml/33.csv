@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|34|1,1,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|4029-001|34|2,2,δὲ,δέ,d--------,AuxY
+Leuven|4029-001|34|3,3,τῶν,ὁ,l-p---mg-,ATR
+Leuven|4029-001|34|4,4,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,ATR
+Leuven|4029-001|34|5,5,εἶναι,εἰμί,v--pna---,OBJ
+Leuven|4029-001|34|6,6,στρατηγὸν,στρατηγός,n-s---ma-,PNOM
+Leuven|4029-001|34|7,7,ἔφασαν,φημί,v3piia---,PRED
+Leuven|4029-001|34|8,8,.,.,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|232|1,1,καταλαμβάνει,καταλαμβάνω,v3spia---,PRED
+Leuven|PaeanBrev|232|2,2,τοίνυν,τοίνυν,d--------,AuxY
+Leuven|PaeanBrev|232|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|232|4,4,Ἰταλίαν,Ἰταλία,n-s---fa-,OBJ
+Leuven|PaeanBrev|232|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|232|6,6,Πύρρος,Πύρρος,n-s---mn-,SBJ
+Leuven|PaeanBrev|232|7,7,·,·,u--------,AuxK

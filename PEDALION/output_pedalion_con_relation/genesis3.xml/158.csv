@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|159|1,1,διά,διά,r--------,AuxP
+Leuven|Genesis_deel3|159|2,2,τοῦτο,οὗτος,p-s---na-,ADV
+Leuven|Genesis_deel3|159|3,3,ὄνομα,ὄνομα,n-s---na-,SBJ
+Leuven|Genesis_deel3|159|4,4,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel3|159|5,5,πόλει,πόλις,n-s---fd-,!!!!!!ATR
+Leuven|Genesis_deel3|159|6,6,Φρέαρ,Φρέαρ,n-s---nn-,PNOM
+Leuven|Genesis_deel3|159|7,7,ὅρκου,ὅρκος,n-s---mg-,ATR
+Leuven|Genesis_deel3|159|8,8,ἕως,ἕως,r--------,AuxC
+Leuven|Genesis_deel3|159|9,9,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis_deel3|159|10,10,σήμερον,σήμερον,d--------,ATR
+Leuven|Genesis_deel3|159|11,11,ἡμέρας,ἡμέρα,n-s---fg-,ADV
+Leuven|Genesis_deel3|159|12,12,.,.,u--------,AuxK
+Leuven|Genesis_deel3|159|13,13,[0],,,PRED

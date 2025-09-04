@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0032-002|806|1,1,οὐδένα,οὐδείς,p-s---ma-,OBJ
+1,Leuven|0032-002|806|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|0032-002|806|3,3,οἶδα,οἶδα,v1sria---,PRED
+3,Leuven|0032-002|806|4,4,μισοῦντα,μισέω,v-sppama-,ATR
+4,Leuven|0032-002|806|5,5,τοὺς,ὁ,l-p---ma-,ATR
+5,Leuven|0032-002|806|6,6,ἐπαινοῦντας,ἐπαινέω,v-pppama-,OBJ

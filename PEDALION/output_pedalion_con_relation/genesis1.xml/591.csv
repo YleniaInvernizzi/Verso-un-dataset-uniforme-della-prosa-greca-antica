@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|592|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|592|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|592|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|592|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|592|5,5,πρὸς,πρός,r--------,AuxP
+Leuven|Genesis|592|6,6,Ἀβραάμ,Ἀβραάμ,n-s---ma-,OBJ
+Leuven|Genesis|592|7,7,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-014|39|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|0062-014|39|2,2,ἂν,ἄν,d--------,AuxY
+Leuven|0062-014|39|3,3,τούτων,οὗτος,p-p---ng-,OBJ
+Leuven|0062-014|39|4,4,ἀνάσχοιτο,ἀνέχω,v3saom---,PRED
+Leuven|0062-014|39|5,5,;,;,u--------,AuxK

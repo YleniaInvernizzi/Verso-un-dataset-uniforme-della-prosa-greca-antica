@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|39|1,1,ποῦ,ποῦ,d--------,ADV
+Leuven|Genesis_deel2|39|2,2,εἰσιν,εἰμί,v3ppia---,PRED
+Leuven|Genesis_deel2|39|3,3,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Genesis_deel2|39|4,4,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+Leuven|Genesis_deel2|39|5,5,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Genesis_deel2|39|6,6,εἰσελθόντες,εἰσέρχομαι,v-papamn-,ATR
+Leuven|Genesis_deel2|39|7,7,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|39|8,8,σέ,σύ,p2s---ca-,OBJ
+Leuven|Genesis_deel2|39|9,9,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|39|10,10,νύκτα,νύξ,n-s---fa-,ADV
+Leuven|Genesis_deel2|39|11,11,;,;,u--------,AuxK

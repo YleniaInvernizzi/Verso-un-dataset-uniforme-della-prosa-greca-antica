@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,βασιλεὺς,βασιλεύς,n-s---mn-,ATR
+2,Ἀντίοχος,Ἀντίοχος,n-s---mn-,SBJ
+3,Φανίᾳ,Φανιας,n-s---md-,OBJ
+4,.,punc1,u--------,AuxK
+5,[0],,,PRED

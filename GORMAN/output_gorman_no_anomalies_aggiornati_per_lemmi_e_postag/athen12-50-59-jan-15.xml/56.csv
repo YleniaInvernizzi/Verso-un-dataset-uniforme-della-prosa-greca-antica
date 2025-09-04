@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τῆς;ὁ;l-s---fg-;ATR
+2;δ᾽;δέ;d--------;AuxY
+3;αὐλῆς;αὐλή;n-s---fg-;ATR
+4;ἦν;εἰμί;v3siia---;PRED
+5;τὸ;ὁ;l-s---nn-;ATR
+6;περίμετρον;περίμετρος;n-s---mn-;SBJ
+7;στάδιοι;στάδιος;n-p---mn-;PNOM
+8;τέσσαρες;τέσσαρες;n-p---mn-;ATR
+9;.;punc;u--------;AuxK

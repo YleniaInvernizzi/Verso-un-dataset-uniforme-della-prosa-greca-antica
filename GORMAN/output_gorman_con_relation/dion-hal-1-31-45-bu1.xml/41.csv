@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἣν,ὅς,p-s---fa-,SBJ
+2,δὴ,δή,d--------,AuxY
+3,πρώτην,πρότερος,a-s---fa-,ATV
+4,κληθῆναι,καλέω,v--anp---,PRED
+5,Ἰταλίαν,Ἰταλία,n-s---fa-,PNOM
+6,ἐπὶ,ἐπί,r--------,AuxP
+7,τοῦ,ὁ,l-s---mg-,ATR
+8,Ἰταλοῦ,ἰταλός,n-s---mg-,ADV
+9,.,punc1,u--------,AuxK

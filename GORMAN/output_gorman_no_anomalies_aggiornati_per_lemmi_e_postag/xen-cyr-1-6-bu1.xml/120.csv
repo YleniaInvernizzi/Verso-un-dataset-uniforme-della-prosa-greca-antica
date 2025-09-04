@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;καθʼ;κατά;r--------;AuxP
+2;ἓν;εἷς;n-s---na-;ADV
+3;δʼ;δέ;d--------;AuxY
+4;ἕκαστον;ἕκαστος;a-s---na-;OBJ
+5;σκοπῶν;σκοπέω;v-sppamn-;ADV
+6;γνώσῃ;γιγνώσκω;v2sfim---;PRED
+7;ὅτι;ὅτι;c--------;AuxC
+8;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+9;ἀληθῆ;ἀληθής;a-p---na-;OBJ
+10;λέγω;λέγω;v1spia---;OBJ
+11;.;punc;u--------;AuxK

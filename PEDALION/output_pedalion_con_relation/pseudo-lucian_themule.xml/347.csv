@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|348|1,1,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+Leuven|Ps-Luc|348|2,2,ἔγνωσαν,γιγνώσκω,v3paia---,PRED
+Leuven|Ps-Luc|348|3,3,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Ps-Luc|348|4,4,ἄγοντες,ἄγω,v-pppamn-,SBJ
+Leuven|Ps-Luc|348|5,5,ἡμᾶς,ἐγώ,p1p---ca-,OBJ_CO
+Leuven|Ps-Luc|348|6,6,ἱδρῦσαι,ἱδρύω,v--ana---,OBJ
+Leuven|Ps-Luc|348|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|348|8,8,ἑαυτούς,ἑαυτοῦ,p-p---ma-,OBJ_CO
+Leuven|Ps-Luc|348|9,9,.,.,u--------,AuxK

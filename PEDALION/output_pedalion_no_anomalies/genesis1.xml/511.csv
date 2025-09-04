@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|512|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis|512|2,2,φοβοῦ,φοβέω,v2spme---,PRED
+3,Leuven|Genesis|512|4,4,Αβραμ,Αβραμ,n-s---mv-,ExD
+4,Leuven|Genesis|512|5,5,·,·,u--------,AuxK

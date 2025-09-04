@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,λαμβάνει,λαμβάνω,v3spia---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,ταύτην,οὗτος,a-s---fa_,ATR
+4,τὴν,ὁ,l-s---fa-,ATR
+5,ὑπόθεσιν,ὑπόθεσις,n-s---fa-,OBJ
+6,ὁ,ὁ,l-s---mn-,ATR
+7,Σωκράτης,Σωκράτης,n-s---mn-,SBJ
+8,.,punc1,u--------,AuxK

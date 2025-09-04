@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|144|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|144|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+Leuven|Genesis|144|3,3,Αβελ,Αβελ,n-s---mn-,SBJ
+Leuven|Genesis|144|4,4,ποιμήν,ποιμήν,n-s---mn-,SBJ
+Leuven|Genesis|144|5,5,προβάτων,πρόβατον,n-p---ng-,ATR
+Leuven|Genesis|144|6,6,",",",",u--------,AuxX
+Leuven|Genesis|144|7,7,Καιν,Καιν,n-s---mn-,SBJ
+Leuven|Genesis|144|8,8,δέ,δέ,b--------,COORD
+Leuven|Genesis|144|9,9,ἦν,εἰμί,v3siia---,PRED_CO
+Leuven|Genesis|144|10,10,ἐργαζόμενος,ἐργάζομαι,v-sppemn-,PNOM
+Leuven|Genesis|144|11,11,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|144|12,12,γῆν,γῆ,n-s---fa-,OBJ
+Leuven|Genesis|144|13,13,.,.,u--------,AuxK

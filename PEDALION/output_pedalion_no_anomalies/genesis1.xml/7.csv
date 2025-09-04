@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|8|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|8|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED_CO
+2,Leuven|Genesis|8|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|8|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|Genesis|8|5,5,τό,ὁ,l-s---na-,ATR
+5,Leuven|Genesis|8|6,6,φῶς,φῶς,n-s---na-,OBJ
+6,Leuven|Genesis|8|7,7,ἡμέραν,ἡμέρα,n-s---fa-,OCOMP
+7,Leuven|Genesis|8|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|8|9,9,τό,ὁ,l-s---na-,ATR
+9,Leuven|Genesis|8|10,10,σκότος,σκότος,n-s---na-,OBJ
+10,Leuven|Genesis|8|11,11,ἐκάλεσεν,καλέω,v3saia---,PRED_CO
+11,Leuven|Genesis|8|12,12,νύκτα,νύξ,n-s---fa-,OCOMP

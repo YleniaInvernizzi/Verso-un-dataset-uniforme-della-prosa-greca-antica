@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τοῦτο,οὗτος,p-s---nn-,SBJ
+1,2,αὐτοῖς,αὐτός,p-p---md-,ADV
+2,3,ἄξιον,ἄξιος,a-s---nn-,PNOM
+3,4,μέμφεσθαι,μέμφομαι,v--pne---,ADV
+4,5,.,punc1,u--------,AuxK
+5,6,ἐστιν,εἰμί,v3spia---,PRED

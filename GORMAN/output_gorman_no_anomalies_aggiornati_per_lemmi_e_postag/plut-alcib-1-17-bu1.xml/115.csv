@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦν;εἰμί;v3siia---;PRED
+2;γάρ;γάρ;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;ὡς;ὡς;c--------;AuxC
+5;Εὔπολίς;Εὔπολις;n-s---fn-;SBJ
+6;φησι;φημί;v3spia---;ADV
+7;,;punc;u--------;AuxX
+8;λαλεῖν;λαλέω;v--pna---;ADV
+9;ἄριστος;ἀγαθός;a-s---mns;PNOM_CO
+10;,;punc;u--------;COORD
+11;ἀδυνατώτατος;ἀδύνατος;a-s---mns;PNOM_CO
+12;λέγειν;λέγω;v--pna---;ADV
+13;.;punc;u--------;AuxK

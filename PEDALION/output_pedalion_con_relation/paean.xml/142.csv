@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|143|1,1,κατεκρίθη,κατακρίνω,v3saip---,PRED_CO
+Leuven|PaeanBrev|143|2,2,τε,τε,c--------,AuxY
+Leuven|PaeanBrev|143|3,3,καί,καί,b--------,COORD
+Leuven|PaeanBrev|143|4,4,ἀπεώσθη,ἀπωθέω,v3saip---,PRED_CO
+Leuven|PaeanBrev|143|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|143|6,6,Ῥώμης,Ῥώμη,n-s---fg-,OBJ
+Leuven|PaeanBrev|143|7,7,.,.,u--------,AuxK

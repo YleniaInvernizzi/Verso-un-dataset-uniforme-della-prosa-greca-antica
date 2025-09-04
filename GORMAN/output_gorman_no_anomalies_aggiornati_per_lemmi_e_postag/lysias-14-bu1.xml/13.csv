@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀνάγνωθί;ἀναγιγνώσκω;v2sama---;PRED
+2;μοι;ἐγώ;p1s---md-;ADV
+3;τὸν;ὁ;l-s---ma-;ATR
+4;νόμον;νόμος;n-s---ma-;OBJ
+5;.;punc;u--------;AuxK

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτά,οὗτος,p-p---na-,OBJ
+2,κῃ,πη,d--------,ADV
+3,λέγοντες,λέγω3,v-pppamn-,ADV
+4,πείθουσι,πείθω,v3ppia---,PRED
+5,ἑωυτοὺς,ἑαυτοῦ,p-p---ma-,SBJ
+6,βασιλεύεσθαι,βασιλεύω,v--pne---,OBJ
+7,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27172|4|1,1,ὅτε,ὅτε,c--------,AuxC
+1,Leuven|27172|4|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|27172|4|3,3,ἄρτι,ἄρτι,d--------,ADV
+3,Leuven|27172|4|4,4,ἔγραφον,γράφω,v1siia---,ADV
+4,Leuven|27172|4|5,5,σοι,σύ,p2s---cd-,OBJ
+6,Leuven|27172|4|7,7,οὐκ,οὐ,d--------,AuxZ
+7,Leuven|27172|4|8,8,ἦν,εἰμί,v1siia---,PRED
+8,Leuven|27172|4|9,9,ἐν,ἐν,r--------,AuxP
+9,Leuven|27172|4|10,10,Κόπτῳ,Κόπτος,n-s---md-,PNOM

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30293|3|1,1,ἐὰν,ἐάν,c--------,AuxC
+1,Leuven|30293|3|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|30293|3|3,3,ἐπʼ,ἐπί,r--------,AuxP
+3,Leuven|30293|3|4,4,ἀγαθῷ,ἀγαθός,a-s---nd-,ADV
+4,Leuven|30293|3|5,5,ἀπαλλαγῇ,ἀπαλλάσσω,v3sasp---,ADV
+5,Leuven|30293|3|6,6,δηλώσω,δηλόω,v1sfia---,ADV
+6,Leuven|30293|3|7,7,σοι,σύ,p2s---cd-,OBJ
+7,Leuven|30293|3|8,8,τὸ,ὁ,l-s---na-,ATR
+8,Leuven|30293|3|9,9,συνβεβηκός,συμβαίνω,v-srpana-,OBJ

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;κλίμακας;κλῖμαξ;n-p---fa-;OBJ
+2;ἐποιήσαντο;ποιέω;v3paim---;PRED
+3;ἴσας;ἴσος;a-p---fa-;ATR
+4;τῷ;ὁ;l-s---nd-;ATR
+5;τείχει;τεῖχος;n-s---nd-;ADV
+6;τῶν;ὁ;l-p---mg-;ATR
+7;πολεμίων;πολέμιος;n-p---mg-;ATR
+8;:;punc;u--------;AuxK

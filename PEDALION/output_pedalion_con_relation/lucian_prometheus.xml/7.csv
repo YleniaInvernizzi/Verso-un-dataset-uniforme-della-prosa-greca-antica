@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|9|1,1,ἀλλ’,ἀλλά,d--------,AuxY
+Leuven|0062-020|9|2,2,ὄρεγε,ὀρέγω,v2spma---,PRED
+Leuven|0062-020|9|3,3,τὴν,ὁ,l-s---fa-,ATR
+Leuven|0062-020|9|4,4,δεξιάν,δεξιά,n-s---fa-,OBJ
+Leuven|0062-020|9|5,5,·,·,u--------,AuxK

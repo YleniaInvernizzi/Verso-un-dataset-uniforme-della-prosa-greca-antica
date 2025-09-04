@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ὥστε;ὥστε;d--------;AuxY
+2;ἐκ;ἐκ;r--------;AuxP
+3;τῆς;ὁ;l-s---fg-;OBJ
+4;εὐθενούσης;εὐθενέω;v-sppafg-;ADV
+5;ἀφικνεῖται;ἀφικνέομαι;v3spie---;PRED
+6;τοῖς;ὁ;l-p---md-;OBJ
+7;τῆς;ὁ;l-s---fg-;OBJ
+8;θαλάττης;θάλασσα;n-s---fg-;OBJ
+9;ἄρχουσιν;ἄρχω;v-pppamd-;OBJ
+10;.;punc;u--------;AuxK

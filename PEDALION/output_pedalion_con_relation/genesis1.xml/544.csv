@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|545|1,1,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|545|2,2,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|545|3,3,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+Leuven|Genesis|545|4,4,ἐκείνῃ,ἐκεῖνος,p-s---fd-,ATR
+Leuven|Genesis|545|5,5,διέθετο,διατίθημι,v3saim---,PRED
+Leuven|Genesis|545|6,6,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|545|7,7,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|545|8,8,Αβραμ,Αβραμ,n-s---md-,ATR
+Leuven|Genesis|545|9,9,διαθήκην,διαθήκη,n-s---fa-,OBJ
+Leuven|Genesis|545|10,10,λέγων,λέγω,v-sppamn-,ADV
+Leuven|Genesis|545|11,11,·,·,u--------,AuxK

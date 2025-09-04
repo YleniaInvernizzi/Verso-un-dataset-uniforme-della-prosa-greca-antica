@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀκούσαντες,ἀκούω,v-papamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ταῦτα,οὗτος,p-p---na-,OBJ
+4,οἱ,ὁ,l-p---mn-,ATR
+5,Θηβαῖοι,Θηβαῖος,n-p---mn-,SBJ_AP
+6,",",punc1,u--------,APOS
+7,δρόμῳ,δρόμος,n-s---md-,ADV
+8,ἐβοήθουν,βοηθέω,v3piia---,PRED
+9,οἵ,ὁ,l-p---mn-,ATR
+10,τε,τε,d--------,AuxY
+11,ὁπλῖται,ὁπλίτης,n-p---mn-,SBJ_AP_CO
+12,καὶ,καί,c--------,COORD
+13,οἱ,ὁ,l-p---mn-,ATR
+14,ἱππεῖς,ἱππεύς,n-p---mn-,SBJ_AP_CO
+15,.,punc1,u--------,AuxK

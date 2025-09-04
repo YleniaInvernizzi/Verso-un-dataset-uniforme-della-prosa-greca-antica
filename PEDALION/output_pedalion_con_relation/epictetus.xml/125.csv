@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|126|1,1,πόνος,πόνος,n-s---mn-,OBJ_CO
+Leuven|0557-001|126|2,2,ἤ,ἤ,c--------,COORD
+Leuven|0557-001|126|3,3,ἡδονή,ἡδονή,n-s---fn-,OBJ_CO
+Leuven|0557-001|126|4,4,;,;,u--------,AuxK
+Leuven|0557-001|126|5,5,[0],,,PRED

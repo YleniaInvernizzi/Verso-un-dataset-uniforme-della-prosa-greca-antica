@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἑκάστῳ;ἕκαστος;a-s---nd-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;γένει;γένος;n-s---nd-;ADV
+4;ἁρμόζοντα;ἁρμόζω;v-pppana-;PNOM
+5;δεῖν;δέω;v--pna---;OBJ
+6;εἶναι;εἰμί;v--pna---;SBJ
+7;καὶ;καί;d--------;AuxZ
+8;τὰ;ὁ;l-p---na-;SBJ
+9;τῆς;ὁ;l-s---fg-;ATR
+10;τέχνης;τέχνη;n-s---fg-;ATR
+11;.;punc;u--------;AuxK

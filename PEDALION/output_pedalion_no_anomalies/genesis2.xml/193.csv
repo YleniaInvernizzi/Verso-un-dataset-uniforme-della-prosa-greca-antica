@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|194|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|194|2,2,εἶπεν,λέγω,v3saia---,PRED
+2,Leuven|Genesis_deel2|194|3,3,Αβιμελεχ,Αβιμελεχ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|194|4,4,τῷ,ὁ,l-s---md-,ATR
+4,Leuven|Genesis_deel2|194|5,5,Ἀβραάμ,Ἀβραάμ,n-s---md-,OBJ

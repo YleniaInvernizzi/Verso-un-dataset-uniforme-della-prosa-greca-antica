@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,δῆμος,δῆμος,n-s---mn-,SBJ
+3,ὁ,ὁ,l-s---mn-,ATR
+4,τῶν,ὁ,l-p---mg-,ATR
+5,Αἰτωλῶν,Αἰτωλοί,n-p---mg-,ATR
+6,τὴν,ὁ,l-s---fa-,ATR
+7,ἀρχὴν,ἀρχή,n-s---fa-,OBJ_CO
+8,καὶ,καί,c--------,COORD
+9,τὴν,ὁ,l-s---fa-,ATR
+10,δυναστείαν,δυναστεία,n-s---fa-,OBJ_CO
+11,τοῦ,ὁ,l-s---mg-,ATR
+12,δήμου,δῆμος,n-s---mg-,ATR
+13,τῶν,ὁ,l-p---mg-,ATR
+14,Ῥωμαίων,Ῥωμαῖος,n-p---mg-,ATR
+15,...,punc1,u--------,AuxK
+16,[0],,,PRED

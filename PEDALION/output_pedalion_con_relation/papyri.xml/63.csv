@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1781|13|1,1,σὺ,σύ,p2s---cn-,SBJ
+Leuven|1781|13|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|1781|13|3,3,καλῶς,καλός,d--------,ADV
+Leuven|1781|13|4,4,ἂν,ἄν,d--------,AuxY
+Leuven|1781|13|5,5,ποιήσαις,ποιέω,v2saoa---,PRED
+Leuven|1781|13|6,6,ἐπιστροφήν,ἐπιστροφή,n-s---fa-,OBJ
+Leuven|1781|13|7,7,μου,ἐγώ,p1s---cg-,ATR
+Leuven|1781|13|8,8,ποιησάμενος,ποιέω,v-sapmmn-,ADV
+Leuven|1781|13|9,9,.,.,u--------,AuxK

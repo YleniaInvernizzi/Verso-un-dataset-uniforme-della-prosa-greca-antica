@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|235|1,1,ἐπτέρνικεν,πτερνίζω,v3sria---,PRED
+1,Leuven|Genesis_deel3|235|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Genesis_deel3|235|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|Genesis_deel3|235|4,4,ἤδη,ἤδη,d--------,ADV
+4,Leuven|Genesis_deel3|235|5,5,δεύτερον,δεύτερος,a-s---na-,ADV
+5,Leuven|Genesis_deel3|235|6,6,τοῦτο,οὗτος,p-s---na-,ADV

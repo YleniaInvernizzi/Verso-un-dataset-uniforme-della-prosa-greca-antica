@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|233|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|233|2,2,τοῦτον,οὗτος,p-s---ma-,ATR
+Leuven|PaeanBrev|233|3,3,πρῶτον,πρῶτος,a-s---ma-,ATR
+Leuven|PaeanBrev|233|4,4,πόλεμον,πόλεμος,n-s---ma-,OBJ
+Leuven|PaeanBrev|233|5,5,ἐπολέμησαν,πολεμέω,v3paia---,PRED
+Leuven|PaeanBrev|233|6,6,Ῥωμαῖοι,Ῥωμαῖος,a-p---mn-,SBJ
+Leuven|PaeanBrev|233|7,7,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|233|8,8,στρατιάν,στρατιά,n-s---fa-,ADV
+Leuven|PaeanBrev|233|9,9,ἐξ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|233|10,10,ὑπερορίων,ὑπερόριος,a-p---ng-,ADV
+Leuven|PaeanBrev|233|11,11,ἥκουσαν,ἥκω,v-sppafa-,ATR
+Leuven|PaeanBrev|233|12,12,.,.,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|542|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|0032-002|542|2,2,δ’,δέ,d--------,AuxY
+Leuven|0032-002|542|3,3,ἂν,ἄν,d--------,AuxY
+Leuven|0032-002|542|4,4,δεομένῃ,δέω,v-sppefd-,ADV
+Leuven|0032-002|542|5,5,τινὸς,τις,p-s---ng-,OBJ
+Leuven|0032-002|542|6,6,ἐπαρκέσειεν,ἐπαρκέω,v3saoa---,PRED
+Leuven|0032-002|542|7,7,;,;,u--------,AuxK

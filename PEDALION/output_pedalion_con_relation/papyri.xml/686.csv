@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|34381|1|1,1,τῷ,ὁ,l-s---md-,ATR
+Leuven|34381|1|2,2,κυρίῳ,κύριος,n-s---md-,OBJ
+Leuven|34381|1|3,3,μου,ἐγώ,p1s---cg-,ATR
+Leuven|34381|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,APOS
+Leuven|34381|1|5,5,Χρήστῳ,Χρῆστος,n-s---md-,APOS
+Leuven|34381|1|6,6,Σαραπίων,Σαραπίων,n-s---mn-,SBJ
+Leuven|34381|1|7,7,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|34381|1|8,8,.,.,u--------,AuxK
+Leuven|34381|1|9,9,[0],,---------,PRED

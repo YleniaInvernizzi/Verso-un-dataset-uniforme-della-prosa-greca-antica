@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|271|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|271|2,2,τά,ὁ,l-p---nn-,ATR
+2,Leuven|Genesis|271|3,3,εἰσπορευόμενα,εἰσπορεύω,v-pppenn-,SBJ
+3,Leuven|Genesis|271|4,4,ἄρσεν,ἄρσην,a-s---na-,APOS_CO
+4,Leuven|Genesis|271|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis|271|6,6,θῆλυ,θῆλυς,a-s---na-,APOS_CO
+6,Leuven|Genesis|271|7,7,ἀπό,ἀπό,r--------,AuxP
+7,Leuven|Genesis|271|8,8,πάσης,πᾶς,a-s---fg-,ATR
+8,Leuven|Genesis|271|9,9,σαρκός,σάρξ,n-s---fg-,ATR
+9,Leuven|Genesis|271|10,10,εἰσῆλθεν,εἰσέρχομαι,v3saia---,PRED
+11,Leuven|Genesis|271|12,12,καθά,καθά,c--------,AuxC
+12,Leuven|Genesis|271|13,13,ἐνετείλατο,ἐντέλλομαι,v3saim---,ADV
+13,Leuven|Genesis|271|14,14,ὁ,ὁ,l-s---mn-,ATR
+14,Leuven|Genesis|271|15,15,θεός,θεός,n-s---mn-,SBJ
+15,Leuven|Genesis|271|16,16,τῷ,ὁ,l-s---md-,ATR
+16,Leuven|Genesis|271|17,17,Νωε,Νωε,n-s---md-,OBJ

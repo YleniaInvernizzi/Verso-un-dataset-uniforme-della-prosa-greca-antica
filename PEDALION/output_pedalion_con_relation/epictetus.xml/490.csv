@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|491|1,1,κακόν,κακός,a-s---na-,ATR
+Leuven|0557-001|491|2,2,δέ,δέ,d--------,AuxY
+Leuven|0557-001|491|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|0557-001|491|4,4,οὐθέν,οὐδείς,p-s---nn-,SBJ
+Leuven|0557-001|491|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|0557-001|491|6,6,.,.,u--------,AuxK

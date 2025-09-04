@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,συμβέβηκεν,συμβαίνω,v3sria---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τοιοῦτόν,τοιοῦτος,a-s---nn_,ATR
+4,τι,τις,p-s---nn-,SBJ
+5,·,·,u--------,AuxK

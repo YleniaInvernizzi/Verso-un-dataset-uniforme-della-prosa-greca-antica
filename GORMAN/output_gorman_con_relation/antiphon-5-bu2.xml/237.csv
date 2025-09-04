@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,τῷ,ὁ,l-s---md-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,ποιήσαντι,ποιέω,v-sapamd-,ADV
+4,ῥᾳδία,ῥᾴδιος,a-s---fn-,PNOM
+5,ἐστὶν,εἰμί,v3spia---,PRED_CO
+6,ἡ,ὁ,l-s---fn-,ATR
+7,ἀπόδειξις,ἀπόδειξις,n-s---fn-,SBJ
+8,",",punc1,u--------,AuxX
+9,καὶ,καί,c--------,COORD
+10,μὴ,μή,d--------,AuxZ
+11,ἀποδείξαντι,ἀποδείκνυμι,v-sapamd-,ADV
+12,εὖ,εὖ,d--------,ADV
+13,εἰκάσαι,εἰκάζω,v3saoa---,PRED_CO
+14,.,punc1,u--------,AuxK

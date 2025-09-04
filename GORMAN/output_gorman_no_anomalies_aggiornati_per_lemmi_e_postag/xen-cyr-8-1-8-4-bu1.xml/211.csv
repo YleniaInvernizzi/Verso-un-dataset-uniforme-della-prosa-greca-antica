@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;πάντα;πᾶς;a-p---na-;OBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;τὰ;ὁ;l-p---na-;ATR
+4;ἐν;ἐν;r--------;AuxP
+5;ταῖς;ὁ;l-p---fd-;ATR
+6;πόλεσι;πόλις;n-p---fd-;ATR
+7;φυλάττουσιν;φυλάσσω;v3ppia---;PRED
+8;·;punc;u--------;AuxK

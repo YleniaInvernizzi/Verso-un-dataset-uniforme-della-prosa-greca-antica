@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀπικομένους,ἀφικνέομαι,v-papmma-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,εἴρετο,ἔρομαι,v3siie---,PRED
+4,ὁ,ὁ,l-s---mn-,ATR
+5,Ἀστυάγης,Ἀστυάγης,n-s---mn-,SBJ
+6,τῇ,ὅς,p-s---fd-,ADV
+7,ἔκρινάν,κρίνω,v3paia---,OBJ
+8,οἱ,ἕ,p-s---md-,OBJ
+9,τὴν,ὁ,l-s---fa-,ATR
+10,ὄψιν,ὄψις,n-s---fa-,OBJ
+11,.,punc1,u--------,AuxK

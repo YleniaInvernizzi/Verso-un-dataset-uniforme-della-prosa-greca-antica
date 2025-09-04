@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τὸ,ὁ,l-s---nn-,ATR
+3,πλῆθος,πλῆθος,n-s---nn-,SBJ
+4,ἐψηφίσαντο,ψηφίζω,v3paim---,PRED
+5,πολεμεῖν,πολεμέω,v--pna---,OBJ
+6,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|33597|3|1,1,καί,καί,d--------,AuxY
+Leuven|33597|3|2,2,πέμψον,πέμπω,v2sama---,PRED
+Leuven|33597|3|3,3,ἐμοί,ἐγώ,p1s---cd-,OBJ
+Leuven|33597|3|4,4,περί,περί,r--------,AuxP
+Leuven|33597|3|5,5,εἴ,εἰ,c--------,AuxC
+Leuven|33597|3|6,6,τινος,τις,p-s---cg-,ATR
+Leuven|33597|3|7,7,χρείαν,χρεία,n-s---fa-,OBJ
+Leuven|33597|3|8,8,ἔχετε,ἔχω,v2ppia---,ADV
+Leuven|33597|3|9,9,.,.,u--------,AuxK

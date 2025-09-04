@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,θανάτου,θάνατος,n-s---mg-,OBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,κρίνει,κρίνω,v3spia---,PRED
+3,4,μόνος,μόνος,a-s---mn-,AtvV
+4,5,.,punc1,u--------,AuxK

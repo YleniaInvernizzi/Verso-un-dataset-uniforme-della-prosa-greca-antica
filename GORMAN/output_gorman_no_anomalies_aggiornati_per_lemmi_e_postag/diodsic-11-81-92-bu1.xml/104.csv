@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀγαθὴν;ἀγαθός;a-s---fa-;ATR
+2;δʼ;δέ;d--------;AuxY
+3;ἔχοντες;ἔχω;v-pppamn-;ADV
+4;χώραν;χώρα;n-s---fa-;OBJ
+5;ταχὺ;ταχύς;a-s---na-;ADV
+6;ταῖς;ὁ;l-p---fd-;ATR
+7;οὐσίαις;οὐσία;n-p---fd-;ADV
+8;προσανέβησαν;προσαναβαίνω;v3paia---;PRED
+9;.;punc;u--------;AuxK

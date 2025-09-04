@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|20|1,1,ἀσπάζου,ἀσπάζομαι,v2spme---,PRED
+Leuven|30514|20|2,2,Πεηοῦν,Πεηοῦς,n-s---ma-,OBJ_CO
+Leuven|30514|20|3,3,καί,καί,b--------,COORD
+Leuven|30514|20|4,4,Πεμέν,Πεμεν,n-s---m--,OBJ_CO
+Leuven|30514|20|5,5,.,.,u--------,AuxK

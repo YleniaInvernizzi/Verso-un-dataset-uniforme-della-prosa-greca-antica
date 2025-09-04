@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐκ,οὐ,d--------,AuxZ
+2,ἔστ᾽,εἰμί,v3spia---,PRED_CO
+3,οὐδὲ,οὐδέ,d--------,AuxY
+4,εἷς,εἷς,a-s---mn-,ATR
+5,ἀκκισμὸς,ἀκκισμός,n-s---mn-,SBJ_CO
+6,οὐδὲ,οὐδέ,c--------,COORD
+7,λῆρος,λῆρος,n-s---mn-,SBJ_CO
+8,",",punc1,u--------,AuxX
+9,οὐδ᾽,οὐδέ,c--------,COORD
+10,ὑφήρπασεν,ὑφαρπάζω,v3saia---,PRED_CO
+11,:,punc1,u--------,AuxK

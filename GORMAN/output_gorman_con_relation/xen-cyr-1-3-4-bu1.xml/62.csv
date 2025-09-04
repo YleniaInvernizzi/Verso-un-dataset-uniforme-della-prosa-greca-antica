@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδέποτε,οὐδέποτε,d--------,ADV
+2,γοῦν,γοῦν,d--------,AuxY
+3,ἐσιωπᾶτε,σιωπάω,v2piia---,PRED
+4,.,punc1,u--------,AuxK

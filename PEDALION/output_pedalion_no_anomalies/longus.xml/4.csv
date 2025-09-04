@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0561-001|5|1,1,ὄρη,ὄρος,n-p---nn-,SBJ_CO
+1,Leuven|0561-001|5|2,2,θηροτρόφα,θηροτρόφος,a-p---nn-,ATR
+3,Leuven|0561-001|5|4,4,πεδία,πεδίον,n-p---nn-,SBJ_CO
+4,Leuven|0561-001|5|5,5,πυροφόρα,πυροφόρος,a-p---nn-,ATR

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,εἶτα,εἶτα,d--------,AuxY
+2,τῶν,ὁ,l-p---mg-,ATR
+3,πρότερον,πρότερος,a-s---na-,PNOM
+4,γεγενημένων,γίγνομαι,v-prpemg-,ATR
+5,ἀγαθῶν,ἀγαθός,a-p---mg-,ATR
+6,ἀνδρῶν,ἀνήρ,n-p---mg-,OBJ
+7,μέμνησαι,μιμνήσκω,v2srie---,PRED
+8,.,punc1,u--------,AuxK

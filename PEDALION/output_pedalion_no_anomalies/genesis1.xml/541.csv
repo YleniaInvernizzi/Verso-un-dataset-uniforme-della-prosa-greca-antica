@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|542|1,1,τετάρτη,τέταρτος,a-s---fn-,ATR
+1,Leuven|Genesis|542|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|542|3,3,γενεά,γενεά,n-s---fn-,SBJ
+3,Leuven|Genesis|542|4,4,ἀποστραφήσονται,ἀποστρέφω,v3pfip---,PRED
+4,Leuven|Genesis|542|5,5,ὧδε,ὧδε,d--------,ADV
+5,Leuven|Genesis|542|6,6,·,·,u--------,AuxK

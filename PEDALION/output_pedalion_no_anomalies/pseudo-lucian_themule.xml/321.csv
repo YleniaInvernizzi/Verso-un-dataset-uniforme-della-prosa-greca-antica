@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|322|1,1,οὐδὲ,οὐδέ,d--------,AuxZ
+1,Leuven|Ps-Luc|322|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|322|3,3,ἔτι,ἔτι,d--------,ADV
+3,Leuven|Ps-Luc|322|4,4,με,ἐγώ,p1s---ca-,SBJ
+4,Leuven|Ps-Luc|322|5,5,ἀνάψαι,ἀνάπτω,v--ana---,SBJ
+5,Leuven|Ps-Luc|322|6,6,τῶι,ὁ,l-s---md-,ATR
+6,Leuven|Ps-Luc|322|7,7,παιδὶ,παῖς,n-s---cd-,ADV
+7,Leuven|Ps-Luc|322|8,8,δυνατὸν,δυνατός,a-s---nn-,PNOM
+8,Leuven|Ps-Luc|322|9,9,ἦν,εἰμί,v3siia---,SBJ
+9,Leuven|Ps-Luc|322|10,10,τοῦ,ὁ,l-s---ng-,ATR
+10,Leuven|Ps-Luc|322|11,11,στυππείου,στυππεῖον,n-s---ng-,SBJ
+11,Leuven|Ps-Luc|322|12,12,πηλῶι,πηλός,n-s---md-,OBJ
+12,Leuven|Ps-Luc|322|13,13,ὑγρῶι,ὑγρός,a-s---md-,ATR
+13,Leuven|Ps-Luc|322|14,14,πεφυρμένου,φύρω,v-srpemg-,ADV

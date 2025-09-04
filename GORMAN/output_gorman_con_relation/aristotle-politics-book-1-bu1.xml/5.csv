@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,δῆλον,δῆλος,a-s---nn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,ἔσται,εἰμί,v3sfim---,PRED
+4,τὸ,ὁ,l-s---nn-,ATR
+5,λεγόμενον,λέγω3,v-sppenn-,SBJ
+6,ἐπισκοποῦσι,ἐπισκοπέω,v-pppamd-,ADV
+7,κατὰ,κατά,r--------,AuxP
+8,τὴν,ὁ,l-s---fa-,ATR
+9,ὑφηγημένην,ὑφηγέομαι,v-srpefa-,ATR
+10,μέθοδον,μέθοδος,n-s---fa-,ADV
+11,.,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|407|1,1,"""","""",u--------,AuxG
+Leuven|0093-009|407|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0093-009|407|3,3,δεῖνα,δεῖνα,p-s---mn-,SBJ
+Leuven|0093-009|407|4,4,τίς,τίς,p-s---cn-,PNOM
+Leuven|0093-009|407|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|0093-009|407|6,6,"""","""",u--------,AuxG
+Leuven|0093-009|407|7,7,;,;,u--------,AuxK

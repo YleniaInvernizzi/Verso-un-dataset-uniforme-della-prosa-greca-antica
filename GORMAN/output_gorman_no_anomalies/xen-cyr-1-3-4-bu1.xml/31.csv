@@ -1,0 +1,12 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νὴ,νή,r--------,AuxP
+1,2,Δία,Ζεύς,n-s---ma-,ExD
+2,3,",",punc1,u--------,AuxX
+3,4,φάναι,φημί,v--pna---,PRED
+4,5,",",punc1,u--------,AuxX
+5,6,ὦ,ὦ,i--------,AuxZ
+6,7,παῖ,παῖς,n-s---mv-,ExD
+7,8,",",punc1,u--------,AuxX
+8,9,ἔγωγέ,ἐγώ,p1s---mn-,SBJ
+9,10,σοι,σοι,p2s---md-,OBJ
+10,11,.,punc1,u--------,AuxK

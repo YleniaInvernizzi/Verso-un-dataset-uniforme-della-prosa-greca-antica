@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|164|1,1,ἀλλ’,ἀλλά,c--------,AuxY
+1,Leuven|Ps-Luc|164|2,2,ἐπειδὴ,ἐπειδή,c--------,AuxC
+2,Leuven|Ps-Luc|164|3,3,οὔπω,οὔπω,d--------,AuxZ
+3,Leuven|Ps-Luc|164|4,4,τότε,τότε,d--------,ADV
+4,Leuven|Ps-Luc|164|5,5,κριθὰς,κριθή,n-p---fa-,OBJ
+5,Leuven|Ps-Luc|164|6,6,ὠμὰς,ὠμός,a-p---fa-,ATR
+6,Leuven|Ps-Luc|164|7,7,ἠριστήκειν,ἀριστάω,v1slia---,ADV
+8,Leuven|Ps-Luc|164|9,9,ἐσκοπούμην,σκοπέω,v1siie---,PRED
+9,Leuven|Ps-Luc|164|10,10,ὅ,ὅς,p-s---na-,OBJ
+10,Leuven|Ps-Luc|164|11,11,τι,τις,p-s---na-,ATR
+11,Leuven|Ps-Luc|164|12,12,καὶ,καί,d--------,AuxZ
+12,Leuven|Ps-Luc|164|13,13,καταφάγοιμι,κατεσθίω,v1saoa---,OBJ

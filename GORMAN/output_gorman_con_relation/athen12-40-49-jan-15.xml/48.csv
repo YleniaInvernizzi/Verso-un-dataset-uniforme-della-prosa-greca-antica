@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---mg-,OBJ
+2,ἡγεῖτο,ἡγέομαι,v3siim---,PRED
+3,μὲν,μέν,d--------,AuxY
+4,Ἀδαῖος,̓Αδαῖος,n-s---mn-,SBJ
+5,ὁ,ὁ,l-s---mn-,ATR
+6,Ἀλεκτρυὼν,ἀλεκτρυών,n-s---mn-,PNOM
+7,ἐπικαλούμενος,ἐπικαλέω,v-sfpmmn-,ATR
+8,:,punc1,u--------,AuxK

@@ -1,0 +1,4 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27328|8|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+Leuven|27328|8|2,2,Μάμαν,Μάμα,n-s---fa-,OBJ
+Leuven|27328|8|3,3,.,.,u--------,AuxK

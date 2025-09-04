@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;τὴν;ὁ;l-s---fa-;OBJ
+2;Ἀφροδίτην;Ἀφροδίτη;n-s---fa-;OBJ_AP
+3;οὐχ;οὐ;d--------;AuxZ
+4;ὁρᾷς;ὁράω;v2spia---;PRED
+5;ὅση;ὅσος;a-s---fn-;OBJ
+6;θεός;θεός;n-s---fn-;PNOM
+7;";";punc;u--------;AuxK

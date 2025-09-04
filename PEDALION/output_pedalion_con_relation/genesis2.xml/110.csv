@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|111|1,1,κύριε,κύριος,n-s---mv-,ExD
+Leuven|Genesis_deel2|111|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|111|3,3,ἔθνος,ἔθνος,n-s---na-,OBJ
+Leuven|Genesis_deel2|111|4,4,ἀγνοοῦν,ἀγνοέω,v-sppana-,ATR_CO
+Leuven|Genesis_deel2|111|5,5,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|111|6,6,δίκαιον,δίκαιος,a-s---na-,ATR_CO
+Leuven|Genesis_deel2|111|7,7,ἀπολεῖς,ἀπόλλυμι,v2sfia---,PRED
+Leuven|Genesis_deel2|111|8,8,;,;,u--------,AuxK

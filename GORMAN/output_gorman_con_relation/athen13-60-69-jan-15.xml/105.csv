@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,βασίλισσ᾽,βασίλισσα,n-s---fn-,PNOM
+2,ἔσῃ,εἰμί,v2sfim---,PRED
+3,Βαβυλῶνος,Βαβυλών,n-s---fg-,ATR
+4,",",punc1,u--------,AuxX
+5,ἂν,ἐάν,c--------,AuxC
+6,οὕτω,οὕτως,d--------,ADV
+7,τύχῃ,τυγχάνω,v2sase---,ADV
+8,:,punc1,u--------,AuxK

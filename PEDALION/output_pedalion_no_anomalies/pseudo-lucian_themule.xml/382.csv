@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|383|1,1,τῶν,ὁ,l-p---mg-,ATR
+1,Leuven|Ps-Luc|383|2,2,φίλων,φίλος,a-p---mg-,ATR
+2,Leuven|Ps-Luc|383|3,3,γάρ,γάρ,d--------,AuxY
+3,Leuven|Ps-Luc|383|4,4,τις,τις,p-s---cn-,SBJ
+4,Leuven|Ps-Luc|383|5,5,τῶι,ὁ,l-s---md-,ATR
+5,Leuven|Ps-Luc|383|6,6,δεσπότηι,δεσπότης,n-s---md-,OBJ
+6,Leuven|Ps-Luc|383|7,7,τῶν,ὁ,l-p---mg-,ATR
+7,Leuven|Ps-Luc|383|8,8,ἀγρῶν,ἀγρός,n-p---mg-,ATR
+8,Leuven|Ps-Luc|383|9,9,ἔπεμψε,πέμπω,v3saia---,PRED
+9,Leuven|Ps-Luc|383|10,10,δῶρον,δῶρον,n-s---na-,OBJ
+10,Leuven|Ps-Luc|383|11,11,ὄνου,ὄνος,n-s---mg-,ATR
+11,Leuven|Ps-Luc|383|12,12,ἀγρίου,ἄγριος,a-s---mg-,ATR
+12,Leuven|Ps-Luc|383|13,13,μηρόν,μηρός,n-s---ma-,APOS

@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33637|5|1,1,προσδοκοῦμεν,προσδοκέω,v1ppia---,PRED
+1,Leuven|33637|5|2,2,σοι,σύ,p2s---cd-,OBJ
+2,Leuven|33637|5|3,3,ὅτι,ὅτι,c--------,AuxC
+3,Leuven|33637|5|4,4,ἔρχει,ἔρχομαι,v2spie---,OBJ

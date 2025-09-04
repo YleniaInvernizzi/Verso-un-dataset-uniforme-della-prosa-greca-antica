@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|1344|1,1,ὁ,ὁ,l-s---mn-,SBJ
+Leuven|0096-00#|1344|2,2,δέ,δέ,d--------,AuxY
+Leuven|0096-00#|1344|3,3,τοῦτʼ,οὗτος,p-s---na-,OBJ
+Leuven|0096-00#|1344|4,4,ἀκούσας,ἀκούω,v-sapamn-,ADV
+Leuven|0096-00#|1344|5,5,εἶπεν,λέγω,v3saia---,PRED
+Leuven|0096-00#|1344|6,6,·,·,u--------,AuxK

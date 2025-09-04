@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|312|1,1,πᾶν,πᾶς,a-s---na-,OBJ
+1,Leuven|PaeanBrev|312|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|312|3,3,ὅ,ὅς,p-s---na-,OBJ
+3,Leuven|PaeanBrev|312|4,4,διῆλθον,διέρχομαι,v3paia---,ATR
+4,Leuven|PaeanBrev|312|5,5,ἐκπολιορκήσαντες,ἐκπολιορκέω,v-papamn-,ADV
+5,Leuven|PaeanBrev|312|6,6,ἐχωρίσθησαν,χωρίζω,v3paip---,PRED

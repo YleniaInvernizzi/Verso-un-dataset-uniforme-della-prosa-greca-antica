@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|678|5|1,1,γέγραφα,γράφω,v1sria---,PRED
+Leuven|678|5|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|678|5|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|678|5|4,4,.,.,u--------,AuxK

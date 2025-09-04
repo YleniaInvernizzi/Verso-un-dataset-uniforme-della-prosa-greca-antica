@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|599|1,1,πρὸς,πρός,r--------,AuxP
+Leuven|0544-002|599|2,2,ὅπερ,ὅσπερ,p-s---na-,OBJ
+Leuven|0544-002|599|3,3,οὐδὲν,οὐδείς,p-s---nn-,SBJ
+Leuven|0544-002|599|4,4,εἴρηται,λέγω,v3srie---,PRED
+Leuven|0544-002|599|5,5,.,.,u--------,AuxK

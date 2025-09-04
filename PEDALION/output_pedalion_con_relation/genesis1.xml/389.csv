@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|390|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|390|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|390|3,3,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|390|4,4,·,·,u--------,AuxK

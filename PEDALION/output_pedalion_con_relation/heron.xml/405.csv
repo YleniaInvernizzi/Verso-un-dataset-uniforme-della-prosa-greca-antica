@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|406|1,1,ἔσται,εἰμί,v3sfim---,PRED
+Leuven|0559-002|406|2,2,δὲ,δέ,b--------,AuxY
+Leuven|0559-002|406|3,3,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|0559-002|406|4,4,ἀέρα,ἀήρ,n-s---ma-,OBJ_CO
+Leuven|0559-002|406|5,5,καὶ,καί,b--------,COORD
+Leuven|0559-002|406|6,6,θάλασσαν,θάλασσα,n-s---fa-,OBJ_CO
+Leuven|0559-002|406|7,7,ἔχων,ἔχω,v-sppamn-,PNOM
+Leuven|0559-002|406|8,8,γεγραμμένα,γράφω,v-prpena-,ATR
+Leuven|0559-002|406|9,9,.,.,u--------,AuxK

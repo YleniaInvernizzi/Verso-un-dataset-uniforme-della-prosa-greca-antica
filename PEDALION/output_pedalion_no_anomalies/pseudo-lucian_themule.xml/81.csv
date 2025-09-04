@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|82|1,1,ἀλλ’,ἀλλά,c--------,AuxY
+1,Leuven|Ps-Luc|82|2,2,οὐκ,οὐ,d--------,AuxZ
+2,Leuven|Ps-Luc|82|3,3,ἂν,ἄν,d--------,AuxY
+3,Leuven|Ps-Luc|82|4,4,ἴδοις,ὁράω,v2saoa---,PRED
+4,Leuven|Ps-Luc|82|5,5,φεύγοντά,φεύγω,v-sppama-,OBJ
+5,Leuven|Ps-Luc|82|6,6,με,ἐγώ,p1s---ca-,SBJ
+6,Leuven|Ps-Luc|82|7,7,τὸν,ὁ,l-s---ma-,ATR
+7,Leuven|Ps-Luc|82|8,8,ἔλεγχον,ἔλεγχος,n-s---ma-,OBJ
+8,Leuven|Ps-Luc|82|9,9,τοῦτον,οὗτος,p-s---ma-,ATR

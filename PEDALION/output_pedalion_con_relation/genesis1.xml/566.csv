@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|567|1,1,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|567|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|567|3,3,αὐτῇ,αὐτός,p-s---fd-,OBJ
+Leuven|Genesis|567|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|567|5,5,ἄγγελος,ἄγγελος,n-s---mn-,SBJ
+Leuven|Genesis|567|6,6,κυρίου,κύριος,n-s---mg-,ATR
+Leuven|Genesis|567|7,7,·,·,u--------,AuxK

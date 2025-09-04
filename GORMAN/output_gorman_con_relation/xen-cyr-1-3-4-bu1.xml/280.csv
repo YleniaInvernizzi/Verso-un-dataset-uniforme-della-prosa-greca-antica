@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἅμα,ἅμα,d--------,AuxZ
+2,δὲ,δέ,d--------,AuxY
+3,προσελθόντα,προσέρχομαι,v-sapama-,ADV
+4,φιλῆσαι,φιλέω,v--ana---,PRED
+5,αὐτόν,αὐτός,p-s---ma-,OBJ
+6,.,punc1,u--------,AuxK

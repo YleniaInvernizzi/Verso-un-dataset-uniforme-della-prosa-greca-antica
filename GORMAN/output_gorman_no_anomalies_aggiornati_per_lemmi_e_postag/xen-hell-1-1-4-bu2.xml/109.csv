@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;Φαρνάβαζος;Φαρνάβαζος;n-s---mn-;SBJ
+2;δʼ;δέ;d--------;AuxY
+3;ἐβοήθησεν;βοηθέω;v3saia---;PRED_CO
+4;ἵπποις;ἵππος;n-p---md-;ADV
+5;πολλοῖς;πολύς;a-p---md-;ATR
+6;,;punc;u--------;AuxX
+7;καὶ;καί;c--------;COORD
+8;μάχῃ;μάχη;n-s---fd-;ADV
+9;ἡττηθεὶς;ἡσσάομαι;v-sapemn-;ADV
+10;ἔφυγεν;φεύγω;v3saia---;PRED_CO
+11;.;punc;u--------;AuxK

@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐν,ἐν,r--------,AuxP
+2,δὲ,δέ,d--------,AuxY
+3,τῇ,ὁ,l-s---fd-,ATR
+4,Λακεδαίμονι,Λακεδαίμων,n-s---fd-,ADV
+5,ὁ,ὁ,l-s---mn-,ATR
+6,ἐμὸς,ἐμός,a-s---mn-,ATR
+7,δοῦλος,δοῦλος,n-s---mn-,SBJ
+8,σ᾽,σύ,p-s---ma-,OBJ
+9,ἐδεδοίκει,δείδω,v3slia---,PRED
+10,:,punc1,u--------,AuxK

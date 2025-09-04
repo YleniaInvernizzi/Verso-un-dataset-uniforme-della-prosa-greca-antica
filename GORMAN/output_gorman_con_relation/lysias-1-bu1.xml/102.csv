@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,αὕτη,οὗτος,p-s---fn-,SBJ
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστι,εἰμί,v3spia---,PRED
+4,πάντων,πᾶς,a-p---ng-,ADV
+5,τῶν,ὁ,l-p---ng-,ATR
+6,ἐν,ἐν,r--------,AuxP
+7,τῇ,ὁ,l-s---fd-,ATR
+8,πόλει,πόλις,n-s---fd-,ATR
+9,κυριωτάτη,κύριος,a-s---fns,PNOM
+10,.,punc1,u--------,AuxK

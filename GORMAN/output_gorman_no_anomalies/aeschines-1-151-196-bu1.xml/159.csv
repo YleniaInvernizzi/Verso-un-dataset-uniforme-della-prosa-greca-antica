@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐδίδαξα,διδάσκω,v1saia---,PRED_CO
+1,2,τοὺς,ὁ,l-p---ma-,ATR
+2,3,νόμους,νόμος,n-p---ma-,OBJ
+3,4,",",punc1,u--------,COORD
+4,5,ἐξήτασα,ἐξετάζω,v1saia---,PRED_CO
+5,6,τὸν,ὁ,l-s---ma-,ATR
+6,7,βίον,βίος,n-s---ma-,OBJ
+7,8,τοῦ,ὁ,l-s---mg-,ATR
+8,9,κρινομένου,κρίνω,v-sppemg-,ATR
+9,10,.,punc1,u--------,AuxK

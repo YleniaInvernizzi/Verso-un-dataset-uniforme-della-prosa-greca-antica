@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|80117|2|1,1,μεμάχεσμαι,μάχομαι,v1srie---,PRED_CO
+1,Leuven|80117|2|2,2,μετά,μετά,r--------,AuxP
+2,Leuven|80117|2|3,3,Ψεντινβαβα,Ψεντινβαβα,n--------,OBJ
+3,Leuven|80117|2|4,4,καί,καί,c--------,COORD
+4,Leuven|80117|2|5,5,ἀπῆλθα,ἀπέρχομαι,v1saia---,PRED_CO

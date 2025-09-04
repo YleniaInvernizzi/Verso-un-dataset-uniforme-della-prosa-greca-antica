@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|295|1,1,Ταυρομένιον,Ταυρομένιον,n-s---na-,OBJ_CO
+Leuven|PaeanBrev|295|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|PaeanBrev|295|3,3,καί,καί,b--------,AuxY
+Leuven|PaeanBrev|295|4,4,Κατάνην,Κατάνη,n-s---fa-,OBJ_CO
+Leuven|PaeanBrev|295|5,5,καί,καί,b--------,COORD
+Leuven|PaeanBrev|295|6,6,πεντήκοντα,πεντήκοντα,m--------,ATR
+Leuven|PaeanBrev|295|7,7,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|295|8,8,ταύταις,οὗτος,p-p---fd-,ADV
+Leuven|PaeanBrev|295|9,9,ἑτέρας,ἕτερος,a-p---fa-,ATR
+Leuven|PaeanBrev|295|10,10,πόλεις,πόλις,n-p---fa-,OBJ_CO
+Leuven|PaeanBrev|295|11,11,τῇ,ὁ,l-s---fd-,ATR
+Leuven|PaeanBrev|295|12,12,Ῥωμαϊκῇ,Ῥωμαῖος,a-s---fd-,ATR
+Leuven|PaeanBrev|295|13,13,συνῆψαν,συνάπτω,v3paia---,PRED
+Leuven|PaeanBrev|295|14,14,ἀρχῇ,ἀρχή,n-s---fd-,OBJ
+Leuven|PaeanBrev|295|15,15,.,.,u--------,AuxK

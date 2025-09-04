@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὃς,ὅς,p-s---mn-,SBJ
+2,παραλαβὼν,παραλαμβάνω,v-sapamn-,ADV
+3,τὰς,ὁ,l-p---fa-,ATR
+4,ναυτικὰς,ναυτικός,a-p---fa-,ATR
+5,δυνάμεις,δύναμις,n-p---fa-,OBJ
+6,ὥρμησεν,ὁρμάω,v3saia---,PRED
+7,πορθήσων,πορθέω,v-sfpamn-,ADV
+8,τὴν,ὁ,l-s---fa-,ATR
+9,Ἰταλίαν,Ἰταλία,n-s---fa-,OBJ
+10,.,punc1,u--------,AuxK

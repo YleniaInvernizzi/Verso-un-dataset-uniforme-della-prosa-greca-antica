@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|310|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|310|2,2,μὴν,μήν,d--------,AuxZ
+2,Leuven|Ps-Luc|310|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|Ps-Luc|310|4,4,ἄλλο,ἄλλος,p-s---na-,ATR
+4,Leuven|Ps-Luc|310|5,5,κακὸν,κακός,a-s---na-,OBJ
+5,Leuven|Ps-Luc|310|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Ps-Luc|310|7,7,ἐμὲ,ἐγώ,p1s---ca-,OBJ
+7,Leuven|Ps-Luc|310|8,8,ἀφόρητον,ἀφόρητος,a-s---na-,ATR
+8,Leuven|Ps-Luc|310|9,9,ἔπαιζεν,παίζω,v3siia---,PRED

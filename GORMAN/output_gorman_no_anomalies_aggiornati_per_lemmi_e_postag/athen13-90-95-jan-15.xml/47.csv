@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ὧν;ὅς;p-p---ng-;ATR
+2;οὐδέτερον;οὐδέτερος;a-s---nn-;SBJ
+3;πρόσεστιν;πρόσειμι;v3spia---;PRED
+4;ὑμῖν;σύ;p2p---md-;OBJ
+5;τοῖς;ὁ;l-p---md-;ATR
+6;τὸν;ὁ;l-s---ma-;ATR
+7;κυνικὸν;κυνικός;a-s---ma-;ATR
+8;βίον;βίος;n-s---ma-;OBJ
+9;μιμουμένοις;μιμέομαι;v-pppemd-;ATR
+10;.;punc;u--------;AuxK

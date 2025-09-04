@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|71|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|71|2,2,ἐπληρώθησαν,πληρόω,v3paip---,PRED_CO
+2,Leuven|Genesis_deel3|71|3,3,αἱ,ὁ,l-p---fn-,ATR
+3,Leuven|Genesis_deel3|71|4,4,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+4,Leuven|Genesis_deel3|71|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Genesis_deel3|71|6,6,τεκεῖν,τίκτω,v--ana---,ATR
+6,Leuven|Genesis_deel3|71|7,7,αὐτήν,αὐτός,p-s---fa-,SBJ
+8,Leuven|Genesis_deel3|71|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel3|71|10,10,τῇδε,ὅδε,p-s---fd-,PNOM
+10,Leuven|Genesis_deel3|71|11,11,ἦν,εἰμί,v3siia---,PRED_CO
+11,Leuven|Genesis_deel3|71|12,12,δίδυμα,δίδυμος,a-p---nn-,SBJ
+12,Leuven|Genesis_deel3|71|13,13,ἐν,ἐν,r--------,AuxP
+13,Leuven|Genesis_deel3|71|14,14,τῇ,ὁ,l-s---fd-,ATR
+14,Leuven|Genesis_deel3|71|15,15,κοιλίᾳ,κοιλία,n-s---fd-,ADV
+15,Leuven|Genesis_deel3|71|16,16,αὐτῆς,αὐτός,p-s---fg-,ATR

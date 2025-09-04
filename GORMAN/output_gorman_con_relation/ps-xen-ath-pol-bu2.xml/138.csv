@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,πολλὰ,πολύς,a-p---na-,OBJ
+2,ἔτι,ἔτι,d--------,ADV
+3,πάνυ,πάνυ,d--------,ADV
+4,παραλείπω,παραλείπω,v1spia---,PRED
+5,:,punc1,u--------,AuxK

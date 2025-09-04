@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,κεχωρίδαται,χωρίζω,v3prie---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,αὗται,οὗτος,p-p---fn-,SBJ
+4,.,punc1,u--------,AuxK

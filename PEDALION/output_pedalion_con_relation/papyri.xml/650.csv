@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|32904|5|1,1,ὅτε,ὅτε,c--------,AuxC
+Leuven|32904|5|2,2,δέ,δέ,d--------,AuxY
+Leuven|32904|5|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|32904|5|4,4,μητέρα,μήτηρ,n-s---fa-,OBJ
+Leuven|32904|5|5,5,μου,ἐγώ,p1s---cg-,ATR
+Leuven|32904|5|6,6,εἶχα,ἔχω,v1siia---,ADV
+Leuven|32904|5|7,7,",",",",u--------,AuxX
+Leuven|32904|5|8,8,μεθ’,μετά,r--------,AuxP
+Leuven|32904|5|9,9,ἑαυτῆς,ἑαυτοῦ,p-s---fg-,ADV
+Leuven|32904|5|10,10,ὅλον,ὅλος,a-s---nn-,ATR
+Leuven|32904|5|11,11,τό,ὁ,l-s---nn-,ATR
+Leuven|32904|5|12,12,γένος,γένος,n-s---nn-,PNOM
+Leuven|32904|5|13,13,μου,ἐγώ,p1s---cg-,ATR
+Leuven|32904|5|14,14,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|32904|5|15,15,ἦν,εἰμί,v3siia---,PRED
+Leuven|32904|5|16,16,·,·,u--------,AuxK

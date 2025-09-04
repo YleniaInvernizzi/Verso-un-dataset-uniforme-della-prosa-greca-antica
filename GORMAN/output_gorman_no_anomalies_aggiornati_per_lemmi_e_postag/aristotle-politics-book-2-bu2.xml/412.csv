@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;αὕτη;οὗτος;p-s---fn-;SBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;χρησίμη;χρήσιμος;a-s---fn-;PNOM
+4;πρὸς;πρός;r--------;AuxP
+5;τὸ;ὁ;l-s---na-;ATR
+6;κρατεῖν;κρατέω;v--pna---;ADV
+7;.;punc;u--------;AuxK
+8;ἐστιν;εἰμί;v3spia---;PRED

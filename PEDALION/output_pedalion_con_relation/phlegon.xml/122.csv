@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|123|1,1,μὴ,μή,d--------,AuxZ
+Leuven|0585-001|123|2,2,ψαῦ’,ψαύω,v2spma---,PRED
+Leuven|0585-001|123|3,3,ἡμετέρης,ἡμέτερος,a-s---fg-,ATR
+Leuven|0585-001|123|4,4,κεφαλῆς,κεφαλή,n-s---fg-,OBJ
+Leuven|0585-001|123|5,5,·,·,u--------,AuxK

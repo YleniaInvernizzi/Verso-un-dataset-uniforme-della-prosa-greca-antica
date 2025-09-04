@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d-------_,AuxY
+2,-δέ,δέ,d--------,AuxY
+3,κεν,ἄν1,d--------,AuxY
+4,ἡμέας,ἐγώ,p1p---ma-,OBJ
+5,ἄλλο,ἄλλος,p-s---nn-,SBJ
+6,διέκρινεν,διακρίνω,v3saia---,PRED
+7,φιλέοντέ,φιλέω,v-dppama-,ADV_CO
+8,τε,τε,d--------,AuxY
+9,τερπομένω,τέρπω,v-dppema-,ADV_CO
+10,τε,τε,c--------,COORD
+11,.,punc1,u--------,AuxK

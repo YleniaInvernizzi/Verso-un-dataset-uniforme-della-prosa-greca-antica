@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|503|1,1,ἡ,ὁ,l-s---fn-,SBJ
+Leuven|Ps-Luc|503|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|503|3,3,κατεχρήσατό,καταχράω,v3saim---,PRED
+Leuven|Ps-Luc|503|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|503|5,5,δεινῶς,δεινός,d--------,ADV
+Leuven|Ps-Luc|503|6,6,.,.,u--------,AuxK

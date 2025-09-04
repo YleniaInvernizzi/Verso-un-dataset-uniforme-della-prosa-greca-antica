@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|251|1,1,ἐγγισάτωσαν,ἐγγίζω,v3pama---,PRED
+1,Leuven|Genesis_deel3|251|2,2,αἱ,ὁ,l-p---fn-,ATR
+2,Leuven|Genesis_deel3|251|3,3,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+3,Leuven|Genesis_deel3|251|4,4,τοῦ,ὁ,l-s---ng-,ATR
+4,Leuven|Genesis_deel3|251|5,5,πένθους,πένθος,n-s---ng-,ATR
+5,Leuven|Genesis_deel3|251|6,6,τοῦ,ὁ,l-s---mg-,ATR
+6,Leuven|Genesis_deel3|251|7,7,πατρός,πατήρ,n-s---mg-,ATR
+7,Leuven|Genesis_deel3|251|8,8,μου,ἐγώ,p1s---cg-,ATR
+9,Leuven|Genesis_deel3|251|10,10,ἵνα,ἵνα,c--------,AuxC
+10,Leuven|Genesis_deel3|251|11,11,ἀποκτείνω,ἀποκτείνω,v1sasa---,ADV
+11,Leuven|Genesis_deel3|251|12,12,Ιακωβ,Ἰακώβ,n-s---ma-,OBJ
+12,Leuven|Genesis_deel3|251|13,13,τόν,ὁ,l-s---ma-,ATR
+13,Leuven|Genesis_deel3|251|14,14,ἀδελφόν,ἀδελφός,n-s---ma-,APOS
+14,Leuven|Genesis_deel3|251|15,15,μου,ἐγώ,p1s---cg-,ATR

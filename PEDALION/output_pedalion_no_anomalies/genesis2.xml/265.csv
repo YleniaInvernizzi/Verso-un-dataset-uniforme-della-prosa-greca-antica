@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|266|1,1,ἐπειδή,ἐπειδή,c--------,AuxC
+1,Leuven|Genesis_deel2|266|2,2,πρός,πρός,r--------,AuxP
+2,Leuven|Genesis_deel2|266|3,3,ἐμοῦ,ἐγώ,p1s---cg-,PNOM
+3,Leuven|Genesis_deel2|266|4,4,εἶ,εἰμί,v2spia---,ADV
+5,Leuven|Genesis_deel2|266|6,6,ἄκουσον,ἀκούω,v2sama---,PRED
+6,Leuven|Genesis_deel2|266|7,7,μου,ἐγώ,p1s---cg-,OBJ

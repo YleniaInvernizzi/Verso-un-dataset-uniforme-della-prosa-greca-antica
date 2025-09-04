@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;γνῶμαι;γνώμη;n-p---fn-;SBJ
+2;μὲν;μέν;d--------;AuxY
+3;αὗται;οὗτος;a-p---fn-;ATR
+4;συνέστασαν;συνίστημι;v3plia---;PRED
+5;:;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|581|1,1,πρὸς,πρός,r--------,AuxP
+Leuven|0032-002|581|2,2,ταῦτα,οὗτος,p-p---na-,ADV
+Leuven|0032-002|581|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0032-002|581|4,4,νεανίσκος,νεανίσκος,n-s---mn-,SBJ
+Leuven|0032-002|581|5,5,εἶπεν,λέγω,v3saia---,PRED
+Leuven|0032-002|581|6,6,·,·,u--------,AuxK

@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|286|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Ps-Luc|286|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|286|3,3,ἐπιστάτης,ἐπιστάτης,n-s---mn-,SBJ
+3,Leuven|Ps-Luc|286|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|Ps-Luc|286|5,5,ἵππων,ἵππος,n-p---mg-,ATR
+5,Leuven|Ps-Luc|286|6,6,τῆι,ὁ,l-s---fd-,ATR
+6,Leuven|Ps-Luc|286|7,7,αὑτοῦ,ἑαυτοῦ,p-s---mg-,ATR
+7,Leuven|Ps-Luc|286|8,8,γυναικὶ,γυνή,n-s---fd-,OBJ
+8,Leuven|Ps-Luc|286|9,9,Μεγαπόληι,Μεγαπόλος,a-s---fd-,APOS
+9,Leuven|Ps-Luc|286|10,10,ἔνδον,ἔνδον,d--------,ADV
+10,Leuven|Ps-Luc|286|11,11,με,ἐγώ,p1s---ca-,OBJ
+11,Leuven|Ps-Luc|286|12,12,κατέλιπεν,καταλείπω,v3saia---,PRED

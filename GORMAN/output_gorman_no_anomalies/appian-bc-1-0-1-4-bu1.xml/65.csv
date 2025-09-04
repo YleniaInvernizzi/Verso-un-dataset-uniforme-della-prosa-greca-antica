@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐκέλευε,κελεύω,v3siia---,PRED
+1,2,τὸν,ὁ,l-s---ma-,ATR
+2,3,γραμματέα,γραμματεύς,n-s---ma-,OBJ
+3,4,σιγᾶν,σιγάζω,v--fna---,OBJ
+4,5,.,punc1,u--------,AuxK

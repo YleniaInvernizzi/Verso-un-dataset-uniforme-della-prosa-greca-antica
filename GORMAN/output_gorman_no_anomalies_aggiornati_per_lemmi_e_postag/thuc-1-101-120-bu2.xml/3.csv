@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ᾗ;ὅς;p-s---fd-;ADV
+2;καὶ;καί;d--------;AuxY
+3;Μεσσήνιοι;Μεσσήνιοι;n-p---mn-;PNOM
+4;ἐκλήθησαν;καλέω;v3paip---;PRED
+5;οἱ;ὁ;l-p---mn-;ATR
+6;πάντες;πᾶς;a-p---mn-;SBJ
+7;.;punc;u--------;AuxK

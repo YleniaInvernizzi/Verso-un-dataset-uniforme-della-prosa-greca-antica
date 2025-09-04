@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰ,εἰ,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,μή,μή,d--------,AuxZ
+4,",",punc1,u--------,AuxX
+5,τὸ,ὁ,l-s---na-,ATR
+6,κάρδαμον,κάρδαμον,n-s---na-,OBJ
+7,.,punc1,u--------,AuxK
+8,[0],,,ADV
+9,[1],,,PRED

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,Κᾶρες,Κάρ,n-p---mn-,SBJ
+4,ἱκέτευον,ἱκετεύω,v3piia---,PRED
+5,μένειν,μένω,v--pna---,OBJ
+6,αὐτόν,αὐτός,p-s---ma-,OBJ
+7,·,·,u--------,AuxK

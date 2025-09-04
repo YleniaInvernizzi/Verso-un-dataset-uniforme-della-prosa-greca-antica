@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|1|1,1,ἀπήιειν,ἄπειμι,v1siia---,PRED
+1,Leuven|Ps-Luc|1|2,2,ποτὲ,ποτέ,d--------,ADV
+2,Leuven|Ps-Luc|1|3,3,ἐς,εἰς,r--------,AuxP
+3,Leuven|Ps-Luc|1|4,4,Θετταλίαν,Θεσσαλία,n-s---fa-,OBJ

@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄλλος,ἄλλος,p-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---nn-,ATR
+4,τὰ,ὁ,l-p---na-,ATR
+5,ῥᾷστα,ῥᾴδιος,a-p---nas,OBJ_CO
+6,καὶ,καί,c--------,COORD
+7,κερδαλεώτατα,κερδαλέος,a-p---nas,OBJ_CO
+8,τοῖς,ὁ,l-p---md-,ATR
+9,παροῦσι,πάρειμι1,v-pppamd-,OBJ
+10,προστάττειν,προστάσσω,v--pna---,PNOM
+11,·,punc1,u--------,AuxK
+12,ἦν,εἰμί,v3siia---,PRED

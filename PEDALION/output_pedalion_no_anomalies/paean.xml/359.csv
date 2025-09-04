@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|361|1,1,τέτρωτο,τιτρώσκω,v3slie---,PRED
+1,Leuven|PaeanBrev|361|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|361|3,3,ἐν,ἐν,r--------,AuxP
+3,Leuven|PaeanBrev|361|4,4,τῇ,ὁ,l-s---fd-,ATR
+4,Leuven|PaeanBrev|361|5,5,προτέρᾳ,πρότερος,a-s---fd-,ATR
+5,Leuven|PaeanBrev|361|6,6,μάχῃ,μάχη,n-s---fd-,ADV

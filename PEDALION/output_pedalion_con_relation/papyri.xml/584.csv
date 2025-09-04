@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31346|2|1,1,λοιπὸν,λοιπός,a-s---na-,AuxY
+Leuven|31346|2|2,2,τί,τίς,p-s---na-,OBJ
+Leuven|31346|2|3,3,σοι,σύ,p2s---cd-,OBJ
+Leuven|31346|2|4,4,γράψω,γράφω,v1sfia---,OBJ
+Leuven|31346|2|5,5,οὐκ,οὐ,d--------,AuxZ
+Leuven|31346|2|6,6,οἶδα,οἶδα,v1sria---,PRED
+Leuven|31346|2|7,7,",",",",u--------,AuxX
+Leuven|31346|2|8,8,ἀπέκαμον,ἀποκάμνω,v1saia---,ExD_CO
+Leuven|31346|2|9,9,γάρ,γάρ,d--------,AuxY
+Leuven|31346|2|10,10,σοι,σύ,p2s---cd-,OBJ
+Leuven|31346|2|11,11,ἕκαστον,ἕκαστος,a-s---ma-,OBJ
+Leuven|31346|2|12,12,λέγων,λέγω,v-sppamn-,ADV
+Leuven|31346|2|13,13,καὶ,καί,b--------,COORD
+Leuven|31346|2|14,14,οὐκ,οὐ,d--------,AuxZ
+Leuven|31346|2|15,15,ἐνακούεις,ἐνακούω,v2spia---,ExD_CO
+Leuven|31346|2|16,16,.,.,u--------,AuxK

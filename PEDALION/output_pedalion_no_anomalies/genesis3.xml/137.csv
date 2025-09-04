@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|138|1,1,διότι,διότι,c--------,AuxC
+1,Leuven|Genesis_deel3|138|2,2,νῦν,νῦν,d--------,ADV
+2,Leuven|Genesis_deel3|138|3,3,ἐπλάτυνεν,πλατύνω,v3siia---,ADV_CO
+3,Leuven|Genesis_deel3|138|4,4,κύριος,κύριος,n-s---mn-,SBJ
+4,Leuven|Genesis_deel3|138|5,5,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+5,Leuven|Genesis_deel3|138|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel3|138|7,7,ηὔξησεν,αὐξάνω,v3saia---,ADV_CO
+7,Leuven|Genesis_deel3|138|8,8,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+8,Leuven|Genesis_deel3|138|9,9,ἐπί,ἐπί,r--------,AuxP
+9,Leuven|Genesis_deel3|138|10,10,τῆς,ὁ,l-s---fg-,ATR
+10,Leuven|Genesis_deel3|138|11,11,γῆς,γῆ,n-s---fg-,ADV

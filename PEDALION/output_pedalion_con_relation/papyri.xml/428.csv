@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28133|5|1,1,καί,καί,d--------,AuxY
+Leuven|28133|5|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|28133|5|3,3,ἐνεγκών,φέρω,v-sapamn-,APOS
+Leuven|28133|5|4,4,σοι,σύ,p2s---cd-,OBJ
+Leuven|28133|5|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|28133|5|6,6,ἐπιστολήν,ἐπιστολή,n-s---fa-,OBJ
+Leuven|28133|5|7,7,",",",",u--------,AuxX
+Leuven|28133|5|8,8,δός,δίδωμι,v2sama---,PRED
+Leuven|28133|5|9,9,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|28133|5|10,10,ἄλλην,ἄλλος,p-s---fa-,OBJ
+Leuven|28133|5|11,11,περί,περί,r--------,AuxP
+Leuven|28133|5|12,12,τῆς,ὁ,l-s---fg-,ATR
+Leuven|28133|5|13,13,ὑγιείας,ὑγίεια,n-s---fg-,ATR
+Leuven|28133|5|14,14,σου,σύ,p2s---cg-,ATR
+Leuven|28133|5|15,15,.,.,u--------,AuxK

@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|435|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|435|2,2,ᾠκοδόμησεν,οἰκοδομέω,v3saia---,PRED
+Leuven|Genesis|435|3,3,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis|435|4,4,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|435|5,5,θυσιαστήριον,θυσιαστήριον,n-s---na-,OBJ
+Leuven|Genesis|435|6,6,κυρίῳ,κύριος,n-s---md-,ATR
+Leuven|Genesis|435|7,7,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|435|8,8,ὀφθέντι,ὁράω,v-sappmd-,ATR
+Leuven|Genesis|435|9,9,αὐτῷ,αὐτός,p-s---md-,ADV
+Leuven|Genesis|435|10,10,.,.,u--------,AuxK

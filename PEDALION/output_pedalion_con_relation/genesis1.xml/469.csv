@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|470|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|Genesis|470|2,2,σύ,σύ,p2s---cn-,SBJ
+Leuven|Genesis|470|3,3,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|470|4,4,ἀριστερά,ἀριστερός,a-p---na-,OBJ
+Leuven|Genesis|470|5,5,",",",",u--------,AuxX
+Leuven|Genesis|470|6,6,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|470|7,7,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|470|8,8,δεξιά,δεξιός,a-p---na-,OBJ
+Leuven|Genesis|470|9,9,·,·,u--------,AuxK
+Leuven|Genesis|470|10,10,[0],,,ADV
+Leuven|Genesis|470|11,11,[1],,,PRED

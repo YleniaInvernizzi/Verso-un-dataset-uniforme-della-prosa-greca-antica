@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|312|1,1,πλήν,πλήν,d--------,ADV
+Leuven|Genesis|312|2,2,κρέας,κρέας,n-s---na-,OBJ
+Leuven|Genesis|312|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|312|4,4,αἵματι,αἷμα,n-s---nd-,ADV
+Leuven|Genesis|312|5,5,ψυχῆς,ψυχή,n-s---fg-,ATR
+Leuven|Genesis|312|6,6,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|312|7,7,φάγεσθε,ἐσθίω,v2pfim---,PRED
+Leuven|Genesis|312|8,8,·,·,u--------,AuxK

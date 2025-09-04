@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|523|1,1,ἔστι,εἰμί,v3spia---,PRED_CO
+1,Leuven|Ps-Luc|523|2,2,μοι,ἐγώ,p1s---cd-,PNOM
+2,Leuven|Ps-Luc|523|3,3,Λούκιος,Λούκιος,n-s---mn-,SBJ
+4,Leuven|Ps-Luc|523|5,5,τῶι,ὁ,l-s---md-,ATR
+5,Leuven|Ps-Luc|523|6,6,δὲ,δέ,d--------,COORD
+6,Leuven|Ps-Luc|523|7,7,ἀδελφῶι,ἀδελφός,n-s---md-,PNOM
+7,Leuven|Ps-Luc|523|8,8,τῶι,ὁ,l-s---md-,ATR
+8,Leuven|Ps-Luc|523|9,9,ἐμῶι,ἐμός,a-s---md-,ATR
+9,Leuven|Ps-Luc|523|10,10,Γάϊος,Γάϊος,n-s---mn-,SBJ

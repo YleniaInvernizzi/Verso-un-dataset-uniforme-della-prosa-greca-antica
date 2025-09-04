@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-00#|1279|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|0096-00#|1279|2,2,ἥλιος,ἥλιος,n-s---mn-,SBJ
+2,Leuven|0096-00#|1279|3,3,τόν,ὁ,l-s---ma-,ATR
+3,Leuven|0096-00#|1279|4,4,βορέαν,Βορέας,n-s---ma-,OBJ
+4,Leuven|0096-00#|1279|5,5,ἐνίκησεν,νικάω,v3saia---,PRED

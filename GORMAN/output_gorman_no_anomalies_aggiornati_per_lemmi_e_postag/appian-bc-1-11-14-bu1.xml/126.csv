@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;οὐ;οὐ;d--------;AuxZ
+2;λανθάνων;λανθάνω;v-sppamn-;ADV
+3;δʼ;δέ;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;ἐφʼ;ἐπί;r--------;AuxP
+6;οἷς;ὅς;p-p---nd-;OBJ
+7;ἐβούλευεν;βουλεύω;v3siia---;ADV
+8;,;punc;u--------;AuxX
+9;ἐκαλεῖτο;καλέω;v3siie---;PRED
+10;ὑπὸ;ὑπό;r--------;AuxP
+11;τῆς;ὁ;l-s---fg-;ATR
+12;βουλῆς;βουλή;n-s---fg-;OBJ
+13;·;punc;u--------;AuxK

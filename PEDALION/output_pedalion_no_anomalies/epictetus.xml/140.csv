@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|141|1,1,μή,μή,d--------,AuxZ
+1,Leuven|0557-001|141|2,2,μʼ,ἐγώ,p1s---ca-,OBJ
+2,Leuven|0557-001|141|3,3,ἐξέταζε,ἐξετάζω,v2spma---,PRED_CO
+3,Leuven|0557-001|141|4,4,καί,καί,c--------,COORD
+4,Leuven|0557-001|141|5,5,σιωπήσω,σιωπάω,v1sfia---,PRED_CO

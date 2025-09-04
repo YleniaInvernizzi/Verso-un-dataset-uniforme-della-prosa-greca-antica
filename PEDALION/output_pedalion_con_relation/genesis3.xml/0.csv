@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|1|1,1,παρά,παρά,r--------,AuxP
+Leuven|Genesis_deel3|1|2,2,κυρίου,κύριος,n-s---mg-,OBJ
+Leuven|Genesis_deel3|1|3,3,ἐξῆλθεν,ἐξέρχομαι,v3saia---,PRED
+Leuven|Genesis_deel3|1|4,4,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis_deel3|1|5,5,πρόσταγμα,πρόσταγμα,n-s---nn-,SBJ
+Leuven|Genesis_deel3|1|6,6,τοῦτο,οὗτος,p-s---nn-,ATR
+Leuven|Genesis_deel3|1|7,7,·,·,u--------,AuxK

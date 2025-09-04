@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπεὶ,ἐπεί,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,ᾑρέθη,αἱρέω,v3saip---,ADV
+4,τάχιστα,ταχύς,a-p---nas,ADV
+5,",",punc1,u--------,AuxX
+6,ἤρχετο,ἄρχω,v3siie---,PRED
+7,πρῶτον,πρῶτος,a-s---na-,ADV
+8,ἀπὸ,ἀπό,r--------,AuxP
+9,τῶν,ὁ,l-p---mg-,ATR
+10,θεῶν,θεός,n-p---mg-,ADV
+11,·,punc1,u--------,AuxK

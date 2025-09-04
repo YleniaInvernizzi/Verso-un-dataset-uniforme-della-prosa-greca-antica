@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;Καὶ;καί;d--------;AuxY
+2;οἱ;ἕ;p3s---md-;PNOM
+3;ἐγένετο;γίγνομαι;v3saim---;PRED
+4;θυγάτηρ;θυγάτηρ;n-s---fn-;SBJ
+5;τῇ;ὁ;p-s---fd-;ATR
+6;οὔνομα;ὄνομα;n-s---na-;OBJ
+7;ἔθετο;τίθημι;v3saim---;ATR
+8;Μανδάνην;Μανδάνη;n-s---fa-;OCOMP
+9;:;punc;u--------;AuxK

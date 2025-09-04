@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|102|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|102|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|102|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|102|4,4,ὄφις,ὄφις,n-s---mn-,SBJ
+Leuven|Genesis|102|5,5,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|102|6,6,γυναικί,γυνή,n-s---fd-,OBJ
+Leuven|Genesis|102|7,7,·,·,u--------,AuxK

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,φύσεως,φύσις,n-s---fg-,ATR
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστιν,εἰμί,v3spia---,PRED
+4,ἔργον,ἔργον,n-s---nn-,PNOM
+5,τροφὴν,τροφή,n-s---fa-,OBJ
+6,τῷ,ὁ,l-s---nd-,ATR
+7,γεννηθέντι,γεννάω,v-sappnd-,OBJ
+8,παρέχειν,παρέχω,v--pna---,SBJ
+9,:,punc1,u--------,AuxK

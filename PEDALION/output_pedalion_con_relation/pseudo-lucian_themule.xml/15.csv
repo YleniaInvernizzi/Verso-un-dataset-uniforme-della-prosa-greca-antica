@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|16|1,1,μεῖνόν,μένω,v2sama---,OBJ
+Leuven|Ps-Luc|16|2,2,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|16|3,3,",",",",u--------,AuxX
+Leuven|Ps-Luc|16|4,4,ἔφη,φημί,v3siia---,PRED_CO
+Leuven|Ps-Luc|16|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|16|6,6,αὐτοῦ,αὐτοῦ,d--------,ADV
+Leuven|Ps-Luc|16|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|16|8,8,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|16|9,9,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|16|10,10,θύραν,θύρα,n-s---fa-,OBJ
+Leuven|Ps-Luc|16|11,11,συγκλείσασα,συγκλείω,v-sapafn-,ADV
+Leuven|Ps-Luc|16|12,12,ὤιχετο,οἴχομαι,v3siie---,PRED_CO
+Leuven|Ps-Luc|16|13,13,εἴσω,εἴσω,d--------,OBJ
+Leuven|Ps-Luc|16|14,14,πάλιν,πάλιν,d--------,ADV
+Leuven|Ps-Luc|16|15,15,·,·,u--------,AuxK

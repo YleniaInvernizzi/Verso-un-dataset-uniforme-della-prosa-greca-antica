@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|109|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|109|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED_CO
+2,Leuven|Genesis|109|3,3,κύριος,κύριος,n-s---mn-,SBJ
+3,Leuven|Genesis|109|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|109|5,5,θεός,θεός,n-s---mn-,APOS
+5,Leuven|Genesis|109|6,6,τόν,ὁ,l-s---ma-,ATR
+6,Leuven|Genesis|109|7,7,Αδαμ,Αδαμ,n-s---ma-,OBJ
+7,Leuven|Genesis|109|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|109|9,9,εἶπεν,λέγω,v3saia---,PRED_CO
+9,Leuven|Genesis|109|10,10,αὐτῷ,αὐτός,p-s---md-,OBJ
+10,Leuven|Genesis|109|11,11,Αδαμ,Αδαμ,n-s---mv-,ExD
+12,Leuven|Genesis|109|13,13,ποῦ,ποῦ,d--------,ADV
+13,Leuven|Genesis|109|14,14,εἶ,εἰμί,v2spia---,OBJ
+14,Leuven|Genesis|109|15,15,;,;,u--------,AuxK

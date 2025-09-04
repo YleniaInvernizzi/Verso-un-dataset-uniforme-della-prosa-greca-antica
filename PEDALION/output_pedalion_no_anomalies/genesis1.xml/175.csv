@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|176|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|176|2,2,ἦν,εἰμί,v3siia---,PRED_CO
+2,Leuven|Genesis|176|3,3,οἰκοδομῶν,οἰκοδομέω,v-sppamn-,PNOM
+3,Leuven|Genesis|176|4,4,πόλιν,πόλις,n-s---fa-,OBJ
+4,Leuven|Genesis|176|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis|176|6,6,ἐπωνόμασεν,ἐπονομάζω,v3saia---,PRED_CO
+6,Leuven|Genesis|176|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|Genesis|176|8,8,πόλιν,πόλις,n-s---fa-,OBJ
+8,Leuven|Genesis|176|9,9,ἐπί,ἐπί,r--------,AuxP
+9,Leuven|Genesis|176|10,10,τῷ,ὁ,l-s---nd-,ATR
+10,Leuven|Genesis|176|11,11,ὀνόματι,ὄνομα,n-s---nd-,OBJ
+11,Leuven|Genesis|176|12,12,τοῦ,ὁ,l-s---mg-,ATR
+12,Leuven|Genesis|176|13,13,υἱοῦ,υἱός,n-s---mg-,ATR
+13,Leuven|Genesis|176|14,14,αὐτοῦ,αὐτός,p-s---mg-,ATR
+14,Leuven|Genesis|176|15,15,Ενωχ,Ενωχ,n-s---mg-,APOS

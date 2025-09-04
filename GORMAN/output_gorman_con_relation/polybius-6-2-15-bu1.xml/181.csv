@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸδὲ,ὅδε,p-s---nn-,SBJ_AP
+2,μέγιστον,μέγας,a-s---nns,ATR
+3,ἀποτιθεμένους,ἀποτίθημι,v-pppema-,SBJ
+4,τὴν,ὁ,l-s---fa-,ATR
+5,ἀρχὴν,ἀρχή,n-s---fa-,OBJ
+6,ἐν,ἐν,r--------,AuxP
+7,τούτῳ,οὗτος,p-s---nd-,ADV
+8,δεῖ,δεῖ,v3siia---,PRED
+9,τὰς,ὁ,l-p---fa-,ATR
+10,εὐθύνας,εὔθυνα,n-p---fa-,OBJ
+11,ὑπέχειν,ὑπέχω,v--pna---,SBJ_AP
+12,τῶν,ὁ,l-p---ng-,ATR
+13,πεπραγμένων,πράσσω,v-prpeng-,ATR
+14,.,punc1,u--------,AuxK
+15,[0],,,APOS

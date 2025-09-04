@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|18|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|18|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|18|3,3,δὲ,δέ,b--------,AuxY
+Leuven|Ps-Luc|18|4,4,παρελθὼν,παρέρχομαι,v-sapamn-,ADV
+Leuven|Ps-Luc|18|5,5,εἴσω,εἴσω,d--------,OBJ
+Leuven|Ps-Luc|18|6,6,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED_CO
+Leuven|Ps-Luc|18|7,7,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|Ps-Luc|18|8,8,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|18|9,9,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|18|10,10,γράμματα,γράμμα,n-p---na-,OBJ
+Leuven|Ps-Luc|18|11,11,ἐπέδωκα,ἐπιδίδωμι,v1saia---,PRED_CO
+Leuven|Ps-Luc|18|12,12,.,.,u--------,AuxK

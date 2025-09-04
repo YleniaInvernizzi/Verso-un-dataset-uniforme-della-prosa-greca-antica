@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28857|2|1,1,διεπεμψάμην,διαπέμπω,v1saim---,PRED
+1,Leuven|28857|2|2,2,ὑμῖν,σύ,p2p---cd-,OBJ
+2,Leuven|28857|2|3,3,τόν,ὁ,l-s---ma-,ATR
+3,Leuven|28857|2|4,4,ὄνον,ὄνος,n-s---ma-,OBJ
+4,Leuven|28857|2|5,5,μετά,μετά,r--------,AuxP
+5,Leuven|28857|2|6,6,τῶν,ὁ,l-p---mg-,ATR
+6,Leuven|28857|2|7,7,βοῶν,βοῦς,n-p---cg-,ADV

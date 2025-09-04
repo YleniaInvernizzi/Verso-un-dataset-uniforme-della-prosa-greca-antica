@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;τροφὴν;τροφή;n-s---fa-;OBJ
+3;ταύτῃ;οὗτος;p-s---fd-;OBJ
+4;πορίσαι;πορίζω;v--ana---;OBJ
+5;κελεύω;κελεύω;v1spia---;PRED
+6;.;punc;u--------;AuxK

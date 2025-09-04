@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21342|26|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|21342|26|2,2,οὐκ,οὐ,d--------,AuxZ
+2,Leuven|21342|26|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|21342|26|4,4,μέγα,μέγας,a-s---nn-,ATR
+4,Leuven|21342|26|5,5,πρᾶγμα,πρᾶγμα,n-s---nn-,SBJ

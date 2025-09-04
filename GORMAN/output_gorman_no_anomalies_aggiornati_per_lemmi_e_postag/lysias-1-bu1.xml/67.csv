@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;παραλαβὼν;παραλαμβάνω;v-sapamn-;ADV
+2;δʼ;δέ;d--------;AuxY
+3;ὡς;ὡς;c--------;AuxC
+4;οἷόν;οἷος;a-s---na-;PNOM
+5;τε;τε;d--------;AuxZ
+6;ἦν;εἰμί;v3siia---;ADV
+7;πλείστους;πολύς;a-p---mas;OBJ
+8;ἐκ;ἐκ;r--------;AuxP
+9;τῶν;ὁ;l-p---mg-;ATR
+10;παρόντων;πάρειμι;v-pppamg-;ATR
+11;ἐβάδιζον;βαδίζω;v1siia---;PRED
+12;.;punc;u--------;AuxK

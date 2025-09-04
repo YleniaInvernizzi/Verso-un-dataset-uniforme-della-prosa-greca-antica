@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|113|1,1,τίς,τίς,p-s---cn-,SBJ
+1,Leuven|Genesis|113|2,2,ἀνήγγειλεν,ἀναγγέλλω,v3saia---,PRED
+2,Leuven|Genesis|113|3,3,σοι,σύ,p2s---cd-,OBJ
+3,Leuven|Genesis|113|4,4,ὅτι,ὅτι,c--------,AuxC
+4,Leuven|Genesis|113|5,5,γυμνός,γυμνός,a-s---mn-,PNOM
+5,Leuven|Genesis|113|6,6,εἶ,εἰμί,v2spia---,OBJ
+6,Leuven|Genesis|113|7,7,;,;,u--------,AuxK

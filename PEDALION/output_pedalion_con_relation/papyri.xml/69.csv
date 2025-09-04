@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1916|3|1,1,ὑγίαινον,ὑγιαίνω,v1siia---,PRED
+Leuven|1916|3|2,2,δὲ,δέ,d--------,AuxY
+Leuven|1916|3|3,3,καὶ,καί,d--------,AuxZ
+Leuven|1916|3|4,4,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|1916|3|5,5,.,.,u--------,AuxK

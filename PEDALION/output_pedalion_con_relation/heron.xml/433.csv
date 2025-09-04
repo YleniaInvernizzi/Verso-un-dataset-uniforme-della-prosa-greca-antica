@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|434|1,1,τίθεται,τίθημι,v3spie---,PRED
+Leuven|0559-002|434|2,2,δὲ,δέ,b--------,AuxY
+Leuven|0559-002|434|3,3,ἐχομένη,ἔχω,v-sppefn-,ADV
+Leuven|0559-002|434|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|0559-002|434|5,5,ἐξελίκτρας,ἐξελίκτρα,n-s---fg-,OBJ
+Leuven|0559-002|434|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0559-002|434|7,7,μηχανή,μηχανή,n-s---fn-,SBJ
+Leuven|0559-002|434|8,8,.,.,u--------,AuxK

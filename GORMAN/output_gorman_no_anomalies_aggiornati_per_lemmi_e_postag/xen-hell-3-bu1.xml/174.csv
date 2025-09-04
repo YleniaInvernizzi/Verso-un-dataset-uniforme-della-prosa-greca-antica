@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;γὰρ;γάρ;d--------;AuxY
+3;ἦν;εἰμί;v3siia---;PRED
+4;βαθὺς;βαθύς;a-s---mn-;PNOM
+5;ὁ;ὁ;l-s---mn-;ADV
+6;σῖτος;σῖτος;n-s---mn-;SBJ
+7;ἐν;ἐν;r--------;AuxP
+8;τῷ;ὁ;l-s---nd-;ADV
+9;Μαιάνδρου;Μαίανδρος;n-s---mg-;ADV
+10;πεδίῳ;πεδίον;n-s---nd-;ADV
+11;·;punc;u--------;AuxK

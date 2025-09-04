@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;συλλέξας;συλλέγω;v-sapamn-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;ἔρανον;ἔρανος;n-s---ma-;OBJ
+4;,;punc;u--------;AuxX
+5;ὥσπερ;ὥσπερ;c--------;AuxC
+6;αὐτὸς;αὐτός;p-s---mn-;SBJ
+7;φής;φημί;v2spia---;ADV
+8;,;punc;u--------;AuxX
+9;λῦσαί;λύω;v2samm---;OBJ
+10;μοι;ἐγώ;p1s---md-;OBJ
+11;.;punc;u--------;AuxK

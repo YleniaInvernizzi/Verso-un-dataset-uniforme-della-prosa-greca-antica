@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|78|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|78|2,2,συναγείρας,συναγείρω,v-sapamn-,ADV
+2,Leuven|PaeanBrev|78|3,3,ἔθνη,ἔθνος,n-p---na-,OBJ
+3,Leuven|PaeanBrev|78|4,4,πολλά,πολύς,a-p---na-,ATR
+4,Leuven|PaeanBrev|78|5,5,διʼ,διά,r--------,AuxP
+5,Leuven|PaeanBrev|78|6,6,ὅπλων,ὅπλον,n-p---ng-,ADV
+6,Leuven|PaeanBrev|78|7,7,ἔσπευδεν,σπεύδω,v3siia---,PRED
+7,Leuven|PaeanBrev|78|8,8,ἐπανελθεῖν,ἐπανέρχομαι,v--ana---,OBJ
+8,Leuven|PaeanBrev|78|9,9,εἰς,εἰς,r--------,AuxP
+9,Leuven|PaeanBrev|78|10,10,τήν,ὁ,l-s---fa-,ATR
+10,Leuven|PaeanBrev|78|11,11,βασιλείαν,βασιλεία,n-s---fa-,OBJ

@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ποῖοι,ποῖος,a-p---mn-,ATR
+1,2,νεώσοικοι,νεώσοικος,a-p---mn-,SBJ
+2,3,;,punc1,u--------,AuxK
+3,4,γεγόνασιν,γίγνομαι,v3pria---,PRED

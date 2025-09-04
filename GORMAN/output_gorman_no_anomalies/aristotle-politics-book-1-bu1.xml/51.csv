@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,χαλεπωτάτη,χαλεπός,a-s---fns,PNOM
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἀδικία,ἀδικία,n-s---fn-,SBJ
+3,4,ἔχουσα,ἔχω,v-sppafn-,ATR
+4,5,ὅπλα,ὅπλον,n-p---na-,OBJ
+5,6,:,punc1,u--------,AuxK
+6,7,ἐστιν,εἰμί,v3spia---,PRED

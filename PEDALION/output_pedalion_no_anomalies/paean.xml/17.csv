@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|18|1,1,ἐξ,ἐκ,r--------,AuxP
+1,Leuven|PaeanBrev|18|2,2,ἐκείνου,ἐκεῖνος,p-s---ng-,ADV
+2,Leuven|PaeanBrev|18|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|18|4,4,εἰς,εἰς,r--------,AuxP
+4,Leuven|PaeanBrev|18|5,5,τόδε,ὅδε,p-s---na-,ADV
+5,Leuven|PaeanBrev|18|6,6,πεπίστευται,πιστεύω,v3srie---,PRED
+6,Leuven|PaeanBrev|18|7,7,πρός,πρός,r--------,AuxP
+7,Leuven|PaeanBrev|18|8,8,θεούς,θεός,n-p---ma-,OBJ
+8,Leuven|PaeanBrev|18|9,9,ἀνειλῆφθαι,ἀναλαμβάνω,v--rne---,SBJ

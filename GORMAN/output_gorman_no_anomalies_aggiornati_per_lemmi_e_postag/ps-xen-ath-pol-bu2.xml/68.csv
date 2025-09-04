@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡ;ὁ;l-s---fn-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;θάλαττα;θάλασσα;n-s---fn-;SBJ
+4;ἐν;ἐν;r--------;AuxP
+5;τῷ;ὁ;l-s---nd-;ATR
+6;μέσῳ;μέσος;a-s---nd-;PNOM
+7;,;punc;u--------;AuxX
+8;οἱ;ὁ;l-p---mn-;ATR
+9;δὲ;δέ;c--------;COORD
+10;κρατοῦντες;κρατέω;v-pppamn-;SBJ
+11;θαλασσοκράτορές;θαλασσοκράτωρ;n-p---mn-;PNOM
+12;εἰσιν;εἰμί;v3ppia---;PRED_CO
+13;:;punc;u--------;AuxK
+14;ἐστιν;εἰμί;v3spia---;PRED_CO

@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐσελθοῦσαν,εἰσέρχομαι,v-sapafa-,OBJ_CO
+1,2,δὲ,δέ,d--------,AuxY
+2,3,καὶ,καί,c--------,COORD
+3,4,τιθεῖσαν,τίθημι,v-sppafa-,OBJ_CO
+4,5,τὰ,ὁ,l-p---na-,ATR
+5,6,εἵματα,εἷμα,n-p---na-,OBJ
+6,7,ἐθηεῖτο,θεάομαι,v3siie---,PRED
+7,8,ὁ,ὁ,l-s---mn-,ATR
+8,9,Γύγης,Γύγης,n-s---mn-,SBJ
+9,10,.,punc1,u--------,AuxK

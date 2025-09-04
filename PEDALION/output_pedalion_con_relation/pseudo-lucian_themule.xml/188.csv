@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|189|1,1,ὥστε,ὥστε,d--------,AuxY
+Leuven|Ps-Luc|189|2,2,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|Ps-Luc|189|3,3,πάντα,πᾶς,a-p---na-,ATR
+Leuven|Ps-Luc|189|4,4,δρόμωι,δρόμος,n-s---md-,ADV
+Leuven|Ps-Luc|189|5,5,ἐκομίζομεν,κομίζω,v1piia---,PRED_CO
+Leuven|Ps-Luc|189|6,6,",",",",u--------,AuxX
+Leuven|Ps-Luc|189|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|189|8,8,πρὸ,πρό,r--------,AuxP
+Leuven|Ps-Luc|189|9,9,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|189|10,10,ἑσπέρας,ἑσπέρα,n-s---fg-,ADV
+Leuven|Ps-Luc|189|11,11,ἤλθομεν,ἔρχομαι,v1paia---,PRED_CO
+Leuven|Ps-Luc|189|12,12,εἰς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|189|13,13,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|189|14,14,οἰκεῖα,οἰκεῖος,a-p---na-,OBJ
+Leuven|Ps-Luc|189|15,15,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|318|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|318|2,2,πέμπεται,πέμπω,v3spie---,PRED
+Leuven|PaeanBrev|318|3,3,αὐτοῖς,αὐτός,p-p---md-,ADV
+Leuven|PaeanBrev|318|4,4,στράτευμα,στράτευμα,n-s---nn-,SBJ
+Leuven|PaeanBrev|318|5,5,Λακωνικόν,Λακωνικός,a-s---nn-,ATR
+Leuven|PaeanBrev|318|6,6,ὑφʼ,ὑπό,r--------,AuxP
+Leuven|PaeanBrev|318|7,7,ἡγεμόνι,ἡγεμών,n-s---md-,OBJ
+Leuven|PaeanBrev|318|8,8,Ξανθίππῳ,Ξάνθιππος,n-s---md-,APOS
+Leuven|PaeanBrev|318|9,9,·,·,u--------,AuxK

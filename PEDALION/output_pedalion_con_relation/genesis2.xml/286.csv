@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|287|1,1,μόνον,μόνον,d--------,ADV
+Leuven|Genesis_deel2|287|2,2,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|287|3,3,υἱόν,υἱός,n-s---ma-,OBJ
+Leuven|Genesis_deel2|287|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|287|5,5,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|287|6,6,ἀποστρέψῃς,ἀποστρέφω,v2sasa---,PRED
+Leuven|Genesis_deel2|287|7,7,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis_deel2|287|8,8,.,.,u--------,AuxK

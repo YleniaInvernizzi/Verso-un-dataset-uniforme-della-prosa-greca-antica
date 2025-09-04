@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|628|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|628|2,2,ἔσπευσεν,σπεύδω,v3saia---,PRED_CO
+2,Leuven|Genesis|628|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+3,Leuven|Genesis|628|4,4,ἐπί,ἐπί,r--------,AuxP
+4,Leuven|Genesis|628|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|628|6,6,σκηνήν,σκηνή,n-s---fa-,ADV
+6,Leuven|Genesis|628|7,7,πρός,πρός,r--------,AuxP
+7,Leuven|Genesis|628|8,8,Σαρραν,Σαρρα,n-s---fa-,ADV
+8,Leuven|Genesis|628|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|628|10,10,εἶπεν,λέγω,v3saia---,PRED_CO
+10,Leuven|Genesis|628|11,11,αὐτῇ,αὐτός,p-s---fd-,OBJ
+11,Leuven|Genesis|628|12,12,·,·,u--------,AuxK

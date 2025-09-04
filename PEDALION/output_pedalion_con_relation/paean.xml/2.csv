@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|3|1,1,ταύτης,οὗτος,p-s---fg-,ATR
+Leuven|PaeanBrev|3|2,2,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|3|3,3,πρώτην,πρῶτος,a-s---fa-,ATR
+Leuven|PaeanBrev|3|4,4,κρηπῖδα,κρηπίς,n-s---fa-,OBJ
+Leuven|PaeanBrev|3|5,5,κατεβάλετο,καταβάλλω,v3saim---,PRED
+Leuven|PaeanBrev|3|6,6,Ῥωμύλος,Ῥωμύλος,n-s---mn-,SBJ
+Leuven|PaeanBrev|3|7,7,·,·,u--------,AuxK

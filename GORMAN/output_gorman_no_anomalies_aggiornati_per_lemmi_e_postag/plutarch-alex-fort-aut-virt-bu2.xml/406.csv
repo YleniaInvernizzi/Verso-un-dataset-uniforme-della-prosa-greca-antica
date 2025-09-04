@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀρετῆς;ἀρετή;n-s---fg-;PNOM_CO
+2;ὁ;ὁ;l-s---mn-;ATR
+3;τούτων;οὗτος;p-p---mg-;ATR
+4;θάνατος;θάνατος;n-s---mn-;SBJ
+5;ἦν;εἰμί;v3siia---;PRED
+6;,;punc;u--------;COORD
+7;οὐ;οὐ;d--------;AuxZ
+8;δυστυχίας;δυστυχία;n-s---fg-;PNOM_CO
+9;ἐπὶ;ἐπί;r--------;AuxP
+10;τηλικούτοις;τηλικοῦτος;p-p---nd-;ADV
+11;.;punc;u--------;AuxK

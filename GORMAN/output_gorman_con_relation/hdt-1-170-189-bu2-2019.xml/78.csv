@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ῥέει,ῥέω,v3spia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,ἐξ,ἐκ,r--------,AuxP
+4,Ἀρμενίων,Ἀρμένιον,n-p---ng-,ADV
+5,",",punc1,u--------,AuxX
+6,ἐὼν,εἰμί,v-sppamn-,ADV
+7,μέγας,μέγας,a-s---mn-,PNOM_CO
+8,καὶ,καί,d--------,AuxY
+9,βαθὺς,βαθύς,a-s---mn-,PNOM_CO
+10,καὶ,καί,c--------,COORD
+11,ταχύς,ταχύς,a-s---mn-,PNOM_CO
+12,:,punc1,u--------,AuxK

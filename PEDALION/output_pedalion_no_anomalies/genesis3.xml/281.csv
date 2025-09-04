@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|282|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|Genesis_deel3|282|2,2,ἔστιν,εἰμί,v3spia---,PRED_CO
+2,Leuven|Genesis_deel3|282|3,3,τοῦτο,οὗτος,p-s---nn-,SBJ
+3,Leuven|Genesis_deel3|282|4,4,ἀλλʼ,ἀλλά,c--------,AuxY
+4,Leuven|Genesis_deel3|282|5,5,ἤ,ἤ,c--------,AuxY
+5,Leuven|Genesis_deel3|282|6,6,οἶκος,οἶκος,n-s---mn-,PNOM
+6,Leuven|Genesis_deel3|282|7,7,θεοῦ,θεός,n-s---mg-,ATR
+8,Leuven|Genesis_deel3|282|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis_deel3|282|10,10,αὕτη,οὗτος,p-s---fn-,SBJ
+10,Leuven|Genesis_deel3|282|11,11,ἡ,ὁ,l-s---fn-,ATR
+11,Leuven|Genesis_deel3|282|12,12,πύλη,πύλη,n-s---fn-,PNOM
+12,Leuven|Genesis_deel3|282|13,13,τοῦ,ὁ,l-s---mg-,ATR
+13,Leuven|Genesis_deel3|282|14,14,οὐρανοῦ,οὐρανός,n-s---mg-,ATR

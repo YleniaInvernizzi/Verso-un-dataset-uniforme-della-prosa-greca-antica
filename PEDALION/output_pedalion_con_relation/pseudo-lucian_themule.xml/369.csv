@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|370|1,1,ἔπειτα,ἔπειτα,d--------,ADV
+Leuven|Ps-Luc|370|2,2,ἔπασχον,πάσχω,v3piia---,PRED
+Leuven|Ps-Luc|370|3,3,ἐκ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|370|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|370|5,5,κωμήτου,κωμήτης,n-s---mg-,ADV
+Leuven|Ps-Luc|370|6,6,ὅσα,ὅσος,p-p---nn-,SBJ
+Leuven|Ps-Luc|370|7,7,συνήθη,συνήθης,a-p---nn-,PNOM_CO
+Leuven|Ps-Luc|370|8,8,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|370|9,9,φίλια,φίλιος,a-p---nn-,PNOM_CO
+Leuven|Ps-Luc|370|10,10,τοιούτοις,τοιοῦτος,p-p---md-,ATR
+Leuven|Ps-Luc|370|11,11,ἀνοσίοις,ἀνόσιος,a-p---md-,ATR
+Leuven|Ps-Luc|370|12,12,κιναίδοις,κίναιδος,n-p---md-,ADV
+Leuven|Ps-Luc|370|13,13,ἦν,εἰμί,v3siia---,OBJ
+Leuven|Ps-Luc|370|14,14,.,.,u--------,AuxK

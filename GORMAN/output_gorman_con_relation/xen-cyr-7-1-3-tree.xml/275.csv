@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,ATR
+2,ἐμὴ,ἐμός,a-s---fn-,ATR
+3,γυνή,γυνή,n-s---fn-,SBJ
+4,",",",",u--------,AuxX
+5,εἶπεν,εἶπον,v3saia---,PRED
+6,",",",",u--------,AuxX
+7,ὦ,ὦ,i--------,AuxZ
+8,Κῦρε,Κῦρος,n-s---mv-,ExD
+9,·,·,u--------,AuxK
+10,διάγει,διάγω,v3spia---,PRED

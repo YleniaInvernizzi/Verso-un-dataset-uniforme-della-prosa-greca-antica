@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27489|4|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|27489|4|2,2,θέλῃς,ἐθέλω,v2spsa---,ADV
+3,Leuven|27489|4|4,4,γράψον,γράφω,v2sama---,PRED_CO
+4,Leuven|27489|4|5,5,ἐπί,ἐπί,r--------,AuxP
+5,Leuven|27489|4|6,6,μέ,ἐγώ,p1s---ca-,OBJ
+6,Leuven|27489|4|7,7,καί,καί,c--------,COORD
+7,Leuven|27489|4|8,8,ἔρχομαι,ἔρχομαι,v1spie---,PRED_CO

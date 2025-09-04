@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|474|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Ps-Luc|474|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|474|3,3,Μενεκλῆς,Μενεκλῆς,n-s---mn-,SBJ
+3,Leuven|Ps-Luc|474|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Ps-Luc|474|5,5,δεσπότης,δεσπότης,n-s---mn-,APOS
+5,Leuven|Ps-Luc|474|6,6,ἡμῶν,ἐγώ,p1p---cg-,ATR
+7,Leuven|Ps-Luc|474|8,8,ὥσπερ,ὥσπερ,c--------,AuxC
+8,Leuven|Ps-Luc|474|9,9,ἔφην,φημί,v1siia---,ADV
+10,Leuven|Ps-Luc|474|11,11,ἐκ,ἐκ,r--------,AuxP
+11,Leuven|Ps-Luc|474|12,12,τῆς,ὁ,l-s---fg-,ATR
+12,Leuven|Ps-Luc|474|13,13,Θεσσαλονίκης,Θεσσαλονίκη,n-s---fg-,ADV
+13,Leuven|Ps-Luc|474|14,14,δεῦρο,δεῦρο,d--------,OBJ
+14,Leuven|Ps-Luc|474|15,15,ἐληλύθει,ἔρχομαι,v3slia---,PRED
+15,Leuven|Ps-Luc|474|16,16,ἐπ’,ἐπί,r--------,AuxP
+16,Leuven|Ps-Luc|474|17,17,αἰτίαι,αἰτία,n-s---fd-,ADV
+17,Leuven|Ps-Luc|474|18,18,τοιαύτηι,τοιοῦτος,p-s---fd-,ATR

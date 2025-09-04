@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ἦ,ἦ,d--------,AuxZ
+2,καὶ,καί,d--------,AuxY
+3,ἔστι,εἰμί,v3spia---,PRED
+4,σοι,σοι,p-s---md-,ATR
+5,",",punc1,u--------,AuxX
+6,ἔφη,φημί,v3siia---,AuxY
+7,ὁ,ὁ,l-s---mn-,ATR
+8,Κῦρος,Κῦρος,n-s---mn-,SBJ
+9,",",punc1,u--------,AuxX
+10,οὐσία,οὐσία,n-s---fn-,SBJ
+11,ἀξία,ἄξιος,a-s---fn-,PNOM
+12,τῶν,ὁ,l-p---ng-,ADV
+13,τῆς,ὁ,l-s---fg-,ATR
+14,παιδός,παῖς,n-s---fg-,ATR
+15,;,punc1,u--------,AuxK

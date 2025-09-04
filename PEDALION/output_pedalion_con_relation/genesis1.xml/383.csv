@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|384|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|384|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|384|3,3,ἄνθρωπος,ἄνθρωπος,n-s---mn-,SBJ
+Leuven|Genesis|384|4,4,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|384|5,5,πλησίον,πλησίον,d--------,OBJ
+Leuven|Genesis|384|6,6,·,·,u--------,AuxK

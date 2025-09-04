@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|323|1,1,καρτερίαν,καρτερία,n-s---fa-,OBJ
+Leuven|0557-001|323|2,2,οὐκʼ,οὐ,d--------,AuxZ
+Leuven|0557-001|323|3,3,εἰλήφατε,λαμβάνω,v2pria---,PRED
+Leuven|0557-001|323|4,4,;,;,u--------,AuxK

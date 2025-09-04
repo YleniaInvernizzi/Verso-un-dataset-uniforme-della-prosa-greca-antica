@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|384|1,1,τοῦτον,οὗτος,p-s---ma-,ATR
+Leuven|Ps-Luc|384|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|384|3,3,μάγειρος,μάγειρος,n-s---mn-,SBJ
+Leuven|Ps-Luc|384|4,4,σκευάσαι,σκευάζω,v--ana---,ADV
+Leuven|Ps-Luc|384|5,5,λαβὼν,λαμβάνω,v-sapamn-,ADV
+Leuven|Ps-Luc|384|6,6,ῥαιθυμίαι,ῥαθυμία,n-s---fd-,ADV
+Leuven|Ps-Luc|384|7,7,ἀπώλεσε,ἀπόλλυμι,v3saia---,PRED
+Leuven|Ps-Luc|384|8,8,",",",",u--------,AuxX
+Leuven|Ps-Luc|384|9,9,κυνῶν,κύων,n-p---mg-,SBJ
+Leuven|Ps-Luc|384|10,10,πολλῶν,πολύς,a-p---mg-,ATR
+Leuven|Ps-Luc|384|11,11,λαθραίως,λαθραῖος,d--------,ADV
+Leuven|Ps-Luc|384|12,12,εἴσω,εἴσω,d--------,OBJ
+Leuven|Ps-Luc|384|13,13,παρελθόντων,παρέρχομαι,v-papamg-,ADV
+Leuven|Ps-Luc|384|14,14,·,·,u--------,AuxK

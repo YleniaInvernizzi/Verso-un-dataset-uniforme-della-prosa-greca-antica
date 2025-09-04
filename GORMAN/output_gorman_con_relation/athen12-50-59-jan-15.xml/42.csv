@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐθυμιᾶτο,θυμιάω,v3siie---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,αὐτῷ,αὐτός,p-s---md-,OBJ
+4,σμύρνα,σμύρνα,n-s---fn-,SBJ_CO
+5,καὶ,καί,c--------,COORD
+6,τὰ,ὁ,l-p---nn-,ATR
+7,ἄλλα,ἄλλος,a-p---nn-,ATR
+8,θυμιάματα,θυμίαμα,n-p---nn-,SBJ_CO
+9,:,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|66|1,1,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|0557-001|66|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0557-001|66|3,3,ἐπʼ,ἐπί,r--------,AuxP
+Leuven|0557-001|66|4,4,ἐμοί,ἐγώ,p1s---cd-,PNOM
+Leuven|0557-001|66|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|0557-001|66|6,6,.,.,u--------,AuxK

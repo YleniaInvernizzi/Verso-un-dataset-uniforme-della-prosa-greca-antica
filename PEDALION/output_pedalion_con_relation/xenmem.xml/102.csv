@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|103|1,1,κἀγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|0032-002|103|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0032-002|103|3,3,μαρτυρῶ,μαρτυρέω,v1spia---,PRED
+Leuven|0032-002|103|4,4,τούτοις,οὗτος,p-p---md-,OBJ
+Leuven|0032-002|103|5,5,·,·,u--------,AuxK
+Leuven|0032-002|103|6,6,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|150|1,1,βλέπω,βλέπω,v1spia---,PRED
+Leuven|0554-001|150|2,2,τοὺς,ὁ,l-p---ma-,ATR
+Leuven|0554-001|150|3,3,ἐπιβουλεύοντας,ἐπιβουλεύω,v-pppama-,OBJ
+Leuven|0554-001|150|4,4,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|0554-001|150|5,5,.,.,u--------,AuxK

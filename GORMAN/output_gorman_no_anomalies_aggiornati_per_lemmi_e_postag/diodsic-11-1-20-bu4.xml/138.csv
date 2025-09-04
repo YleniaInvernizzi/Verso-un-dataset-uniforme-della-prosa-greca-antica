@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀνδρῶν;ἀνήρ;n-p---mg-;ATR
+2;ἀγαθῶν;ἀγαθός;a-p---mg-;ATR
+3;ὅδε;ὅδε;a-s---mn-;ATR
+4;σηκὸς;σηκός;n-s---mn-;SBJ
+5;οἰκέταν;οἰκέτης;n-s---ma-;OCOMP
+6;εὐδοξίαν;εὐδοξία;n-s---fa-;OBJ
+7;Ἑλλάδος;Ἑλλάς;n-s---fg-;ATR
+8;εἵλετο;αἱρέω;v3saim---;PRED
+9;.;punc;u--------;AuxK

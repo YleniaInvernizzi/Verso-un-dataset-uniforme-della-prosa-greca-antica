@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|68|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|0059-00x|68|2,2,μὴν,μήν,d--------,AuxZ
+Leuven|0059-00x|68|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|0059-00x|68|4,4,γε,γε,d--------,AuxZ
+Leuven|0059-00x|68|5,5,ἐμὸν,ἐμός,a-s---nn-,SBJ
+Leuven|0059-00x|68|6,6,οὕτως,οὕτως,d--------,ADV
+Leuven|0059-00x|68|7,7,ἔχει,ἔχω,v3spia---,PRED
+Leuven|0059-00x|68|8,8,·,·,u--------,AuxK

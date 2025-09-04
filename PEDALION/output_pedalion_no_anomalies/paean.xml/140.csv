@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|141|1,1,μετά,μετά,r--------,AuxP
+1,Leuven|PaeanBrev|141|2,2,ταύτην,οὗτος,p-s---fa-,ADV
+2,Leuven|PaeanBrev|141|3,3,αἱρεῖ,αἱρέω,v3spia---,PRED
+3,Leuven|PaeanBrev|141|4,4,Φαλίσκους,Φαλίσκος,n-p---ma-,OBJ
+5,Leuven|PaeanBrev|141|6,6,πόλιν,πόλις,n-s---fa-,APOS
+6,Leuven|PaeanBrev|141|7,7,οὐχ,οὐ,d--------,AuxZ
+7,Leuven|PaeanBrev|141|8,8,ἥττω,ἥσσων,a-s---fac,ATR
+8,Leuven|PaeanBrev|141|9,9,τῆς,ὁ,l-s---fg-,ATR
+9,Leuven|PaeanBrev|141|10,10,προτέρας,πρότερος,a-s---fg-,ADV

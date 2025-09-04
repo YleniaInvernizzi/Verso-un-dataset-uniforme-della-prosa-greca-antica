@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27086|4|1,1,οὐχ,οὐ,d--------,AuxZ
+1,Leuven|27086|4|2,2,εὕρηκε,εὑρίσκω,v3sria---,PRED
+2,Leuven|27086|4|3,3,γὰρ,γάρ,d--------,AuxY
+3,Leuven|27086|4|4,4,Σατορνεῖλος,Σατορνεῖλος,n-s---mn-,SBJ
+4,Leuven|27086|4|5,5,ἅ,ὅς,p-p---na-,OBJ
+5,Leuven|27086|4|6,6,πεποίηκα,ποιέω,v1sria---,OBJ
+6,Leuven|27086|4|7,7,αὐτῷ,αὐτός,p-s---md-,ADV

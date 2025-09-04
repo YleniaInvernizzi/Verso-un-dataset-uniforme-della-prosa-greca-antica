@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καίτοι,καίτοι,d--------,AuxY
+2,καλλίων,καλός,a-s---mnc,PNOM
+3,γε,γε,d--------,AuxZ
+4,ἦν,εἰμί,v3siia---,PRED
+5,ὁ,ὁ,l-s---mn-,ATR
+6,κίνδυνος,κίνδυνος,n-s---mn-,SBJ
+7,αὐτῷ,αὐτός,p-s---md-,ADV
+8,...,punc1,u--------,AuxK

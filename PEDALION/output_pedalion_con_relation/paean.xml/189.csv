@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|191|1,1,ἀλλά,ἀλλά,d--------,AuxY
+Leuven|PaeanBrev|191|2,2,τρίτον,τρίτος,a-s---na-,ATR_CO
+Leuven|PaeanBrev|191|3,3,καί,καί,b--------,COORD
+Leuven|PaeanBrev|191|4,4,εἰκοστόν,εἰκοστός,a-s---na-,ATR_CO
+Leuven|PaeanBrev|191|5,5,γεγονώς,γίγνομαι,v-srpamn-,ADV
+Leuven|PaeanBrev|191|6,6,ἔτος,ἔτος,n-s---na-,ADV
+Leuven|PaeanBrev|191|7,7,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|191|8,8,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|191|9,9,ὑπατείαν,ὑπατεία,n-s---fa-,ADV
+Leuven|PaeanBrev|191|10,10,ἐκλήθη,καλέω,v3saip---,PRED
+Leuven|PaeanBrev|191|11,11,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|160|1,1,μή,μή,d--------,AuxZ
+Leuven|Genesis|160|2,2,φύλαξ,φύλαξ,n-s---mn-,PNOM
+Leuven|Genesis|160|3,3,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|160|4,4,ἀδελφοῦ,ἀδελφός,n-s---mg-,ATR
+Leuven|Genesis|160|5,5,μού,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|160|6,6,εἰμι,εἰμί,v1spia---,PRED
+Leuven|Genesis|160|7,7,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|160|8,8,;,;,u--------,AuxK

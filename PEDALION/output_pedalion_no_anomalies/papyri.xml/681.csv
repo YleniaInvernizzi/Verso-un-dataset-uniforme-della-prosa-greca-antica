@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33668|4|1,1,ἔγραψας,γράφω,v2saia---,PRED
+1,Leuven|33668|4|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|33668|4|3,3,περί,περί,r--------,AuxP
+3,Leuven|33668|4|4,4,ἄμιος,ἄμι,n-s---ng-,ADV
+4,Leuven|33668|4|5,5,Δωροθέῳ,Δωρόθεος,n-s---md-,ATR

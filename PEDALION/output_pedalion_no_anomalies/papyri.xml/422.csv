@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28065|7|1,1,δέδια,δείδω,v1sria---,PRED
+1,Leuven|28065|7|2,2,μή,μή,c--------,AuxC
+2,Leuven|28065|7|3,3,ἀποθάνῃ,ἀποθνῄσκω,v3sasa---,OBJ
+3,Leuven|28065|7|4,4,σου,σύ,p2s---cg-,SBJ
+4,Leuven|28065|7|5,5,μή,μή,d--------,AuxZ
+5,Leuven|28065|7|6,6,ὄντος,εἰμί,v-sppamg-,ADV
+6,Leuven|28065|7|7,7,ἐνθάδε,ἐνθάδε,d--------,ADV

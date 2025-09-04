@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-00x|65|1,1,πάντα,πᾶς,a-p---na-,OBJ
+1,Leuven|0059-00x|65|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|0059-00x|65|3,3,ἐπ’,ἐπί,r--------,AuxP
+3,Leuven|0059-00x|65|4,4,ὠφελίᾳ,ὠφέλεια,n-s---fd-,ADV
+4,Leuven|0059-00x|65|5,5,πάντας,πᾶς,a-p---ma-,SBJ
+5,Leuven|0059-00x|65|6,6,δρᾶν,δράω,v--pna---,OBJ

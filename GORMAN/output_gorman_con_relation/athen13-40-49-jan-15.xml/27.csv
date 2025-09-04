@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡ,ὁ,l-s---fn-,ATR
+2,Μανία,Μανία,n-s---fn-,SBJ
+3,δ᾽,δέ,d--------,AuxY
+4,αὐτόμολος,αὐτόμολος,a-s---mn-,PNOM
+5,",",punc1,u--------,AuxX
+6,ὦ,ὦ,i--------,AuxZ
+7,βέλτιστ᾽,βέλτιστος,a-p---nv-,ExD
+8,",",punc1,u--------,AuxX
+9,ἔφη,φημί,v3siia---,PRED
+10,.,punc1,u--------,AuxK
+11,[0],,,OBJ

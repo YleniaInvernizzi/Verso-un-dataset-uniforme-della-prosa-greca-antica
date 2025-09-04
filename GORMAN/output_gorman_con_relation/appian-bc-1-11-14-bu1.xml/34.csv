@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ᾗ,ᾗ,d--------,ADV
+2,πέλεκυν,πέλεκυς,n-s---fa-,OBJ
+3,θέμενος,τίθημι,v-sapmmn-,ADV
+4,λήψῃ,λαμβάνω,v2sfim---,PRED
+5,κράτος,κράτος,n-s---na-,OBJ
+6,ἀμφιλαφές,ἀμφιλαφής,a-s---na-,ATR
+7,σοι,σοι,p-s---md-,OBJ
+8,.,punc1,u--------,AuxK

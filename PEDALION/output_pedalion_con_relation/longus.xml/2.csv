@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0561-001|3|1,1,νομίσειας,νομίζω,v2saoa---,PRED
+Leuven|0561-001|3|2,2,ἄν,ἄν,d--------,AuxY
+Leuven|0561-001|3|3,3,οὐ,οὐ,d--------,AuxZ
+Leuven|0561-001|3|4,4,πόλιν,πόλις,n-s---fa-,OBJ_CO
+Leuven|0561-001|3|5,5,ὁρᾶν,ὁράω,v--pna---,OBJ
+Leuven|0561-001|3|6,6,ἀλλά,ἀλλά,b--------,COORD
+Leuven|0561-001|3|7,7,νῆσον,νῆσος,n-s---fa-,OBJ_CO
+Leuven|0561-001|3|8,8,.,.,u--------,AuxK

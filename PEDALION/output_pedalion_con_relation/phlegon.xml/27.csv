@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|28|1,1,ὄρθρου,ὄρθρος,n-s---mg-,ADV
+Leuven|0585-001|28|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0585-001|28|3,3,βαθέος,βαθύς,a-s---mg-,ATR
+Leuven|0585-001|28|4,4,πλῆρες,πλήρης,a-s---nn-,PNOM
+Leuven|0585-001|28|5,5,ἦν,εἰμί,v3siia---,PRED
+Leuven|0585-001|28|6,6,τό,ὁ,l-s---nn-,ATR
+Leuven|0585-001|28|7,7,θέατρον,θέατρον,n-s---nn-,SBJ
+Leuven|0585-001|28|8,8,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|249|1,1,κατάγαια,κατάγαιος,a-p---na-,OCOMP_CO
+Leuven|Genesis|249|2,2,",",",",u--------,AuxX
+Leuven|Genesis|249|3,3,διώροφα,διώροφος,a-p---na-,OCOMP_CO
+Leuven|Genesis|249|4,4,καί,καί,b--------,COORD
+Leuven|Genesis|249|5,5,τριώροφα,τριώροφος,a-p---na-,OCOMP_CO
+Leuven|Genesis|249|6,6,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|Genesis|249|7,7,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis|249|8,8,.,.,u--------,AuxK

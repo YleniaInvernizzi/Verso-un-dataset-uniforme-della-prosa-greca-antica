@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|166|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|166|2,2,τόν,ὁ,l-s---ma-,ATR
+2,Leuven|Genesis_deel2|166|3,3,υἱόν,υἱός,n-s---ma-,OBJ
+3,Leuven|Genesis_deel2|166|4,4,δέ,δέ,d--------,AuxY
+4,Leuven|Genesis_deel2|166|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Genesis_deel2|166|6,6,παιδίσκης,παιδίσκη,n-s---fg-,ATR
+6,Leuven|Genesis_deel2|166|7,7,ταύτης,οὗτος,p-s---fg-,ATR
+8,Leuven|Genesis_deel2|166|9,9,εἰς,εἰς,r--------,AuxP
+9,Leuven|Genesis_deel2|166|10,10,ἔθνος,ἔθνος,n-s---na-,OCOMP
+10,Leuven|Genesis_deel2|166|11,11,μέγα,μέγας,a-s---na-,ATR
+11,Leuven|Genesis_deel2|166|12,12,ποιήσω,ποιέω,v1sasa---,PRED
+12,Leuven|Genesis_deel2|166|13,13,αὐτόν,αὐτός,p-s---ma-,OBJ
+14,Leuven|Genesis_deel2|166|15,15,ὅτι,ὅτι,c--------,AuxC
+15,Leuven|Genesis_deel2|166|16,16,σπέρμα,σπέρμα,n-s---nn-,PNOM
+16,Leuven|Genesis_deel2|166|17,17,σόν,σός,a-s---nn-,ATR
+17,Leuven|Genesis_deel2|166|18,18,ἐστιν,εἰμί,v3spia---,ADV

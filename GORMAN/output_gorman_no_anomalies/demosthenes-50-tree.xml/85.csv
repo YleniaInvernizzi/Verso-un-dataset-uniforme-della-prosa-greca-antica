@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὴν,ὁ,l-s---fa-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ναῦν,ναῦς,n-s---fa-,OBJ
+3,4,παράλαβε,παραλαμβάνω,v2sama---,PRED
+4,5,·,·,u--------,AuxK

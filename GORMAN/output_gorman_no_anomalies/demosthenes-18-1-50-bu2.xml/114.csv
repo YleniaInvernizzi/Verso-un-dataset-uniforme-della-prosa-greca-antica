@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,εἶπε,εἶπον,v3saia---,PRED
+1,2,Καλλισθένης,Καλλισθένης,n-s---mn-,SBJ
+2,3,Φαληρεύς,Φαληρεύς,a-s---mn-,ATR
+3,4,.,punc1,u--------,AuxX

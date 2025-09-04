@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21347|4|1,1,ἀλλὰ,ἀλλά,c--------,AuxY
+1,Leuven|21347|4|2,2,οἶδα,οἶδα,v1sria---,PRED
+2,Leuven|21347|4|3,3,ὅτι,ὅτι,c--------,AuxC
+3,Leuven|21347|4|4,4,ἡ,ὁ,l-s---fn-,ATR
+4,Leuven|21347|4|5,5,μήτηρ,μήτηρ,n-s---fn-,SBJ
+5,Leuven|21347|4|6,6,μου,ἐγώ,p1s---cg-,ATR
+6,Leuven|21347|4|7,7,ταῦτα,οὗτος,p-p---na-,OBJ
+7,Leuven|21347|4|8,8,ποιεῖ,ποιέω,v3spia---,OBJ

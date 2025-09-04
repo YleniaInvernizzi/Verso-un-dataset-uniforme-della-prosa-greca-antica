@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἣν;ὅς;p-s---fa-;OBJ
+2;Ἀλέξανδρος;Ἀλέξανδρος;n-s---mn-;SBJ
+3;ἔσχεν;ἔχω;v3saia---;PRED
+4;,;punc;u--------;AuxX
+5;ᾧ;ὅς;p-s---md-;OBJ
+6;μέθην;μέθη;n-s---fa-;OBJ_CO
+7;τινὲς;τις;p-p---cn-;SBJ
+8;ἐγκαλοῦσι;ἐγκαλέω;v3ppia---;ATR
+9;καὶ;καί;c--------;COORD
+10;οἴνωσιν;οἴνωσις;n-s---fa-;OBJ_CO
+11;.;punc;u--------;AuxK

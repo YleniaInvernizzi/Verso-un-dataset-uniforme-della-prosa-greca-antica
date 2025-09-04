@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30269|10|1,1,ἀρκεῖ,ἀρκέω,v3spia---,PRED
+1,Leuven|30269|10|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|30269|10|3,3,ἅ,ὅς,p-p---na-,OBJ
+3,Leuven|30269|10|4,4,ἔχω,ἔχω,v1spia---,SBJ
+4,Leuven|30269|10|5,5,ὧδε,ὧδε,d--------,ADV

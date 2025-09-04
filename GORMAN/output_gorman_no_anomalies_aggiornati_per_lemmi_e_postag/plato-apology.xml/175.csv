@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;πολλήν;πολύς;a-s---fa-;ATR
+2;γέ;γε;d--------;AuxZ
+3;μου;ἐγώ;p1s---mg-;OBJ
+4;κατέγνωκας;καταγιγνώσκω;v2sria---;PRED
+5;δυστυχίαν;δυστυχία;n-s---fa-;OBJ
+6;.;punc;u--------;AuxK

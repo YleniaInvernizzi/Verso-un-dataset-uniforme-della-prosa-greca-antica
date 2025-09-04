@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|97|1,1,ψιλὸν,ψιλός,a-s---nn-,ADV
+1,Leuven|Ps-Luc|97|2,2,ὁρᾶις,ὁράω,v2spia---,PRED_CO
+2,Leuven|Ps-Luc|97|3,3,αὐτοῦ,αὐτοῦ,d--------,ADV
+3,Leuven|Ps-Luc|97|4,4,παρακείμενον,παράκειμαι,v-srpena-,OBJ
+5,Leuven|Ps-Luc|97|6,6,τούτωι,οὗτος,p-s---nd-,OBJ
+6,Leuven|Ps-Luc|97|7,7,χρῆσαι,χράω,v2samm---,PRED_CO

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,περιελθὼν,περιέρχομαι,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,εἰς,εἰς,r--------,AuxP
+4,τὸ,ὁ,l-s---nd-,ATR
+5,συσσίτιον,συσσίτιον,n-s---na-,OBJ
+6,ἀπῄει,ἄπειμι2,v3siia---,PRED
+7,:,punc1,u--------,AuxK

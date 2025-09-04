@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,πλείους,πλείων,a-p---mnc,PNOM
+2,ἔσονται,εἰμί,v3pfim---,PRED
+3,ὑμᾶς,σύ,p2p----a-,OBJ
+4,οἱ,ὁ,l-p---mn-,ATR
+5,ἐλέγχοντες,ἐλέγχω,v-pppamn-,SBJ
+6,",",punc1,u--------,AuxX
+7,οὓς,ὅς,p-p---ma-,OBJ
+8,νῦν,νῦν,d--------,ADV
+9,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+10,κατεῖχον,κατέχω,v1siia---,ATR_CO
+11,",",punc1,u--------,AuxX
+12,ὑμεῖς,σύ,p-p---mn-,SBJ
+13,δὲ,δέ,c--------,COORD
+14,οὐκ,οὐ,d--------,AuxZ
+15,ᾐσθάνεσθε,αἰσθάνομαι,v2piim---,ATR_CO
+16,·,punc1,u--------,AuxK

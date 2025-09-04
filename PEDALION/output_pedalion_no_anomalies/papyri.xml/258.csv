@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27089|20|1,1,ἄσπασαι,ἀσπάζομαι,v2samm---,PRED
+1,Leuven|27089|20|2,2,πάντας,πᾶς,a-p---ma-,ATR
+2,Leuven|27089|20|3,3,τοὺς,ὁ,l-p---ma-,ATR
+3,Leuven|27089|20|4,4,φιλοῦντας,φιλέω,v-pppama-,OBJ
+4,Leuven|27089|20|5,5,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+5,Leuven|27089|20|6,6,κατʼ,κατά,r--------,AuxP
+6,Leuven|27089|20|7,7,ὄνομα,ὄνομα,n-s---na-,ADV

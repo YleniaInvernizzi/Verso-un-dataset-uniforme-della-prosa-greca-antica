@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|396|1,1,Σημ,Σημ,n-s---mn-,SBJ
+1,Leuven|Genesis|396|2,2,υἱός,υἱός,n-s---mn-,PNOM
+2,Leuven|Genesis|396|3,3,ἑκατόν,ἑκατόν,m--------,ATR
+3,Leuven|Genesis|396|4,4,ἐτῶν,ἔτος,n-p---ng-,ATR
+5,Leuven|Genesis|396|6,6,ὅτε,ὅτε,c--------,AuxC
+6,Leuven|Genesis|396|7,7,ἐγέννησεν,γεννάω,v3saia---,ADV
+7,Leuven|Genesis|396|8,8,τόν,ὁ,l-s---ma-,ATR
+8,Leuven|Genesis|396|9,9,Αρφαξαδ,Αρφαξαδ,n-s---ma-,OBJ
+10,Leuven|Genesis|396|11,11,δευτέρου,δεύτερος,a-s---ng-,ATR
+11,Leuven|Genesis|396|12,12,ἔτους,ἔτος,n-s---ng-,ADV
+12,Leuven|Genesis|396|13,13,μετά,μετά,r--------,AuxP
+13,Leuven|Genesis|396|14,14,τόν,ὁ,l-s---ma-,ATR
+14,Leuven|Genesis|396|15,15,κατακλυσμόν,κατακλυσμός,n-s---ma-,ADV

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|180|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis|180|2,2,ἦν,εἰμί,v3siia---,PRED
+2,Leuven|Genesis|180|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|180|4,4,πατήρ,πατήρ,n-s---mn-,PNOM
+4,Leuven|Genesis|180|5,5,οἰκούντων,οἰκέω,v-pppamg-,ATR
+5,Leuven|Genesis|180|6,6,ἐν,ἐν,r--------,AuxP
+6,Leuven|Genesis|180|7,7,σκηναῖς,σκηνή,n-p---fd-,ADV
+7,Leuven|Genesis|180|8,8,κτηνοτρόφων,κτηνοτρόφος,a-p---ng-,ATR

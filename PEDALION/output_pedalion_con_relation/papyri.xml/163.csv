@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|3|1,1,εἴ,εἰ,c--------,AuxC
+Leuven|21347|3|2,2,τι,τις,p-s---na-,OBJ
+Leuven|21347|3|3,3,θέλεις,ἐθέλω,v2spia---,ADV
+Leuven|21347|3|4,4,ποιεῖς,ποιέω,v2spia---,PRED
+Leuven|21347|3|5,5,",",",",u--------,AuxX
+Leuven|21347|3|6,6,λόγον,λόγος,n-s---ma-,OBJ
+Leuven|21347|3|7,7,μου,ἐγώ,p1s---cg-,ATR
+Leuven|21347|3|8,8,μὴ,μή,d--------,AuxZ
+Leuven|21347|3|9,9,ἔχουσα,ἔχω,v-sppafn-,ADV
+Leuven|21347|3|10,10,.,.,u--------,AuxK

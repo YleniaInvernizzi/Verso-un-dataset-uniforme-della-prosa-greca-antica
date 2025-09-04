@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|35|1,1,οὐχί,οὐ,d--------,AuxZ
+2,Leuven|Genesis_deel2|35|3,3,ἀλλʼ,ἀλλά,c--------,AuxY
+3,Leuven|Genesis_deel2|35|4,4,ἐν,ἐν,r--------,AuxP
+4,Leuven|Genesis_deel2|35|5,5,τῇ,ὁ,l-s---fd-,ATR
+5,Leuven|Genesis_deel2|35|6,6,πλατείᾳ,πλατύς,a-s---fd-,ADV
+6,Leuven|Genesis_deel2|35|7,7,καταλύσομεν,καταλύω,v1pfia---,PRED

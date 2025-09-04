@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|97|1,1,ἑνὸς,εἷς,m-s---mg-,ATR
+Leuven|0059-003|97|2,2,μόνου,μόνος,a-s---mg-,ATR
+Leuven|0059-003|97|3,3,.,.,u--------,AuxK
+Leuven|0059-003|97|4,4,[0],,,PRED
+|0059-003|98|5,5,[1],,,OBJ

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|353|1,1,Σαβα,Σαβα,n-s---mn-,PNOM_CO
+1,Leuven|Genesis|353|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis|353|3,3,Ευιλα,Ευιλα,n-s---mn-,PNOM_CO
+3,Leuven|Genesis|353|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis|353|5,5,Σαβαθα,Σαβαθα,n-s---mn-,PNOM_CO
+5,Leuven|Genesis|353|6,6,καί,καί,c--------,AuxY
+6,Leuven|Genesis|353|7,7,Ρεγμα,Ρεγμα,n-s---mn-,PNOM_CO
+7,Leuven|Genesis|353|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|353|9,9,Σαβακαθα,Σαβακαθα,n-s---mn-,PNOM_CO

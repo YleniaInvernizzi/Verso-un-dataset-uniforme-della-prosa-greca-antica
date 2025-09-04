@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔτι,ἔτι,d--------,AuxY
+2,οἱ,ὁ,l-p---mn-,ATR
+3,γεωργοὶ,γεωργός,a-p---mn-,SBJ
+4,τί,τις,a-s---na_,ADV
+5,χρήσιμοι,χρήσιμος,a-p---mn-,PNOM
+6,τῇ,ὁ,l-s---fd-,ATR
+7,πόλει,πόλις,n-s---fd-,ADV
+8,;,punc1,u--------,AuxK
+9,εἰσιν,εἰμί,v3ppia---,PRED

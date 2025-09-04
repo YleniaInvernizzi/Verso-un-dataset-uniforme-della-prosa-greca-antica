@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,Βαβυλώνιοι,Βαβυλώνιος,n-p---mn-,SBJ
+4,ἐκστρατευσάμενοι,ἐκστρατεύω,v-papmmn-,ADV
+5,ἔμενον,μένω,v3piia---,PRED
+6,αὐτόν,αὐτός,p-s---ma-,OBJ
+7,.,punc1,u--------,AuxK

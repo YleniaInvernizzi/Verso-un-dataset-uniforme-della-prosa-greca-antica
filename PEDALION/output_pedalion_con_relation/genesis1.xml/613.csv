@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|614|1,1,συνετέλεσεν,συντελέω,v3saia---,PRED_CO
+Leuven|Genesis|614|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|614|3,3,λαλῶν,λαλέω,v-sppamn-,ADV
+Leuven|Genesis|614|4,4,πρός,πρός,r--------,AuxP
+Leuven|Genesis|614|5,5,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|614|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|614|7,7,ἀνέβη,ἀναβαίνω,v3saia---,PRED_CO
+Leuven|Genesis|614|8,8,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|614|9,9,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|614|10,10,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis|614|11,11,Ἀβραάμ,Ἀβραάμ,n-s---mg-,ADV
+Leuven|Genesis|614|12,12,.,.,u--------,AuxK

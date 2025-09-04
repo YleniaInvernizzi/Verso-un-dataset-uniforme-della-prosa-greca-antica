@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦσαν;εἰμί;v3piia---;PRED
+2;αὗται;οὗτος;p-p---fn-;SBJ
+3;Λάμια;Λάμια;n-s---fn-;PNOM_CO
+4;καὶ;καί;d--------;AuxY
+5;Σκιώνη;Σκιώνη;n-s---fn-;PNOM_CO
+6;καὶ;καί;d--------;AuxY
+7;Σατύρα;Σατύρα;n-s---fn-;PNOM_CO
+8;καὶ;καί;c--------;COORD
+9;Νάννιον;Νάννιον;n-s---fn-;PNOM_CO
+10;.;punc;u--------;AuxK

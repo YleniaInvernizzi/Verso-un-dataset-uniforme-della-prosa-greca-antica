@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;χρόνος;χρόνος;n-s---mn-;SBJ
+2;τε;τε;d--------;AuxY
+3;ἐπελθὼν;ἐπέρχομαι;v-sapamn-;ADV
+4;ἐνεόχμωσε;νεοχμόω;v3saia---;PRED
+5;πάντα;πᾶς;a-p---na-;OBJ
+6;.;punc;u--------;AuxK

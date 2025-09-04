@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|90|1,1,παῦσαι,παύω,v2samm---,PRED
+Leuven|0585-001|90|2,2,σκυλεύων,σκυλεύω,v-sppamn-,ADV
+Leuven|0585-001|90|3,3,στρατὸν,στρατός,n-s---ma-,OBJ
+Leuven|0585-001|90|4,4,Ἄιδος,Αἵδης,n-s---mg-,ATR
+Leuven|0585-001|90|5,5,εἰς,εἰς,r--------,AuxP
+Leuven|0585-001|90|6,6,χθόνα,χθών,n-s---fa-,OBJ
+Leuven|0585-001|90|7,7,βάντα,βαίνω,v-sapama-,ATR
+Leuven|0585-001|90|8,8,·,·,u--------,AuxK

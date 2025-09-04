@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|677|2|1,1,ἐν,ἐν,r--------,AuxP
+1,Leuven|677|2|2,2,τῇ,ὁ,l-s---fd-,ATR
+2,Leuven|677|2|3,3,Τύρῳ,Τύρος,n-s---fd-,ADV
+3,Leuven|677|2|4,4,ἀγοράσματα,ἀγόρασμα,n-p---na-,OBJ
+4,Leuven|677|2|5,5,τινα,τις,p-p---na-,ATR
+5,Leuven|677|2|6,6,λαβών,λαμβάνω,v-sapamn-,ADV
+6,Leuven|677|2|7,7,ἀνήλωκα,ἀναλίσκω,v1sria---,PRED
+7,Leuven|677|2|8,8,τό,ὁ,l-s---na-,ATR
+8,Leuven|677|2|9,9,ἐφόδιον,ἐφόδιον,n-s---na-,OBJ

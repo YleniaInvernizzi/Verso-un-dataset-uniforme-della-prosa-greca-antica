@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;πιστεύων;πιστεύω;v-sppamn-;ADV
+2;δ᾽;δέ;d--------;AuxY
+3;ὁ;ὁ;l-s---mn-;ATR
+4;βασιλεὺς;βασιλεύς;n-s---mn-;SBJ
+5;οὐκ;οὐ;d--------;AuxZ
+6;εἶχεν;ἔχω;v3siia---;PRED
+7;ὅ;ὅς;p-s---na-;OBJ
+8;τι;τις;a-s---na-;ATR
+9;χρὴ;χράω;v3spia---;OBJ
+10;δρᾶν;δράω;v--pna---;SBJ
+11;ὡς;ὡς;c--------;AuxC
+12;ἑώρα;ὁράω;v3siia---;ADV
+13;μείζονα;μέγας;a-s---mac;PNOM
+14;τὸν;ὁ;l-s---ma-;ATR
+15;διάφορον;διάφορος;a-s---ma-;SBJ
+16;.;punc;u--------;AuxK

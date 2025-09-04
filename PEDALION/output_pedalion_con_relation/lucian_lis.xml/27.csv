@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-014|28|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|0062-014|28|2,2,τί,τίς,p-s---na-,ADV
+Leuven|0062-014|28|3,3,λέγω,λέγω,v1spia---,PRED
+Leuven|0062-014|28|4,4,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|0062-014|28|5,5,;,;,u--------,AuxK

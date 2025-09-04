@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|22|1,1,καὶ,καί,d--------,AuxY
+Leuven|21342|22|2,2,εἰ,εἰ,c--------,AuxC
+Leuven|21342|22|3,3,τέκνον,τέκνον,n-s---na-,OBJ
+Leuven|21342|22|4,4,ἔσχηκεν,ἔχω,v3sria---,ADV
+Leuven|21342|22|5,5,γράψον,γράφω,v2sama---,PRED
+Leuven|21342|22|6,6,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|21342|22|7,7,.,.,u--------,AuxK

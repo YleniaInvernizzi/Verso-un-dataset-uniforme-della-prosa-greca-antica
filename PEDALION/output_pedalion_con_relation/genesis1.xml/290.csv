@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|291|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|291|2,2,ἐπισχών,ἐπέχω,v-sapamn-,ADV
+Leuven|Genesis|291|3,3,ἔτι,ἔτι,d--------,ADV
+Leuven|Genesis|291|4,4,ἡμέρας,ἡμέρα,n-p---fa-,ADV
+Leuven|Genesis|291|5,5,ἑπτά,ἑπτά,m--------,ATR
+Leuven|Genesis|291|6,6,ἑτέρας,ἕτερος,a-p---fa-,ATR
+Leuven|Genesis|291|7,7,πάλιν,πάλιν,d--------,ADV
+Leuven|Genesis|291|8,8,ἐξαπέστειλεν,ἐξαποστέλλω,v3saia---,PRED
+Leuven|Genesis|291|9,9,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|291|10,10,περιστεράν,περιστερά,n-s---fa-,OBJ
+Leuven|Genesis|291|11,11,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|291|12,12,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|291|13,13,κιβωτοῦ,κιβωτός,n-s---fg-,OBJ
+Leuven|Genesis|291|14,14,·,·,u--------,AuxK

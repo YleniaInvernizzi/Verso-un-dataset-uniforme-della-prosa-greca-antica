@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Φιλήμονα,Φιλήμων,n-s---ma-,SBJ
+2,γὰρ,γάρ,d-------------,AuxY
+3,οἶδα,οἶδα,v1sria---,PRED
+4,τοῦτ᾽,οὗτος,p-s---na-,OBJ
+5,εἰρηκότα,ἐρῶ,v-srpama-,OBJ
+6,ἐν,ἐν,r--------,AuxP
+7,Νεαίρᾳ,Νέαιρα,n-s---fd-,ADV
+8,:,punc1,u--------,AuxK

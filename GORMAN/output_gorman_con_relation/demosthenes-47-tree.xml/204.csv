@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,λέγε,λέγω3,v2spma---,PRED
+2,τὰς,ὁ,l-p---fa-,ATR
+3,μαρτυρίας,μαρτυρία,n-p---fa-,OBJ
+4,.,.,u--------,AuxK

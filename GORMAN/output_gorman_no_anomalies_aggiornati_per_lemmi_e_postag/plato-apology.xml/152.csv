@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ὁρᾷς;ὁράω;v2spia---;PRED
+2;,;punc;u--------;AuxX
+3;ὦ;ὦ;i--------;AuxZ
+4;Μέλητε;Μέλητος;n-s---mv-;ExD
+5;,;punc;u--------;AuxX
+6;ὅτι;ὅτι;c--------;AuxC
+7;σιγᾷς;σιγάω;v2spia---;OBJ_CO
+8;καὶ;καί;c--------;COORD
+9;οὐκ;οὐ;d--------;AuxZ
+10;ἔχεις;ἔχω;v2spia---;OBJ_CO
+11;εἰπεῖν;λέγω;v--ana---;OBJ
+12;";";punc;u--------;AuxK

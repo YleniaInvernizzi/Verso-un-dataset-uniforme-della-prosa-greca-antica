@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ὃς;ὅς;p-s---mn-;SBJ
+2;μετριάζων;μετριάζω;v-sppamn-;ADV
+3;μέν;μέν;d--------;AuxY
+4;ἐστιν;εἰμί;v3spia---;PRED_CO
+5;εὔχαρις;εὔχαρις;n-s---mn-;PNOM
+6;,;punc;u--------;AuxX
+7;ἐπιτεινόμενος;ἐπιτείνω;v-sppemn-;ADV_CO
+8;δὲ;δέ;c--------;COORD
+9;καὶ;καί;c--------;COORD
+10;διαταράττων;διαταράσσω;v-sppamn-;ADV_CO
+11;χαλεπώτατος;χαλεπός;a-s---mns;PNOM
+12;...;punc;u--------;AuxK
+13;ἐστιν;εἰμί;v3spia---;PRED_CO

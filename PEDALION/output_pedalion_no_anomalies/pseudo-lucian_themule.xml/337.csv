@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|338|1,1,ἐπειδὴ,ἐπειδή,c--------,AuxC
+1,Leuven|Ps-Luc|338|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|338|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|Ps-Luc|338|4,4,ἀνθρώπους,ἄνθρωπος,n-p---ma-,OBJ
+4,Leuven|Ps-Luc|338|5,5,ἔρωι,ἔρος,n-s---md-,ADV_CO
+5,Leuven|Ps-Luc|338|6,6,καὶ,καί,c--------,COORD
+6,Leuven|Ps-Luc|338|7,7,οἴστρωι,οἶστρος,n-s---md-,ADV_CO
+7,Leuven|Ps-Luc|338|8,8,φέρεται,φέρω,v3spie---,ADV
+9,Leuven|Ps-Luc|338|10,10,λαβὼν,λαμβάνω,v-sapamn-,ADV
+10,Leuven|Ps-Luc|338|11,11,αὐτὸν,αὐτός,p-s---ma-,OBJ
+11,Leuven|Ps-Luc|338|12,12,ἔκτεμε,ἐκτέμνω,v3saia---,PRED

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔσθιε,ἐσθίω,v2spma---,PRED_CO
+2,",",punc1,u--------,AuxX
+3,πῖνε,πίνω,v2spma---,PRED_CO
+4,",",punc1,u--------,COORD
+5,παῖζε,παίζω,v2spma---,PRED_CO
+6,:,punc1,u--------,AuxK

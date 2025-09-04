@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|331|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|331|2,2,παρέθηκεν,παρατίθημι,v3saia---,PRED
+Leuven|Genesis_deel2|331|3,3,αὐτοῖς,αὐτός,p-p---md-,OBJ
+Leuven|Genesis_deel2|331|4,4,ἄρτους,ἄρτος,n-p---ma-,OBJ
+Leuven|Genesis_deel2|331|5,5,φαγεῖν,ἐσθίω,v--ana---,ATR
+Leuven|Genesis_deel2|331|6,6,.,.,u--------,AuxK

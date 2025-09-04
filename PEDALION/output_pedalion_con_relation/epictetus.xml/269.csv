@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|270|1,1,συνορῶν,συνοράω,v-sppamn-,ADV
+Leuven|0557-001|270|2,2,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|0557-001|270|3,3,οὐ,οὐ,d--------,AuxZ
+Leuven|0557-001|270|4,4,κινεῖται,κινέω,v3spie---,PRED_CO
+Leuven|0557-001|270|5,5,οὐδέ,οὐδέ,c--------,COORD
+Leuven|0557-001|270|6,6,προκόπτει,προκόπτω,v3spia---,PRED_CO
+Leuven|0557-001|270|7,7,·,·,u--------,AuxK

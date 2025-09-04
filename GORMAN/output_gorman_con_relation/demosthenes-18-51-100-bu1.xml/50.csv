@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,ἤδη,ἤδη,d--------,ADV
+2,γάρ,γάρ,d--------,AuxY
+3,σ᾽,σύ,p-s---ma-,OBJ
+4,ἐρωτῶ,ἐρωτάω,v1spia---,PRED
+5,πάντα,πᾶς,a-p---na-,ATR
+6,τἄλλ᾽,ἄλλος,p-p---na-,OBJ_AP
+7,ἀφείς,ἀφίημι,v-sapamn-,ADV
+8,",",punc1,u--------,APOS
+9,Ἀμφίπολιν,Ἀμφίπολις,n-s---fa-,OBJ_AP_CO
+10,",",punc1,u--------,AuxX
+11,Πύδναν,Πύδνα,n-s---fa-,OBJ_AP_CO
+12,",",punc1,u--------,AuxX
+13,Ποτείδαιαν,Ποτείδαια,n-s---fa-,OBJ_AP_CO
+14,",",punc1,u--------,COORD
+15,Ἁλόννησον,Ἁλόννησος,n-s---ma-,OBJ_AP_CO
+16,:,punc1,u--------,AuxK

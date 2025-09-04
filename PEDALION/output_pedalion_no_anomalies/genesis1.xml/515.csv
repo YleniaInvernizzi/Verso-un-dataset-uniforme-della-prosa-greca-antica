@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|516|1,1,δέσποτα,δεσπότης,n-s---mv-,ExD
+2,Leuven|Genesis|516|3,3,τί,τίς,p-s---na-,OBJ
+3,Leuven|Genesis|516|4,4,μοι,ἐγώ,p1s---cd-,OBJ
+4,Leuven|Genesis|516|5,5,δώσεις,δίδωμι,v2sfia---,PRED
+5,Leuven|Genesis|516|6,6,;,;,u--------,AuxK

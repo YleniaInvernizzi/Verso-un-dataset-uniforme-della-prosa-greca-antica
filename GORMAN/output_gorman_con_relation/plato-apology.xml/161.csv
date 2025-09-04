@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,πότερον,πότερος,a-s---na-,AuxY
+2,ἅπαντες,ἅπας,a-p---mn-,SBJ
+3,",",punc1,u--------,AuxX
+4,ἢ,ἢ,c--------,COORD
+5,οἱ,ὁ,l-p---mn-,SBJ
+6,μὲν,μέν,d--------,AuxY
+7,αὐτῶν,αὐτός,p-p---mg-,ATR
+8,",",punc1,u--------,AuxX
+9,οἱ,ὁ,l-p---mn-,SBJ
+10,δʼ,δέ,c--------,COORD
+11,οὔ,οὐ,d--------,AuxZ
+12,;,punc1,u--------,AuxK
+13,ποιοῦσιν,ποιέω,v3ppia---,PRED_CO
+14,ποιοῦσιν,ποιέω,v3ppia---,PRED_CO
+15,ποιοῦσιν,ποιέω,v3ppia---,PRED_CO

@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|239|1,1,ᾗ,ὅς,p-s---fd-,OBJ
+1,Leuven|PaeanBrev|239|2,2,χρησάμενος,χράω,v-sapmmn-,ADV
+2,Leuven|PaeanBrev|239|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|PaeanBrev|239|4,4,Λευῖνος,Λευῖνος,n-s---mn-,SBJ
+4,Leuven|PaeanBrev|239|5,5,ὑπεχώρησεν,ὑποχωρέω,v3saia---,PRED

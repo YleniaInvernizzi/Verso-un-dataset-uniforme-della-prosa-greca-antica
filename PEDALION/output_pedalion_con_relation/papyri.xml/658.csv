@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|33329|4|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+Leuven|33329|4|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|33329|4|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+Leuven|33329|4|4,4,πολλοῖς,πολύς,a-p---md-,ATR
+Leuven|33329|4|5,5,χρόνοις,χρόνος,n-p---md-,ADV
+Leuven|33329|4|6,6,",",",",u--------,AuxX
+Leuven|33329|4|7,7,δέσποτα,δεσπότης,n-s---mv-,ExD
+Leuven|33329|4|8,8,ἄδελφε,ἀδελφός,n-s---mv-,APOS
+Leuven|33329|4|9,9,.,.,u--------,AuxK

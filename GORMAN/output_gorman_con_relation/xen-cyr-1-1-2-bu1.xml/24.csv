@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπαιδεύθη,παιδεύω,v3saip---,PRED
+2,γε,γε,d--------,AuxZ
+3,μὴν,μήν,d--------,AuxY
+4,ἐν,ἐν,r--------,AuxP
+5,Περσῶν,Πέρσης,n-p---mg-,ATR
+6,νόμοις,νόμος,n-p---md-,ADV
+7,·,punc1,u--------,AuxK

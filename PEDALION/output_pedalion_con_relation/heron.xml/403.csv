@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|404|1,1,ἀκολουθήσει,ἀκολουθέω,v3sfia---,PRED
+Leuven|0559-002|404|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0559-002|404|3,3,χάρτης,χάρτης,n-s---mn-,SBJ
+Leuven|0559-002|404|4,4,.,.,u--------,AuxK

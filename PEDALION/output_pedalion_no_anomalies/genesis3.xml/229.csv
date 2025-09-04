@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|230|1,1,εὐλόγησον,εὐλογέω,v2sama---,PRED
+1,Leuven|Genesis_deel3|230|2,2,δή,δή,d--------,AuxY
+2,Leuven|Genesis_deel3|230|3,3,κἀμέ,καΐἐμός,p-s----a-,OBJ
+4,Leuven|Genesis_deel3|230|5,5,πάτερ,πατήρ,n-s---mv-,ExD

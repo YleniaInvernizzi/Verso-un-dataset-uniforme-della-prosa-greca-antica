@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡς,ὡς,c--------,AuxC
+2,θᾶττον,ταχύς,a-s---nac,ADV
+3,ἡ,ὁ,l-s---fn-,ATR
+4,παῖς,παῖς,n-s---fn-,SBJ
+5,δ᾽,δέ,d--------,AuxY
+6,ἥψατ᾽,ἅπτω,v3saim---,ADV_CO
+7,αὐτοῦ,αὐτός,p-s---mg-,ATR
+8,τῶν,ὁ,l-p---mg-,ATR
+9,ποδῶν,πούς,n-p---mg-,OBJ
+10,ἔτριψὲ,τρίβω,v3saia---,ADV_CO
+11,τ᾽,τε,c--------,COORD
+12,",",punc1,u--------,AuxX
+13,ἀνεπήδησεν,ἀναπηδάω,v3saia---,PRED
+14,.,punc1,u--------,AuxK

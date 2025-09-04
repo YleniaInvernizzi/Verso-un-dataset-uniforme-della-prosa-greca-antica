@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0096-00#|1168|1,1,ἐπί,ἐπί,r--------,AuxP
+Leuven|0096-00#|1168|2,2,ποίαν,ποῖος,p-s---fa-,ATR
+Leuven|0096-00#|1168|3,3,ἔλθω,ἔρχομαι,v1sasa---,PRED
+Leuven|0096-00#|1168|4,4,μηχανήν,μηχανή,n-s---fa-,ADV
+Leuven|0096-00#|1168|5,5,;,;,u--------,AuxK

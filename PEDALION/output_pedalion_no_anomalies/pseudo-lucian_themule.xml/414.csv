@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|415|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Ps-Luc|415|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|415|3,3,εἶχε,ἔχω,v3siia---,ADV
+3,Leuven|Ps-Luc|415|4,4,κῆπον,κῆπος,n-s---ma-,OBJ
+4,Leuven|Ps-Luc|415|5,5,λαβὼν,λαμβάνω,v-sapamn-,ADV
+5,Leuven|Ps-Luc|415|6,6,γεωργεῖν,γεωργέω,v--pna---,ADV

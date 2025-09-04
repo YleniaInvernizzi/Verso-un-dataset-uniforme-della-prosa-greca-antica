@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31789|5|1,1,ἀσπάσασθε,ἀσπάζομαι,v2pamm---,PRED
+Leuven|31789|5|2,2,τήν,ὁ,l-s---fa-,ATR
+Leuven|31789|5|3,3,ἀδελφήν,ἀδελφή,n-s---fa-,OBJ_CO
+Leuven|31789|5|4,4,Ἱερωνίδα,Ἱερωνίς,n-s---fa-,APOS
+Leuven|31789|5|5,5,μετά,μετά,r--------,AuxP
+Leuven|31789|5|6,6,Ἰουλίου,Ἰούλιος,n-s---mg-,ADV
+Leuven|31789|5|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|31789|5|8,8,συμβίου,σύμβιος,a-s---mg-,APOS
+Leuven|31789|5|9,9,καί,καί,b--------,COORD
+Leuven|31789|5|10,10,Ἰσιδώραν,Ἴσιδώρας,n-s---fa-,OBJ_CO
+Leuven|31789|5|11,11,μετά,μετά,r--------,AuxP
+Leuven|31789|5|12,12,τῶν,ὁ,l-p---mg-,ADV
+Leuven|31789|5|13,13,G,G,n-p---mg-,GAP
+Leuven|31789|5|14,14,G,G,u--------,GAP

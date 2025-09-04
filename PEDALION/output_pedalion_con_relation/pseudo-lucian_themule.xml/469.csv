@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|470|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|470|2,2,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|Ps-Luc|470|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|470|4,4,ἐθαύμαζον,θαυμάζω,v3piia---,PRED
+Leuven|Ps-Luc|470|5,5,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|470|6,6,πρᾶγμα,πρᾶγμα,n-s---na-,OBJ
+Leuven|Ps-Luc|470|7,7,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|470|8,8,παράδοξον,παράδοξος,a-s---na-,SBJ
+Leuven|Ps-Luc|470|9,9,ἀγνοῦντες,ἀγνοέω,v-pppamn-,ADV
+Leuven|Ps-Luc|470|10,10,ἄνθρωπον,ἄνθρωπος,n-s---ma-,SBJ
+Leuven|Ps-Luc|470|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|470|12,12,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|470|13,13,ὄνωι,ὄνος,n-s---md-,ADV
+Leuven|Ps-Luc|470|14,14,κείμενον,κεῖμαι,v-srpema-,OBJ
+Leuven|Ps-Luc|470|15,15,·,·,u--------,AuxK
+Leuven|Ps-Luc|470|16,16,[0],_,-,ADV

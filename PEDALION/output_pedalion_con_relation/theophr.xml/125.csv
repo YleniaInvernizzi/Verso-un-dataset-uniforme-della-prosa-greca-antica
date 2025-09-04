@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|126|1,1,καὶ,καί,c--------,AuxY
+Leuven|0093-009|126|2,2,ἂν,ἐάν,c--------,AuxC
+Leuven|0093-009|126|3,3,εἴπῃ,λέγω,v3sasa---,ADV
+Leuven|0093-009|126|4,4,τις,τις,p-s---cn-,SBJ
+Leuven|0093-009|126|5,5,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|0093-009|126|6,6,·,·,u--------,AuxK
+Leuven|0093-009|126|7,7,[0],,,PRED

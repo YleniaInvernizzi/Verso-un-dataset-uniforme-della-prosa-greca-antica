@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|25080|9|1,1,τὰ,ὁ,l-p---na-,ATR
+Leuven|25080|9|2,2,ἔρια,ἔριον,n-p---na-,OBJ
+Leuven|25080|9|3,3,ἂν,ἐάν,c--------,AuxC
+Leuven|25080|9|4,4,ᾖς,εἰμί,v2spsa---,ADV_CO
+Leuven|25080|9|5,5,εἰληφὼς,λαμβάνω,v-srpamn-,PNOM
+Leuven|25080|9|6,6,παρὰ,παρά,r--------,AuxP
+Leuven|25080|9|7,7,Σαλβίου,Σαλβίος,n-s---mg-,ADV
+Leuven|25080|9|8,8,πλήρη,πλήρης,a-p---na-,ADV
+Leuven|25080|9|9,9,καὶ,καί,b--------,COORD
+Leuven|25080|9|10,10,ᾖ,εἰμί,v3spsa---,ADV_CO
+Leuven|25080|9|11,11,σοι,σύ,p2s---cd-,ADV
+Leuven|25080|9|12,12,ἀρεστά,ἀρεστός,a-p---nn-,PNOM
+Leuven|25080|9|13,13,",",",",u--------,AuxX
+Leuven|25080|9|14,14,ἀντίγραψόν,ἀντιγράφω,v2sama---,PRED
+Leuven|25080|9|15,15,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|25080|9|16,16,.,.,u--------,AuxK

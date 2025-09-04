@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|88|1,1,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|88|2,2,μικροῦ,μικρός,d--------,ADV
+Leuven|PaeanBrev|88|3,3,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|88|4,4,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|88|5,5,Ῥώμης,Ῥώμη,n-s---fg-,OBJ
+Leuven|PaeanBrev|88|6,6,κατεκράτησεν,κατακρατέω,v3saia---,PRED
+Leuven|PaeanBrev|88|7,7,·,·,u--------,AuxK

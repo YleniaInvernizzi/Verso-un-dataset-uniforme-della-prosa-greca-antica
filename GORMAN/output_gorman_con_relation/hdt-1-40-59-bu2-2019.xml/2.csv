@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,εἴπας,εἶπον,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ταῦτα,οὗτος,p-p---na-,OBJ
+4,ὁ,ὁ,l-s---mn-,ATR
+5,Κροῖσος,Κροῖσος,n-s---mn-,SBJ
+6,μεταπέμπεται,μεταπέμπω,v3spie---,PRED_CO
+7,τὸν,ὁ,l-s---ma-,ATR
+8,Φρύγα,Φρύξ,n-s---ma-,ATR
+9,Ἄδρηστον,Ἄδρηστος,n-s---ma-,OBJ
+10,",",punc1,u--------,AuxX
+11,ἀπικομένῳ,ἀφικνέομαι,v-sapmmd-,ADV
+12,δέ,δέ,c--------,COORD
+13,οἱ,ἕ,p-s---md-,OBJ
+14,λέγει,λέγω3,v3spia---,PRED_CO
+15,τάδε,ὅδε,p-p---na-,OBJ
+16,.,punc1,u--------,AuxK

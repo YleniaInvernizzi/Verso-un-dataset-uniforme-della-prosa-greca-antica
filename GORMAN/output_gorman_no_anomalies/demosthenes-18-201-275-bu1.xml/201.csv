@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τύχῃ,τύχη,n-s---fd-,OBJ
+1,2,συμβεβιωκὼς,συμβιόω,v-srpamn-,ADV
+2,3,τῆς,ὁ,l-s---fg-,ATR
+3,4,ἐμῆς,ἐμός,a-s---fg-,OBJ
+4,5,κατηγορεῖς,κατηγορέω,v2spia---,PRED
+5,6,.,punc1,u--------,AuxK

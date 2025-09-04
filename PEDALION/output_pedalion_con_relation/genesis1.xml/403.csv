@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|404|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|404|2,2,ἔζησεν,ζάω,v3saia---,PRED_CO
+Leuven|Genesis|404|3,3,Εβερ,Εβερ,n-s---mn-,SBJ
+Leuven|Genesis|404|4,4,ἑκατόν,ἑκατόν,m--------,ATR
+Leuven|Genesis|404|5,5,τριάκοντα,τριάκοντα,m--------,ATR
+Leuven|Genesis|404|6,6,τέσσαρα,τέσσαρες,m-p---na-,ATR
+Leuven|Genesis|404|7,7,ἔτη,ἔτος,n-p---na-,ADV
+Leuven|Genesis|404|8,8,καί,καί,b--------,COORD
+Leuven|Genesis|404|9,9,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+Leuven|Genesis|404|10,10,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|404|11,11,Φαλεκ,Φαλεκ,n-s---ma-,OBJ
+Leuven|Genesis|404|12,12,.,.,u--------,AuxK

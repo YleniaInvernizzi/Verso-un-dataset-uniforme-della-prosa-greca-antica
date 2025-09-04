@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|127|1,1,ἄπελθε,ἀπέρχομαι,v2sama---,PRED
+1,Leuven|Genesis_deel3|127|2,2,ἀφʼ,ἀπό,r--------,AuxP
+2,Leuven|Genesis_deel3|127|3,3,ἡμῶν,ἐγώ,p-p----g-,OBJ
+4,Leuven|Genesis_deel3|127|5,5,ὅτι,ὅτι,c--------,AuxC
+5,Leuven|Genesis_deel3|127|6,6,δυνατώτερος,δυνατός,a-s---mnc,PNOM
+6,Leuven|Genesis_deel3|127|7,7,ἡμῶν,ἐγώ,p-p----g-,OBJ
+7,Leuven|Genesis_deel3|127|8,8,ἐγένου,γίγνομαι,v2saim---,ADV
+8,Leuven|Genesis_deel3|127|9,9,σφόδρα,σφόδρα,d--------,ADV

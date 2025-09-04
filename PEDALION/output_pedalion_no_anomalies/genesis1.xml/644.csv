@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|645|1,1,ἆρα,ἆρα,d--------,AuxY
+1,Leuven|Genesis|645|2,2,γε,γε,d--------,AuxZ
+2,Leuven|Genesis|645|3,3,ἀληθῶς,ἀληθής,d--------,ADV
+3,Leuven|Genesis|645|4,4,τέξομαι,τίκτω,v1sfim---,PRED
+4,Leuven|Genesis|645|5,5,;,;,u--------,AuxK

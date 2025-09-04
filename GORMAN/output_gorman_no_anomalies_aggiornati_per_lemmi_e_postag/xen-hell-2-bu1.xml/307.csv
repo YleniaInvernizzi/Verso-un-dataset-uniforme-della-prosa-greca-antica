@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔχοντες;ἔχω;v-pppamn-;ADV
+2;γὰρ;γάρ;d--------;AuxY
+3;ὅπλα;ὅπλον;n-p---na-;OBJ
+4;μὲν;μέν;d--------;AuxZ
+5;ἐναντίοι;ἐναντίος;a-p---mn-;SBJ
+6;αὐτοῖς;αὐτός;p-p---md-;ADV
+7;καθέσταμεν;καθίστημι;v1pria---;PRED
+8;·;punc;u--------;AuxK

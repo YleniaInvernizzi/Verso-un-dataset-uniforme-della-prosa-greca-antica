@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,περιέστηκεν,περιίστημι,v3sria---,PRED
+2,οὖν,οὖν,d--------,AuxY
+3,τῇ,ὁ,l-s---fd-,ATR
+4,πόλει,πόλις,n-s---fd-,OBJ
+5,τ-,ὁ,l-s---nn-,ATR
+6,οὐναντίον,ἐναντίος,a-s---nnp,SBJ
+7,ἢ,ἤ1,d--------,ADV
+8,ὡς,ὡς,c--------,AuxC
+9,εἰκὸς,εἰκός,v-srpann-,PNOM
+10,ἦν,εἰμί,v3siia---,ADV
+11,.,punc1,u--------,AuxK

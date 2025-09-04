@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|83|1,1,τούτου,οὗτος,p-s---mg-,SBJ
+Leuven|PaeanBrev|83|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|83|3,3,ὑπεξελθόντος,ὑπεξέρχομαι,v-sapamg-,ADV
+Leuven|PaeanBrev|83|4,4,νόσῳ,νόσος,n-s---fd-,ADV
+Leuven|PaeanBrev|83|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|83|6,6,βίον,βίος,n-s---ma-,OBJ
+Leuven|PaeanBrev|83|7,7,αὖθις,αὖθις,d--------,ADV
+Leuven|PaeanBrev|83|8,8,Ὁράτιον,Ὁράτιος,n-s---ma-,OBJ
+Leuven|PaeanBrev|83|9,9,Πούλβιλλον,Πούλβιλλος,n-s---ma-,APOS
+Leuven|PaeanBrev|83|10,10,συνῆψεν,συνάπτω,v3saia---,PRED
+Leuven|PaeanBrev|83|11,11,ἑαυτῷ,ἑαυτοῦ,p-s---md-,ADV
+Leuven|PaeanBrev|83|12,12,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|83|13,13,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|83|14,14,ὕπατον,ὕπατος,a-s---fa-,ATR
+Leuven|PaeanBrev|83|15,15,ἀρχήν,ἀρχή,n-s---fa-,ADV
+Leuven|PaeanBrev|83|16,16,.,.,u--------,AuxK

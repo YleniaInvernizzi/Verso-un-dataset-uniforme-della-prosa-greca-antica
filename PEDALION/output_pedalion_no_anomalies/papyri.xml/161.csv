@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21347|1|1,1,Πανίσκος,Πανίσκος,n-s---mn-,SBJ
+1,Leuven|21347|1|2,2,Πλουτογενίᾳ,Πλουτογένια,n-s---fd-,OBJ
+2,Leuven|21347|1|3,3,τῇ,ὁ,l-s---fd-,ATR
+3,Leuven|21347|1|4,4,συμβίῳ,σύμβιος,a-s---fd-,APOS
+4,Leuven|21347|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ

@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ποίαν;ποῖος;a-s---fa-;ATR
+2;πέτραν;πέτρα;n-s---fa-;OBJ
+3;ἀναιμωτὶ;ἀναιμωτί;d--------;ADV
+4;διὰ;διά;r--------;AuxP
+5;σὲ;σύ;p2s---ma-;ADV
+6;εἷλε;αἱρέω;v3saia---;PRED
+7;";";punc;u--------;AuxK

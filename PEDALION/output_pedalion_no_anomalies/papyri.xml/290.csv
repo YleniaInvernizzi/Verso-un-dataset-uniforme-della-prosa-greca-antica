@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27107|3|1,1,ἀλλὰ,ἀλλά,c--------,AuxY
+1,Leuven|27107|3|2,2,καὶ,καί,c--------,AuxY
+2,Leuven|27107|3|3,3,ἐνθάδε,ἐνθάδε,d--------,ADV
+3,Leuven|27107|3|4,4,ὄντες,εἰμί,v-pppamn-,ADV
+4,Leuven|27107|3|5,5,εὐχόμεθά,εὔχομαι,v1ppie---,PRED
+5,Leuven|27107|3|6,6,σοι,σύ,p2s---cd-,ATR
+6,Leuven|27107|3|7,7,ὑγίειαν,ὑγίεια,n-s---fa-,OBJ
+7,Leuven|27107|3|8,8,ἀξίῳ,ἄξιος,a-s---md-,PNOM
+8,Leuven|27107|3|9,9,ὄντι,εἰμί,v-sppamd-,ATR

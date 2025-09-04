@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὗ,ὅς,p-s---mg-,OBJ
+1,2,προσήκει,προσήκω,v3spia---,PRED
+2,3,καταψηφίζεσθαι,καταψηφίζομαι,v--pne---,SBJ
+3,4,.,punc1,u--------,AuxK

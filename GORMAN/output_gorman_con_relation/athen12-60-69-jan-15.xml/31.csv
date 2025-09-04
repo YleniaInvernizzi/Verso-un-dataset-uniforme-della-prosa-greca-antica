@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀνυπέρβλητος,ἀνυπέρβλητος,a-s---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,πέπηγεν,πήγνυμι,v3sria---,PRED
+4,οὖρος,ὄρος,n-s---nn-,SBJ
+5,.,punc1,u--------,AuxK

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|580|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis|580|2,2,ἀνά,ἀνά,r--------,AuxP
+2,Leuven|Genesis|580|3,3,μέσον,μέσος,a-s---ma-,ADV_CO
+3,Leuven|Genesis|580|4,4,Καδης,Καδης,n-s----g-,ATR
+4,Leuven|Genesis|580|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis|580|6,6,ἀνά,ἀνά,r--------,AuxP
+6,Leuven|Genesis|580|7,7,μέσον,μέσος,a-s---ma-,ADV_CO
+7,Leuven|Genesis|580|8,8,Βαραδ,Βαραδ,n-s----g-,ATR

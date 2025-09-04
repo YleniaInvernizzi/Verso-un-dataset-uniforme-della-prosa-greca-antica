@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1872|4|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|1872|4|2,2,δύναταί,δύναμαι,v3spie---,PRED
+2,Leuven|1872|4|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|1872|4|4,4,καταστῆσαι,καθίστημι,v--ana---,OBJ
+4,Leuven|1872|4|5,5,σκευοφύλακα,σκευόφυλαξ,n-s---ma-,OCOMP

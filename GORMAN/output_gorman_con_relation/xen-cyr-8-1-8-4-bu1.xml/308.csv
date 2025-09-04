@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Μήδων,Μῆδος,n-p---mg-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,Ἀρτάβαζος,Ἀρτάβαζος,n-s---mn-,SBJ
+4,ἐνίκα,νικάω,v3siia---,PRED
+5,·,punc1,u--------,AuxK

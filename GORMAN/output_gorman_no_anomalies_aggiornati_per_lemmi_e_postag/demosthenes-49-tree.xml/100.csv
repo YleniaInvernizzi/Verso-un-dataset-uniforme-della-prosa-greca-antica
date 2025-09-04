@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;πόσον;πόσος;a-s---ma-;ATR_CO
+2;τινὰ;τις;p-s---ca-;OBJ
+3;καὶ;καί;c--------;COORD
+4;ποδαπόν;ποδαπός;a-s---ma-;ATR_CO
+5;";";punc;u--------;AuxK
+6;ὑπέθετο;ὑποτίθημι;v3saim---;PRED

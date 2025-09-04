@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τότε,τότε,d--------,AuxZ
+2,γὰρ,γάρ,d--------,AuxY
+3,εἷλον,αἱρέω,v3paia---,PRED
+4,οἱ,ὁ,l-p---mn-,ATR
+5,Θηβαῖοι,Θηβαῖος,n-p---mn-,SBJ
+6,τὴν,ὁ,l-s---fa-,ATR
+7,Φωκίδα,Φωκίς,n-s---fa-,OBJ
+8,.,punc1,u--------,AuxK

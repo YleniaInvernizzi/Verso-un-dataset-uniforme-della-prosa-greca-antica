@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|330|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|330|2,2,ἤρξατο,ἄρχω,v3saim---,PRED_CO
+2,Leuven|Genesis|330|3,3,Νωε,Νωε,n-s---mn-,SBJ
+3,Leuven|Genesis|330|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,OCOMP
+4,Leuven|Genesis|330|5,5,γεωργός,γεωργός,n-s---mn-,ATR
+5,Leuven|Genesis|330|6,6,γῆς,γῆ,n-s---fg-,OBJ
+6,Leuven|Genesis|330|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis|330|8,8,ἐφύτευσεν,φυτεύω,v3saia---,PRED_CO
+8,Leuven|Genesis|330|9,9,ἀμπελῶνα,ἀμπελών,n-s---ma-,OBJ

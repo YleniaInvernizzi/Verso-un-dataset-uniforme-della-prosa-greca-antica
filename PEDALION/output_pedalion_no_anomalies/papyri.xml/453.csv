@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28784|12|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|28784|12|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|28784|12|3,3,θεοῖς,θεός,n-p---md-,OBJ
+3,Leuven|28784|12|4,4,εὔχομαι,εὔχομαι,v1spie---,PRED_CO
+4,Leuven|28784|12|5,5,καί,καί,c--------,COORD
+5,Leuven|28784|12|6,6,Σαραπάμμων,Σαραπάμμων,n-s---mn-,SBJ
+6,Leuven|28784|12|7,7,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED_CO
+7,Leuven|28784|12|8,8,σε,σύ,p2s---ca-,OBJ

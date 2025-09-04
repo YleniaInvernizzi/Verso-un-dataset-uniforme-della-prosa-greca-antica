@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|374|1,1,ἔξω,ἔξω,d--------,OBJ
+Leuven|Ps-Luc|374|2,2,ἐκδραμόντες,ἐκτρέχω,v-papamn-,ADV
+Leuven|Ps-Luc|374|3,3,ὅληι,ὅλος,a-s---fd-,ATR
+Leuven|Ps-Luc|374|4,4,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|374|5,5,κώμηι,κώμη,n-s---fd-,OBJ
+Leuven|Ps-Luc|374|6,6,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|374|7,7,λόγωι,λόγος,n-s---md-,ADV
+Leuven|Ps-Luc|374|8,8,διέδωκαν,διαδίδωμι,v3paia---,PRED
+Leuven|Ps-Luc|374|9,9,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|374|10,10,ἱερέων,ἱερεύς,n-p---mg-,ATR
+Leuven|Ps-Luc|374|11,11,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|374|12,12,ἀσέλγειαν,ἀσέλγεια,n-s---fa-,OBJ
+Leuven|Ps-Luc|374|13,13,.,.,u--------,AuxK

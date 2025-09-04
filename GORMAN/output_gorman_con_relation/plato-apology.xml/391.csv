@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,πότερον,πότερος,a-s---na-,OBJ
+2,δεσμοῦ,δεσμός,n-s---mg-,ATR
+3,;,punc1,u--------,AuxK
+4,[0],,,PRED

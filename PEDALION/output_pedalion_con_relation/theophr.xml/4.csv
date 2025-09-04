@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|5|1,1,τρέψομαι,τρέπω,v1sfim---,PRED
+Leuven|0093-009|5|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0093-009|5|3,3,ἤδη,ἤδη,d--------,ADV
+Leuven|0093-009|5|4,4,ἐπὶ,ἐπί,r--------,AuxP
+Leuven|0093-009|5|5,5,τὸν,ὁ,l-s---ma-,ATR
+Leuven|0093-009|5|6,6,λόγον,λόγος,n-s---ma-,OBJ
+Leuven|0093-009|5|7,7,·,·,u--------,AuxK

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|224|1,1,πορευθέντες,πορεύω,v-pappmn-,ADV
+Leuven|Genesis_deel2|224|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|224|3,3,ἀμφότεροι,ἀμφότερος,a-p---mn-,SBJ
+Leuven|Genesis_deel2|224|4,4,ἅμα,ἅμα,d--------,ADV
+Leuven|Genesis_deel2|224|5,5,ἦλθον,ἔρχομαι,v3paia---,PRED
+Leuven|Genesis_deel2|224|6,6,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis_deel2|224|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|224|8,8,τόπον,τόπος,n-s---ma-,OBJ
+Leuven|Genesis_deel2|224|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel2|224|10,10,ὅν,ὅς,p-s---ma-,OBJ
+Leuven|Genesis_deel2|224|11,11,εἶπεν,λέγω,v3saia---,ATR
+Leuven|Genesis_deel2|224|12,12,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis_deel2|224|13,13,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|224|14,14,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis_deel2|224|15,15,.,.,u--------,AuxK

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,OBJ
+2,τοῦ,ὁ,l-s---mg-,ATR
+3,τούτων,οὗτος,p-p---mg-,ADV
+4,ἀνάξι᾽,ἀνάξιος,a-p---na-,OBJ
+5,ἐροῦντος,ἐρέω,v-sppamg-,ATR
+6,;,punc1,u--------,AuxK
+7,[0],,,PRED

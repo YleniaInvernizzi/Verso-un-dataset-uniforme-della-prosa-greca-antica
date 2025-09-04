@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑπενέδυσ᾽,ὑπένδύω,v3saia---,PRED
+2,ἐρραμμέν᾽,ῥάπτω,v-prpefn-,ADV
+3,αὐτήν,αὐτός,p-s---fa-,OBJ
+4,",",punc1,u--------,AuxX
+5,ὥστε,ὥστε,c--------,AuxC
+6,τὴν,ὁ,l-s---fa-,ATR
+7,εὐπυγίαν,εὐπυγία,n-s---fa-,OBJ
+8,ἀναβοᾶν,ἀναβοάω,v--pna---,ADV
+9,τοὺς,ὁ,l-p---ma-,ATR
+10,εἰσιδόντας,εἰσ-εἶδον,v-papama-,SBJ
+11,.,punc1,u--------,AuxK

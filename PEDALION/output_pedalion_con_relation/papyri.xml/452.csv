@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28784|11|1,1,σέ,σύ,p2s---ca-,OBJ
+Leuven|28784|11|2,2,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED_CO
+Leuven|28784|11|3,3,",",",",u--------,AuxX
+Leuven|28784|11|4,4,καί,καί,b--------,COORD
+Leuven|28784|11|5,5,Ἱερατική,Ἱερατική,n-s---fn-,SBJ
+Leuven|28784|11|6,6,σε,σύ,p2s---ca-,OBJ
+Leuven|28784|11|7,7,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED_CO
+Leuven|28784|11|8,8,.,.,u--------,AuxK

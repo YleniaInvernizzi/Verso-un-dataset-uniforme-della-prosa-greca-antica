@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|98|1,1,κατοίκησον,κατοικέω,v2sama---,PRED
+Leuven|Genesis_deel3|98|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel3|98|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel3|98|4,4,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel3|98|5,5,γῇ,γῆ,n-s---fd-,OBJ
+Leuven|Genesis_deel3|98|6,6,",",",",u--------,AuxX
+Leuven|Genesis_deel3|98|7,7,ᾗ,ὅς,p-s---fd-,ADV
+Leuven|Genesis_deel3|98|8,8,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis_deel3|98|9,9,σοι,σύ,p2s---cd-,OBJ
+Leuven|Genesis_deel3|98|10,10,εἴπω,λέγω,v1sasa---,ATR
+Leuven|Genesis_deel3|98|11,11,.,.,u--------,AuxK

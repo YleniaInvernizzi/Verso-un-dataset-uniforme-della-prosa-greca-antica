@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|142|1,1,ἐκτησάμην,κτάομαι,v1saim---,PRED
+1,Leuven|Genesis|142|2,2,ἄνθρωπον,ἄνθρωπος,n-s---ma-,OBJ
+2,Leuven|Genesis|142|3,3,διά,διά,r--------,AuxP
+3,Leuven|Genesis|142|4,4,τοῦ,ὁ,l-s---mg-,ATR
+4,Leuven|Genesis|142|5,5,θεοῦ,θεός,n-s---mg-,ADV

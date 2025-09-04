@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀποθανόντα,ἀποθνήσκω,v-sapama-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,θαπτέτω,θάπτω,v3spma---,SBJ_CO
+4,καὶ,καί,c--------,COORD
+5,τ-,ὁ,l-s---na-,ATR
+6,ἆλλα,ἄλλος,p-p---na-,OBJ
+7,ποιείτω,ποιέω,v3spma---,SBJ_CO
+8,τὰ,ὁ,l-p---na-,ATR
+9,νομιζόμενα,νομίζω,v-pppena-,ATR
+10,.,punc1,u--------,AuxK

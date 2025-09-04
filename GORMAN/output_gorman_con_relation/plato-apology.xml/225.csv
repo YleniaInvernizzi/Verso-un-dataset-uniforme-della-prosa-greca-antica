@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,καίτοι,καίτοι,d--------,AuxY
+2,τοῦτό,οὗτος,p-s---nn-,SBJ
+3,ἐστι,εἰμί,v3spia---,PRED
+4,παίζοντος,παίζω,v-sppamg-,PNOM
+5,.,punc1,u--------,AuxK

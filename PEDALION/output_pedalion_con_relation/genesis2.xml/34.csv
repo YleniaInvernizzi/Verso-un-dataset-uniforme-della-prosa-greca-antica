@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|35|1,1,οὐχί,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|35|2,2,",",",",u--------,AuxX
+Leuven|Genesis_deel2|35|3,3,ἀλλʼ,ἀλλά,b--------,AuxY
+Leuven|Genesis_deel2|35|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|35|5,5,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel2|35|6,6,πλατείᾳ,πλατύς,a-s---fd-,ADV
+Leuven|Genesis_deel2|35|7,7,καταλύσομεν,καταλύω,v1pfia---,PRED
+Leuven|Genesis_deel2|35|8,8,.,.,u--------,AuxK

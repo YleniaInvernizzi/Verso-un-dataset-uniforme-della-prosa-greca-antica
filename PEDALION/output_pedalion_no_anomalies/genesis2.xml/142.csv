@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|143|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis_deel2|143|2,2,δέδωκα,δίδωμι,v1sria---,PRED
+2,Leuven|Genesis_deel2|143|3,3,χίλια,χίλιοι,m-p---na-,ATR
+3,Leuven|Genesis_deel2|143|4,4,δίδραχμα,δίδραγμον,n-p---na-,OBJ
+4,Leuven|Genesis_deel2|143|5,5,τῷ,ὁ,l-s---md-,ATR
+5,Leuven|Genesis_deel2|143|6,6,ἀδελφῷ,ἀδελφός,n-s---md-,OBJ
+6,Leuven|Genesis_deel2|143|7,7,σου,σύ,p2s---cg-,ATR

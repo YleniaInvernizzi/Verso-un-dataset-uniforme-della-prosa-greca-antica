@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|53|1,1,δηλοῖ,δηλόω,v3spia---,PRED
+Leuven|PaeanBrev|53|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|53|3,3,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|PaeanBrev|53|4,4,ἐπώνυμον,ἐπώνυμος,a-s---nn-,SBJ
+Leuven|PaeanBrev|53|5,5,ὑπερήφανον,ὑπερήφανος,a-s---nn-,ATR
+Leuven|PaeanBrev|53|6,6,·,·,u--------,AuxK

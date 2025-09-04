@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;εἶπον;λέγω;v1saia---;PRED
+2;ὅτι;ὅτι;c--------;AuxY
+3;τάλαντον;τάλαντον;n-s---na-;OBJ
+4;ἀργυρίου;ἀργύριον;n-s---ng-;ATR
+5;ἕτοιμος;ἑτοῖμος;a-s---mn-;PNOM
+6;εἴην;εἰμί;v1spoa---;OBJ
+7;δοῦναι;δίδωμι;v--ana---;ADV
+8;·;punc;u--------;AuxK

@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|132|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel2|132|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Genesis_deel2|132|3,3,ἀληθῶς,ἀληθής,d--------,ADV
+3,Leuven|Genesis_deel2|132|4,4,ἀδελφή,ἀδελφή,n-s---fn-,PNOM
+4,Leuven|Genesis_deel2|132|5,5,μού,ἐγώ,p1s---cg-,ATR
+5,Leuven|Genesis_deel2|132|6,6,ἐστιν,εἰμί,v3spia---,PRED_CO
+6,Leuven|Genesis_deel2|132|7,7,ἐκ,ἐκ,r--------,AuxP
+7,Leuven|Genesis_deel2|132|8,8,πατρός,πατήρ,n-s---mg-,ADV
+9,Leuven|Genesis_deel2|132|10,10,ἀλλʼ,ἀλλά,c--------,COORD
+10,Leuven|Genesis_deel2|132|11,11,οὐκ,οὐ,d--------,AuxZ
+11,Leuven|Genesis_deel2|132|12,12,ἐκ,ἐκ,r--------,AuxP
+12,Leuven|Genesis_deel2|132|13,13,μητρός,μήτηρ,n-s---fg-,ADV

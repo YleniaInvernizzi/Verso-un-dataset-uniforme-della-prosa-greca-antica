@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|192|1,1,ᾗ,ὅς,p-s---fd-,ATR
+Leuven|Genesis|192|2,2,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+Leuven|Genesis|192|3,3,ἐποίησεν,ποιέω,v3saia---,ADV
+Leuven|Genesis|192|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|192|5,5,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|192|6,6,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|192|7,7,Αδαμ,Αδαμ,n-s---ma-,OBJ
+Leuven|Genesis|192|8,8,",",",",u--------,AuxX
+Leuven|Genesis|192|9,9,κατ’,κατά,r--------,AuxP
+Leuven|Genesis|192|10,10,εἰκόνα,εἰκών,n-s---fa-,ADV
+Leuven|Genesis|192|11,11,θεοῦ,θεός,n-s---mg-,ATR
+Leuven|Genesis|192|12,12,ἐποίησεν,ποιέω,v3saia---,PRED
+Leuven|Genesis|192|13,13,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|192|14,14,·,·,u--------,AuxK

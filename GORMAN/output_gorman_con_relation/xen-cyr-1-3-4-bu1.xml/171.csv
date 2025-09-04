@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ὁ,ὁ,l-s---mn-,ATR
+3,Κῦρος,Κῦρος,n-s---mn-,SBJ
+4,λαβὼν,λαμβάνω,v-sapamn-,ADV
+5,ἐδίδου,δίδωμι,v3siia---,PRED_CO
+6,τε,τε,d--------,AuxY
+7,ἄρας,αἴρω,v-sapamn-,ADV
+8,τοῖς,ὁ,l-p---md-,ATR
+9,παισὶ,παῖς,n-p---md-,OBJ
+10,καὶ,καί,c--------,COORD
+11,ἅμα,ἅμα,d--------,AuxZ
+12,ἔλεγεν,λέγω3,v3siia---,PRED_CO
+13,·,punc1,u--------,AuxK

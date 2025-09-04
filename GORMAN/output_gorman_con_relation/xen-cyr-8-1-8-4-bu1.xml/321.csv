@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,καταμύων,καταμύω,v-sppamn-,ADV
+4,ἵησι,ἵημι,v3spia---,PRED_CO
+5,τῇ,ὁ,l-s---fd-,ATR
+6,βώλῳ,βῶλος,n-s---fd-,ADV
+7,καὶ,καί,c--------,COORD
+8,παρελαύνοντος,παρελαύνω,v-sppamg-,ADV
+9,Φεραύλα,Φεραύλας,n-s---mg-,OBJ
+10,τυγχάνει,τυγχάνω,v3spia---,PRED_CO
+11,·,punc1,u--------,AuxK

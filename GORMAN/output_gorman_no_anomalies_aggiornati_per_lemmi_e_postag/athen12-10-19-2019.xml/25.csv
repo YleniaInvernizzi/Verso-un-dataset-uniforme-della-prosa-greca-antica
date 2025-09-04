@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;τοσούτους;τοσοῦτος;p-p---ma-;OBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;οἶδα;οἶδα;v1sria---;PRED
+4;γράψοντας;γράφω;v-papama-;ATR
+5;Ὀψαρτυτικά;ὀψαρτυτικός;a-p---na-;OBJ
+6;.;punc;u--------;AuxK

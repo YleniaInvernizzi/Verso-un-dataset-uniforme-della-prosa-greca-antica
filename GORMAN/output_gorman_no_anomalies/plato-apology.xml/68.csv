@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τῷ,ὁ,l-s---nd-,ATR
+1,2,ὄντι,εἰμί,v-sppand-,ADV
+2,3,γὰρ,γάρ,d--------,AuxY
+3,4,κινδυνεύω,κινδυνεύω,v1spia---,PRED
+4,5,ταύτην,οὗτος,p-s---fa-,ADV
+5,6,εἶναι,εἰμί,v--pna---,OBJ
+6,7,σοφός,σοφός,a-s---mn-,PNOM
+7,8,.,punc1,u--------,AuxK

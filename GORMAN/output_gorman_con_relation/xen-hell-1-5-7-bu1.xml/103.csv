@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,εἶχε,ἔχω,v3siia---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,δεξιὸν,δεξιός,a-s---na-,ATR
+5,κέρας,κέρας,n-s---na-,OBJ
+6,Καλλικρατίδας,Καλλικρατίδας,n-s---mn-,SBJ
+7,.,punc1,u--------,AuxK

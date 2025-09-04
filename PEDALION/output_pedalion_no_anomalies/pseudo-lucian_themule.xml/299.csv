@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|300|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|Ps-Luc|300|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|300|3,3,ἀεὶ,ἀεί,d--------,ADV
+3,Leuven|Ps-Luc|300|4,4,τὸ,ὁ,l-s---na-,ATR
+4,Leuven|Ps-Luc|300|5,5,τραῦμα,τραῦμα,n-s---na-,OBJ
+5,Leuven|Ps-Luc|300|6,6,ἔπαιεν,παίω,v3siia---,PRED

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|272|1,1,ἔτυχε,τυγχάνω,v3saia---,PRED
+1,Leuven|Ps-Luc|272|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|272|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|Ps-Luc|272|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Ps-Luc|272|5,5,τὴν,ὁ,l-s---fa-,ATR
+5,Leuven|Ps-Luc|272|6,6,κόρην,κόρη,n-s---fa-,OBJ
+6,Leuven|Ps-Luc|272|7,7,μεμνηστευμένος,μνηστεύω,v-srpemn-,SBJ
+7,Leuven|Ps-Luc|272|8,8,σὺν,σύν,r--------,AuxP
+8,Leuven|Ps-Luc|272|9,9,αὐτοῖς,αὐτός,p-p---md-,ADV
+9,Leuven|Ps-Luc|272|10,10,ἐλθών,ἔρχομαι,v-sapamn-,ADV

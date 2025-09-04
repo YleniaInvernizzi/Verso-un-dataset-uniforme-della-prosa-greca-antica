@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;εὐφημία;εὐφημία;n-s---fn-;SBJ_CO
+2;τε;τε;d--------;AuxY
+3;καὶ;καί;c--------;COORD
+4;σιγὴ;σιγή;n-s---fn-;SBJ_CO
+5;κατεῖχε;κατέχω;v3siia---;PRED
+6;πάντας;πᾶς;a-p---ma-;ATR
+7;ὑπὸ;ὑπό;r--------;AuxP
+8;δέους;δέος;n-s---ng-;ADV
+9;τοὺς;ὁ;l-p---ma-;ATR
+10;παρόντας;πάρειμι;v-pppama-;OBJ
+11;.;punc;u--------;AuxK

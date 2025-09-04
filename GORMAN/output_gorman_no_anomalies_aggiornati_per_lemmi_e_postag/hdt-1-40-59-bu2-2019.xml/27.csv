@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;Λιβύης;Λιβύη;n-s---fg-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;παρὰ;παρά;r--------;AuxP
+4;Ἄμμωνα;Ἄμμων;n-s---mv-;OBJ
+5;ἀπέστελλε;ἀποστέλλω;v3saia---;PRED
+6;ἄλλους;ἄλλος;p-p---ma-;OBJ
+7;χρησομένους;χράω;v-pfpmma-;ADV
+8;.;punc;u--------;AuxK

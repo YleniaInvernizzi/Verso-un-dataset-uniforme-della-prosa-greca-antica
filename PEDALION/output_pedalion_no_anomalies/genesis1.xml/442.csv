@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|443|1,1,γυνή,γυνή,n-s---fn-,PNOM
+1,Leuven|Genesis|443|2,2,αὐτοῦ,αὐτός,p-s---mg-,ATR
+2,Leuven|Genesis|443|3,3,αὕτη,οὗτος,p-s---fn-,SBJ
+4,Leuven|Genesis|443|5,5,καί,καί,c--------,AuxY
+5,Leuven|Genesis|443|6,6,ἀποκτενοῦσιν,ἀποκτείνω,v3pfia---,PRED_CO
+6,Leuven|Genesis|443|7,7,με,ἐγώ,p1s---ca-,OBJ
+8,Leuven|Genesis|443|9,9,σέ,σύ,p2s---ca-,OBJ
+9,Leuven|Genesis|443|10,10,δέ,δέ,d--------,COORD
+10,Leuven|Genesis|443|11,11,περιποιήσονται,περιποιέω,v3pfim---,PRED_CO

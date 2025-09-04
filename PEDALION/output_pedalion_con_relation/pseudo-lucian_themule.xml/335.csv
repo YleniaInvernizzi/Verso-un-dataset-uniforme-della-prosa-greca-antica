@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|336|1,1,μηδαμῶς,μηδαμῶς,d--------,ADV
+Leuven|Ps-Luc|336|2,2,",",",",u--------,AuxX
+Leuven|Ps-Luc|336|3,3,ἔφη,φημί,v3siia---,ExD
+Leuven|Ps-Luc|336|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|336|5,5,ἀποσφάξηις,ἀποσφάζω,v2sasa---,PRED
+Leuven|Ps-Luc|336|6,6,ὄνον,ὄνος,n-s---ma-,OBJ
+Leuven|Ps-Luc|336|7,7,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|336|8,8,ἀλεῖν,ἀλέω,v--pna---,OBJ_CO
+Leuven|Ps-Luc|336|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|336|10,10,ἀχθοφορεῖν,ἀχθοφορέω,v--pna---,OBJ_CO
+Leuven|Ps-Luc|336|11,11,δυνάμενον,δύναμαι,v-sppema-,ADV
+Leuven|Ps-Luc|336|12,12,·,·,u--------,AuxK

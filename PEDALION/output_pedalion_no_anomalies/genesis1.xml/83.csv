@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|84|1,1,ποιήσωμεν,ποιέω,v1pasa---,PRED
+1,Leuven|Genesis|84|2,2,αὐτῷ,αὐτός,p-s---md-,ADV
+2,Leuven|Genesis|84|3,3,βοηθόν,βοηθός,n-s---ma-,OBJ
+3,Leuven|Genesis|84|4,4,κατ’,κατά,r--------,AuxP
+4,Leuven|Genesis|84|5,5,αὐτόν,αὐτός,p-s---ma-,ADV

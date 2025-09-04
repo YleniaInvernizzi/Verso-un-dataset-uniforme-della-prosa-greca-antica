@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|80|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|0557-001|80|2,2,θέλεις,θέλω,v2spia---,PRED
+Leuven|0557-001|80|3,3,μελετᾶν,μελετάω,v--pna---,OBJ
+Leuven|0557-001|80|4,4,ἀρκεῖσθαι,ἀρκέω,v--pne---,OBJ
+Leuven|0557-001|80|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|0557-001|80|6,6,δεδομένῳ,δίδωμι,v-srpemd-,OBJ
+Leuven|0557-001|80|7,7,;,;,u---------,AuxK

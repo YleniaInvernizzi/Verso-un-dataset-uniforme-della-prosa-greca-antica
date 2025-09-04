@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐξ,ἐκ,r--------,AuxP
+2,ὧν,ὅς,p-p---fg-,ADV
+3,ἦν,εἰμί,v3siia---,PRED
+4,ἀσαφείας,ἀσάφεια,n-s---fg-,ATR_CO
+5,",",punc1,u--------,AuxX
+6,ἀπιστίας,ἀπιστία,n-s---fg-,ATR_CO
+7,",",punc1,u--------,COORD
+8,ἀμιξίας,ἀμιξία,n-s---fg-,ATR_CO
+9,ἅπαντα,ἅπας,a-p---nn-,SBJ
+10,πλήρη,πλήρης,a-p---nn-,PNOM
+11,.,punc1,u--------,AuxK

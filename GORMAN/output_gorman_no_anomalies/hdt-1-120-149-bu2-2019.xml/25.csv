@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ταῦτα,οὗτος,p-p---na-,OBJ
+1,2,εἶπας,εἶπον,v-saiamn-,ADV
+2,3,ὁ,ὁ,l-s---mn-,ATR
+3,4,Ἀστυάγης,Ἀστυάγης,n-s---mn-,SBJ
+4,5,ἀποπέμπει,ἀποπέμπω,v3spia---,PRED
+5,6,τὸν,ὁ,l-s---ma-,ATR
+6,7,Κῦρον,Κῦρος,n-s---ma-,OBJ
+7,8,.,punc1,u--------,AuxK

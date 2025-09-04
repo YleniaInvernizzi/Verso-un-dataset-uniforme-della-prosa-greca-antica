@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1728|11|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|1728|11|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|1728|11|3,3,ἀλλότριος,ἀλλότριος,a-s---mn-,PNOM
+Leuven|1728|11|4,4,ἡμῖν,ἐγώ,p1p---cd-,ADV
+Leuven|1728|11|5,5,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|1728|11|6,6,.,.,u--------,AuxK

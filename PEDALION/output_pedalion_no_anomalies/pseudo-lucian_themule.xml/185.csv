@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|186|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|Ps-Luc|186|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|186|3,3,ἀπήιει,ἄπειμι,v3siia---,PRED
+3,Leuven|Ps-Luc|186|4,4,κάτω,κάτω,d--------,ADV
+4,Leuven|Ps-Luc|186|5,5,τὸν,ὁ,l-s---ma-,ATR
+5,Leuven|Ps-Luc|186|6,6,θάνατον,θάνατος,n-s---ma-,OBJ
+6,Leuven|Ps-Luc|186|7,7,ὀρχούμενος,ὀρχέομαι,v-sppemn-,ADV

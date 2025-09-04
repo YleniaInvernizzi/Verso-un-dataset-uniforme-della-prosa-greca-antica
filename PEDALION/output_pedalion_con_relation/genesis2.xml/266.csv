@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|267|1,1,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel2|267|2,2,ἀργύριον,ἀργύριον,n-s---na-,OBJ
+Leuven|Genesis_deel2|267|3,3,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis_deel2|267|4,4,ἀγροῦ,ἀγρός,n-s---mg-,ATR
+Leuven|Genesis_deel2|267|5,5,λαβέ,λαμβάνω,v2sama---,PRED_CO
+Leuven|Genesis_deel2|267|6,6,παρʼ,παρά,r--------,AuxP
+Leuven|Genesis_deel2|267|7,7,ἐμοῦ,ἐγώ,p1s---cg-,ADV
+Leuven|Genesis_deel2|267|8,8,",",",",u--------,AuxX
+Leuven|Genesis_deel2|267|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|267|10,10,θάψω,θάπτω,v1sasa---,PRED_CO
+Leuven|Genesis_deel2|267|11,11,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|267|12,12,νεκρόν,νεκρός,a-s---ma-,OBJ
+Leuven|Genesis_deel2|267|13,13,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|267|14,14,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis_deel2|267|15,15,.,.,u--------,AuxK

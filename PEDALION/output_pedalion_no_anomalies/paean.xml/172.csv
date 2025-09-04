@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|174|1,1,εἰς,εἰς,r--------,AuxP
+1,Leuven|PaeanBrev|174|2,2,ὀκτώ,ὀκτώ,m--------,OCOMP
+2,Leuven|PaeanBrev|174|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|174|4,4,χιλιάδας,χιλιάς,n-p---fa-,OBJ
+4,Leuven|PaeanBrev|174|5,5,αἰχμαλώτων,αἰχμάλωτος,a-p---mg-,ATR
+5,Leuven|PaeanBrev|174|6,6,τῷ,ὁ,l-s---md-,ATR
+6,Leuven|PaeanBrev|174|7,7,θριάμβῳ,θρίαμβος,n-s---md-,ADV
+7,Leuven|PaeanBrev|174|8,8,ποιήσας,ποιέω,v-sapamn-,ADV
+8,Leuven|PaeanBrev|174|9,9,πλῆθος,πλῆθος,n-s---na-,OBJ
+9,Leuven|PaeanBrev|174|10,10,ὁ,ὁ,l-s---mn-,ATR
+10,Leuven|PaeanBrev|174|11,11,νικήσας,νικάω,v-sapamn-,SBJ
+11,Leuven|PaeanBrev|174|12,12,ἐθριάμβευσε,θριαμβεύω,v3saia---,PRED

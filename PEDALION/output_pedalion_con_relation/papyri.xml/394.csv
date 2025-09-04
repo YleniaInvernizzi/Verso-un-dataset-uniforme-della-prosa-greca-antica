@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|19|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|27679|19|2,2,αὐτὴ,αὐτός,p-s---fn-,SBJ
+Leuven|27679|19|3,3,γὰρ,γάρ,d--------,AuxY
+Leuven|27679|19|4,4,φιλία,φιλία,n-s---fn-,SBJ
+Leuven|27679|19|5,5,μένει,μένω,v3spia---,PRED
+Leuven|27679|19|6,6,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|68|1,1,ἐπορεύθη,πορεύω,v3saip---,PRED_CO
+1,Leuven|Genesis_deel3|68|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel3|68|3,3,πυθέσθαι,πυνθάνομαι,v--anm---,ADV
+3,Leuven|Genesis_deel3|68|4,4,παρά,παρά,r--------,AuxP
+4,Leuven|Genesis_deel3|68|5,5,κυρίου,κύριος,n-s---mg-,ADV
+6,Leuven|Genesis_deel3|68|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis_deel3|68|8,8,εἶπεν,λέγω,v3saia---,PRED_CO
+8,Leuven|Genesis_deel3|68|9,9,κύριος,κύριος,n-s---mn-,SBJ
+9,Leuven|Genesis_deel3|68|10,10,αὐτῇ,αὐτός,p-s---fd-,OBJ

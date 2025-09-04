@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;προϊόντος;πρόειμι;v-sppang-;ADV
+2;δὲ;δέ;d--------;AuxY
+3;τοῦ;ὁ;l-s---ng-;ATR
+4;συμποσίου;συμπόσιον;n-s---ng-;SBJ
+5;ὁ;ὁ;l-s---mn-;ATR
+6;Κῦρος;Κῦρος;n-s---mn-;SBJ
+7;τὸν;ὁ;l-s---ma-;ATR
+8;Γωβρύαν;Γωβρύας;n-s---ma-;OBJ
+9;ἐπήρετο;ἐπέρομαι;v3saim---;PRED
+10;·;punc;u--------;AuxK

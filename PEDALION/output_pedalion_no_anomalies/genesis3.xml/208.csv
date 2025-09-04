@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|209|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|209|2,2,προσήγαγεν,προσάγω,v3saia---,PRED_CO
+2,Leuven|Genesis_deel3|209|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+4,Leuven|Genesis_deel3|209|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis_deel3|209|6,6,ἔφαγεν,ἐσθίω,v3saia---,PRED_CO

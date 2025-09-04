@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|236|1,1,Νωε,Νωε,n-s---mn-,SBJ
+Leuven|Genesis|236|2,2,ἄνθρωπος,ἄνθρωπος,n-s---mn-,PNOM
+Leuven|Genesis|236|3,3,δίκαιος,δίκαιος,a-s---mn-,ATR
+Leuven|Genesis|236|4,4,",",",",u--------,AuxX
+Leuven|Genesis|236|5,5,τέλειος,τέλειος,a-s---mn-,ATR
+Leuven|Genesis|236|6,6,ὤν,εἰμί,v-sppamn-,ADV
+Leuven|Genesis|236|7,7,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|236|8,8,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|236|9,9,γενεᾷ,γενεά,n-s---fd-,ADV
+Leuven|Genesis|236|10,10,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis|236|11,11,·,·,u--------,AuxK
+Leuven|Genesis|236|12,12,[0],,,PRED

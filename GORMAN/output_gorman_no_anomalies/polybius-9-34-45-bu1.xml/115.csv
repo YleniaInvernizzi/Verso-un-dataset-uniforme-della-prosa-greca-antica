@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ξυνία,Ξυνία,n-s---fn-,ExD
+1,2,",",punc1,u--------,AuxX
+2,3,Θετταλίας,Θεσσαλία,n-s---fg-,ATR
+3,4,πόλις,πόλις,n-s---fn-,ATR
+4,5,.,punc1,u--------,AuxK

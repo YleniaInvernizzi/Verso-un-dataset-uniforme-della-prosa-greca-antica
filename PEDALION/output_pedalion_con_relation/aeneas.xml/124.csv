@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0058-001|125|1,1,τεχνάζει,τεχνάζω,v3spia---,PRED
+Leuven|0058-001|125|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0058-001|125|3,3,τοιόνδε,τοιόσδε,p-s---na-,OBJ
+Leuven|0058-001|125|4,4,.,.,u--------,AuxK

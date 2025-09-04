@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|270|1,1,γῆ,γῆ,n-s---fn-,SBJ
+Leuven|Genesis_deel2|270|2,2,τετρακοσίων,τετρακόσιοι,m-p---ng-,ATR
+Leuven|Genesis_deel2|270|3,3,διδράχμων,δίδραγμον,n-p---ng-,ATR
+Leuven|Genesis_deel2|270|4,4,ἀργυρίου,ἀργύριον,n-s---ng-,ATR
+Leuven|Genesis_deel2|270|5,5,",",",",u--------,AuxX
+Leuven|Genesis_deel2|270|6,6,ἀνά,ἀνά,r--------,AuxP
+Leuven|Genesis_deel2|270|7,7,μέσον,μέσος,a-s---ma-,ADV
+Leuven|Genesis_deel2|270|8,8,ἐμοῦ,ἐγώ,p1s---cg-,ATR_CO
+Leuven|Genesis_deel2|270|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|270|10,10,σοῦ,σύ,p2s---cg-,ATR_CO
+Leuven|Genesis_deel2|270|11,11,τί,τίς,p-s---nn-,PNOM
+Leuven|Genesis_deel2|270|12,12,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis_deel2|270|13,13,εἴη,εἰμί,v3spoa---,PRED
+Leuven|Genesis_deel2|270|14,14,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|Genesis_deel2|270|15,15,;,;,u--------,AuxK

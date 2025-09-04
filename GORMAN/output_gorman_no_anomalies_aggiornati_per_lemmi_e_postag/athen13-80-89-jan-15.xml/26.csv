@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;σοφὸς;σοφός;a-s---mn-;PNOM
+2;μὲν;μέν;d--------;AuxY
+3;δὴ;δή;d--------;AuxZ
+4;σύ;σύ;p2s---mn-;SBJ
+5;γε;γε;d--------;AuxZ
+6;εἶ;εἶμι;v2spia---;PRED
+7;,;punc;u--------;AuxX
+8;ὦ;ὦ;i--------;AuxZ
+9;Σοφόκλεις;Σοφοκλῆς;n-s---mv-;ExD
+10;,;punc;u--------;AuxX
+11;ἐν;ἐν;r--------;AuxP
+12;ποιήσει;ποίησις;n-s---fd-;ADV
+13;:;punc;u--------;AuxK

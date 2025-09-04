@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἔγημε,γαμέω,v3saia---,PRED
+1,2,δὲ,δέ,d--------,AuxY
+2,3,Ῥωξάνην,Ῥωξάνη,n-s---fa-,OBJ
+3,4,ἑαυτῷ,ἑαυτοῦ,p-s---md-,OBJ
+4,5,",",punc1,u--------,AuxX
+5,6,μόνης,μόνος,a-s---fg-,AtvV
+6,7,ἐρασθείς,ἔραμαι,v-sappmn-,ADV
+7,8,:,punc1,u--------,AuxK

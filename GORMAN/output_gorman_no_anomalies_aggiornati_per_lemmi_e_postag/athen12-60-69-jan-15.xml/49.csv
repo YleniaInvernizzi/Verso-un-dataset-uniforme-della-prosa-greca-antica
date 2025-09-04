@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;διέτριβεν;διατρίβω;v3piia---;PRED
+2;δ᾽;δέ;d--------;AuxY
+3;ὁ;ὁ;l-s---mn-;ATR
+4;Ἀρίστιππος;Ἀρίστιππος;n-s---mn-;SBJ
+5;τὰ;ὁ;l-p---na-;ATR
+6;πολλὰ;πολύς;a-p---na-;ADV
+7;ἐν;ἐν;r--------;AuxP
+8;Αἰγίνῃ;Αἴγινα;n-s---fd-;ADV
+9;τρυφῶν;τρυφή;v-sppamn-;ADV
+10;:;punc;u--------;AuxK

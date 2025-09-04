@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἁβροδίαιτος,ἁβροδίαιτος,a-s---mn-,ATR_CO
+2,ἀνὴρ,ἀνήρ,n-s---mn-,SBJ
+3,ἀρετήν,ἀρετή,n-s---fa-,OBJ
+4,τε,τε,c--------,COORD
+5,σέβων,σέβω,v-sppamn-,ATR_CO
+6,τάδ᾽,ὅδε,p-p---na-,OBJ
+7,ἔγραψεν,γράφω,v3saia---,PRED
+8,.,punc1,u--------,AuxK

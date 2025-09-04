@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|212|1,1,ἔγγισον,ἐγγίζω,v2sama---,PRED_CO
+1,Leuven|Genesis_deel3|212|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|Genesis_deel3|212|3,3,καί,καί,c--------,COORD
+3,Leuven|Genesis_deel3|212|4,4,φίλησον,φιλέω,v2sama---,PRED_CO
+4,Leuven|Genesis_deel3|212|5,5,με,ἐγώ,p1s---ca-,OBJ
+6,Leuven|Genesis_deel3|212|7,7,τέκνον,τέκνον,n-s---nv-,ExD

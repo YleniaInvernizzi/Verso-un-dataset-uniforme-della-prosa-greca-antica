@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|368|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|368|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|368|3,3,ἐκ,ἐκ,r--------,AuxP
+3,Leuven|Ps-Luc|368|4,4,τούτων,οὗτος,p-p---ng-,ADV
+4,Leuven|Ps-Luc|368|5,5,ἐτρέφοντο,τρέφω,v3piie---,PRED_CO
+5,Leuven|Ps-Luc|368|6,6,καὶ,καί,c--------,COORD
+6,Leuven|Ps-Luc|368|7,7,τὴν,ὁ,l-s---fa-,ATR
+7,Leuven|Ps-Luc|368|8,8,ἐπ’,ἐπί,r--------,AuxP
+8,Leuven|Ps-Luc|368|9,9,ἐμοὶ,ἐγώ,p1s---cd-,ADV
+9,Leuven|Ps-Luc|368|10,10,κομιζομένην,κομίζω,v-sppefa-,ATR
+10,Leuven|Ps-Luc|368|11,11,θεὸν,θεός,n-s---fa-,OBJ
+11,Leuven|Ps-Luc|368|12,12,ἐθεράπευον,θεραπεύω,v3piia---,PRED_CO

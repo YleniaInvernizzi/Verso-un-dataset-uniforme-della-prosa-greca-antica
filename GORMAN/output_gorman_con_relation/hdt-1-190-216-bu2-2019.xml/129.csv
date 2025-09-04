@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ταύτην,οὗτος,p-s---fa-,OBJ
+2,πέμπων,πέμπω,v-sppamn-,ADV
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Κῦρος,Κῦρος,n-s---mn-,SBJ
+5,ἐμνᾶτο,μνάομαι,v3siie---,PRED
+6,τῷ,ὁ,l-s---md-,ATR
+7,λόγῳ,λόγος,n-s---md-,ADV
+8,θέλων,ἐθέλω,v-sppamn-,ADV
+9,γυναῖκα,γυνή,n-s---fa-,OCOMP
+10,ἣν,ὅς,p-s---fa-,OBJ
+11,ἔχειν,ἔχω,v--pna---,OBJ
+12,.,punc1,u--------,AuxK

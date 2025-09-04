@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|158|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|158|2,2,ἐκάλεσεν,καλέω,v3saia---,PRED
+2,Leuven|Genesis_deel3|158|3,3,αὐτό,αὐτός,p-s---na-,OBJ
+3,Leuven|Genesis_deel3|158|4,4,Ὅρκος,ὅρκος,n-s---mn-,OCOMP

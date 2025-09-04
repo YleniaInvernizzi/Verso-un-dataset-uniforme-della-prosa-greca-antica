@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;πολέμιοι;πολέμιος;n-p---mn-;PNOM
+2;μέντοι;μέντοι;d--------;AuxY
+3;,;punc;u--------;AuxX
+4;ἔφη;φημί;v3siia---;PRED
+5;.;punc;u--------;AuxK

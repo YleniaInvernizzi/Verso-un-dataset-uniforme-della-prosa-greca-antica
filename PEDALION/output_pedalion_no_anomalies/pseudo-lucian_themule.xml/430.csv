@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|431|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|431|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|431|3,3,σὺν,σύν,r--------,AuxP
+3,Leuven|Ps-Luc|431|4,4,αὐτῶι,αὐτός,p-s---md-,ADV
+4,Leuven|Ps-Luc|431|5,5,ἐλθόντες,ἔρχομαι,v-papamn-,ADV
+5,Leuven|Ps-Luc|431|6,6,μανθάνουσιν,μανθάνω,v3ppia---,PRED_CO
+6,Leuven|Ps-Luc|431|7,7,ἔνθα,ἔνθα,d--------,ADV
+7,Leuven|Ps-Luc|431|8,8,ἦμεν,εἰμί,v1piia---,OBJ
+8,Leuven|Ps-Luc|431|9,9,κεκρυμμένοι,κρύπτω,v-prpemn-,PNOM
+10,Leuven|Ps-Luc|431|11,11,καὶ,καί,c--------,COORD
+11,Leuven|Ps-Luc|431|12,12,παραλαμβάνουσι,παραλαμβάνω,v3ppia---,PRED_CO
+12,Leuven|Ps-Luc|431|13,13,τοὺς,ὁ,l-p---ma-,ATR
+13,Leuven|Ps-Luc|431|14,14,τῆς,ὁ,l-s---fg-,ATR
+14,Leuven|Ps-Luc|431|15,15,πόλεως,πόλις,n-s---fg-,ATR
+15,Leuven|Ps-Luc|431|16,16,ἄρχοντας,ἄρχων,n-p---ma-,OBJ

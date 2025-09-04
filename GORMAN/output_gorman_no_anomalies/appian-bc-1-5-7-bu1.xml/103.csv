@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Λαφρήνιος,Λαφρήνιος,n-s---mn-,SBJ
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ἐπεπτώκει,πίπτω,v3slia---,PRED
+3,4,μαχόμενος,μάχομαι,v-sppemn-,ADV
+4,5,.,punc1,u--------,AuxK

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,πρῶτον,πρῶτος,a-s---na-,ADV
+5,ἐκπλαγέντες,ἐκπλήσσω,v-pappmn-,ADV
+6,ἅμα,ἅμα,d--------,AuxZ
+7,φρίκῃ,φρίκη,n-s---fd-,ADV
+8,διέτρεσαν,διατρέω,v3paia---,PRED_CO
+9,καὶ,καί,c--------,COORD
+10,ἀνεχώρησαν,ἀναχωρέω,v3paia---,PRED_CO
+11,:,punc1,u--------,AuxK

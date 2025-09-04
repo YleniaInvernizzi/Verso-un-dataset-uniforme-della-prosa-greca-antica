@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτο,οὗτος,p-s---nn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἐστίν,εἰμί,v3spia---,PRED
+4,",",punc1,u--------,AuxX
+5,ἂν,ἐάν,c--------,AuxC
+6,ἥττους,ἥσσων,a-p---mnc,PNOM
+7,τε,τε,d--------,AuxY
+8,ὦσι,εἰμί,v3ppsa---,ADV_CO
+9,καὶ,καί,c--------,COORD
+10,μὴ,μή,d--------,AuxZ
+11,ἀδικῶνται,ἀδικέω,v3ppse---,ADV_CO
+12,.,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀλλὰ,ἀλλά,d--------,AuxY
+2,χρήματα,χρῆμα,n-p---na-,OBJ
+3,ἔμελλον,μέλλω,v1siia---,PRED
+4,λήψεσθαι,λαμβάνω,v--fnm---,OBJ
+5,ἀποκτείνας,ἀποκτείνω,v-sapamn-,ADV
+6,αὐτόν,αὐτός,p-s---ma-,OBJ
+7,;,punc1,u--------,AuxK

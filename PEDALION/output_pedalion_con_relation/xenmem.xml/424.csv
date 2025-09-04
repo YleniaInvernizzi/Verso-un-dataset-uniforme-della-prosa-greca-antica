@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|425|1,1,εἰκὸς,εἰκός,v-srpann-,PNOM
+Leuven|0032-002|425|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|0032-002|425|3,3,",",",",u--------,AuxX
+Leuven|0032-002|425|4,4,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|425|5,5,.,.,u--------,AuxK
+Leuven|0032-002|425|6,6,[0],,,OBJ

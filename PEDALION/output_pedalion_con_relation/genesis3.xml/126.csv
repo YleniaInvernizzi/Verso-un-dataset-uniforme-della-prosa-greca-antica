@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|127|1,1,ἄπελθε,ἀπέρχομαι,v2sama---,PRED
+Leuven|Genesis_deel3|127|2,2,ἀφʼ,ἀπό,r--------,AuxP
+Leuven|Genesis_deel3|127|3,3,ἡμῶν,ἐγώ,p-p----g-,OBJ
+Leuven|Genesis_deel3|127|4,4,",",",",u--------,AuxX
+Leuven|Genesis_deel3|127|5,5,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis_deel3|127|6,6,δυνατώτερος,δυνατός,a-s---mnc,PNOM
+Leuven|Genesis_deel3|127|7,7,ἡμῶν,ἐγώ,p-p----g-,OBJ
+Leuven|Genesis_deel3|127|8,8,ἐγένου,γίγνομαι,v2saim---,ADV
+Leuven|Genesis_deel3|127|9,9,σφόδρα,σφόδρα,d--------,ADV
+Leuven|Genesis_deel3|127|10,10,.,.,u--------,AuxK

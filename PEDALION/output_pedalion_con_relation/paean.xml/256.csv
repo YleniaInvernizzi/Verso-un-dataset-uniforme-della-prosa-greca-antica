@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|258|1,1,οὕτω,οὕτως,d--------,ADV
+Leuven|PaeanBrev|258|2,2,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|258|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|PaeanBrev|258|4,4,ἐπανῆλθεν,ἐπανέρχομαι,v3saia---,PRED
+Leuven|PaeanBrev|258|5,5,ἄπρακτος,ἄπρακτος,a-s---fn-,ADV
+Leuven|PaeanBrev|258|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|258|7,7,πρεσβεία,πρεσβεία,n-s---fn-,SBJ
+Leuven|PaeanBrev|258|8,8,.,.,u--------,AuxK

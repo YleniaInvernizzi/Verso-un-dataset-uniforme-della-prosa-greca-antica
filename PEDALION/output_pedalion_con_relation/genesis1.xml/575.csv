@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|576|1,1,σύ,σύ,p2s---cn-,SBJ
+Leuven|Genesis|576|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|576|3,3,θεός,θεός,n-s---mn-,PNOM
+Leuven|Genesis|576|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|576|5,5,ἐπιδών,ἐφοράω,v-sapamn-,ATR
+Leuven|Genesis|576|6,6,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Genesis|576|7,7,·,·,u--------,AuxK
+Leuven|Genesis|576|8,8,[0],,,PRED

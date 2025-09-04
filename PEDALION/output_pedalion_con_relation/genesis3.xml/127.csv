@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|128|1,1,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|128|2,2,ἀπῆλθεν,ἀπέρχομαι,v3saia---,PRED_CO
+Leuven|Genesis_deel3|128|3,3,ἐκεῖθεν,ἐκεῖθεν,d--------,OBJ
+Leuven|Genesis_deel3|128|4,4,Ισαακ,Ισαακ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|128|5,5,καί,καί,c--------,AuxY
+Leuven|Genesis_deel3|128|6,6,κατέλυσεν,καταλύω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|128|7,7,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel3|128|8,8,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis_deel3|128|9,9,φάραγγι,φάραγξ,n-s---fd-,ADV
+Leuven|Genesis_deel3|128|10,10,Γεραρων,Γεραρα,n-p----g-,ATR
+Leuven|Genesis_deel3|128|11,11,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|128|12,12,κατῴκησεν,κατοικέω,v3saia---,PRED_CO
+Leuven|Genesis_deel3|128|13,13,ἐκεῖ,ἐκεῖ,d--------,OBJ
+Leuven|Genesis_deel3|128|14,14,.,.,u--------,AuxK

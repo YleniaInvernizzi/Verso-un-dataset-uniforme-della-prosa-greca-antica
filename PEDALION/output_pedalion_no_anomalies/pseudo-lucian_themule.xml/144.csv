@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|145|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+1,Leuven|Ps-Luc|145|2,2,δ’,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|145|3,3,ἄρ’,ἄρα,d--------,AuxY
+3,Leuven|Ps-Luc|145|4,4,ἐνενόουν,ἐννοέω,v1siia---,PRED
+4,Leuven|Ps-Luc|145|5,5,πρὸς,πρός,r--------,AuxP
+5,Leuven|Ps-Luc|145|6,6,ἐμαυτόν,ἐμαυτοῦ,p-s---ma-,ADV

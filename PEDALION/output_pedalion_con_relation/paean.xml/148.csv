@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|150|1,1,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|PaeanBrev|150|2,2,οὐκ,οὐ,d--------,AuxZ
+Leuven|PaeanBrev|150|3,3,ἤνεγκε,φέρω,v3saia---,PRED
+Leuven|PaeanBrev|150|4,4,μετρίως,μέτριος,d--------,ADV
+Leuven|PaeanBrev|150|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|150|6,6,Κάμιλλος,Κάμιλλος,n-s---mn-,SBJ
+Leuven|PaeanBrev|150|7,7,·,·,u--------,AuxK

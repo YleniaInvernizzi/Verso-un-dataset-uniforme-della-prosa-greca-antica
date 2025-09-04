@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;πολέμιος;πολέμιος;a-s---mn-;PNOM
+2;γὰρ;γάρ;d--------;AuxY
+3;ἡμῖν;ἐγώ;p1p---md-;ADV
+4;Φαρνάβαζος;Φαρνάβαζος;n-s---mn-;SBJ
+5;.;punc;u--------;AuxK
+6;ἐστιν;εἰμί;v3spia---;PRED

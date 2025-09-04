@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀκηκόατε;ἀκούω;v2pria---;PRED
+2;,;punc;u--------;AuxX
+3;ὦ;ὦ;i--------;AuxZ
+4;ἄνδρες;ἀνήρ;n-p---mv-;ExD
+5;Ἀθηναῖοι;Ἀθηναῖος;n-p---mv-;ATR
+6;,;punc;u--------;AuxX
+7;πᾶσαν;πᾶς;a-s---fa-;ATR
+8;ὑμῖν;σύ;p2p---md-;OBJ
+9;τὴν;ὁ;l-s---fa-;ATR
+10;ἀλήθειαν;ἀλήθεια;n-s---fa-;OBJ
+11;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+12;εἶπον;λέγω;v1saia---;PRED
+13;·;punc;u--------;AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|21|1,1,μή,μή,d--------,AuxZ
+Leuven|30514|21|2,2,ἀναγκάσῃς,ἀναγκάζω,v2sasa---,PRED
+Leuven|30514|21|3,3,μέ,ἐγώ,p1s---ca-,SBJ
+Leuven|30514|21|4,4,σε,σύ,p2s---ca-,OBJ
+Leuven|30514|21|5,5,μέμψασθαι,μέμφομαι,v--anm---,OBJ
+Leuven|30514|21|6,6,σε,σύ,p2s---ca-,APOS
+Leuven|30514|21|7,7,Ὀννῶφριν,Ὀννῶφρις,n-s---fa-,ATR
+Leuven|30514|21|8,8,ἐπί,ἐπί,r--------,AuxP
+Leuven|30514|21|9,9,τῇ,ὁ,l-s---fd-,ATR
+Leuven|30514|21|10,10,ἀηδίᾳ,ἀηδία,n-s---fd-,ADV
+Leuven|30514|21|11,11,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|30514|21|12,12,.,.,u--------,AuxK

@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0058-001|57|1,1,καὶ,καί,c--------,AuxY
+Leuven|0058-001|57|2,2,οὕτως,οὕτως,d--------,ADV
+Leuven|0058-001|57|3,3,ἐπράχθη,πράσσω,v3saip---,PRED
+Leuven|0058-001|57|4,4,.,.,u--------,AuxK

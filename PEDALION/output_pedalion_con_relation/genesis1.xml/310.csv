@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|311|1,1,ὡς,ὡς,c--------,AuxC
+Leuven|Genesis|311|2,2,λάχανα,λάχανον,n-p---nn-,APOS
+Leuven|Genesis|311|3,3,χόρτου,χόρτος,n-s---mg-,ATR
+Leuven|Genesis|311|4,4,δέδωκα,δίδωμι,v1sria---,PRED
+Leuven|Genesis|311|5,5,ὑμῖν,σύ,p2p---cd-,OBJ
+Leuven|Genesis|311|6,6,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|311|7,7,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Genesis|311|8,8,.,.,u--------,AuxK

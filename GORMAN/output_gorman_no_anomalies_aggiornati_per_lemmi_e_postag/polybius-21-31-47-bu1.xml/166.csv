@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ταύτας;οὗτος;a-p---fa-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;οὖν;οὖν;d--------;AuxY
+4;ἔδωκαν;δίδωμι;v3paia---;PRED
+5;Εὐμένει;Εὐμένης;n-s---md-;OBJ
+6;τὰς;ὁ;l-p---fa-;ATR
+7;δωρεάς;δωρεά;n-p---fa-;OBJ
+8;·;punc;u--------;AuxK

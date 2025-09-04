@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27679|29|1,1,πυνθανόμενος,πυνθάνομαι,v-sppemn-,ADV
+1,Leuven|27679|29|2,2,περὶ,περί,r--------,AuxP
+2,Leuven|27679|29|3,3,τῆς,ὁ,l-s---fg-,ATR
+3,Leuven|27679|29|4,4,σωτηρίας,σωτηρία,n-s---fg-,ADV
+4,Leuven|27679|29|5,5,αὐτῆς,αὐτός,p-s---fg-,ATR
+5,Leuven|27679|29|6,6,ἀπέφηνα,ἀποφαίνω,v1saia---,PRED
+6,Leuven|27679|29|7,7,τὸ,ὁ,l-s---na-,ATR
+7,Leuven|27679|29|8,8,πᾶν,πᾶς,a-s---na-,OBJ

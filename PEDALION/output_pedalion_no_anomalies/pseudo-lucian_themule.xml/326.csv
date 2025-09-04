@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|327|1,1,τοῦτον,οὗτος,p-s---ma-,ATR
+2,Leuven|Ps-Luc|327|3,3,δέσποτα,δεσπότης,n-s---mv-,ExD
+4,Leuven|Ps-Luc|327|5,5,τὸν,ὁ,l-s---ma-,ATR
+5,Leuven|Ps-Luc|327|6,6,ὄνον,ὄνος,n-s---ma-,OBJ
+6,Leuven|Ps-Luc|327|7,7,οὐκ,οὐ,d--------,AuxZ
+7,Leuven|Ps-Luc|327|8,8,οἶδ’,οἶδα,v1sria---,PRED
+8,Leuven|Ps-Luc|327|9,9,ὅ,ὅς,p-s---na-,ADV
+9,Leuven|Ps-Luc|327|10,10,τι,τις,p-s---na-,ATR
+10,Leuven|Ps-Luc|327|11,11,βόσκομεν,βόσκω,v1ppia---,OBJ
+11,Leuven|Ps-Luc|327|12,12,δεινῶς,δεινός,d--------,ADV
+12,Leuven|Ps-Luc|327|13,13,ἀργὸν,ἀργός,a-s---ma-,PNOM_CO
+13,Leuven|Ps-Luc|327|14,14,ὄντα,εἰμί,v-sppama-,ADV
+14,Leuven|Ps-Luc|327|15,15,καὶ,καί,c--------,COORD
+15,Leuven|Ps-Luc|327|16,16,βραδύν,βραδύς,a-s---mac,PNOM_CO

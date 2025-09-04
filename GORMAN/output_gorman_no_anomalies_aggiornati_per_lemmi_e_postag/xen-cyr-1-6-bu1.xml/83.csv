@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦ;ἦ;d--------;AuxY
+2;καὶ;καί;d--------;AuxY
+3;σχολή;σχολή;n-s---fn-;SBJ
+4;,;punc;u--------;AuxX
+5;ἔφη;φημί;v3siia---;PRED
+6;,;punc;u--------;AuxX
+7;ὦ;ὦ;i--------;AuxZ
+8;πάτερ;πατήρ;n-s---mv-;ExD
+9;,;punc;u--------;AuxX
+10;ἔσται;εἰμί;v3sfim---;OBJ
+11;,;punc;u--------;AuxX
+12;σωμασκεῖν;σωμασκέω;v--pna---;ATR
+13;τοῖς;ὁ;l-p---md-;ATR
+14;στρατιώταις;στρατιώτης;n-p---md-;PNOM
+15;";";punc;u--------;AuxK

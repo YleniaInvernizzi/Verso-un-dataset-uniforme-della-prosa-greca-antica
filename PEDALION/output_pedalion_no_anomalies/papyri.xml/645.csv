@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|32546|10|1,1,ἐξαυτῆς,ἐξαυτῆς,d--------,ADV
+1,Leuven|32546|10|2,2,ἀπάντησον,ἀπαντάω,v2sama---,PRED
+2,Leuven|32546|10|3,3,ἵνα,ἵνα,c--------,AuxC
+3,Leuven|32546|10|4,4,πάντα,πᾶς,a-p---na-,OBJ
+4,Leuven|32546|10|5,5,τυπώσῃς,τυπόω,v2sasa---,ADV

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἑξῆς,ἐξῆς,d--------,ADV
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,ταῦτ᾽,οὗτος,p-p---na-,OBJ
+5,ἀναγράφει,ἀναγράφω,v3spia---,PRED
+6,:,punc1,u--------,AuxK

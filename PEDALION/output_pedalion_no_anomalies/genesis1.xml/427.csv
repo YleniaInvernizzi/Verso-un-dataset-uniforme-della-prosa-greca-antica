@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|428|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|428|2,2,ἐπορεύθη,πορεύω,v3saip---,PRED_CO
+2,Leuven|Genesis|428|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+4,Leuven|Genesis|428|5,5,καθάπερ,καθά,c--------,AuxC
+5,Leuven|Genesis|428|6,6,ἐλάλησεν,λαλέω,v3saia---,ADV
+6,Leuven|Genesis|428|7,7,αὐτῷ,αὐτός,p-s---md-,OBJ
+7,Leuven|Genesis|428|8,8,κύριος,κύριος,n-s---mn-,SBJ
+9,Leuven|Genesis|428|10,10,καί,καί,c--------,COORD
+10,Leuven|Genesis|428|11,11,ᾤχετο,οἴχομαι,v3siie---,PRED_CO
+11,Leuven|Genesis|428|12,12,μετ’,μετά,r--------,AuxP
+12,Leuven|Genesis|428|13,13,αὐτοῦ,αὐτός,p-s---mg-,ADV
+13,Leuven|Genesis|428|14,14,Λωτ,Λωτ,n-s---mn-,SBJ
+14,Leuven|Genesis|428|15,15,·,·,u--------,AuxK

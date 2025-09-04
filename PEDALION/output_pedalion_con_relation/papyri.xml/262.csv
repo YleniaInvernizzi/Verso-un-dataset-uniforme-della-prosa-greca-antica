@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27092|4|1,1,καλῶς,καλός,d--------,ADV
+Leuven|27092|4|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|27092|4|3,3,ποιήσεις,ποιέω,v2sfia---,PRED
+Leuven|27092|4|4,4,ταχύτερόν,ταχύς,a-s---nac,ADV
+Leuven|27092|4|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|27092|4|6,6,ἀντιγράψαι,ἀντιγράφω,v--ana---,OBJ
+Leuven|27092|4|7,7,περὶ,περί,r--------,AuxP
+Leuven|27092|4|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|27092|4|9,9,σωτηρίας,σωτηρία,n-s---fg-,ADV
+Leuven|27092|4|10,10,σου,σύ,p2s---cg-,ATR
+Leuven|27092|4|11,11,.,.,u--------,AuxK

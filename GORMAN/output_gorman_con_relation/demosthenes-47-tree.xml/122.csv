@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδὲν,οὐδείς,p-s---na-,SBJ
+2,κωλύει,κωλύω,v3spia---,PRED
+3,",",",",u--------,AuxX
+4,ἔφη,φημί,v3siia---,AuxY
+5,·,·,u--------,AuxK

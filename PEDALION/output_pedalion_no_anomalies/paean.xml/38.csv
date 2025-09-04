@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|39|1,1,θεάτρων,θέατρον,n-p---ng-,ATR
+1,Leuven|PaeanBrev|39|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|39|3,3,ἐνεστήσατο,ἐνίστημι,v3saim---,PRED
+3,Leuven|PaeanBrev|39|4,4,τέρψιν,τέρψις,n-s---fa-,OBJ
+4,Leuven|PaeanBrev|39|5,5,Ῥωμάνην,ρομανυς,a-s---fa-,ATR
+5,Leuven|PaeanBrev|39|6,6,καλέσας,καλέω,v-sapamn-,ADV
+6,Leuven|PaeanBrev|39|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|PaeanBrev|39|8,8,θέαν,θέα,n-s---fa-,OCOMP

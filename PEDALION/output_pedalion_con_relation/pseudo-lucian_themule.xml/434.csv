@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|435|1,1,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|Ps-Luc|435|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|435|3,3,οὐδὲν,οὐδείς,p-s---na-,SBJ
+Leuven|Ps-Luc|435|4,4,ἄλλο,ἄλλος,p-s---na-,ATR
+Leuven|Ps-Luc|435|5,5,ὑπολελεῖφθαι,ὑπολείπω,v--rne---,OBJ
+Leuven|Ps-Luc|435|6,6,ἔλεγον,λέγω,v3piia---,PRED
+Leuven|Ps-Luc|435|7,7,οὔτε,οὔτε,b--------,AuxY
+Leuven|Ps-Luc|435|8,8,ἄνθρωπον,ἄνθρωπος,n-s---ma-,APOS_CO
+Leuven|Ps-Luc|435|9,9,οὔτε,οὔτε,b--------,COORD
+Leuven|Ps-Luc|435|10,10,ὄνον,ὄνος,n-s---ma-,APOS_CO
+Leuven|Ps-Luc|435|11,11,.,.,u--------,AuxK

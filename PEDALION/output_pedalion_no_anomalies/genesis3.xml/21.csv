@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|22|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|22|2,2,εὐλόγησαν,εὐλογέω,v3paia---,PRED_CO
+2,Leuven|Genesis_deel3|22|3,3,Ρεβεκκαν,Ρεβεκκα,n-s---fa-,OBJ
+3,Leuven|Genesis_deel3|22|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|Genesis_deel3|22|5,5,ἀδελφήν,ἀδελφή,n-s---fa-,APOS
+5,Leuven|Genesis_deel3|22|6,6,αὐτῶν,αὐτός,p-p---mg-,ATR
+6,Leuven|Genesis_deel3|22|7,7,καί,καί,c--------,COORD
+7,Leuven|Genesis_deel3|22|8,8,εἶπαν,λέγω,v3paia---,PRED_CO
+8,Leuven|Genesis_deel3|22|9,9,αὐτῇ,αὐτός,p-s---fd-,OBJ

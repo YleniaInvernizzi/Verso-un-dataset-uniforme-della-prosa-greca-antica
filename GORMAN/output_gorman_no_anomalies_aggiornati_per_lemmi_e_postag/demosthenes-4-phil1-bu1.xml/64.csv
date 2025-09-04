@@ -1,0 +1,5 @@
+@id;@form;@lemma;@postag;@relation
+1;ταχείας;ταχύς;a-p---fa-;ATR
+2;τριήρεις;τριήρης;n-p---fa-;OBJ
+3;δέκα;δέκα;m--------;ATR
+4;·;punc;u--------;AuxK

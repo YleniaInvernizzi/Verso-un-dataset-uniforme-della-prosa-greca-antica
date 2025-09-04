@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;τί;τις;p-s---na-;OBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;ἂν;ἄν;d--------;AuxY
+4;παθόντες;πάσχω;v-papamn-;ADV
+5;δίκην;δίκη;n-s---fa-;OBJ
+6;τὴν;ὁ;l-s---fa-;ATR
+7;ἀξίαν;ἄξιος;a-s---fa-;ATR
+8;εἴησαν;εἰμί;v3ppoa---;PRED
+9;τῶν;ὁ;l-p---ng-;ATR
+10;ἔργων;ἔργον;n-p---ng-;ADV
+11;δεδωκότες;δίδωμι;v-prpamn-;PNOM
+12;";";punc;u--------;AuxK

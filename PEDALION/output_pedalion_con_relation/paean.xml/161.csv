@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|163|1,1,ἀλλʼ,ἀλλά,d--------,AuxY
+Leuven|PaeanBrev|163|2,2,οὐχ,οὐ,d--------,AuxZ
+Leuven|PaeanBrev|163|3,3,ὑπέρ,ὑπέρ,r--------,AuxP
+Leuven|PaeanBrev|163|4,4,τρεῖς,τρεῖς,m-p---ma-,ATR
+Leuven|PaeanBrev|163|5,5,ἐνιαυτούς,ἐνιαυτός,n-p---ma-,ADV
+Leuven|PaeanBrev|163|6,6,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|PaeanBrev|163|7,7,ἐδυνήθησαν,δύναμαι,v3paip---,PRED
+Leuven|PaeanBrev|163|8,8,·,·,u--------,AuxK

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28857|7|1,1,μηδέν,μηδείς,p-s---na-,OBJ
+1,Leuven|28857|7|2,2,αὐτῇ,αὐτός,p-s---fd-,OBJ
+2,Leuven|28857|7|3,3,λέγε,λέγω,v2spma---,PRED
+3,Leuven|28857|7|4,4,εἰ,εἰ,c--------,AuxC
+4,Leuven|28857|7|5,5,μή,μή,d--------,AuxZ
+5,Leuven|28857|7|6,6,τῇ,ὁ,l-s---fd-,ATR
+6,Leuven|28857|7|7,7,τετράδι,τετράς,n-s---fd-,ADV

@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,δὴ,δή,d--------,AuxZ
+3,χρόνος,χρόνος,n-s---mn-,SBJ
+4,ἐκκρούει,ἐκκρούω,v3spia---,PRED
+5,τὸ,ὁ,l-s---na-,ATR
+6,μάντευμα,μάντευμα,n-s---na-,OBJ
+7,.,punc1,u--------,AuxX

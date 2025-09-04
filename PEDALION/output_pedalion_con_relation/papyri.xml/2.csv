@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|11103|3|1,1,παράσχες,παρέχω,v2sama---,PRED
+Leuven|11103|3|2,2,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|11103|3|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|11103|3|4,4,τροφήν,τροφή,n-s---fa-,OBJ
+Leuven|11103|3|5,5,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|32546|9|1,1,μὴ,μή,d--------,AuxZ
+1,Leuven|32546|9|2,2,θέλῃς,ἐθέλω,v2spsa---,PRED_CO
+2,Leuven|32546|9|3,3,ἀμελῆσαι,ἀμελέω,v--ana---,OBJ
+3,Leuven|32546|9|4,4,καὶ,καί,c--------,COORD
+4,Leuven|32546|9|5,5,ὕστερα,ὕστερος,a-p---na-,ADV
+5,Leuven|32546|9|6,6,μεταμελήσῃς,μεταμέλομαι,v2sasa---,PRED_CO

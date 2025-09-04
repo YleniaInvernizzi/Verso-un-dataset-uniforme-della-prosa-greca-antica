@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τὴν,ὁ,l-s---fa-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,μέσην,μέσος,a-s---fa-,ATR
+4,τάξιν,τάξις,n-s---fa-,OBJ
+5,ἐπεῖχε,ἐπώχατο,v3siia---,PRED
+6,τὸ,ὁ,l-s---nn-,ATR
+7,λοιπὸν,λοιπός,a-s---nn-,ATR
+8,τῶν,ὁ,l-p---mg-,ATR
+9,Ἑλλήνων,Ἕλλην,n-p---mg-,ATR
+10,πλῆθος,πλῆθος,n-s---nn-,SBJ
+11,.,punc1,u--------,AuxK

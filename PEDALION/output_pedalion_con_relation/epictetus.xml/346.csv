@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|347|1,1,εἶτα,εἶτα,d--------,ADV
+Leuven|0557-001|347|2,2,τοῖς,ὁ,l-p---md-,ATR
+Leuven|0557-001|347|3,3,θεοῖς,θεός,n-p---md-,OBJ
+Leuven|0557-001|347|4,4,ἐγκαλεῖτε,ἐγκαλέω,v2ppia---,PRED
+Leuven|0557-001|347|5,5,.,.,u--------,AuxK

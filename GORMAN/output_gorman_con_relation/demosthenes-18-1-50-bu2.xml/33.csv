@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑπερβολὴ,ὑπερβολή,n-s---fn-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,ἀδικίας,ἀδικία,n-s---fg-,ATR
+4,τοῦτό,οὗτος,p-s---nn-,SBJ
+5,γε,γε,d--------,AuxZ
+6,.,punc1,u--------,AuxK
+7,ἐστιν,εἰμί,v3spia---,PRED

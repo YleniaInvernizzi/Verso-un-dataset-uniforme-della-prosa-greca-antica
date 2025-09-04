@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|148|1,1,κινδυνεύεταί,κινδυνεύω,v3spie---,PRED
+1,Leuven|Ps-Luc|148|2,2,μοι,ἐγώ,p1s---cd-,ADV
+2,Leuven|Ps-Luc|148|3,3,μηδὲν,μηδείς,p-s---na-,ATR
+3,Leuven|Ps-Luc|148|4,4,κακὸν,κακός,a-s---na-,OBJ
+4,Leuven|Ps-Luc|148|5,5,πεποιηκότι,ποιέω,v-srpamd-,ADV
+5,Leuven|Ps-Luc|148|6,6,διαφθαρῆναι,διαφθείρω,v--anp---,OBJ

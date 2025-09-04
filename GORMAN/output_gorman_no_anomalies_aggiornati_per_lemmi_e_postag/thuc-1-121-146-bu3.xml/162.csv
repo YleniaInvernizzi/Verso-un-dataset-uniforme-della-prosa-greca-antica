@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τοῦ;ὁ;l-s---mg-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;πολέμου;πόλεμος;n-s---mg-;ATR
+4;οἱ;ὁ;l-p---mn-;ATR
+5;καιροὶ;καιρός;n-p---mn-;SBJ
+6;οὐ;οὐ;d--------;AuxZ
+7;μενετοί;μενετός;a-p---mn-;PNOM
+8;.;punc;u--------;AuxK
+9;εἰσιν;εἰμί;v3ppia---;PRED

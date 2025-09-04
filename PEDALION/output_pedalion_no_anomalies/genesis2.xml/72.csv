@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|73|43,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis_deel2|73|44,2,ἡ,ὁ,l-s---fn-,ATR
+2,Leuven|Genesis_deel2|73|45,3,πόλις,πόλις,n-s---fn-,SBJ
+3,Leuven|Genesis_deel2|73|46,4,αὕτη,οὗτος,p-s---fn-,ATR
+4,Leuven|Genesis_deel2|73|47,5,ἐγγύς,ἐγγύς,d--------,PNOM
+5,Leuven|Genesis_deel2|73|48,6,τοῦ,ὁ,l-s---ng-,ATR
+6,Leuven|Genesis_deel2|73|49,7,καταφυγεῖν,καταφεύγω,v--ana---,ADV
+7,Leuven|Genesis_deel2|73|50,8,με,ἐγώ,p1s---ca-,SBJ
+8,Leuven|Genesis_deel2|73|51,9,ἐκεῖ,ἐκεῖ,d--------,OBJ
+10,Leuven|Genesis_deel2|73|53,11,ἥ,ὅς,p-s---fn-,SBJ
+11,Leuven|Genesis_deel2|73|54,12,ἐστιν,εἰμί,v3spia---,ATR
+12,Leuven|Genesis_deel2|73|55,13,μικρά,μικρός,a-s---fn-,PNOM
+14,Leuven|Genesis_deel2|73|57,15,ἐκεῖ,ἐκεῖ,d--------,ADV
+15,Leuven|Genesis_deel2|73|58,16,σωθήσομαι,σῴζω,v1sfip---,PRED_CO

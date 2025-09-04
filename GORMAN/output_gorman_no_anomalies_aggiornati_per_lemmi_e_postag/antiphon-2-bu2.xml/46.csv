@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;οὐδὲν;οὐδείς;p-s---nn-;SBJ
+2;γὰρ;γάρ;d--------;AuxY
+3;πικρότερον;πικρός;a-s---nnc;PNOM
+4;τῆς;ὁ;l-s---fg-;ATR
+5;ἀνάγκης;ἀνάγκη;n-s---fg-;ADV
+6;ἔοικεν;ἔοικα;v3sria---;PRED
+7;εἶναι;εἰμί;v--pna---;OBJ
+8;.;punc;u--------;AuxK

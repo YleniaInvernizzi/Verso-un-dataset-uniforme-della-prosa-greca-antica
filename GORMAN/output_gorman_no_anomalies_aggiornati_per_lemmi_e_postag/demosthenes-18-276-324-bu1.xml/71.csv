@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;Ἀργείους;Ἀργεῖος;n-p---ma-;OBJ
+2;Μύρτις;Μύρτις;n-s---mn-;SBJ_CO
+3;,;punc;u--------;AuxX
+4;Τελέδαμος;Τελέδαμος;n-s---mn-;SBJ_CO
+5;,;punc;u--------;COORD
+6;Μνασέας;Μνασέας;n-s---mn-;SBJ_CO
+7;:;punc;u--------;AuxK

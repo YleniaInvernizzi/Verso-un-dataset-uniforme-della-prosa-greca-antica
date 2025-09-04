@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;σαράπεις;σάραπις;n-p---fn-;SBJ
+3;μήλινοι;μήλινος;a-p---mn-;PNOM_CO
+4;καὶ;καί;d--------;AuxY
+5;πορφυροῖ;πορφύρεος;a-p---mn-;PNOM_CO
+6;καὶ;καί;c--------;COORD
+7;λευκοί;λευκός;a-p---mn-;PNOM_CO
+8;,;punc;u--------;AuxX
+9;οἱ;ὁ;l-p---mn-;SBJ
+10;δὲ;δέ;c--------;COORD
+11;ἁλουργεῖς;ἁλουργής;a-p---mn-;PNOM
+12;.;punc;u--------;AuxK
+13;εἰσιν;εἰμί;v3ppia---;PRED_CO
+14;εἰσιν;εἰμί;v3ppia---;PRED_CO

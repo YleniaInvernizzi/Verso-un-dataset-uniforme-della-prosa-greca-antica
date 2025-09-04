@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|182|1,1,ἀλλά,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|182|2,2,τις,τις,p-s---cn-,ATR
+Leuven|Ps-Luc|182|3,3,δαίμων,δαίμων,n-s---mn-,SBJ
+Leuven|Ps-Luc|182|4,4,βάσκανος,βάσκανος,a-s---mn-,ATR
+Leuven|Ps-Luc|182|5,5,συνεὶς,συνίημι,v-sapamn-,ADV
+Leuven|Ps-Luc|182|6,6,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Ps-Luc|182|7,7,ἐμῶν,ἐμός,a-p---ng-,ATR
+Leuven|Ps-Luc|182|8,8,βουλευμάτων,βούλευμα,n-p---ng-,OBJ
+Leuven|Ps-Luc|182|9,9,ἐς,εἰς,r--------,AuxP
+Leuven|Ps-Luc|182|10,10,τ-,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|182|11,11,ἐναντίον,ἐναντίος,a-s---na-,OBJ
+Leuven|Ps-Luc|182|12,12,περιήνεγκεν,περιφέρω,v3saia---,PRED
+Leuven|Ps-Luc|182|13,13,·,·,u--------,AuxK

@@ -1,0 +1,16 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀπὸ;ἀπό;r--------;AuxP
+2;τῶν;ὁ;l-p---mg-;ATR
+3;ὑμετέρων;ὑμέτερος;a-p---mg-;ATR
+4;ὑμῖν;σύ;p2p---md-;OBJ
+5;πολεμεῖ;πολεμέω;v3spia---;PRED
+6;συμμάχων;σύμμαχος;n-p---mg-;ADV
+7;,;punc;u--------;AuxX
+8;ἄγων;ἄγω;v-sppamn-;ADV_CO
+9;καὶ;καί;c--------;COORD
+10;φέρων;φέρω;v-sppamn-;ADV_CO
+11;τοὺς;ὁ;l-p---ma-;ATR
+12;πλέοντας;πλέω;v-pppama-;OBJ
+13;τὴν;ὁ;l-s---fa-;ATR
+14;θάλατταν;θάλασσα;n-s---fa-;OBJ
+15;.;punc;u--------;AuxK

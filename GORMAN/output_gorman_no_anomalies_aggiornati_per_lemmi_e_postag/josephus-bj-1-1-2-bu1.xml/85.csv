@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;Φιλαδελφείας;Φιλαδέλφεια;n-s---fg-;ATR
+2;δ᾽;δέ;d--------;AuxY
+3;ἦν;εἰμί;v3siia---;PRED
+4;τύραννος;τύραννος;n-s---mn-;PNOM
+5;.;punc;u--------;AuxK

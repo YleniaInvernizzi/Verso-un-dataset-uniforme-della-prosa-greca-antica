@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|361|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|361|2,2,οἱ,ὁ,l-p---mn-,SBJ
+2,Leuven|Ps-Luc|361|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|361|4,4,ἐγέλων,γελάω,v3piia---,PRED

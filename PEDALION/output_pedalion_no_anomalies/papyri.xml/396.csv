@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27679|21|1,1,περὶ,περί,r--------,AuxP
+1,Leuven|27679|21|2,2,τῆς,ὁ,l-s---fg-,ATR
+2,Leuven|27679|21|3,3,ἐπιστολῆς,ἐπιστολή,n-s---fg-,ADV
+3,Leuven|27679|21|4,4,ἧς,ὅς,p-s---fg-,OBJ
+4,Leuven|27679|21|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+5,Leuven|27679|21|6,6,ἐπέμψατε,πέμπω,v2paia---,ATR
+7,Leuven|27679|21|8,8,οὐ,οὐ,d--------,AuxZ
+8,Leuven|27679|21|9,9,κομισάμενος,κομίζω,v-sapmmn-,ADV
+9,Leuven|27679|21|10,10,εἶπε,λέγω,v3saia---,PRED
+10,Leuven|27679|21|11,11,ὅδε,ὅδε,p-s---mn-,SBJ

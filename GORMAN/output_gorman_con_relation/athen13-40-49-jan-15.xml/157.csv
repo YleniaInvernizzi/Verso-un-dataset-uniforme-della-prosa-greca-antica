@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἤτοι,ἤτοι,d--------,AuxZ
+2,τὴν,ὁ,l-s---fa-,ATR
+3,λήκυθον,λήκυθος,n-s---fa-,OBJ_CO
+4,",",punc1,u--------,AuxX
+5,ἔφη,φημί,v3siia---,PRED
+6,",",punc1,u--------,AuxX
+7,ἢ,ἤ1,c--------,COORD
+8,τὰ,ὁ,l-p---na-,ATR
+9,ὑποδήματα,ὑπόδημα,n-p---na-,OBJ_CO
+10,.,punc1,u--------,AuxK
+11,[0],,,OBJ

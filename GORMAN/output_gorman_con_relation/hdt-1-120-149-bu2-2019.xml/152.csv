@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,κατακηρώσαντες,κατακηρόω,v-papamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ὦν,οὖν,d--------,AuxY
+4,τὸν,ὁ,l-s---ma-,ATR
+5,νέκυν,νέκυς,n-s---ma-,OBJ
+6,Πέρσαι,Πέρσης,n-p---mn-,SBJ
+7,γῇ,γῆ,n-s---fd-,ADV
+8,κρύπτουσι,κρύπτω,v3ppia---,PRED
+9,.,punc1,u--------,AuxK

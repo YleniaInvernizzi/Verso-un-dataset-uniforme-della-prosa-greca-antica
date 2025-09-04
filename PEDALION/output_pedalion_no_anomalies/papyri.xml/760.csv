@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|76|7|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|76|7|2,2,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+2,Leuven|76|7|3,3,ὦδε,ὧδε,d--------,ADV_CO
+4,Leuven|76|7|5,5,ἤ,ἤ,c--------,COORD
+5,Leuven|76|7|6,6,ἐν,ἐν,r--------,AuxP
+6,Leuven|76|7|7,7,Διοσπόλει,Διόσπολις,n-s---fd-,ADV_CO
+7,Leuven|76|7|8,8,ἐάν,ἐάν,c--------,AuxC
+8,Leuven|76|7|9,9,αἱρῆσθε,αἱρέω,v2ppse---,ADV
+10,Leuven|76|7|11,11,πυρόν,πυρός,n-s---ma-,OBJ
+11,Leuven|76|7|12,12,ἀγοράσαι,ἀγοράζω,v--ana---,ADV
+12,Leuven|76|7|13,13,ἥκετε,ἥκω,v2ppma---,PRED

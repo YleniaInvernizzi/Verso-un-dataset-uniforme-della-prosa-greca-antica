@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|208|1,1,τίνα,τις,p-s---ca-,ATR
+Leuven|0554-001|208|2,2,τίς,τίς,p-s---cn-,SBJ
+Leuven|0554-001|208|3,3,ἄγγελον,ἄγγελος,n-s---ma-,OBJ
+Leuven|0554-001|208|4,4,πέμψει,πέμπω,v3sfia---,PRED
+Leuven|0554-001|208|5,5,;,;,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31651|7|1,1,καί,καί,d--------,AuxY
+Leuven|31651|7|2,2,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|31651|7|3,3,συμφέρει,συμφέρω,v3spia---,PRED
+Leuven|31651|7|4,4,ἵνα,ἵνα,c--------,AuxC
+Leuven|31651|7|5,5,μή,μή,d--------,AuxZ
+Leuven|31651|7|6,6,ἀπόληται,ἀπόλλυμι,v3sasm---,ADV
+Leuven|31651|7|7,7,ἀμελείᾳ,ἀμέλεια,n-s---fd-,ADV
+Leuven|31651|7|8,8,.,.,u--------,AuxK

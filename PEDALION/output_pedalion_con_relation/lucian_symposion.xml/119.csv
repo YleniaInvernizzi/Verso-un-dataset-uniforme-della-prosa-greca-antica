@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-015|120|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|0062-015|120|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|0062-015|120|3,3,τοῖς,ὁ,l-p---md-,ATR
+Leuven|0062-015|120|4,4,παροῦσιν,πάρειμι,v-pppamd-,ADV
+Leuven|0062-015|120|5,5,ἀπολελόγημαι,ἀπολογέομαι,v1srie---,PRED
+Leuven|0062-015|120|6,6,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|61|1,1,ἔδοξεν,δοκέω,v3saia---,PRED
+Leuven|Genesis_deel2|61|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|61|3,3,γελοιάζειν,γελοιάζω,v--pna---,OBJ
+Leuven|Genesis_deel2|61|4,4,ἐναντίον,ἐναντίον,d--------,ADV
+Leuven|Genesis_deel2|61|5,5,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Genesis_deel2|61|6,6,γαμβρῶν,γαμβρός,n-p---mg-,ADV
+Leuven|Genesis_deel2|61|7,7,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|Genesis_deel2|61|8,8,.,.,u--------,AuxK

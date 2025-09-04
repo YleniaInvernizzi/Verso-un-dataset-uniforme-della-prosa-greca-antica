@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|58|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|58|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+2,Leuven|Genesis|58|3,3,ἑσπέρα,ἑσπέρα,n-s---fn-,SBJ
+3,Leuven|Genesis|58|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis|58|5,5,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+5,Leuven|Genesis|58|6,6,πρωί,πρωΐ,d--------,SBJ
+7,Leuven|Genesis|58|8,8,ἡμέρα,ἡμέρα,n-s---fn-,ExD
+8,Leuven|Genesis|58|9,9,ἕκτη,ἕκτος,a-s---fn-,ATR

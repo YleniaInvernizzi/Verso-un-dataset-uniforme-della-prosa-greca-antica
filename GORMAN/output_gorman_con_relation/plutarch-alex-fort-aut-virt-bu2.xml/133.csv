@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,τίς,τις,p-s---mn-,SBJ
+2,μαχομένοις,μάχομαι,v-pppemd-,ADV
+3,βαρύτερος,βαρύς,a-s---mnc,PNOM
+4,ἢ,ἤ1,c--------,COORD
+5,δεομένοις,δέω1,v-pppemd-,ADV
+6,εὐγνωμονέστερος,εὐγνώμων,a-s---mnc,PNOM
+7,;,punc1,u--------,AuxK
+8,[0],,,PRED_CO
+9,[1],,,PRED_CO

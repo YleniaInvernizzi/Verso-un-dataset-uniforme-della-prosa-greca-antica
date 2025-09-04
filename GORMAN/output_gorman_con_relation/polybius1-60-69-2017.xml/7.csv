@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,διόπερ,διόπερ,d--------,AuxY
+2,ἔκρινε,κρίνω,v3saia---,PRED
+3,μὴ,μή,d--------,AuxZ
+4,παρεῖναι,πάρειμι1,v--pna---,OBJ
+5,τὸν,ὁ,l-s---ma-,ATR
+6,ἐνεστῶτα,ἐνίστημι,v-srpama-,ATR
+7,καιρόν,καιρός,n-s---ma-,OBJ
+8,:,punc1,u--------,AuxK

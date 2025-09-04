@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῦτο,οὗτος,p-s---nn-,SBJ
+2,γάρ,γάρ,d--------,AuxY
+3,ἐστιν,εἰμί,v3spia---,OBJ
+4,ὁ,ὁ,l-s---mn-,ATR
+5,λεγόμενος,λέγω2,v-sppemn-,PNOM_AP
+6,",",punc1,u--------,AuxX
+7,οἶμαι,οἴομαι,v1spie--------,PRED
+8,",",punc1,u--------,AuxX
+9,Διὸς,Ζεύς,n-s---mg-,ATR_CO
+10,ἅμα,ἅμα,d--------,AuxZ
+11,καὶ,καί,c--------,COORD
+12,βασιλέως,βασιλεύς,n-s---mg-,ATR_CO
+13,ἐγκέφαλος,ἐγκέφαλος,n-s---mn-,PNOM_AP
+14,:,punc1,u--------,AuxK
+15,[0],,,APOS

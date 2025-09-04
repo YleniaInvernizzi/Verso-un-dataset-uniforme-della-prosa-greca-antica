@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Βισάλται,Βισάλτης,n-p---mn-,SBJ
+2,εἰς,εἰς,r--------,AuxP
+3,Καρδίην,Καρδίη,n-s---fa-,OBJ
+4,ἐστρατεύσαντο,στρατεύω,v3paim---,PRED_CO
+5,καὶ,καί,c--------,COORD
+6,ἐνίκησαν,νικάω,v3paia---,PRED_CO
+7,.,punc1,u--------,AuxK

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|307|1,1,αὐξάνεσθε,αὐξάνω,v2ppme---,PRED_CO
+1,Leuven|Genesis|307|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis|307|3,3,πληθύνεσθε,πληθύνω,v2ppme---,PRED_CO
+3,Leuven|Genesis|307|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis|307|5,5,πληρώσατε,πληρόω,v2pama---,PRED_CO
+5,Leuven|Genesis|307|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|Genesis|307|7,7,γῆν,γῆ,n-s---fa-,OBJ
+7,Leuven|Genesis|307|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis|307|9,9,κατακυριεύσατε,κατακυριεύω,v2pama---,PRED_CO
+9,Leuven|Genesis|307|10,10,αὐτῆς,αὐτός,p-s---fg-,OBJ

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxZ
+2,μέ,ἐγώ,p1s---ma-,SBJ
+3,τις,τις,a-s---fn_,ATR
+4,ἔχει,ἔχω,v3spia---,PRED
+5,φιλοτιμία,φιλοτιμία,n-s---fn-,SBJ_CO
+6,καὶ,καί,c--------,COORD
+7,ζῆλος,ζῆλος,n-s---nn-,SBJ_CO
+8,ἡμερώτερον,ἥμερος,a-s---mac,PNOM
+9,αὐτοῦ,αὐτός,p-s---mg-,ADV
+10,φανῆναι,φαίνω,v--anp---,OBJ
+11,:,punc1,u--------,AuxK

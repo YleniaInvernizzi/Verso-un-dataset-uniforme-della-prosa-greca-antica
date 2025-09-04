@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|140|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|Ps-Luc|140|2,2,εἶπε,λέγω,v3saia---,PRED
+Leuven|Ps-Luc|140|3,3,καταψηλαφήσασά,καταψηλαφάω,v-sapafn-,ADV
+Leuven|Ps-Luc|140|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Ps-Luc|140|5,5,τὰ,ὁ,l-p---na-,ATR
+Leuven|Ps-Luc|140|6,6,ὦτα,οὖς,n-p---na-,OBJ_CO
+Leuven|Ps-Luc|140|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|140|8,8,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|140|9,9,λοιπὸν,λοιπός,a-s---na-,ATR
+Leuven|Ps-Luc|140|10,10,δέρμα,δέρμα,n-s---na-,OBJ_CO
+Leuven|Ps-Luc|140|11,11,.,.,u--------,AuxK

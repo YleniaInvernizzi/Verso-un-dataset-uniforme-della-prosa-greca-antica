@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|131|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|131|2,2,ἐμαχέσαντο,μάχομαι,v3paim---,PRED
+2,Leuven|Genesis_deel3|131|3,3,οἱ,ὁ,l-p---mn-,ATR
+3,Leuven|Genesis_deel3|131|4,4,ποιμένες,ποιμήν,n-p---mn-,SBJ
+4,Leuven|Genesis_deel3|131|5,5,Γεραρων,Γεραρα,n-p----g-,ATR
+5,Leuven|Genesis_deel3|131|6,6,μετά,μετά,r--------,AuxP
+6,Leuven|Genesis_deel3|131|7,7,τῶν,ὁ,l-p---mg-,ATR
+7,Leuven|Genesis_deel3|131|8,8,ποιμένων,ποιμήν,n-p---mg-,ADV
+8,Leuven|Genesis_deel3|131|9,9,Ισαακ,Ισαακ,n-s---mg-,ATR
+9,Leuven|Genesis_deel3|131|10,10,φάσκοντες,φάσκω,v-pppamn-,ADV
+10,Leuven|Genesis_deel3|131|11,11,αὐτῶν,αὐτός,p-p---mg-,PNOM
+11,Leuven|Genesis_deel3|131|12,12,εἶναι,εἰμί,v--pna---,OBJ
+12,Leuven|Genesis_deel3|131|13,13,τό,ὁ,l-s---na-,ATR
+13,Leuven|Genesis_deel3|131|14,14,ὕδωρ,ὕδωρ,n-s---na-,SBJ

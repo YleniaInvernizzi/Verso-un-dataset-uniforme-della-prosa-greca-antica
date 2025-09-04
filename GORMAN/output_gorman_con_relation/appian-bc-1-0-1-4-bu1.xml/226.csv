@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τόδε,ὅδε,p-s---na-,OBJ
+3,εἰπὼν,εἶπον,v-sapamn-,ADV
+4,ὑπεξῆλθε,ὑπεξέρχομαι,v3saia---,PRED
+5,τῆς,ὁ,l-s---fg-,ATR
+6,πόλεως,πόλις,n-s---fg-,OBJ
+7,.,punc1,u--------,AuxK

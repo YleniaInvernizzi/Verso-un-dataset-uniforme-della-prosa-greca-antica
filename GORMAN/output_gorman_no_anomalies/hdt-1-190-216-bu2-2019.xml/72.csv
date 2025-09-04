@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τοὺς,ὁ,l-p---ma-,ATR
+1,2,κάμνοντας,κάμνω,v-pppama-,OBJ
+2,3,ἐς,εἰς,r--------,AuxP
+3,4,τὴν,ὁ,l-s---fa-,ATR
+4,5,ἀγορὴν,ἀγορά,n-s---fa-,OBJ
+5,6,ἐκφορέουσι,ἐκφορέω,v3ppia---,PRED
+6,7,:,punc1,u--------,AuxK

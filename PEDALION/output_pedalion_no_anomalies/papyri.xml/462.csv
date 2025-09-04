@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28798|9|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+1,Leuven|28798|9|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|28798|9|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|28798|9|5,5,ἄδελφε,ἀδελφός,n-s---mv-,ExD
+5,Leuven|28798|9|6,6,κυριώτατε,κύριος,a-s---mvs,ATR

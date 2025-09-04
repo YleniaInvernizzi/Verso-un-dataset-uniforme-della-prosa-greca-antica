@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|69|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis_deel2|69|2,2,περιβλέψῃς,περιβλέπω,v2sasa---,PRED_CO
+2,Leuven|Genesis_deel2|69|3,3,εἰς,εἰς,r--------,AuxP
+3,Leuven|Genesis_deel2|69|4,4,τά,ὁ,l-p---na-,ATR
+4,Leuven|Genesis_deel2|69|5,5,ὀπίσω,ὀπίσω,r--------,OBJ
+5,Leuven|Genesis_deel2|69|6,6,μηδέ,μηδέ,c--------,COORD
+6,Leuven|Genesis_deel2|69|7,7,στῇς,ἵστημι,v2sasa---,PRED_CO
+7,Leuven|Genesis_deel2|69|8,8,ἐν,ἐν,r--------,AuxP
+8,Leuven|Genesis_deel2|69|9,9,πάσῃ,πᾶς,a-s---fd-,ATR
+9,Leuven|Genesis_deel2|69|10,10,τῇ,ὁ,l-s---fd-,ATR
+10,Leuven|Genesis_deel2|69|11,11,περιχώρῳ,περίχωρος,a-s---fd-,ADV

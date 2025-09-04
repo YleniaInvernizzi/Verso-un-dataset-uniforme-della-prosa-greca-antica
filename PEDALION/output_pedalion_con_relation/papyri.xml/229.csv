@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|18|1,1,περὶ,περί,r--------,AuxP
+Leuven|27086|18|2,2,τῶν,ὁ,l-p---ng-,ATR
+Leuven|27086|18|3,3,περυσινῶν,περυσινός,a-p---ng-,ADV
+Leuven|27086|18|4,4,οὐ,οὐ,d--------,AuxZ
+Leuven|27086|18|5,5,πεποίηκα,ποιέω,v1sria---,PRED_CO
+Leuven|27086|18|6,6,G,G,n-p---na-,SBJ
+Leuven|27086|18|7,7,πεποίηκε,ποιέω,v3sria---,PRED_CO
+Leuven|27086|18|8,8,πέρυσι,πέρυσι,d--------,ADV
+Leuven|27086|18|9,9,.,.,u--------,AuxK
+Leuven|27086|18|10,10,[0],_,_,COORD

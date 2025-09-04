@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|309|1,1,ὑπό,ὑπό,r--------,AuxP
+1,Leuven|Genesis|309|2,2,χεῖρας,χείρ,n-p---fa-,OCOMP
+2,Leuven|Genesis|309|3,3,ὑμῖν,σύ,p2p---cd-,OBJ
+3,Leuven|Genesis|309|4,4,δέδωκα,δίδωμι,v1sria---,PRED

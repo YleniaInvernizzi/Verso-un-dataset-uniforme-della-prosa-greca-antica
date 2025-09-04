@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|10|1,1,ὁ,ὁ,l-s---mn-,SBJ
+1,Leuven|1781|10|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|1781|10|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|1781|10|4,4,συντάσσει,συντάσσω,v3spia---,PRED
+4,Leuven|1781|10|5,5,ὄξος,ὄξος,n-s---na-,OBJ
+5,Leuven|1781|10|6,6,λαμβάνειν,λαμβάνω,v--pna---,OBJ
+6,Leuven|1781|10|7,7,εἰς,εἰς,r--------,AuxP
+7,Leuven|1781|10|8,8,ὀψώνιον,ὀψώνιον,n-s---na-,ADV

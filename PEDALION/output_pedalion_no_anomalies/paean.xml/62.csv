@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|63|1,1,καί,καί,c--------,AuxY
+1,Leuven|PaeanBrev|63|2,2,μηνύσασα,μηνύω,v-sapafn-,ADV
+2,Leuven|PaeanBrev|63|3,3,τό,ὁ,l-s---na-,ATR
+3,Leuven|PaeanBrev|63|4,4,πάθος,πάθος,n-s---na-,OBJ
+4,Leuven|PaeanBrev|63|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|PaeanBrev|63|6,6,ὀφθαλμοῖς,ὀφθαλμός,n-p---md-,ADV
+6,Leuven|PaeanBrev|63|7,7,αὐτῶν,αὐτός,p-p---mg-,ATR
+7,Leuven|PaeanBrev|63|8,8,ἑαυτήν,ἑαυτοῦ,p-s---fa-,OBJ
+8,Leuven|PaeanBrev|63|9,9,διεχρήσατο,διαχράω,v3saim---,PRED

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦν;εἰμί;v3siia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;ἀγορᾶς;ἀγορά;n-s---fg-;PNOM
+4;Ποπιλίας;Ποπιλία;n-s---fg-;ATR
+5;καλουμένης;καλέω;v-sfpmfg-;ADV
+6;οὐ;οὐ;d--------;AuxZ
+7;πρόσω;πρόσω;d--------;PNOM
+8;.;punc;u--------;AuxK

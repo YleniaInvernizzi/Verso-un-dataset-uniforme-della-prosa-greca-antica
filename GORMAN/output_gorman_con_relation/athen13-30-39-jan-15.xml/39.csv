@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐδιδάξαμεν,διδάσκω,v1paia---,PRED
+2,χρυσὸν,χρυσός,n-s---ma-,OBJ
+3,καθαρᾷ,καθαρός,a-s---fd-,ATR
+4,βασάνῳ,βάσανος,n-s---fd-,ADV
+5,.,punc1,u--------,AuxK

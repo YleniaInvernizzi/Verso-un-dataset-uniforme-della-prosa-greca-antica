@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|117|1,1,"""","""",u--------,AuxG
+Leuven|0093-009|117|2,2,μὴ,μή,d--------,AuxZ
+Leuven|0093-009|117|3,3,λέγεταί,λέγω,v3spie---,PRED
+Leuven|0093-009|117|4,4,τι,τις,p-s---nn-,SBJ
+Leuven|0093-009|117|5,5,καινότερον,καινός,a-s---nnc,ATR
+Leuven|0093-009|117|6,6,;,;,u--------,AuxK

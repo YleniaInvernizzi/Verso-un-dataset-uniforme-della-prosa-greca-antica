@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὰ,ὁ,l-p---nn-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ποιήματα,ποίημα,n-p---nn-,SBJ
+3,4,ὧδ᾽,ὧδε,d--------,ADV
+4,5,ἔχει,ἔχω,v3spia---,PRED
+5,6,:,punc1,u--------,AuxK

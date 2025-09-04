@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|18|1,1,συναχθήτω,συνάγω,v3samp---,PRED_CO
+1,Leuven|Genesis|18|2,2,τό,ὁ,l-s---nn-,ATR
+2,Leuven|Genesis|18|3,3,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+3,Leuven|Genesis|18|4,4,τό,ὁ,l-s---nn-,ATR
+4,Leuven|Genesis|18|5,5,ὑποκάτω,ὑποκάτω,r--------,AuxP
+5,Leuven|Genesis|18|6,6,τοῦ,ὁ,l-s---mg-,ATR
+6,Leuven|Genesis|18|7,7,οὐρανοῦ,οὐρανός,n-s---mg-,ATR
+7,Leuven|Genesis|18|8,8,εἰς,εἰς,r--------,AuxP
+8,Leuven|Genesis|18|9,9,συναγωγήν,συναγωγή,n-s---fa-,ADV
+9,Leuven|Genesis|18|10,10,μίαν,εἷς,m-s---fa-,ATR
+11,Leuven|Genesis|18|12,12,καί,καί,c--------,COORD
+12,Leuven|Genesis|18|13,13,ὀφθήτω,ὁράω,v3samp---,PRED_CO
+13,Leuven|Genesis|18|14,14,ἡ,ὁ,l-s---fn-,ATR
+14,Leuven|Genesis|18|15,15,ξηρά,ξηρός,a-s---fn-,SBJ

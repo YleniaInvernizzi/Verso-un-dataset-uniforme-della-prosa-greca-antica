@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|120|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|120|2,2,ὄφις,ὄφις,n-s---mn-,SBJ
+Leuven|Genesis|120|3,3,ἠπάτησεν,ἀπατάω,v3saia---,PRED_CO
+Leuven|Genesis|120|4,4,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Genesis|120|5,5,",",",",u--------,AuxX
+Leuven|Genesis|120|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|120|7,7,ἔφαγον,ἐσθίω,v3paia---,PRED_CO
+Leuven|Genesis|120|8,8,.,.,u--------,AuxK

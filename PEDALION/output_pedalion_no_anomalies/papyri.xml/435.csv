@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28410|6|1,1,καλῶς,καλός,d--------,ADV
+1,Leuven|28410|6|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|28410|6|3,3,ἐποίησας,ποιέω,v2saia---,PRED
+3,Leuven|28410|6|4,4,δῶρά,δῶρον,n-p---na-,OBJ
+4,Leuven|28410|6|5,5,μοι,ἐγώ,p1s---cd-,OBJ
+5,Leuven|28410|6|6,6,ἔπεμψας,πέμπω,v2saia---,ADV
+6,Leuven|28410|6|7,7,μεγάλα,μέγας,a-p---na-,ATR
+7,Leuven|28410|6|8,8,ἀράκια,ἀράκιον,n-p---na-,APOS

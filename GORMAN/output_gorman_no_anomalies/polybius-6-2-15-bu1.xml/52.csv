@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὅπερ,ὅσπερ,p-s---nn-,SBJ
+1,2,ἐστὶν,εἰμί,v3spia---,PRED
+2,3,ἀρχὴ,ἀρχή,n-s---fn-,PNOM_CO
+3,4,καὶ,καί,c--------,COORD
+4,5,τέλος,τέλος,n-s---nn-,PNOM_CO
+5,6,δικαιοσύνης,δικαιοσύνη,n-s---fg-,ATR
+6,7,.,punc1,u--------,AuxK

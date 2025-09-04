@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|222|1,1,παῖς,παῖς,n-s---cn-,PNOM
+1,Leuven|PaeanBrev|222|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|222|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|PaeanBrev|222|4,4,οὗτος,οὗτος,p-s---mn-,SBJ
+4,Leuven|PaeanBrev|222|5,5,τοῦ,ὁ,l-s---mg-,ATR
+5,Leuven|PaeanBrev|222|6,6,μικροῦ,μικρός,d--------,ADV
+6,Leuven|PaeanBrev|222|7,7,πρόσθεν,πρόσθεν,d--------,ADV
+7,Leuven|PaeanBrev|222|8,8,εἰρημένου,λέγω,v-srpemg-,ATR
+8,Leuven|PaeanBrev|222|9,9,Φαβίου,Φάβιος,n-s---mg-,ATR
+9,Leuven|PaeanBrev|222|10,10,Μαξίμου,Μάξιμος,n-s---mg-,APOS

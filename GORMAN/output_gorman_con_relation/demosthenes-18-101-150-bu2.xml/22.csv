@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,φέρε,φέρω,v2spma---,PRED
+2,δὴ,δή,d--------,AuxZ
+3,καὶ,καί,d--------,AuxZ
+4,τὸν,ὁ,l-s---ma-,ATR
+5,καλὸν,καλός,a-s---ma-,ATR
+6,κατάλογον,κατάλογος,n-s---ma-,OBJ
+7,.,punc1,u--------,AuxK

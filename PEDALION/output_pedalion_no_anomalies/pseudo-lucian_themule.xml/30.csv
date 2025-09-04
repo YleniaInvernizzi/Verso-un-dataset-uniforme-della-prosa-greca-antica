@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|31|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Ps-Luc|31|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|31|3,3,οἶνος,οἶνος,n-s---mn-,SBJ
+3,Leuven|Ps-Luc|31|4,4,ἡδὺς,ἡδύς,a-s---mn-,PNOM_CO
+4,Leuven|Ps-Luc|31|5,5,καὶ,καί,c--------,COORD
+5,Leuven|Ps-Luc|31|6,6,παλαιὸς,παλαιός,a-s---mn-,PNOM_CO
+6,Leuven|Ps-Luc|31|7,7,ἦν,εἰμί,v3siia---,PRED

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31650|3|1,1,περιόντα,περίειμι,v-sppama-,ADV
+Leuven|31650|3|2,2,δέ,δέ,d--------,AuxY
+Leuven|31650|3|3,3,νομίζω,νομίζω,v1spia---,PRED
+Leuven|31650|3|4,4,γεγραφέναι,γράφω,v--rna---,OBJ
+Leuven|31650|3|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|31650|3|6,6,περί,περί,r--------,AuxP
+Leuven|31650|3|7,7,αὐτοῦ,αὐτός,p-s---mg-,ADV
+Leuven|31650|3|8,8,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;τοιαῦτα;τοιοῦτος;p-p---na-;OBJ
+2;δ’;δέ;d--------;AuxY
+3;ἐμεγαληγόρει;μεγαληγορέω;v3siia---;PRED
+4;,;punc;u--------;AuxX
+5;μελλούσης;μέλλω;v-sppafg-;ADV
+6;τῆς;ὁ;l-s---fg-;ATR
+7;μάχης;μάχη;n-s---fg-;SBJ
+8;γίγνεσθαι;γίγνομαι;v--pne---;OBJ
+9;·;punc;u--------;AuxK

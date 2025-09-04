@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0544-002|106|1,1,ὃ,ὅς,p-s---nn-,SBJ
+1,Leuven|0544-002|106|2,2,τῶν,ὁ,l-p---ng-,ATR
+2,Leuven|0544-002|106|3,3,προτέρων,πρότερος,a-p---ng-,ADV
+3,Leuven|0544-002|106|4,4,ἐστὶν,εἰμί,v3spia---,PRED
+4,Leuven|0544-002|106|5,5,ἀτοπώτερον,ἄτοπος,a-s---nnc,PNOM
+5,Leuven|0544-002|106|6,6,·,·,u--------,AuxK

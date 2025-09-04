@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,βίος,βίος,n-s---mn-,SBJ
+4,πρᾶξις,πρᾶξις,n-s---fn-,PNOM_CO
+5,",",punc1,u--------,COORD
+6,οὐ,οὐ,d-------_,AuxZ
+7,ποίησις,ποίησις,n-s---fn-,PNOM_CO
+8,",",punc1,u--------,AuxX
+9,ἐστιν,εἰμί,v3spia---,SBJ
+10,:,punc1,u--------,AuxK

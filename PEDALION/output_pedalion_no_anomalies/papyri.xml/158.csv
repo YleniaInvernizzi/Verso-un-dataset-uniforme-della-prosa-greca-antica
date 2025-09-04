@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21342|27|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|21342|27|2,2,ὑμᾶς,σύ,p2p---ca-,SBJ
+2,Leuven|21342|27|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+3,Leuven|21342|27|4,4,πάντας,πᾶς,a-p---ma-,ATR

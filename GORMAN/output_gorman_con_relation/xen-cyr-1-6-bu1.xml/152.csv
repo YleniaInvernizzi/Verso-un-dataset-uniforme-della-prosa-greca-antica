@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,δῆτα,δῆτα,d--------,AuxZ
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,PRED
+5,",",punc1,u--------,AuxX
+6,ἔγωγε,ἐγώ,p1s---mn-,SBJ
+7,",",punc1,u--------,AuxX
+8,ὦ,ὦ,i--------,AuxZ
+9,πάτερ,πατήρ,n-s---mv-,ExD
+10,.,punc1,u--------,AuxK
+11,[0],,,OBJ

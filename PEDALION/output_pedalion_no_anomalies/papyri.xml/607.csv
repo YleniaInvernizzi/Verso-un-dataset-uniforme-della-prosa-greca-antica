@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31368|3|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|31368|3|2,2,εἰ,εἰ,c--------,AuxC
+2,Leuven|31368|3|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|31368|3|4,4,ἐπιμένεις,ἐπιμένω,v2spia---,ADV
+4,Leuven|31368|3|5,5,σου,σύ,p2s---cg-,ATR
+5,Leuven|31368|3|6,6,τῇ,ὁ,l-s---fd-,ATR
+6,Leuven|31368|3|7,7,ἀπονοίᾳ,ἀπόνοια,n-s---fd-,OBJ
+8,Leuven|31368|3|9,9,συγχαίρω,συγχαίρω,v1spia---,PRED
+9,Leuven|31368|3|10,10,σοι,σύ,p2s---cd-,OBJ

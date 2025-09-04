@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30293|7|1,1,ἀσπάζου,ἀσπάζομαι,v2spme---,PRED
+1,Leuven|30293|7|2,2,πάντας,πᾶς,a-p---ma-,OBJ
+2,Leuven|30293|7|3,3,τοὺς,ὁ,l-p---ma-,ATR
+3,Leuven|30293|7|4,4,παρʼ,παρά,r--------,AuxP
+4,Leuven|30293|7|5,5,ἡμῖν,ἐγώ,p1p---cd-,ATR

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|51|1,1,νῦν,νῦν,d--------,ADV
+1,Leuven|Genesis_deel2|51|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Genesis_deel2|51|3,3,σέ,σύ,p2s---ca-,OBJ
+3,Leuven|Genesis_deel2|51|4,4,κακώσομεν,κακόω,v1pfia---,PRED
+4,Leuven|Genesis_deel2|51|5,5,μᾶλλον,μάλα,d-------c,ADV
+5,Leuven|Genesis_deel2|51|6,6,ἤ,ἤ,c--------,AuxC
+6,Leuven|Genesis_deel2|51|7,7,ἐκείνους,ἐκεῖνος,p-p---ma-,OBJ

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡ;ὁ;l-s---fn-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;παιδεία;παιδεία;n-d---fn-;SBJ
+4;μέχρι;μέχρι;r--------;AuxP
+5;τῶν;ὁ;l-p---mg-;ATR
+6;ἐνηλίκων;ἐνήλικος;a-p---mg-;ADV
+7;διέτεινεν;διατείνω;v3saia---;PRED
+8;.;punc;u--------;AuxK

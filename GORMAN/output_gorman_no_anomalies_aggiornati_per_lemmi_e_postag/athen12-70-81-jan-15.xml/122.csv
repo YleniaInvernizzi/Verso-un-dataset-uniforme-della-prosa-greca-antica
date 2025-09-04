@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐν;ἐν;r--------;AuxP
+2;θαλάμῳ;θάλαμος;n-s---md-;ADV
+3;μαλακῶς;μαλακός;d--------;ADV
+4;κατακείμενον;κατάκειμαι;v-srpema-;ExD
+5;:;punc;u--------;AuxK

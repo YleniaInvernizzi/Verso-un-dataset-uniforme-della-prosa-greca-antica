@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1728|1|1,1,Σιμάλη,Σιμάλη,n-s---fn-,SBJ
+Leuven|1728|1|2,2,Ἡροφάντου,Ἡρόφαντος,n-s---mg-,ATR
+Leuven|1728|1|3,3,μητὴρ,μήτηρ,n-s---fn-,APOS
+Leuven|1728|1|4,4,Ζήνωνι,Ζήνων,n-s---md-,OBJ
+Leuven|1728|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|1728|1|6,6,.,.,u--------,AuxK
+Leuven|1728|1|7,7,[0],_,---------,PRED

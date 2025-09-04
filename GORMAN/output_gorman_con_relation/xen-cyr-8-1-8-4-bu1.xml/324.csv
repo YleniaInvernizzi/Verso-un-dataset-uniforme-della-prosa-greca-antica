@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀναβλέψας,ἀναβλέπω,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Σάκας,Σάκας,n-s---mn-,SBJ
+5,ἐρωτᾷ,ἐρωτάω,v3spia---,PRED
+6,τίνος,τις,p-s---mg-,OBJ
+7,ἔτυχεν,τυγχάνω,v3saia---,OBJ
+8,.,punc1,u--------,AuxK

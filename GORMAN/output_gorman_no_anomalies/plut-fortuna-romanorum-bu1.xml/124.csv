@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐκ,ἐκ,r--------,AuxP
+1,2,τούτων,οὗτος,p-p---mg-,ADV
+2,3,ἐγεγόνει,γίγνομαι,v3slia---,PRED
+3,4,Σερούιος,Σερούϊος,n-s---mn-,SBJ
+4,5,.,punc1,u--------,AuxK

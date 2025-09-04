@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀπέφυγον,ἀποφεύγω,v3paia---,PRED
+1,2,οἱ,ὁ,l-p---mn-,ATR
+2,3,κρινόμενοι,κρίνω,v-pppemn-,SBJ
+3,4,;,punc1,u--------,AuxK

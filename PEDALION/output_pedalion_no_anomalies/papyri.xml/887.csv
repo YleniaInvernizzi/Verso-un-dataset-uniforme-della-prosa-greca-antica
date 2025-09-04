@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|140178|7|1,1,ἐρρῶσθαί,ῥώννυμι,v--rne---,OBJ
+1,Leuven|140178|7|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|140178|7|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+3,Leuven|140178|7|4,4,κύριέ,κύριος,n-s---mv-,ExD
+4,Leuven|140178|7|5,5,μου,ἐγώ,p1s---cg-,ATR

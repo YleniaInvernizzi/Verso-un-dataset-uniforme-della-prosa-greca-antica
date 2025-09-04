@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,κωμῳδοὶ,κωμῳδός,n-p---mn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,ἦσαν,εἰμί,v3piia---,PRED
+4,οἱ,ὁ,l-p---mn-,SBJ
+5,περὶ,περί,r--------,AuxP
+6,Λύκωνα,Λύκων,n-s---ma-,ATR
+7,τὸν,ὁ,l-s---ma-,ATR
+8,Σκαρφέα,Σκαρφεύς,a-s---ma_,ATR
+9,:,punc1,u--------,AuxK

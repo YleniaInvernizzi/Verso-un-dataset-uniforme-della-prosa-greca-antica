@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;τί;τις;p-s---na-;OBJ
+2;ποτε;ποτε;d--------;ADV
+3;ἀπολογήσεσθαι;ἀπολογέομαι;v--fne---;OBJ
+4;μέλλει;μέλλω;v3spia---;PRED
+5;μοι;ἐγώ;p1s---md-;OBJ
+6;";";punc;u--------;AuxK

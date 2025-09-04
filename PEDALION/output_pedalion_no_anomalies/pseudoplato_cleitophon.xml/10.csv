@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0059-00x|11|1,1,ποῖ,ποῖ,d--------,OBJ
+1,Leuven|0059-00x|11|2,2,φέρεσθε,φέρω,v2ppie---,PRED
+3,Leuven|0059-00x|11|4,4,ὠ-,ὦ,i--------,AuxZ
+4,"Leuven|0059-00x|11|4,1",5,ἄνθρωποι,ἄνθρωπος,n-p---mv-,ExD
+5,Leuven|0059-00x|11|5,6,;,;,u--------,AuxK

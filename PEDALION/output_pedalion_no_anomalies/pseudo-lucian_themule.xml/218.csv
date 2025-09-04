@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|219|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|219|2,2,οἱ,ὁ,l-p---mn-,SBJ
+2,Leuven|Ps-Luc|219|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|219|4,4,συνετάττοντο,συντάσσω,v3piie---,PRED
+4,Leuven|Ps-Luc|219|5,5,ἐπ’,ἐπί,r--------,AuxP
+5,Leuven|Ps-Luc|219|6,6,ἐμέ,ἐγώ,p1s---ca-,OBJ

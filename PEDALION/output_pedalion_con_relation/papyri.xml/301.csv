@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27109|6|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+Leuven|27109|6|2,2,Ἀβάσκαντον,Ἀβάσκαντος,n-s---ma-,OBJ_CO
+Leuven|27109|6|3,3,τὸν,ὁ,l-s---ma-,ATR
+Leuven|27109|6|4,4,χρησιμώτατον,χρήσιμος,a-s---mas,ATR
+Leuven|27109|6|5,5,καὶ,καί,b--------,COORD
+Leuven|27109|6|6,6,τοὺς,ὁ,l-p---ma-,ATR
+Leuven|27109|6|7,7,σοὺς,σός,a-p---ma-,ATR
+Leuven|27109|6|8,8,πάντας,πᾶς,a-p---ma-,OBJ_CO
+Leuven|27109|6|9,9,κατʼ,κατά,r--------,AuxP
+Leuven|27109|6|10,10,ὄνομα,ὄνομα,n-s---na-,ADV
+Leuven|27109|6|11,11,.,.,u--------,AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|298|1,1,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|298|2,2,θριαμβεύει,θριαμβεύω,v3spia---,PRED
+Leuven|PaeanBrev|298|3,3,κατʼ,κατά,r--------,AuxP
+Leuven|PaeanBrev|298|4,4,αὐτῶν,αὐτός,p-p---mg-,ADV
+Leuven|PaeanBrev|298|5,5,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|298|6,6,νενικηκώς,νικάω,v-srpamn-,SBJ
+Leuven|PaeanBrev|298|7,7,.,.,u--------,AuxK

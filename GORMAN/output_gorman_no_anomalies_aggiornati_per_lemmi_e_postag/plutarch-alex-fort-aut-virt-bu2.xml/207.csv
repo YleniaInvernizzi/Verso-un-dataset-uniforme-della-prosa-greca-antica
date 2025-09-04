@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;αὗται;οὗτος;p-p---fn-;SBJ
+2;τῶν;ὁ;l-p---ng-;ATR
+3;ἐμῶν;ἐμός;a-p---ng-;ATR
+4;ἔργων;ἔργον;n-p---ng-;ATR
+5;εἰκόνες;εἰκών;n-p---fn-;PNOM
+6;.;punc;u--------;AuxK
+7;ἔσονται;εἰμί;v3pfim---;PRED

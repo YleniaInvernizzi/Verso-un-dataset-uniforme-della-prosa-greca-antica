@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐσιώπων;σιωπάω;v1siia---;PRED_CO
+2;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+3;καὶ;καί;c--------;COORD
+4;ταῦτα;οὗτος;p-p---na-;SBJ
+5;οὕτως;οὕτως;d--------;ADV
+6;ἔχειν;ἔχω;v--pna---;OBJ
+7;ἡγούμην;ἡγέομαι;v1siim---;PRED_CO
+8;.;punc;u--------;AuxK

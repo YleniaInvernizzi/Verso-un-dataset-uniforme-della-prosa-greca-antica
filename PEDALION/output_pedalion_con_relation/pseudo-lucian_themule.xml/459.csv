@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|460|1,1,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|460|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|460|3,3,συμπόσιον,συμπόσιον,n-s---nn-,SBJ
+Leuven|Ps-Luc|460|4,4,ἐκλονεῖτο,κλονέω,v3siie---,PRED
+Leuven|Ps-Luc|460|5,5,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|460|6,6,γέλωτι,γέλως,n-s---md-,OBJ
+Leuven|Ps-Luc|460|7,7,.,.,u--------,AuxK

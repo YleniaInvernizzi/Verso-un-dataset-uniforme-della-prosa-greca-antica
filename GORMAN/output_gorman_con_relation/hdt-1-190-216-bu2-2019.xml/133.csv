@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,βασιλεῦ,βασιλεύς,n-s---mv-,ExD
+3,Μήδων,Μήδων,n-s---mn-,ATR
+4,",",punc1,u--------,AuxX
+5,παῦσαι,παύω,v2samm---,PRED
+6,σπεύδων,σπεύδω,v-sppamn-,ADV
+7,τὰ,ὅς,p-p---na-,OBJ
+8,σπεύδεις,σπεύδω,v2spia---,OBJ
+9,:,punc1,u--------,AuxK

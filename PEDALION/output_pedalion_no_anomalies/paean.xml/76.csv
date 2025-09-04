@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|77|1,1,τούτων,οὗτος,p-p---mg-,SBJ
+1,Leuven|PaeanBrev|77|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|PaeanBrev|77|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|PaeanBrev|77|4,4,ὕπατον,ὕπατος,a-s---fa-,ATR
+4,Leuven|PaeanBrev|77|5,5,ἐχόντων,ἔχω,v-pppamg-,ADV
+5,Leuven|PaeanBrev|77|6,6,ἀρχήν,ἀρχή,n-s---fa-,OBJ
+6,Leuven|PaeanBrev|77|7,7,ὁ,ὁ,l-s---mn-,ATR
+7,Leuven|PaeanBrev|77|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|PaeanBrev|77|9,9,βασιλείας,βασιλεία,n-s---fg-,OBJ
+9,Leuven|PaeanBrev|77|10,10,ἀφαιρεθείς,ἀφαιρέω,v-sappmn-,ATR
+10,Leuven|PaeanBrev|77|11,11,Ταρκύνιος,ταρθυινιυς,a-s---mn-,SBJ
+11,Leuven|PaeanBrev|77|12,12,ἐπηγάγετο,ἐπάγω,v3saim---,PRED
+12,Leuven|PaeanBrev|77|13,13,τῇ,ὁ,l-s---fd-,ATR
+13,Leuven|PaeanBrev|77|14,14,Ῥώμῃ,Ῥώμη,n-s---fd-,OBJ
+14,Leuven|PaeanBrev|77|15,15,πόλεμον,πόλεμος,n-s---ma-,OBJ

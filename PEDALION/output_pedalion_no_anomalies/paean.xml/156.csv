@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|158|1,1,καί,καί,d--------,AuxZ
+1,Leuven|PaeanBrev|158|2,2,αὐτούς,αὐτός,p-p---ma-,ATR
+2,Leuven|PaeanBrev|158|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|158|4,4,τούς,ὁ,l-p---ma-,ATR
+4,Leuven|PaeanBrev|158|5,5,Πραινεστίνους,Πραινεστῖνος,n-p---ma-,OBJ
+5,Leuven|PaeanBrev|158|6,6,παραδόντας,παραδίδωμι,v-papama-,ADV
+6,Leuven|PaeanBrev|158|7,7,ἑαυτούς,ἑαυτοῦ,p-p---ma-,OBJ
+7,Leuven|PaeanBrev|158|8,8,ἐκτήσατο,κτάομαι,v3saim---,PRED

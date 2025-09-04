@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|48|1,1,μηδαμῶς,μηδαμῶς,d--------,ADV
+2,Leuven|Ps-Luc|48|3,3,εἶπον,λέγω,v1saia---,PRED
+4,Leuven|Ps-Luc|48|5,5,ὦ,ὦ,i--------,AuxZ
+5,Leuven|Ps-Luc|48|6,6,μῆτερ,μήτηρ,n-s---fv-,ExD
+7,Leuven|Ps-Luc|48|8,8,τοῦτο,οὗτος,p-s---na-,OBJ
+8,Leuven|Ps-Luc|48|9,9,εἴπηις,λέγω,v2sasa---,OBJ

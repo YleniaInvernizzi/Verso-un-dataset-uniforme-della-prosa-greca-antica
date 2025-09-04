@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|259|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|259|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|259|3,3,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|259|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|259|5,5,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|259|6,6,πρός,πρός,r--------,AuxP
+Leuven|Genesis|259|7,7,Νωε,Νωε,n-s---ma-,OBJ
+Leuven|Genesis|259|8,8,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἔστι,εἰμί,v3spia---,PRED
+1,2,τις,τις,a-s---cn-,ATR
+2,3,Γλαύκων,Γλαύκων,n-s---mn-,PNOM
+3,4,Χολαργεύς,Χολαργεύς,a-s---mn-,ATR
+4,5,:,punc1,u--------,AuxK

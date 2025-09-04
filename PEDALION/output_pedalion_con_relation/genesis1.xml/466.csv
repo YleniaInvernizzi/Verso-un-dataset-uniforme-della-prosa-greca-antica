@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|467|1,1,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|467|2,2,ἄνθρωποι,ἄνθρωπος,n-p---mn-,PNOM
+Leuven|Genesis|467|3,3,ἀδελφοί,ἀδελφός,n-p---mn-,ATR
+Leuven|Genesis|467|4,4,ἡμεῖς,ἐγώ,p1p---cn-,SBJ
+Leuven|Genesis|467|5,5,ἐσμεν,εἰμί,v1ppia---,ADV
+Leuven|Genesis|467|6,6,.,.,u--------,AuxK
+Leuven|Genesis|467|7,7,[0],,,PRED

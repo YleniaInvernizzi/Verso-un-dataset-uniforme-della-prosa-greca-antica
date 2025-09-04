@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|216|1,1,τιμωρίας,τιμωρία,n-p---fa-,OBJ
+1,Leuven|PaeanBrev|216|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|216|3,3,κατά,κατά,r--------,AuxP
+3,Leuven|PaeanBrev|216|4,4,πάσης,πᾶς,a-s---fg-,ATR
+4,Leuven|PaeanBrev|216|5,5,ἠδύνατο,δύναμαι,v3siie---,PRED_CO
+5,Leuven|PaeanBrev|216|6,6,δυναστείας,δυναστεία,n-s---fg-,ADV
+6,Leuven|PaeanBrev|216|7,7,καί,καί,c--------,COORD
+7,Leuven|PaeanBrev|216|8,8,οὐδείς,οὐδείς,p-s---mn-,SBJ
+8,Leuven|PaeanBrev|216|9,9,ἦν,εἰμί,v3siia---,PRED_CO
+9,Leuven|PaeanBrev|216|10,10,ἔξω,ἔξω,r--------,AuxP
+10,Leuven|PaeanBrev|216|11,11,τῆς,ὁ,l-s---fg-,ATR
+11,Leuven|PaeanBrev|216|12,12,τοῦ,ὁ,l-s---mg-,ATR
+12,Leuven|PaeanBrev|216|13,13,κήνσωρος,κήνσωρος,n-s---mg-,ATR
+13,Leuven|PaeanBrev|216|14,14,ἐξουσίας,ἐξουσία,n-s---fg-,PNOM

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐναργεῖς,ἐναργής,a-p---fn-,PNOM_CO
+1,2,καὶ,καί,c--------,COORD
+2,3,φανεραί,φανερός,a-p---fn-,PNOM_CO
+3,4,.,punc1,u--------,AuxK
+4,5,εἰσίν,εἰμί,v3ppia---,PRED

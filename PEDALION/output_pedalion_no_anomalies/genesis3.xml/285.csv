@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|286|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|286|2,2,ηὔξατο,εὔχομαι,v3saim---,PRED
+2,Leuven|Genesis_deel3|286|3,3,Ιακωβ,Ἰακώβ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|286|4,4,εὐχήν,εὐχή,n-s---fa-,OBJ
+4,Leuven|Genesis_deel3|286|5,5,λέγων,λέγω,v-sppamn-,ADV

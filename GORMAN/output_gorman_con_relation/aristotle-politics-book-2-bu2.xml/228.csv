@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,τοῖς,ὁ,l-p---nd-,ATR
+2,μὲν,μέν,d--------,AuxY
+3,οὐσία,οὐσία,n-s---fn-,SBJ_CO
+4,βραχεῖα,βραχύς,a-s---fn-,ATR
+5,καὶ,καί,c--------,COORD
+6,ἐργασία,ἐργασία,n-s---fn-,SBJ_CO
+7,",",punc1,u--------,AuxX
+8,τοῖς,ὁ,l-p---nd-,ATR
+9,δὲ,δέ,c--------,COORD
+10,σωφροσύνη,σωφροσύνη,n-s---fn-,SBJ
+11,:,punc1,u--------,AuxK
+12,ἄκος,ἄκος,n-s---nn-,PNOM
+13,ἄκος,ἄκος,n-s---nn-,PNOM
+14,ἐστιν,εἰμί,v3spia---,PRED_CO
+15,εἰσιν,εἰμί,v3ppia---,PRED_CO

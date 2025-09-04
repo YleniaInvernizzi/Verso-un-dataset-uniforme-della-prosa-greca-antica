@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;Εὐβοέας;Εὐβοεύς;n-p---ma-;OBJ
+2;Ἵππαρχος;Ἵππαρχος;n-s---mn-;SBJ_CO
+3;,;punc;u--------;AuxX
+4;Κλείταρχος;Κλείταρχος;n-s---mn-;SBJ_CO
+5;,;punc;u--------;COORD
+6;Σωσίστρατος;Σωσίστρατος;n-s---mn-;SBJ_CO
+7;.;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|109|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Ps-Luc|109|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|109|3,3,Παλαίστρα,Παλαίστρα,n-s---fn-,SBJ
+4,Leuven|Ps-Luc|109|5,5,παῦσαι,παύω,v2samm---,OBJ
+6,Leuven|Ps-Luc|109|7,7,φησί,φημί,v3spia---,PRED
+8,Leuven|Ps-Luc|109|9,9,προσπαίζων,προσπαίζω,v-sppamn-,ADV

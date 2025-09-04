@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|199|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|199|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|199|3,3,γραῦς,γραῦς,n-s---fn-,SBJ
+Leuven|Ps-Luc|199|4,4,ἐμοὶ,ἐγώ,p1s---cd-,OBJ_CO
+Leuven|Ps-Luc|199|5,5,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|199|6,6,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|199|7,7,ἵππωι,ἵππος,n-s---md-,OBJ_CO
+Leuven|Ps-Luc|199|8,8,κριθὰς,κριθή,n-p---fa-,OBJ
+Leuven|Ps-Luc|199|9,9,παρέθηκεν,παρατίθημι,v3saia---,PRED
+Leuven|Ps-Luc|199|10,10,·,·,u--------,AuxK

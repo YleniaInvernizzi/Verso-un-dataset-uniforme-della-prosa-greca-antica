@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;Γναθαίνιον;Γναθαίνιος;n-s---fn-;SBJ
+2;δ᾽;δέ;d--------;AuxY
+3;εἶπ᾽;λέγω;v3saia---;PRED
+4;ὦ;ὦ;i--------;AuxZ
+5;τάλαν;τάλας;a-s---nv-;ATR
+6;,;punc;u--------;AuxX
+7;μὴ;μή;d--------;AuxZ
+8;δῆτ᾽;δῆτα;d--------;AuxY
+9;,;punc;u--------;AuxX
+10;ἄνερ;ἀνήρ;n-s---mv-;ExD
+11;:;punc;u--------;AuxK

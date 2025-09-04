@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|167|1,1,ἀλλʼ,ἀλλά,d--------,AuxY
+Leuven|PaeanBrev|167|2,2,ἔλυσε,λύω,v3saia---,PRED
+Leuven|PaeanBrev|167|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|167|4,4,μάχην,μάχη,n-s---fa-,OBJ
+Leuven|PaeanBrev|167|5,5,οὐχ,οὐ,d--------,AuxZ
+Leuven|PaeanBrev|167|6,6,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|167|7,7,συμπλοκή,συμπλοκή,n-s---fn-,SBJ_CO
+Leuven|PaeanBrev|167|8,8,τῶν,ὁ,l-p---ng-,ATR
+Leuven|PaeanBrev|167|9,9,στρατευμάτων,στράτευμα,n-p---ng-,ATR
+Leuven|PaeanBrev|167|10,10,",",",",u--------,AuxX
+Leuven|PaeanBrev|167|11,11,ἀλλʼ,ἀλλά,b--------,COORD
+Leuven|PaeanBrev|167|12,12,ἀνήρ,ἀνήρ,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|167|13,13,νεανίας,νεανίας,n-s---mn-,APOS
+Leuven|PaeanBrev|167|14,14,Μανίλιος,Μανίλιος,n-s---mn-,APOS
+Leuven|PaeanBrev|167|15,15,·,·,u--------,AuxK

@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|363|1,1,εἶτα,εἶτα,d--------,ADV
+Leuven|Ps-Luc|363|2,2,ἐκ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|363|3,3,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|363|4,4,πόλεως,πόλις,n-s---fg-,OBJ
+Leuven|Ps-Luc|363|5,5,ἐξηλαύνομεν,ἐξελαύνω,v1piia---,PRED_CO
+Leuven|Ps-Luc|363|6,6,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|363|7,7,τὴν,ὁ,l-s---fa-,ATR
+Leuven|Ps-Luc|363|8,8,χώραν,χώρα,n-s---fa-,OBJ
+Leuven|Ps-Luc|363|9,9,περιήιειμεν,περίειμι,v1piia---,PRED_CO
+Leuven|Ps-Luc|363|10,10,.,.,u--------,AuxK

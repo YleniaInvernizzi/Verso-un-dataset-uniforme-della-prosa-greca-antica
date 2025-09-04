@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ὦ,ὦ,i--------,AuxZ
+2,Σάκα,Σάκας,n-s---mv-,ExD
+3,",",punc1,u--------,AuxX
+4,ἀπόλωλας,ἀπόλλυμι,v2sria---,PRED
+5,·,punc1,u--------,AuxK

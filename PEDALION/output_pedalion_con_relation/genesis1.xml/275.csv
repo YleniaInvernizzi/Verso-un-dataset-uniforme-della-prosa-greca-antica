@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|276|1,1,δέκα,δέκα,m--------,ATR
+Leuven|Genesis|276|2,2,πέντε,πέντε,m--------,ATR
+Leuven|Genesis|276|3,3,πήχεις,πῆχυς,n-p---ma-,SBJ
+Leuven|Genesis|276|4,4,ἐπάνω,ἐπάνω,d--------,ADV
+Leuven|Genesis|276|5,5,ὑψώθη,ὑψόω,v3saip---,PRED_CO
+Leuven|Genesis|276|6,6,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis|276|7,7,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+Leuven|Genesis|276|8,8,καί,καί,b--------,COORD
+Leuven|Genesis|276|9,9,ἐπεκάλυψεν,ἐπικαλύπτω,v3saia---,PRED_CO
+Leuven|Genesis|276|10,10,πάντα,πᾶς,a-p---na-,ATR
+Leuven|Genesis|276|11,11,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|276|12,12,ὄρη,ὄρος,n-p---na-,OBJ
+Leuven|Genesis|276|13,13,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|276|14,14,ὑψηλά,ὑψηλός,a-p---na-,ATR
+Leuven|Genesis|276|15,15,.,.,u--------,AuxK

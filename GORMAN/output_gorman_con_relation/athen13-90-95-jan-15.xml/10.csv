@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ταύτην,οὗτος,p-s---fa-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,τύχης,τύχη,n-s---fg-,PNOM_CO
+4,ἢ,ἤ1,c--------,COORD
+5,φύσεως,φύσις,n-s---fg-,PNOM_CO
+6,εἶναι,εἰμί,v--pna---,OBJ_CO
+7,",",punc1,u--------,COORD
+8,τιμὴν,τιμή,n-s---fa-,OBJ
+9,δέον,δεῖ,v-sppana-,PNOM
+10,προκεῖσθαι,πρόκειμαι,v--pne---,SBJ
+11,σωφροσύνης,σωφροσύνη,n-s---fg-,ATR
+12,.,punc1,u--------,AuxK
+13,[0],,,PRED
+14,εἶναι,εἰμί,v--pna---,OBJ_CO

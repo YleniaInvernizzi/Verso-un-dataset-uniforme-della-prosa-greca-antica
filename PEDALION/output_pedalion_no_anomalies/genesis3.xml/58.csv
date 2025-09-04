@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|59|1,1,κατά,κατά,r--------,AuxP
+1,Leuven|Genesis_deel3|59|2,2,πρόσωπον,πρόσωπον,n-s---na-,ADV
+2,Leuven|Genesis_deel3|59|3,3,πάντων,πᾶς,a-p---mg-,ATR
+3,Leuven|Genesis_deel3|59|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|Genesis_deel3|59|5,5,ἀδελφῶν,ἀδελφός,n-p---mg-,ATR
+5,Leuven|Genesis_deel3|59|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+6,Leuven|Genesis_deel3|59|7,7,κατῴκησεν,κατοικέω,v3saia---,PRED

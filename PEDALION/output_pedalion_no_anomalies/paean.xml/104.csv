@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|105|1,1,πρῶτος,πρῶτος,a-s---mn-,ATR
+1,Leuven|PaeanBrev|105|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|PaeanBrev|105|3,3,ἐγένετο,γίγνομαι,v3saim---,PRED
+3,Leuven|PaeanBrev|105|4,4,δικτάτωρ,δικτάτωρ,n-s---mn-,PNOM
+4,Leuven|PaeanBrev|105|5,5,Λάρκιος,Λάρκιος,n-s---mn-,SBJ

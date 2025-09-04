@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|25|1,1,πόθεν,πόθεν,d--------,ADV
+Leuven|0059-003|25|2,2,τοῦτο,οὗτος,p-s---na-,OBJ
+Leuven|0059-003|25|3,3,τεκμαίρῃ,τεκμαίρομαι,v2spie---,PRED
+Leuven|0059-003|25|4,4,;,;,u--------,AuxK

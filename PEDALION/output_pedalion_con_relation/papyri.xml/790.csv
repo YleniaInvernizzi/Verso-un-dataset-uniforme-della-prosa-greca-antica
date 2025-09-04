@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|77994|5|1,1,ἐάν,ἐάν,c--------,AuxC
+Leuven|77994|5|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|77994|5|3,3,θεός,θεός,n-s---mn-,SBJ
+Leuven|77994|5|4,4,θέλῃ,ἐθέλω,v3spsa---,ADV
+Leuven|77994|5|5,5,εὐθέως,εὐθύς,d--------,ADV
+Leuven|77994|5|6,6,ἥξω,ἥκω,v1sfia---,PRED
+Leuven|77994|5|7,7,πρός,πρός,r--------,AuxP
+Leuven|77994|5|8,8,σέ,σύ,p2s---ca-,OBJ
+Leuven|77994|5|9,9,.,.,u--------,AuxK

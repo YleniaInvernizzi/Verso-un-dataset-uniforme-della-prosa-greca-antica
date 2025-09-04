@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;τὸν;ὁ;l-s---ma-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;διαφθείροντα;διαφθείρω;v-sppama-;OBJ
+5;ἐξευρών;ἐξευρίσκω;v-sapamn-;ADV
+6;,;punc;u--------;AuxX
+7;ὡς;ὡς;c--------;AuxC
+8;φῄς;φημί;v2spia---;AuxZ
+9;,;punc;u--------;AuxX
+10;ἐμέ;ἐγώ;p1s---ma-;OBJ
+11;,;punc;u--------;AuxX
+12;εἰσάγεις;εἰσάγω;v2spia---;PRED_CO
+13;τουτοισὶ;οὗτος;p-p---md-;OBJ
+14;καὶ;καί;c--------;COORD
+15;κατηγορεῖς;κατηγορέω;v2spia---;PRED_CO
+16;·;punc;u--------;AuxK

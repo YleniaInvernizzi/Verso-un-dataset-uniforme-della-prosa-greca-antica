@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,πάνυ,πάνυ,d--------,ADV
+2,σφόδρα,σφόδρα,d--------,ADV
+3,ταῦτα,οὗτος,p-p---na-,OBJ
+4,λέγω,λέγω3,v1spia---,PRED
+5,.,punc1,u--------,AuxK

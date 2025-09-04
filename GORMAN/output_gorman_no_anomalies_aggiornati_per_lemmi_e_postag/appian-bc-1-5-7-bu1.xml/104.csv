@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;Πομπήιος;Πομπήιος;n-s---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;d--------;AuxZ
+4;τὸ;ὁ;l-s---na-;ATR
+5;Ἄσκλον;Ἄσκλον;n-s---na-;OBJ
+6;ἐπελθὼν;ἐπέρχομαι;v-sapamn-;ADV
+7;ἐπολιόρκει;πολιορκέω;v3siia---;PRED
+8;.;punc;u--------;AuxK

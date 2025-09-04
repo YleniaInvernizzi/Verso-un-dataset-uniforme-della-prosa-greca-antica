@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|299|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|299|2,2,αὐξάνεσθε,αὐξάνω,v2ppme---,PRED_CO
+Leuven|Genesis|299|3,3,καί,καί,b--------,COORD
+Leuven|Genesis|299|4,4,πληθύνεσθε,πληθύνω,v2ppme---,PRED_CO
+Leuven|Genesis|299|5,5,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|299|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|299|7,7,γῆς,γῆ,n-s---fg-,ADV
+Leuven|Genesis|299|8,8,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30385|15|1,1,ἐὰν,ἐάν,c--------,AuxC
+Leuven|30385|15|2,2,G,G,---------,GAP
+Leuven|30385|15|3,3,G,G,---------,GAP
+Leuven|30385|15|4,4,βουλὴν,βουλή,n-s---fa-,OBJ
+Leuven|30385|15|5,5,ἔχω,ἔχω,v1spsa---,ADV
+Leuven|30385|15|6,6,",",",",u--------,AuxX
+Leuven|30385|15|7,7,ἐρῶ,λέγω,v1sfia---,PRED
+Leuven|30385|15|8,8,σοι,σύ,p2s---cd-,OBJ
+Leuven|30385|15|9,9,.,.,u--------,AuxK

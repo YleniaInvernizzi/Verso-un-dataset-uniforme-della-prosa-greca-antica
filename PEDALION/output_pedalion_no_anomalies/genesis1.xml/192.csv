@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|193|1,1,ἄρσεν,ἄρσην,a-s---na-,OCOMP_CO
+1,Leuven|Genesis|193|2,2,καί,καί,c--------,COORD
+2,Leuven|Genesis|193|3,3,θῆλυ,θῆλυς,a-s---na-,OCOMP_CO
+3,Leuven|Genesis|193|4,4,ἐποίησεν,ποιέω,v3saia---,PRED_CO
+4,Leuven|Genesis|193|5,5,αὐτούς,αὐτός,p-p---ma-,OBJ
+5,Leuven|Genesis|193|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|193|7,7,εὐλόγησεν,εὐλογέω,v3saia---,PRED_CO
+7,Leuven|Genesis|193|8,8,αὐτούς,αὐτός,p-p---ma-,OBJ

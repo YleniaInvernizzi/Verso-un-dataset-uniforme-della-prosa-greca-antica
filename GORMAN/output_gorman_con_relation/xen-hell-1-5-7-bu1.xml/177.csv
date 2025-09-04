@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῖς,ὁ,l-p---fd-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,ἄλλαις,ἄλλος,a-p---fd_,ATR
+4,ναυσὶν,ναῦς,n-p---fd-,ADV
+5,ἔπλεον,πλέω,v3piia---,SBJ
+6,ἐπὶ,ἐπί,r--------,AuxP
+7,τὰς,ὁ,l-p---fa-,ATR
+8,πολεμίας,πολέμιος,a-p---fa-,ADV
+9,.,punc1,u--------,AuxK

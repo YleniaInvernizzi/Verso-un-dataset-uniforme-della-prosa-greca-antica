@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,οἱ,ὁ,l-p---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἦλθον,ἔρχομαι,v3paia---,PRED
+4,Κίμωνος,Κίμων,n-s---mg-,SBJ
+5,στρατηγοῦντος,στρατηγέω,v-sppamg-,ADV
+6,πλήθει,πλῆθος,n-s---nd-,ADV
+7,οὐκ,οὐ,d--------,AuxZ
+8,ὀλίγῳ,ὀλίγος,a-s---nd-,ATR
+9,.,punc1,u--------,AuxK

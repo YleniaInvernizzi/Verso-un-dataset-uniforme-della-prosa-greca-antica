@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0561-001|24|1,1,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0561-001|24|2,2,ὤα,ᾤα,n-s---fn-,SBJ
+Leuven|0561-001|24|3,3,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|0561-001|24|4,4,ἄντρου,ἄντρον,n-s---ng-,ATR
+Leuven|0561-001|24|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|0561-001|24|6,6,μεγάλης,μέγας,a-s---fg-,ATR
+Leuven|0561-001|24|7,7,πέτρας,πέτρα,n-s---fg-,ATR
+Leuven|0561-001|24|8,8,ἦν,εἰμί,v3siia---,PRED
+Leuven|0561-001|24|9,9,τό,ὁ,l-s---nn-,ATR
+Leuven|0561-001|24|10,10,μεσαίτατον,μέσος,a-s---nns,PNOM
+Leuven|0561-001|24|11,11,.,.,u--------,AuxK

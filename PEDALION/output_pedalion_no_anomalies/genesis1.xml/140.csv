@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|141|1,1,Αδαμ,Αδαμ,n-s---mn-,SBJ
+1,Leuven|Genesis|141|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|141|3,3,ἔγνω,γιγνώσκω,v3saia---,PRED_CO
+3,Leuven|Genesis|141|4,4,Ευαν,Ευα,n-s---fa-,OBJ
+4,Leuven|Genesis|141|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|141|6,6,γυναῖκα,γυνή,n-s---fa-,APOS
+6,Leuven|Genesis|141|7,7,αὐτοῦ,αὐτός,p-s---mg-,ATR
+8,Leuven|Genesis|141|9,9,καί,καί,c--------,AuxY
+9,Leuven|Genesis|141|10,10,συλλαβοῦσα,συλλαμβάνω,v-sapafn-,ADV
+10,Leuven|Genesis|141|11,11,ἔτεκεν,τίκτω,v3saia---,PRED_CO
+11,Leuven|Genesis|141|12,12,τόν,ὁ,l-s---ma-,ATR
+12,Leuven|Genesis|141|13,13,Καιν,Καιν,n-s---ma-,OBJ
+13,Leuven|Genesis|141|14,14,καί,καί,c--------,COORD
+14,Leuven|Genesis|141|15,15,εἶπεν,λέγω,v3saia---,PRED_CO
+15,Leuven|Genesis|141|16,16,·,·,u--------,AuxK

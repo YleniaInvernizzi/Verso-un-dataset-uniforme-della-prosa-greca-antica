@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,οἴμοι,οἴμοι,i--------,AuxZ
+2,",",punc1,u--------,AuxX
+3,φιλοσοφεῖς,φιλοσοφέω,v2spia---,PRED
+4,.,punc1,u--------,AuxK

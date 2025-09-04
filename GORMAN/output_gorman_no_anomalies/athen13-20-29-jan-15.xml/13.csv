@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,βασιλῆι,βασιλεύς,n-s---md-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,ἀνδρὶ,ἀνδρίς,n-s---fv-,OBJ
+3,4,ἔοικεν,ἔοικα,v3sria---,PRED
+4,5,.,punc1,u--------,AuxK

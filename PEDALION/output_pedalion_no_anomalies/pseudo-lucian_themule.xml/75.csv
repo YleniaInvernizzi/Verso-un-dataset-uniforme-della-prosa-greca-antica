@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|76|1,1,πᾶσα,πᾶς,a-s---fn-,ATR
+1,Leuven|Ps-Luc|76|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|76|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Ps-Luc|76|4,4,αὕτη,οὗτος,p-s---fn-,SBJ
+4,Leuven|Ps-Luc|76|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Ps-Luc|76|6,6,Παλαίστρας,Παλαίστρα,n-s---fg-,ATR
+6,Leuven|Ps-Luc|76|7,7,παρασκευή,παρασκευή,n-s---fn-,PNOM

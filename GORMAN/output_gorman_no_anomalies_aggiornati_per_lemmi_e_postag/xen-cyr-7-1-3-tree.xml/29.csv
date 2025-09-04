@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;πρός;πρός;r--------;AuxP
+2;γε;γε;d--------;AuxZ
+3;ἃ;ὅς;p-p---na-;OBJ
+4;ὁρῶσι;ὁράω;v3ppia---;PRED
+5;·;punc;u--------;AuxK

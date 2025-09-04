@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28410|7|1,1,πεπλάνηκαν,πλανάω,v3pria---,PRED
+1,Leuven|28410|7|2,2,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+2,Leuven|28410|7|3,3,ἐκεῖ,ἐκεῖ,d--------,ADV
+3,Leuven|28410|7|4,4,τῇ,ὁ,l-s---fd-,ATR
+4,Leuven|28410|7|5,5,ἡμέρᾳ,ἡμέρα,n-s---fd-,ADV
+5,Leuven|28410|7|6,6,ιβ,ιβ,m--------,ATR
+6,Leuven|28410|7|7,7,ὅτι,ὅτι,c--------,AuxC
+7,Leuven|28410|7|8,8,ἔπλευσας,πλέω,v2saia---,ATR

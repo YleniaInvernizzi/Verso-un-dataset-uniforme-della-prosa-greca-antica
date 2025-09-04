@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,εὖ,εὖ,d--------,ADV
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,οἶμαι,οἴομαι,v1spie---,PRED
+3,4,δεῖν,δεῖ,v-spp-nn-,OBJ
+4,5,ποιοῦντα,ποιέω,v-pppana-,SBJ
+5,6,φανερὸν,φανερός,a-s---na-,PNOM
+6,7,εἶναι,εἰμί,v--pna---,SBJ
+7,8,.,punc1,u--------,AuxK

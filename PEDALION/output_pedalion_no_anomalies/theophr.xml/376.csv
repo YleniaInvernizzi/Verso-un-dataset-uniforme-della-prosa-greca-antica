@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0093-009|377|2,2,ἕνα,εἷς,a-s---ma-,OBJ
+2,Leuven|0093-009|377|3,3,σέσωκα,σῴζω,v1sria---,PRED
+3,Leuven|0093-009|377|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|0093-009|377|5,5,φίλων,φίλος,a-p---mg-,ATR
+6,Leuven|0093-009|377|7,7,·,·,u--------,AuxK

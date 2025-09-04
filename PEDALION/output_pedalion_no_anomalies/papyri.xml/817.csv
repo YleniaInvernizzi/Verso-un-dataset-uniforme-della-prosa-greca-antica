@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|8848|4|1,1,γίγνωσκειν,γιγνώσκω,v--pna---,OBJ
+1,Leuven|8848|4|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|8848|4|3,3,θέλω,ἐθέλω,v1spia---,PRED
+3,Leuven|8848|4|4,4,ὅτι,ὅτι,c--------,AuxC
+4,Leuven|8848|4|5,5,ἡ,ὁ,l-s---fn-,ATR
+5,Leuven|8848|4|6,6,θυγάτηρ,θυγάτηρ,n-s---fn-,SBJ
+6,Leuven|8848|4|7,7,μου,ἐγώ,p1s---cg-,ATR
+7,Leuven|8848|4|8,8,κάκῃ,κάκη,n-s---fd-,ADV
+8,Leuven|8848|4|9,9,παροχλεῖται,παροχλέω,v3spie---,OBJ
+9,Leuven|8848|4|10,10,ὑπό,ὑπό,r--------,AuxP
+10,Leuven|8848|4|11,11,τῆς,ὁ,l-s---fg-,ATR
+11,Leuven|8848|4|12,12,μητρός,μήτηρ,n-s---fg-,OBJ
+12,Leuven|8848|4|13,13,σου,σύ,p2s---cg-,ATR

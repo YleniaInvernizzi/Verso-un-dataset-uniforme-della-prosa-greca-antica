@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀμφοτέρους,ἀμφότερος,a-p---ma-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,τὸ,ὁ,l-s---nn-,ATR
+4,ὄναρ,ὄναρ,n-s---nn-,SBJ
+5,ἐκώλυεν,κωλύω,v3siia---,PRED
+6,ἄρχειν,ἄρχω,v--pna---,OBJ
+7,μάχης,μάχη,n-s---fg-,OBJ
+8,.,punc1,u--------,AuxK

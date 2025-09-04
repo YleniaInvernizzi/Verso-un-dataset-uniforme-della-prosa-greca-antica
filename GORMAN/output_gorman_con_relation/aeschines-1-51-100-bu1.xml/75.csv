@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,βούλεσθε,βούλομαι,v2ppie---,PRED
+2,οὖν,οὖν,d--------,AuxY
+3,τὸ,ὁ,l-s---na-,ATR
+4,ὅλον,ὅλος,a-s---na-,ATR
+5,πρᾶγμα,πρᾶγμα,n-s---na-,OBJ
+6,ἀφῶμεν,ἀφίημι,v1pasa---,OBJ_CO
+7,καὶ,καί,c--------,COORD
+8,μὴ,μή,d--------,AuxZ
+9,ζητῶμεν,ζητέω,v1ppsa---,OBJ_CO
+10,;,punc1,u--------,AuxK

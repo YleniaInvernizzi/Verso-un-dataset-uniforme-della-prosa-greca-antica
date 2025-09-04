@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|132|1,1,τοῦτο,οὗτος,p-s---na-,ADV
+1,Leuven|PaeanBrev|132|2,2,συνεκίνησε,συγκινέω,v3saia---,PRED_CO
+2,Leuven|PaeanBrev|132|3,3,τόν,ὁ,l-s---ma-,ATR
+3,Leuven|PaeanBrev|132|4,4,στρατόν,στρατός,n-s---ma-,OBJ
+5,Leuven|PaeanBrev|132|6,6,καί,καί,c--------,COORD
+6,Leuven|PaeanBrev|132|7,7,τούς,ὁ,l-p---ma-,ATR
+7,Leuven|PaeanBrev|132|8,8,δέκα,δέκα,m--------,OBJ
+8,Leuven|PaeanBrev|132|9,9,τιμωρίᾳ,τιμωρία,n-s---fd-,OBJ
+9,Leuven|PaeanBrev|132|10,10,παραδόντες,παραδίδωμι,v-papamn-,ADV
+10,Leuven|PaeanBrev|132|11,11,καί,καί,d--------,AuxZ
+11,Leuven|PaeanBrev|132|12,12,αὐτήν,αὐτός,p-s---fa-,ATR
+12,Leuven|PaeanBrev|132|13,13,αὐτοῖς,αὐτός,p-p---md-,ADV
+13,Leuven|PaeanBrev|132|14,14,συνανεῖλον,συναναιρέω,v3paia---,PRED_CO
+14,Leuven|PaeanBrev|132|15,15,τήν,ὁ,l-s---fa-,ATR
+15,Leuven|PaeanBrev|132|16,16,ἀρχήν,ἀρχή,n-s---fa-,OBJ

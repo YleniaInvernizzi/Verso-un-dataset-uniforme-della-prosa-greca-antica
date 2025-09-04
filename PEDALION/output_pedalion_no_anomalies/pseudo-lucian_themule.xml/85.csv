@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|86|1,1,ἀλλ’,ἀλλά,c--------,AuxY
+1,Leuven|Ps-Luc|86|2,2,ἐπίταττε,ἐπιτάσσω,v2spma---,PRED_CO
+3,Leuven|Ps-Luc|86|4,4,ἔφην,φημί,v1siia---,ExD
+5,Leuven|Ps-Luc|86|6,6,καὶ,καί,c--------,COORD
+6,Leuven|Ps-Luc|86|7,7,σκόπει,σκοπέω,v2spma---,PRED_CO
+7,Leuven|Ps-Luc|86|8,8,ὅπως,ὅπως,c--------,AuxC
+8,Leuven|Ps-Luc|86|9,9,εὐχερῶς,εὐχερής,d--------,ADV_CO
+9,Leuven|Ps-Luc|86|10,10,καὶ,καί,c--------,AuxY
+10,Leuven|Ps-Luc|86|11,11,ὑγρῶς,ὑγρός,d--------,ADV_CO
+11,Leuven|Ps-Luc|86|12,12,τὰ,ὁ,l-p---nn-,ATR
+12,Leuven|Ps-Luc|86|13,13,παλαίσματα,πάλαισμα,n-p---nn-,SBJ
+13,Leuven|Ps-Luc|86|14,14,καὶ,καί,c--------,COORD
+14,Leuven|Ps-Luc|86|15,15,εὐτόνως,εὔτονος,d--------,ADV_CO
+15,Leuven|Ps-Luc|86|16,16,ἔσται,εἰμί,v3sfim---,OBJ

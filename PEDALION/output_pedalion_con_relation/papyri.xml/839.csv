@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|144995|1|1,1,Ἡρκλάνιος,Ἡρκλάνιος,n-s---mn-,SBJ
+Leuven|144995|1|2,2,Πετρωνίῳ,Πετρώνιος,n-s---md-,OBJ
+Leuven|144995|1|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|144995|1|4,4,ἀδελφῷ,ἀδελφός,n-s---md-,ATR
+Leuven|144995|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|144995|1|6,6,·,·,u--------,AuxK
+Leuven|144995|1|7,7,λέγει,,---------,PRED

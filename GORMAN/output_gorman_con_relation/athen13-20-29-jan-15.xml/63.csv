@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,κοιλίαν,κοιλία,n-s---fa-,OBJ
+2,ἁδρὰν,ἁδρός,a-s---fa-,ATR
+3,ἔχει,ἔχω,v3spia---,PRED
+4,:,punc1,u--------,AuxK

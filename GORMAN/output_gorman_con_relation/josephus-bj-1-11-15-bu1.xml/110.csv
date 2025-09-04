@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁπότερον,ὁπότερος,a-s---nn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,ἂν,ἄν1,d--------,AuxY
+4,ἀληθὲς,ἀληθής,a-s---nn-,PNOM
+5,ᾖ,εἰμί,v3spsa---,SBJ
+6,",",punc1,u--------,AuxX
+7,τὴν,ὁ,l-s---fa-,ATR
+8,ἀρχὴν,ἀρχή,n-s---fa-,OBJ
+9,ἔχει,ἔχω,v3spia---,PRED
+10,λαμπράν,λαμπρός,a-s---fa-,ATV
+11,.,punc1,u--------,AuxK

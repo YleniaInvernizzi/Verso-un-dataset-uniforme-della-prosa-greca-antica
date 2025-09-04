@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|74|1,1,ἀλλʼ,ἀλλά,c--------,AuxY
+1,Leuven|PaeanBrev|74|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|PaeanBrev|74|3,3,Κολλατῖνος,Κολλατῖνος,n-s---mn-,SBJ
+3,Leuven|PaeanBrev|74|4,4,εὐθύς,εὐθύς,d--------,ADV
+4,Leuven|PaeanBrev|74|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|PaeanBrev|74|6,6,ἐξουσίας,ἐξουσία,n-s---fg-,OBJ
+6,Leuven|PaeanBrev|74|7,7,ἀφῃρέθη,ἀφαιρέω,v3saip---,PRED

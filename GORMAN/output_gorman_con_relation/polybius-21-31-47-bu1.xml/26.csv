@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,τὰ,ὁ,l-p---nn-,ATR
+3,χρήματα,χρῆμα,n-p---nn-,SBJ
+4,καθιστάτωσαν,καθιστάω,v3ppma---,PRED
+5,ἐν,ἐν,r--------,AuxP
+6,Ῥώμῃ,Ῥώμη,n-s---fd-,ADV
+7,.,punc1,u--------,AuxK

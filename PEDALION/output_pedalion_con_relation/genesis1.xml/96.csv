@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|97|1,1,τί,τίς,p-s---na-,PNOM
+Leuven|Genesis|97|2,2,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|97|3,3,εἶπεν,λέγω,v3saia---,SBJ
+Leuven|Genesis|97|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|97|5,5,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|97|6,6,·,·,u--------,AuxK
+Leuven|Genesis|97|7,7,[0],,,PRED

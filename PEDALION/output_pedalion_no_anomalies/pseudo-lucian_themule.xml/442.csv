@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|443|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|Ps-Luc|443|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|443|3,3,ὠνησάμενος,ὠνέομαι,v-sapmmn-,ATR
+3,Leuven|Ps-Luc|443|4,4,θεράπων,θεράπων,n-s---mn-,SBJ
+4,Leuven|Ps-Luc|443|5,5,ἦν,εἰμί,v3siia---,PRED
+5,Leuven|Ps-Luc|443|6,6,ἀνδρὸς,ἀνήρ,n-s---mg-,PNOM
+6,Leuven|Ps-Luc|443|7,7,σφόδρα,σφόδρα,d--------,ADV
+7,Leuven|Ps-Luc|443|8,8,πλουσίου,πλούσιος,a-s---mg-,ATR
+8,Leuven|Ps-Luc|443|9,9,πόλεως,πόλις,n-s---fg-,ATR
+9,Leuven|Ps-Luc|443|10,10,τῶν,ὁ,l-p---mg-,ATR
+10,Leuven|Ps-Luc|443|11,11,ἐν,ἐν,r--------,AuxP
+11,Leuven|Ps-Luc|443|12,12,Μακεδονίαι,Μακεδονία,n-s---fd-,ATR
+12,Leuven|Ps-Luc|443|13,13,τῆς,ὁ,l-s---fg-,ATR
+13,Leuven|Ps-Luc|443|14,14,μεγίστης,μέγας,a-s---fgs,ATR
+14,Leuven|Ps-Luc|443|15,15,Θεσσαλονίκης,Θεσσαλονίκη,n-s---fg-,APOS

@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|328|1,1,ἐγώ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Genesis_deel2|328|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel2|328|3,3,ἡτοίμακα,ἑτοιμάζω,v1sria---,PRED
+3,Leuven|Genesis_deel2|328|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|Genesis_deel2|328|5,5,οἰκίαν,οἰκία,n-s---fa-,OBJ_CO
+5,Leuven|Genesis_deel2|328|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel2|328|7,7,τόπον,τόπος,n-s---ma-,OBJ_CO
+7,Leuven|Genesis_deel2|328|8,8,ταῖς,ὁ,l-p---fd-,ATR
+8,Leuven|Genesis_deel2|328|9,9,καμήλοις,κάμηλος,n-p---fd-,ADV

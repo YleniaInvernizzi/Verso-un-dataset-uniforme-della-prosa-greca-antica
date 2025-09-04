@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;δικαστοῦ;δικαστής;n-s---mg-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;αὕτη;οὗτος;p-s---fn-;SBJ
+5;ἀρετή;ἀρετή;n-s---fn-;PNOM
+6;,;punc;u--------;AuxX
+7;ῥήτορος;ῥήτωρ;n-s---mg-;PNOM
+8;δὲ;δέ;c--------;COORD
+9;τ-;ὁ;l-s---na-;ATR
+10;ἀληθῆ;ἀληθής;a-p---na-;OBJ
+11;λέγειν;λέγω;v--pna---;SBJ
+12;.;punc;u--------;AuxK
+13;ἐστιν;εἰμί;v3spia---;PRED_CO
+14;ἐστιν;εἰμί;v3spia---;PRED_CO

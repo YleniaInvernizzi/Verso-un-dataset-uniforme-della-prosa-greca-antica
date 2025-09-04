@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|414|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|414|2,2,ἔζησεν,ζάω,v3saia---,PRED_CO
+2,Leuven|Genesis|414|3,3,Θαρα,Θαρα,n-s---mn-,SBJ
+3,Leuven|Genesis|414|4,4,ἑβδομήκοντα,ἑβδομήκοντα,m--------,ATR
+4,Leuven|Genesis|414|5,5,ἔτη,ἔτος,n-p---na-,ADV
+5,Leuven|Genesis|414|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|414|7,7,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+7,Leuven|Genesis|414|8,8,τόν,ὁ,l-s---ma-,ATR
+8,Leuven|Genesis|414|9,9,Αβραμ,Αβραμ,n-s---ma-,OBJ_CO
+9,Leuven|Genesis|414|10,10,καί,καί,c--------,AuxY
+10,Leuven|Genesis|414|11,11,τόν,ὁ,l-s---ma-,ATR
+11,Leuven|Genesis|414|12,12,Ναχωρ,Ναχωρ,n-s---ma-,OBJ_CO
+12,Leuven|Genesis|414|13,13,καί,καί,c--------,COORD
+13,Leuven|Genesis|414|14,14,τόν,ὁ,l-s---ma-,ATR
+14,Leuven|Genesis|414|15,15,Αρραν,Αρραν,n-s---ma-,OBJ_CO

@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0585-001|180|1,1,νηφαλίμων,νηφάλιμος,a-p---ng-,OBJ_CO
+Leuven|0585-001|180|2,2,ἀρνῶν,ἀρνός,n-p---mg-,OBJ_CO
+Leuven|0585-001|180|3,3,τε,τε,c--------,COORD
+Leuven|0585-001|180|4,4,ταμὼν,τέμνω,v-sapamn-,ADV
+Leuven|0585-001|180|5,5,χθονίοις,χθόνιος,a-p---md-,ADV
+Leuven|0585-001|180|6,6,τάδε,ὅδε,p-p---na-,OBJ
+Leuven|0585-001|180|7,7,ῥέξον,ῥέζω,v2sama---,PRED
+Leuven|0585-001|180|8,8,.,.,u--------,AuxK

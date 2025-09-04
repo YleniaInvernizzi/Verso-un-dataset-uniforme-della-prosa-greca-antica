@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|42|1,1,πρῶτος,πρῶτος,a-s---mn-,ADV
+Leuven|PaeanBrev|42|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|42|3,3,θριαμβεύων,θριαμβεύω,v-sppamn-,ADV
+Leuven|PaeanBrev|42|4,4,εἰς,εἰς,r--------,AuxP
+Leuven|PaeanBrev|42|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|42|6,6,Ῥώμην,Ῥώμη,n-s---fa-,OBJ
+Leuven|PaeanBrev|42|7,7,εἰσῆλθε,εἰσέρχομαι,v3saia---,PRED
+Leuven|PaeanBrev|42|8,8,.,.,u--------,AuxK

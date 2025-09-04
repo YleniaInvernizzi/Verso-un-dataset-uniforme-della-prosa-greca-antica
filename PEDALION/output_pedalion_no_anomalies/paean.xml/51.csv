@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|52|1,1,τελευτήν,τελευτή,n-s---fa-,OBJ
+1,Leuven|PaeanBrev|52|2,2,μέντοι,μέντοι,d--------,AuxY
+2,Leuven|PaeanBrev|52|3,3,τοῦ,ὁ,l-s---mg-,ATR
+3,Leuven|PaeanBrev|52|4,4,βίου,βίος,n-s---mg-,ATR
+4,Leuven|PaeanBrev|52|5,5,ἐδέξατο,δέχομαι,v3saim---,PRED
+5,Leuven|PaeanBrev|52|6,6,παρά,παρά,r--------,AuxP
+6,Leuven|PaeanBrev|52|7,7,τοῦ,ὁ,l-s---mg-,ATR
+7,Leuven|PaeanBrev|52|8,8,γαμβροῦ,γαμβρός,n-s---mg-,ADV
+8,Leuven|PaeanBrev|52|9,9,Ταρκυνίου,Ταρκύνιος,n-s---mg-,ATR
+9,Leuven|PaeanBrev|52|10,10,Σουπέρβου,Σούπερβος,n-s---mg-,APOS

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|76|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|76|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|76|3,3,πορευόμενος,πορεύω,v-sppemn-,PNOM
+Leuven|Genesis|76|4,4,κατέναντι,κατέναντι,r--------,AuxP
+Leuven|Genesis|76|5,5,Ἀσσυρίων,Ἀσσύριος,n-p---mg-,ADV
+Leuven|Genesis|76|6,6,.,.,u--------,AuxK
+Leuven|Genesis|76|7,7,[0],,,PRED

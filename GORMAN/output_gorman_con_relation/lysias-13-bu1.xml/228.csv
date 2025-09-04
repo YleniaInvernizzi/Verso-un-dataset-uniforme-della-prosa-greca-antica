@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τίς,τις,p-s---mn-,PNOM
+2,οὖν,οὖν,d--------,AuxY
+3,ἄλλος,ἄλλος,a-s---mn_,ATR
+4,αἴτιος,αἴτιος,a-s---mn-,SBJ
+5,ἢ,ἤ1,c--------,AuxC
+6,σὺ,σύ,p-s---mn-,PNOM
+7,ἀπογράψας,ἀπογράφω,v-sapamn-,ATR
+8,;,punc1,u--------,AuxK
+9,ἐστιν,εἰμί,v3spia---,PRED
+10,[0],,,ADV

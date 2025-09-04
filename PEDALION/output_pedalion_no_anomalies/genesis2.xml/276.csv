@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|277|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|277|2,2,εἶπεν,λέγω,v3saia---,PRED
+2,Leuven|Genesis_deel2|277|3,3,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel2|277|4,4,τῷ,ὁ,l-s---md-,ATR
+4,Leuven|Genesis_deel2|277|5,5,παιδί,παῖς,n-s---cd-,OBJ
+5,Leuven|Genesis_deel2|277|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+6,Leuven|Genesis_deel2|277|7,7,τῷ,ὁ,l-s---md-,ATR
+7,Leuven|Genesis_deel2|277|8,8,πρεσβυτέρῳ,πρεσβύτερος,a-s---mdc,ATR
+8,Leuven|Genesis_deel2|277|9,9,τῆς,ὁ,l-s---fg-,ATR
+9,Leuven|Genesis_deel2|277|10,10,οἰκίας,οἰκία,n-s---fg-,ATR
+10,Leuven|Genesis_deel2|277|11,11,αὐτοῦ,αὐτός,p-s---mg-,ATR
+11,Leuven|Genesis_deel2|277|12,12,τῷ,ὁ,l-s---md-,ATR
+12,Leuven|Genesis_deel2|277|13,13,ἄρχοντι,ἄρχων,n-s---md-,ATR
+13,Leuven|Genesis_deel2|277|14,14,πάντων,πᾶς,a-p---ng-,ATR
+14,Leuven|Genesis_deel2|277|15,15,τῶν,ὁ,l-p---ng-,ATR
+15,Leuven|Genesis_deel2|277|16,16,αὐτοῦ,αὐτός,p-s---mg-,ATR

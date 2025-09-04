@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|578|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis|578|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis|578|3,3,ἐνώπιον,ἐνώπιον,d--------,ADV
+Leuven|Genesis|578|4,4,εἶδον,ὁράω,v1saia---,PRED
+Leuven|Genesis|578|5,5,ὀφθέντα,ὁράω,v-sappma-,OBJ
+Leuven|Genesis|578|6,6,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Genesis|578|7,7,.,.,u--------,AuxK

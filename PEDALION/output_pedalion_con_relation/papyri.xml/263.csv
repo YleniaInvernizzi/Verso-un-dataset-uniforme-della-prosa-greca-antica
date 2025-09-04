@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27092|5|1,1,ἀναδώσεις,ἀναδίδωμι,v2sfia---,PRED
+Leuven|27092|5|2,2,Ταβαθεῦτι,Ταβαθεῦς,n-s---fd-,OBJ
+Leuven|27092|5|3,3,τὴν,ὁ,l-s---fa-,ATR
+Leuven|27092|5|4,4,ἐπιστολὴν,ἐπιστολή,n-s---fa-,OBJ
+Leuven|27092|5|5,5,τὴν,ὁ,l-s---fa-,ATR
+Leuven|27092|5|6,6,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|27092|5|7,7,διοικητοῦ,διοικητής,n-s---mg-,ATR
+Leuven|27092|5|8,8,πρὸς,πρός,r--------,AuxP
+Leuven|27092|5|9,9,τὸν,ὁ,l-s---ma-,ATR
+Leuven|27092|5|10,10,στρατηγόν,στρατηγός,n-s---ma-,ATR
+Leuven|27092|5|11,11,.,.,u--------,AuxK

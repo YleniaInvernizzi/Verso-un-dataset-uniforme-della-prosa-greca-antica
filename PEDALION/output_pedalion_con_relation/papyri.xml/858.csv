@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|961|6|1,1,καὶ,καί,d--------,AuxY
+Leuven|961|6|2,2,περὶ,περί,r--------,AuxP
+Leuven|961|6|3,3,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|961|6|4,4,ὀψωνίου,ὀψώνιον,n-s---ng-,ADV
+Leuven|961|6|5,5,",",",",u--------,AuxX
+Leuven|961|6|6,6,ἀπὸ,ἀπό,r--------,AuxP
+Leuven|961|6|7,7,μηνὸς,μήν,n-s---mg-,ADV
+Leuven|961|6|8,8,Παχῶνος,Παχών,n-s---mg-,APOS
+Leuven|961|6|9,9,ἕως,ἕως,r--------,AuxP
+Leuven|961|6|10,10,Μεσορὴ,Μεσορή,n-s------,ADV
+Leuven|961|6|11,11,μηνῶν,μήν,n-p---mg-,ADV
+Leuven|961|6|12,12,δ,δ,m--------,ATR
+Leuven|961|6|13,13,γίνονται,γίγνομαι,v3ppie---,PRED
+Leuven|961|6|14,14,δραχμαὶ,δραχμή,n-p---fn-,SBJ
+Leuven|961|6|15,15,μ,μ,m--------,ATR
+Leuven|961|6|16,16,.,.,u--------,AuxK

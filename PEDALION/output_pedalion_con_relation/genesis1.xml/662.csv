@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|663|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|663|2,2,ἀποστρέψαντες,ἀποστρέφω,v-papamn-,ADV
+Leuven|Genesis|663|3,3,ἐκεῖθεν,ἐκεῖθεν,d--------,OBJ
+Leuven|Genesis|663|4,4,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Genesis|663|5,5,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+Leuven|Genesis|663|6,6,ἦλθον,ἔρχομαι,v3paia---,PRED_CO
+Leuven|Genesis|663|7,7,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|663|8,8,Σοδομα,Σοδομα,n-s----a-,OBJ
+Leuven|Genesis|663|9,9,",",",",u--------,AuxX
+Leuven|Genesis|663|10,10,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis|663|11,11,δέ,δέ,b--------,COORD
+Leuven|Genesis|663|12,12,ἦν,εἰμί,v3siia---,PRED_CO
+Leuven|Genesis|663|13,13,ἑστηκώς,ἵστημι,v-srpamn-,PNOM
+Leuven|Genesis|663|14,14,ἐναντίον,ἐναντίον,r--------,AuxP
+Leuven|Genesis|663|15,15,κυρίου,κύριος,n-s---mg-,ADV
+Leuven|Genesis|663|16,16,.,.,u--------,AuxK

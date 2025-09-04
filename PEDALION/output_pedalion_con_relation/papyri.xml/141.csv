@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|10|1,1,μαρτυρήσουσιν,μαρτυρέω,v3pfia---,PRED
+Leuven|21342|10|2,2,ὑμῖν,σύ,p2p---cd-,OBJ
+Leuven|21342|10|3,3,πάντες,πᾶς,a-p---mn-,ATR
+Leuven|21342|10|4,4,οἱ,ὁ,l-p---mn-,ATR
+Leuven|21342|10|5,5,ἐρχόμενοι,ἔρχομαι,v-pppemn-,SBJ
+Leuven|21342|10|6,6,πῶς,πῶς,d--------,ADV
+Leuven|21342|10|7,7,καθʼ,κατά,r--------,AuxP
+Leuven|21342|10|8,8,ἡμέραν,ἡμέρα,n-s---fa-,ADV
+Leuven|21342|10|9,9,ζητῶ,ζητέω,v1spia---,OBJ
+Leuven|21342|10|10,10,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|21342|10|11,11,ἐλθεῖν,ἔρχομαι,v--ana---,OBJ
+Leuven|21342|10|12,12,.,.,u--------,AuxK

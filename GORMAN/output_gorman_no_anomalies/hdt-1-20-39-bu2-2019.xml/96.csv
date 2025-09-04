@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὸ,ὁ,l-s---na-,OBJ
+1,2,μὲν,μέν,d--------,AuxY
+2,3,γάρ,γάρ,d--------,AuxY
+3,4,ἔχει,ἔχω,v3spia---,PRED_CO
+4,5,",",punc1,u--------,AuxX
+5,6,ἄλλου,ἄλλος,p-s---ng-,ADV
+6,7,δὲ,δέ,c--------,COORD
+7,8,ἐνδεές,ἐνδεής,a-s---nn-,PNOM
+8,9,ἐστι,εἰμί,v3spia---,PRED_CO
+9,10,:,punc1,u--------,AuxK

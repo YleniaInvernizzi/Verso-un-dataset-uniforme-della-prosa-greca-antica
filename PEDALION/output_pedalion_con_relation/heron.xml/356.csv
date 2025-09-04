@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0559-002|357|1,1,ἔστω,εἰμί,v3spma---,PRED
+Leuven|0559-002|357|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0559-002|357|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0559-002|357|4,4,χεὶρ,χείρ,n-s---fn-,SBJ
+Leuven|0559-002|357|5,5,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0559-002|357|6,6,ΑΒ,ΑΒ,n-_---__-,APOS
+Leuven|0559-002|357|7,7,.,.,u--------,AuxK

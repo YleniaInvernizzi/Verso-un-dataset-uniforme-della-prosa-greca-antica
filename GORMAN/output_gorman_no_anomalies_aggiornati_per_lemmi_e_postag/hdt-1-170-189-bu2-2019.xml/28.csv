@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;νόμοισι;νόμος;n-p---md-;OBJ
+2;δὲ;δέ;d--------;AuxY
+3;τὰ;ὁ;l-p---na-;AuxZ
+4;μὲν;μέν;d--------;AuxY
+5;Κρητικοῖσι;Κρητικός;a-p---md-;ATR_CO
+6;τὰ;ὁ;l-p---na-;AuxZ
+7;δὲ;δέ;c--------;COORD
+8;Καρικοῖσι;Καρικός;a-p---md-;ATR_CO
+9;χρέωνται;χράω;v3ppie---;PRED
+10;.;punc;u--------;AuxK

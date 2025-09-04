@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅτι,ὅτι2,c--------,AuxC
+2,δ᾽,δέ,d--------,AuxY
+3,ἀναγκαῖον,ἀναγκαῖος,a-s---nn-,PNOM
+4,αὐτῷ,αὐτός,p-s---md-,ADV
+5,ποιεῖν,ποιέω,v--pna---,SBJ
+6,τοὺς,ὁ,l-p---ma-,ATR
+7,αὐτοὺς,αὐτός,p-p---ma-,OBJ
+8,ἄρχοντας,ἄρχω,v-pppama-,OCOMP
+9,",",punc1,u--------,AuxX
+10,φανερόν,φανερός,a-s---nn-,PNOM
+11,:,punc1,u--------,AuxK
+12,ἐστιν,εἰμί,v3spia---,SBJ
+13,ἐστιν,εἰμί,v3spia---,PRED

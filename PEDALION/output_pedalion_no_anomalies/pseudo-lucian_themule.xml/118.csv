@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|119|1,1,ὁρῶ,ὁράω,v1spia---,PRED
+1,Leuven|Ps-Luc|119|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|119|3,3,τὴν,ὁ,l-s---fa-,ATR
+3,Leuven|Ps-Luc|119|4,4,μὲν,μέν,d--------,AuxY
+4,Leuven|Ps-Luc|119|5,5,γυναῖκα,γυνή,n-s---fa-,SBJ
+5,Leuven|Ps-Luc|119|6,6,ἀποδυομένην,ἀποδύω,v-sppefa-,OBJ

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|479|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|479|2,2,ποιήσω,ποιέω,v1sfia---,PRED
+Leuven|Genesis|479|3,3,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|479|4,4,σπέρμα,σπέρμα,n-s---na-,OBJ
+Leuven|Genesis|479|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|479|6,6,ὡς,ὡς,c--------,AuxC
+Leuven|Genesis|479|7,7,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis|479|8,8,ἄμμον,ἄμμος,n-s---fa-,OCOMP
+Leuven|Genesis|479|9,9,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|479|10,10,γῆς,γῆ,n-s---fg-,ATR
+Leuven|Genesis|479|11,11,·,·,u--------,AuxK

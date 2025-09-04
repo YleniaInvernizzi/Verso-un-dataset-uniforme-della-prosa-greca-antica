@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|296|1,1,πρῶτον,πρῶτος,a-s---na-,ADV
+1,Leuven|Ps-Luc|296|2,2,μὲν,μέν,d--------,AuxY
+2,Leuven|Ps-Luc|296|3,3,ὑψηλὸν,ὑψηλός,a-s---na-,ATR
+3,Leuven|Ps-Luc|296|4,4,ὄρος,ὄρος,n-s---na-,OBJ
+4,Leuven|Ps-Luc|296|5,5,ἀναβαίνειν,ἀναβαίνω,v--pna---,OBJ
+5,Leuven|Ps-Luc|296|6,6,ἔδει,δέω,v3siia---,PRED_CO
+7,Leuven|Ps-Luc|296|8,8,ὀρθὴν,ὀρθός,a-s---fa-,ATR
+8,Leuven|Ps-Luc|296|9,9,δεινῶς,δεινός,d--------,ADV
+9,Leuven|Ps-Luc|296|10,10,ὁδόν,ὁδός,n-s---fa-,APOS
+11,Leuven|Ps-Luc|296|12,12,εἶτα,εἶτα,d--------,ADV
+12,Leuven|Ps-Luc|296|13,13,καὶ,καί,c--------,COORD
+13,Leuven|Ps-Luc|296|14,14,ἀνυπόδητος,ἀνυπόδητος,a-s---mn-,PNOM
+14,Leuven|Ps-Luc|296|15,15,ὄρει,ὄρος,n-s---nd-,ADV
+15,Leuven|Ps-Luc|296|16,16,ἐν,ἐν,r--------,AuxP
+16,Leuven|Ps-Luc|296|17,17,λιθίνωι,λίθινος,a-s---nd-,ATR

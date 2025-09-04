@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,λέγε,λέγω3,v2spma---,PRED
+2,τὰς,ὁ,l-p---fa-,ATR
+3,ἐπιστολὰς,ἐπιστολή,n-p---fa-,OBJ
+4,τὰς,ὁ,l-p---fa-,ATR
+5,τοῦ,ὁ,l-s---mg-,ATR
+6,Φιλίππου,Φίλιππος,n-s---mg-,ATR
+7,.,punc1,u--------,AuxK

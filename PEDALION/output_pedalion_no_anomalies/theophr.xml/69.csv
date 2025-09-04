@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0093-009|70|2,2,οὗτος,οὗτος,p-s---mn-,SBJ
+2,Leuven|0093-009|70|3,3,φυλάττει,φυλάσσω,v3spia---,PRED
+3,Leuven|0093-009|70|4,4,τὸ,ὁ,l-s---na-,ATR
+4,Leuven|0093-009|70|5,5,χωρίον,χωρίον,n-s---na-,OBJ_CO
+5,Leuven|0093-009|70|6,6,καὶ,καί,c--------,COORD
+6,Leuven|0093-009|70|7,7,τὴν,ὁ,l-s---fa-,ATR
+7,Leuven|0093-009|70|8,8,οἰκίαν,οἰκία,n-s---fa-,OBJ_CO

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|86|1,1,ἐφοβήθη,φοβέω,v3saip---,PRED
+Leuven|Genesis_deel2|86|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Genesis_deel2|86|3,3,κατοικῆσαι,κατοικέω,v--ana---,OBJ
+Leuven|Genesis_deel2|86|4,4,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|86|5,5,Σηγωρ,Σηγωρ,n-s----d-,OBJ
+Leuven|Genesis_deel2|86|6,6,.,.,u--------,AuxK

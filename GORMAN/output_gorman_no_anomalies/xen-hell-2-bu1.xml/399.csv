@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πότερον,πότερος,a-s---na-,AuxY
+1,2,δικαιότεροί,δίκαιος,a-p---mnc,PNOM
+2,3,ἐστε,εἰμί,v2ppia---,PRED
+3,4,;,punc1,u--------,AuxK

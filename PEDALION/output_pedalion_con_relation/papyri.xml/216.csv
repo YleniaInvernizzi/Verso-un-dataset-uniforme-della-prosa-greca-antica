@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|5|1,1,ἠγοράκαμεν,ἀγοράζω,v1pria---,PRED_CO
+Leuven|27086|5|2,2,τρεῖς,τρεῖς,m-p---ca-,ATR
+Leuven|27086|5|3,3,μνᾶς,μνᾶ,n-p---fa-,OBJ
+Leuven|27086|5|4,4,λίνων,λίνος,n-p---mg-,ATR
+Leuven|27086|5|5,5,καὶ,καί,b--------,COORD
+Leuven|27086|5|6,6,ἔπεμψα,πέμπω,v1saia---,PRED_CO
+Leuven|27086|5|7,7,αὐτάς,αὐτός,p-p---fa-,OBJ
+Leuven|27086|5|8,8,.,.,u--------,AuxK

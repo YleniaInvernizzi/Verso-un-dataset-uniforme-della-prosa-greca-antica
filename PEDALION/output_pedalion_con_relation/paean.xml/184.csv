@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|186|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|186|2,2,μετά,μετά,r--------,AuxP
+Leuven|PaeanBrev|186|3,3,τοῦτο,οὗτος,p-s---na-,ADV
+Leuven|PaeanBrev|186|4,4,οἱ,ὁ,l-p---mn-,ATR
+Leuven|PaeanBrev|186|5,5,μέν,μέν,d--------,AuxY
+Leuven|PaeanBrev|186|6,6,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+Leuven|PaeanBrev|186|7,7,συνέμιξαν,συμμείγνυμι,v3paia---,PRED
+Leuven|PaeanBrev|186|8,8,·,·,u--------,AuxK

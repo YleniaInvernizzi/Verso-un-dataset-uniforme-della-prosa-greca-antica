@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|382|1,1,ἐνθάδε,ἐνθάδε,d--------,ADV
+1,Leuven|Ps-Luc|382|2,2,οἶδα,οἶδα,v1sria---,PRED
+2,Leuven|Ps-Luc|382|3,3,μέγαν,μέγας,a-s---ma-,ATR
+3,Leuven|Ps-Luc|382|4,4,κίνδυνον,κίνδυνος,n-s---ma-,OBJ
+4,Leuven|Ps-Luc|382|5,5,αὐτὸς,αὐτός,p-s---mn-,ADV
+5,Leuven|Ps-Luc|382|6,6,ὑποστάς,ὑφίστημι,v-sapamn-,ADV

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|274|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|PaeanBrev|274|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|274|3,3,τῶν,ὁ,l-p---mg-,ATR
+3,Leuven|PaeanBrev|274|4,4,πεσόντων,πίπτω,v-papamg-,ATR
+4,Leuven|PaeanBrev|274|5,5,πολεμίων,πολέμιος,a-p---mg-,ATR
+5,Leuven|PaeanBrev|274|6,6,ἀριθμός,ἀριθμός,n-s---mn-,SBJ
+6,Leuven|PaeanBrev|274|7,7,εἵκοσι,εἴκοσι,m--------,ATR
+7,Leuven|PaeanBrev|274|8,8,τρεῖς,τρεῖς,m-p---fn-,ATR
+8,Leuven|PaeanBrev|274|9,9,ἦσαν,εἰμί,v3piia---,PRED
+9,Leuven|PaeanBrev|274|10,10,χιλιάδες,χιλιάς,n-p---fn-,PNOM

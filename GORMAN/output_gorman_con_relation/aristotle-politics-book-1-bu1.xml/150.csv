@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἔστι,εἰμί,v3spia---,PRED
+2,δ᾽,δέ,d--------,AuxY
+3,αὕτη,οὗτος,a-s---fn_,ATR
+4,ἡ,ὁ,l-s---fn-,ATR
+5,ἐπιστήμη,ἐπιστήμη,n-s---fn-,SBJ
+6,οὐδὲν,οὐδείς,p-s---na-,OBJ
+7,μέγα,μέγας,a-s---na-,ATR_CO
+8,ἔχουσα,ἔχω,v-sppafn-,PNOM
+9,οὐ,οὐ,d-------_,AuxZ
+10,-δὲ,δέ,c--------,COORD
+11,σεμνόν,σεμνός,a-s---na-,ATR_CO
+12,:,punc1,u--------,AuxK

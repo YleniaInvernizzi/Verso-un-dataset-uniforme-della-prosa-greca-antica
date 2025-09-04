@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰ,εἰ,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,τὸν,ὁ,l-s---ma-,SBJ
+4,μὲν,μέν,d--------,AuxY
+5,δεῖ,δεῖ,v3siia---,SBJ
+6,τὸν,ὁ,l-s---ma-,SBJ
+7,δὲ,δέ,c--------,COORD
+8,μή,μή,d--------,AuxZ
+9,",",punc1,u--------,AuxX
+10,θαυμαστόν,θαυμαστός,a-s---nn-,PNOM
+11,.,punc1,u--------,AuxK
+12,ἐστιν,εἰμί,v3spia---,PRED
+13,εἶναι,εἰμί,v--pna---,SBJ_CO
+14,εἶναι,εἰμί,v--pna---,SBJ_CO

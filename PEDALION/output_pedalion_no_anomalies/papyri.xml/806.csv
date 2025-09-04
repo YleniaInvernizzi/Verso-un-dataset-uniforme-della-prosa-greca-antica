@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|83|4|1,1,χάριν,χάρις,n-s---fa-,OBJ
+1,Leuven|83|4|2,2,σοι,σύ,p2s---cd-,OBJ
+2,Leuven|83|4|3,3,ἔχω,ἔχω,v1spia---,PRED
+3,Leuven|83|4|4,4,ἐφ’,ἐπί,r--------,AuxP
+4,Leuven|83|4|5,5,αἷς,ὅς,p-p---fd-,OBJ
+5,Leuven|83|4|6,6,γράφεις,γράφω,v2spia---,ATR
+6,Leuven|83|4|7,7,ἐπιστολαῖς,ἐπιστολή,n-p---fd-,ADV

@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἃ,ὅς,p-p---na-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,σὺ,σύ,p-s---mn-,SBJ
+4,παρανομεῖς,παρανομέω,v2spia---,ATR
+5,",",punc1,u--------,AuxX
+6,αὐτὰ,αὐτός,a-p---nn_,ATV
+7,ταῦτά,οὗτος,p-p---nn-,SBJ
+8,μοι,ἐγώ,p1s---md-,ATR
+9,μέγιστα,μέγας,a-p---nns,ATR
+10,μαρτύριά,μαρτύριον,n-p---nn-,PNOM
+11,ἐστιν,εἰμί,v3spia---,PRED
+12,:,punc1,u--------,AuxK

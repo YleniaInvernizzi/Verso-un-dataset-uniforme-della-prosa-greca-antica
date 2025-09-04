@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|355|1,1,Σαβα,Σαβα,n-s---mn-,PNOM_CO
+Leuven|Genesis|355|2,2,καί,καί,b--------,COORD
+Leuven|Genesis|355|3,3,Δαδαν,Δαδαν,n-s---mn-,PNOM_CO
+Leuven|Genesis|355|4,4,.,.,u--------,AuxK
+Leuven|Genesis|355|5,5,[0],,,PRED

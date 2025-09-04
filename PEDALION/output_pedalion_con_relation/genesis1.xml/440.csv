@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|441|1,1,γινώσκω,γιγνώσκω,v1spia---,PRED
+Leuven|Genesis|441|2,2,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|441|3,3,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|441|4,4,γυνή,γυνή,n-s---fn-,PNOM
+Leuven|Genesis|441|5,5,εὐπρόσωπος,εὐπρόσωπος,a-s---fn-,ATR
+Leuven|Genesis|441|6,6,εἶ,εἰμί,v2spia---,OBJ
+Leuven|Genesis|441|7,7,·,·,u--------,AuxK

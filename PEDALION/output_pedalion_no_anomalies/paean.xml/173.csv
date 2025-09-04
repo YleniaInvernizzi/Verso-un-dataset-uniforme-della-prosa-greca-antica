@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|175|1,1,μετά,μετά,r--------,AuxP
+1,Leuven|PaeanBrev|175|2,2,τοῦτο,οὗτος,p-s---na-,ADV
+2,Leuven|PaeanBrev|175|3,3,γίνεται,γίγνομαι,v3spie---,PRED
+3,Leuven|PaeanBrev|175|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|PaeanBrev|175|5,5,Ῥωμαίων,Ῥωμαῖος,a-p---mg-,ATR
+5,Leuven|PaeanBrev|175|6,6,ἀπογραφή,ἀπογραφή,n-s---fn-,SBJ

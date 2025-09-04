@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τί,τις,p-s---na-,OBJ
+1,2,πεπόνθατε,πάσχω,v2pria---,PRED
+2,3,",",punc1,u--------,AuxX
+3,4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+4,5,Σπαρτιᾶται,Σπαρτιάτης,n-p---mv-,ATR
+5,6,;,punc1,u--------,AuxK

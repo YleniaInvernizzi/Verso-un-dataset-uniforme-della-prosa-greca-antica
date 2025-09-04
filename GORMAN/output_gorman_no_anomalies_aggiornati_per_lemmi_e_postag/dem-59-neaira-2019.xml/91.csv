@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ὥστε;ὥστε;d--------;AuxY
+2;ἡ;ὁ;l-s---fn-;ATR
+3;μὲν;μέν;d--------;AuxY
+4;ὑπάρχουσα;ὑπάρχω;v-sppafn-;ATR
+5;Στεφάνῳ;Στέφανος;n-s---md-;OBJ
+6;οὐσία;οὐσία;n-s---fn-;PNOM
+7;αὕτη;οὗτος;p-s---fn-;SBJ_CO
+8;ἦν;εἰμί;v3siia---;PRED
+9;καὶ;καί;c--------;COORD
+10;ἄλλο;ἄλλος;a-s---nn-;ATR
+11;οὐδέν;οὐδείς;p-s---nn-;SBJ_CO
+12;·;punc;u--------;AuxK

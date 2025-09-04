@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27112|4|1,1,εἴπερ,εἴπερ,c--------,AuxC
+2,Leuven|27112|4|3,3,σε,σύ,p2s---ca-,SBJ
+3,Leuven|27112|4|4,4,ἀγνοῶ,ἀγνοέω,v1spia---,ADV
+4,Leuven|27112|4|5,5,ὀφείλεις,ὀφείλω,v2spia---,PRED
+5,Leuven|27112|4|6,6,μοι,ἐγώ,p1s---cd-,OBJ
+6,Leuven|27112|4|7,7,συνχωρεῖν,συγχωρέω,v--pna---,OBJ
+7,Leuven|27112|4|8,8,τοῦτο,οὗτος,p-s---na-,OBJ
+8,Leuven|27112|4|9,9,μόνον,μόνος,a-s---na-,ATR

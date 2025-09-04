@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27089|15|1,1,ἄσπασαι,ἀσπάζομαι,v2samm---,PRED
+1,Leuven|27089|15|2,2,Δίδυμον,Δίδυμος,n-s---ma-,OBJ
+2,Leuven|27089|15|3,3,τὸν,ὁ,l-s---ma-,ATR
+3,Leuven|27089|15|4,4,νομικὸν,νομικός,a-s---ma-,APOS
+4,Leuven|27089|15|5,5,πανοικί,πανοικί,d--------,ADV

@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|211|1,1,οἱ,ὁ,l-p---mn-,SBJ
+Leuven|Ps-Luc|211|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|211|3,3,οὕτως,οὕτως,d--------,ADV
+Leuven|Ps-Luc|211|4,4,ὡς,ὡς,c--------,AuxC
+Leuven|Ps-Luc|211|5,5,εἶχον,ἔχω,v3piia---,ADV
+Leuven|Ps-Luc|211|6,6,ἀναστάντες,ἀνίστημι,v-papamn-,ADV_CO
+Leuven|Ps-Luc|211|7,7,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|211|8,8,ὁπλισάμενοι,ὁπλίζω,v-papmmn-,ADV_CO
+Leuven|Ps-Luc|211|9,9,κ-,καί,b--------,COORD
+Leuven|Ps-Luc|211|10,10,ἐμὲ,ἐγώ,p1s---ca-,OBJ_CO
+Leuven|Ps-Luc|211|11,11,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|211|12,12,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|211|13,13,ἵππον,ἵππος,n-s---ma-,OBJ_CO
+Leuven|Ps-Luc|211|14,14,ἐπισάξαντες,ἐπισάττω,v-papamn-,ADV_CO
+Leuven|Ps-Luc|211|15,15,ἤλαυνον,ἐλαύνω,v3piia---,PRED
+Leuven|Ps-Luc|211|16,16,.,.,u--------,AuxK

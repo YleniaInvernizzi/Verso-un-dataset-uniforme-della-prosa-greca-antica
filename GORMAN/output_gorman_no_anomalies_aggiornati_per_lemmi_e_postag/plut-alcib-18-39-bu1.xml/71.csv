@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;τοσοῦτος;τοσοῦτος;a-s---mn-;ATR
+2;ἔρως;ἔρως;n-s---mn-;SBJ
+3;κατεῖχε;κατέχω;v3siia---;PRED
+4;τὴν;ὁ;l-s---fa-;ATR
+5;ἄνθρωπον;ἄνθρωπος;n-s---fa-;OBJ
+6;.;punc;u--------;AuxK

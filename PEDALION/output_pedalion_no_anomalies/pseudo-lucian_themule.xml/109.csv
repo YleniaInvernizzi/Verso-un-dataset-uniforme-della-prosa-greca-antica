@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|110|1,1,τίς,τίς,p-s---cn-,ATR
+1,Leuven|Ps-Luc|110|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|110|3,3,ὠιδὴ,ᾠδή,n-s---fn-,SBJ
+3,Leuven|Ps-Luc|110|4,4,δύναται,δύναμαι,v3spie---,PRED
+4,Leuven|Ps-Luc|110|5,5,μαγεῦσαι,μαγεύω,v--ana---,OBJ
+5,Leuven|Ps-Luc|110|6,6,τὸν,ὁ,l-s---ma-,ATR
+6,Leuven|Ps-Luc|110|7,7,ἔρωτα,ἔρως,n-s---ma-,OBJ
+8,Leuven|Ps-Luc|110|9,9,ὄντα,εἰμί,v-sppama-,ADV
+9,Leuven|Ps-Luc|110|10,10,τῆς,ὁ,l-s---fg-,ATR
+10,Leuven|Ps-Luc|110|11,11,τέχνης,τέχνη,n-s---fg-,ADV
+11,Leuven|Ps-Luc|110|12,12,κύριον,κύριος,n-s---ma-,PNOM

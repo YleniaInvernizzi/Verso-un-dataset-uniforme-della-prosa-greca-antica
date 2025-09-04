@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|1222|1,1,σκώπτομαι,σκώπτω,v1spie---,OBJ
+Leuven|0032-002|1222|2,2,",",",",u--------,AuxX
+Leuven|0032-002|1222|3,3,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|1222|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0032-002|1222|5,5,Γλαύκων,Γλαύκων,n-s---mn-,SBJ
+Leuven|0032-002|1222|6,6,.,.,u--------,AuxK

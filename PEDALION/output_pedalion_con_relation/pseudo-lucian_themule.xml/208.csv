@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|209|1,1,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|209|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|209|3,3,τούτωι,οὗτος,p-s---nd-,ADV
+Leuven|Ps-Luc|209|4,4,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Ps-Luc|209|5,5,ληισταὶ,λῃστής,n-p---mn-,SBJ
+Leuven|Ps-Luc|209|6,6,ἔξω,ἔξω,d--------,ADV
+Leuven|Ps-Luc|209|7,7,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|209|8,8,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|209|9,9,προδόμωι,πρόδομος,n-s---md-,ADV
+Leuven|Ps-Luc|209|10,10,ἐδείπνουν,δειπνέω,v3piia---,PRED
+Leuven|Ps-Luc|209|11,11,.,.,u--------,AuxK

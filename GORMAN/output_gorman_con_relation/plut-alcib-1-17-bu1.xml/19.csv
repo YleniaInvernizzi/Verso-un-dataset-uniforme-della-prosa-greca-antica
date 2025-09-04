@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,πρῶτον,πρῶτος,a-s---na-,ADV
+2,μὲν,μέν,d--------,AuxY
+3,οὖν,οὖν,d--------,AuxY
+4,ἐκέλευε,κελεύω,v3siia---,PRED
+5,περιμεῖναι,περιμένω,v--ana---,OBJ
+6,τὸν,ὁ,l-s---ma-,ATR
+7,ἄγοντα,ἄγω,v-sppama-,SBJ
+8,τὸ,ὁ,l-s---na-,ATR
+9,ζεῦγος,ζεῦγος,n-s---na-,OBJ
+10,·,punc1,u--------,AuxK

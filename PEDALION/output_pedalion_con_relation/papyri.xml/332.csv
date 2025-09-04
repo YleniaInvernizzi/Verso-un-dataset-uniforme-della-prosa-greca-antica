@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27224|5|1,1,διό,διό,d--------,ADV
+Leuven|27224|5|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|27224|5|3,3,ἐρωτῶ,ἐρωτάω,v1spia---,ExD
+Leuven|27224|5|4,4,σε,σύ,p2s---ca-,OBJ
+Leuven|27224|5|5,5,",",",",u--------,AuxX
+Leuven|27224|5|6,6,ἄδελφε,ἀδελφός,n-s---mv-,ExD
+Leuven|27224|5|7,7,",",",",u--------,AuxX
+Leuven|27224|5|8,8,μή,μή,d--------,AuxZ
+Leuven|27224|5|9,9,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|27224|5|10,10,ὀργισθῇς,ὀργίζω,v2sasp---,PRED
+Leuven|27224|5|11,11,.,.,u--------,AuxK

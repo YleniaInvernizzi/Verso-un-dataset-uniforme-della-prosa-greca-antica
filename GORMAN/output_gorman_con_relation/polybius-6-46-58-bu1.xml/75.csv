@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,a-s---nn_,ATR
+2,δʼ,δέ,d--------,AuxY
+3,ἂν,ἄν1,d--------,AuxY
+4,κάλλιον,καλός,a-s---nnc,PNOM
+5,θέαμα,θέαμα,n-s---nn-,SBJ
+6,τούτου,οὗτος,p-s---ng-,ADV
+7,φανείη,φαίνω,v3saop---,PRED
+8,;,punc1,u--------,AuxK

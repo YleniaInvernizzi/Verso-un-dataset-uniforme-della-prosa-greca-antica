@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|418|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|418|2,2,ἔλαβον,λαμβάνω,v3paia---,PRED
+2,Leuven|Genesis|418|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ_CO
+3,Leuven|Genesis|418|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis|418|5,5,Ναχωρ,Ναχωρ,n-s---mn-,SBJ_CO
+5,Leuven|Genesis|418|6,6,ἑαυτοῖς,ἑαυτοῦ,p-p---md-,ADV
+6,Leuven|Genesis|418|7,7,γυναῖκας,γυνή,n-p---fa-,OBJ
+7,Leuven|Genesis|418|8,8,·,·,u--------,AuxK

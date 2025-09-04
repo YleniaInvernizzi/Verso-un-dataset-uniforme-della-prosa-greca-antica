@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|211|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|211|2,2,ἔζησεν,ζάω,v3saia---,PRED_CO
+2,Leuven|Genesis|211|3,3,Ιαρεδ,Ιαρεδ,n-s---mn-,SBJ
+3,Leuven|Genesis|211|4,4,μετά,μετά,r--------,AuxP
+4,Leuven|Genesis|211|5,5,τό,ὁ,l-s---na-,ATR
+5,Leuven|Genesis|211|6,6,γεννῆσαι,γεννάω,v--ana---,ADV
+6,Leuven|Genesis|211|7,7,αὐτόν,αὐτός,p-s---ma-,SBJ
+7,Leuven|Genesis|211|8,8,τόν,ὁ,l-s---ma-,ATR
+8,Leuven|Genesis|211|9,9,Ενωχ,Ενωχ,n-s---ma-,OBJ
+9,Leuven|Genesis|211|10,10,ὀκτακόσια,ὀκτακόσιοι,a-p---na-,ATR
+10,Leuven|Genesis|211|11,11,ἔτη,ἔτος,n-p---na-,ADV
+11,Leuven|Genesis|211|12,12,καί,καί,c--------,COORD
+12,Leuven|Genesis|211|13,13,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+13,Leuven|Genesis|211|14,14,υἱούς,υἱός,n-p---ma-,OBJ_CO
+14,Leuven|Genesis|211|15,15,καί,καί,c--------,COORD
+15,Leuven|Genesis|211|16,16,θυγατέρας,θυγάτηρ,n-p---fa-,OBJ_CO

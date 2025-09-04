@@ -1,0 +1,4 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|400|1,1,γινώσκεις,γιγνώσκω,v2spia---,PRED
+Leuven|0554-001|400|2,2,.,.,u--------,AuxK
+|0554-001|399|3,3,[0],,,OBJ

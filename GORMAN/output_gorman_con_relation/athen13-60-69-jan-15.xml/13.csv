@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,σιωπήσῃ,σιωπάω,v2sasm---,PRED
+3,",",punc1,u--------,AuxX
+4,μειράκιον,μειράκιον,n-s---nv-,ExD
+5,",",punc1,u--------,AuxX
+6,μεῖζον,μέγας,a-s---ndc-----,ATV
+7,τῆς,ὁ,l-s---fg-,ATR
+8,μητρὸς,μήτηρ,n-s---fg-,ADV
+9,ἔχων,ἔχω,v-sppamn-,ADV
+10,τὸ,ὁ,l-s---na-,ATR
+11,φύσημα,φύσημα,n-s---na-,OBJ
+12,;,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|358|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel2|358|2,2,ἔπιον,πίνω,v1saia---,PRED_CO
+3,Leuven|Genesis_deel2|358|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis_deel2|358|5,5,τάς,ὁ,l-p---fa-,ATR
+5,Leuven|Genesis_deel2|358|6,6,καμήλους,κάμηλος,n-p---fa-,OBJ
+6,Leuven|Genesis_deel2|358|7,7,μου,ἐγώ,p1s---cg-,ATR
+7,Leuven|Genesis_deel2|358|8,8,ἐπότισεν,ποτίζω,v3saia---,PRED_CO

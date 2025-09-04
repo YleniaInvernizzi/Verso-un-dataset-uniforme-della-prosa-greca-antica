@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑὸς,ὗς,n-s---mg-,PNOM
+2,δὲ,δέ,d--------,AuxY
+3,κοῖαι,ποῖος,a-p---fn-,ATR
+4,μὲν,μέν,d--------,AuxY
+5,εἰσὶ,εἰμί,v3ppia---,PRED
+6,χεῖρες,χείρ,n-p---fn-,SBJ_CO
+7,",",punc1,u--------,AuxX
+8,κοίη,ποῖος,a-s---fn-,ATR
+9,δὲ,δέ,c--------,COORD
+10,αἰχμὴ,αἰχμή,n-s---fn-,SBJ_CO
+11,σιδηρέη,σιδήρεος,a-s---fn-,ATR
+12,τὴν,ὅς,p-s---fa-,ATR
+13,σὺ,σύ,p-s---mn-,SBJ
+14,φοβέαι,φοβέω,v2spie---,ATR
+15,;,punc1,u--------,AuxK

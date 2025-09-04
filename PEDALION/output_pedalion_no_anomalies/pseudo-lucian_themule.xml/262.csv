@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|263|1,1,εἶτα,εἶτα,d--------,ADV
+1,Leuven|Ps-Luc|263|2,2,ἐζήτουν,ζητέω,v3piia---,PRED_CO
+2,Leuven|Ps-Luc|263|3,3,θάνατον,θάνατος,n-s---ma-,OBJ
+4,Leuven|Ps-Luc|263|5,5,καί,καί,c--------,COORD
+5,Leuven|Ps-Luc|263|6,6,τις,τις,p-s---cn-,SBJ
+6,Leuven|Ps-Luc|263|7,7,εἶπεν,λέγω,v3saia---,PRED_CO
+8,Leuven|Ps-Luc|263|9,9,οἶδα,οἶδα,v1sria---,OBJ
+9,Leuven|Ps-Luc|263|10,10,ὅτι,ὅτι,c--------,AuxC
+10,Leuven|Ps-Luc|263|11,11,ἐπαινέσεσθε,ἐπαινέω,v2pfim---,OBJ
+11,Leuven|Ps-Luc|263|12,12,τὸ,ὁ,l-s---na-,ATR
+12,Leuven|Ps-Luc|263|13,13,ἀρχιτεκτόνημα,ἀρχιτεκτόνημα,n-s---na-,OBJ

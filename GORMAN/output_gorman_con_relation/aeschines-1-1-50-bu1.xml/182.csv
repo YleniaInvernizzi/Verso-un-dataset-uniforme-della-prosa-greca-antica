@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Μισγόλας,Μισγόλας,n-s---mn-,SBJ
+2,Νικίου,Νικίας,n-s---mg-,ATR
+3,Πειραιεὺς,Πειραιεύς,a-s---mn_,ATR
+4,μαρτυρεῖ,μαρτυρέω,v3spia---,PRED
+5,.,punc1,u--------,AuxK

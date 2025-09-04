@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|118|1,1,ὄψει,ὁράω,v2sfim---,PRED
+Leuven|0554-001|118|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0554-001|118|3,3,εἰσιόντα,εἰσέρχομαι,v-sppama-,OBJ
+Leuven|0554-001|118|4,4,τὸν,ὁ,l-s---ma-,ATR
+Leuven|0554-001|118|5,5,μοιχόν,μοιχός,n-s---ma-,SBJ
+Leuven|0554-001|118|6,6,``,``,u--------,AuxG
+Leuven|0554-001|118|7,7,.,.,u--------,AuxK

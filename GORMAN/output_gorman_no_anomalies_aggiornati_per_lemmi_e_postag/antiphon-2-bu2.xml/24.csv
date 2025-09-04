@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;σαφῶς;σαφής;d--------;ADV
+2;δ᾽;δέ;d--------;AuxY
+3;ᾔδει;οἶδα;v3slia---;PRED
+4;ἁλωσόμενος;ἁλίσκομαι;v-sfpmmn-;OBJ
+5;αὐτήν;αὐτός;p-s---fa-;OBJ
+6;:;punc;u--------;AuxK

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,δῶρα,δῶρον,n-p---na-,OBJ
+2,γοῦν,γοῦν,d--------,AuxY
+3,δοὺς,δίδωμι,v-sapamn-,ADV
+4,αὐτοῖς,αὐτός,p-p---md-,OBJ
+5,ἔπειτα,ἔπειτα,d--------,ADV
+6,ἀναχωροῦντας,ἀναχωρέω,v-pppama-,ADV
+7,ἐλόχα,λοχάω,v3siia---,PRED
+8,.,punc1,u--------,AuxK

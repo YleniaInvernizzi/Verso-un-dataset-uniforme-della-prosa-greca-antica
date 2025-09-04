@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,αἱ,ὁ,l-p---fn-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,αἰσθήσεις,αἴσθησις,n-p---fn-,SBJ
+4,ἰδίας,ἴδιος,a-p---fa-,ATR
+5,ἔχειν,ἔχω,v--pna---,OBJ
+6,ἀφορμὰς,ἀφορμή,n-p---fa-,OBJ
+7,δοκοῦσιν,δοκέω,v3ppia---,PRED
+8,.,punc1,u--------,AuxK

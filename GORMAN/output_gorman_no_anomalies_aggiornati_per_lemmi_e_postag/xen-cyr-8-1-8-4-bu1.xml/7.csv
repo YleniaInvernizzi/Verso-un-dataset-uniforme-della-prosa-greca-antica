@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ποῖον;ποῖος;a-s---nn-;ATR
+2;δʼ;δέ;d--------;AuxY
+3;ἂν;ἄν;d--------;AuxY
+4;ἀπειθούντων;ἀπειθέω;v-pppamg-;ATR
+5;στράτευμα;στράτευμα;n-s---nn-;SBJ
+6;νίκης;νίκη;n-s---fg-;OBJ
+7;τύχοι;τυγχάνω;v3saoa---;PRED
+8;·;punc;u--------;AuxK

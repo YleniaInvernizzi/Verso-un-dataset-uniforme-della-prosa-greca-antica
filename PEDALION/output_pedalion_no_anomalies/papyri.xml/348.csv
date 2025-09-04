@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|27328|3|1,1,πέμψον,πέμπω,v2sama---,PRED
+1,Leuven|27328|3|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|27328|3|3,3,τά,ὁ,l-p---na-,ATR
+3,Leuven|27328|3|4,4,λωδίκια,λωδίκιον,n-p---na-,OBJ_CO
+4,Leuven|27328|3|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|27328|3|6,6,τιμῆς,τιμή,n-s---fg-,ATR
+6,Leuven|27328|3|7,7,καί,καί,c--------,COORD
+7,Leuven|27328|3|8,8,ἐρίδια,ἐρίδιον,n-p---na-,OBJ_CO
+8,Leuven|27328|3|9,9,καλά,καλός,a-p---na-,ATR
+9,Leuven|27328|3|10,10,πόκους,πόκος,n-p---ma-,APOS
+10,Leuven|27328|3|11,11,τέσσαρας,τέσσαρες,m-p---ma-,ATR

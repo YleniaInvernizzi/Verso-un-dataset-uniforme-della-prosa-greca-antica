@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|120|1,1,πᾶς,πᾶς,a-s---mn-,ATR
+1,Leuven|Genesis_deel3|120|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|Genesis_deel3|120|3,3,ἁπτόμενος,ἅπτομαι,v-sppemn-,SBJ
+3,Leuven|Genesis_deel3|120|4,4,τοῦ,ὁ,l-s---mg-,ATR
+4,Leuven|Genesis_deel3|120|5,5,ἀνθρώπου,ἄνθρωπος,n-s---mg-,OBJ_CO
+5,Leuven|Genesis_deel3|120|6,6,τούτου,οὗτος,p-s---mg-,ATR
+6,Leuven|Genesis_deel3|120|7,7,ἤ,ἤ,c--------,COORD
+7,Leuven|Genesis_deel3|120|8,8,τῆς,ὁ,l-s---fg-,ATR
+8,Leuven|Genesis_deel3|120|9,9,γυναικός,γυνή,n-s---fg-,OBJ_CO
+9,Leuven|Genesis_deel3|120|10,10,αὐτοῦ,αὐτός,p-s---mg-,ATR
+10,Leuven|Genesis_deel3|120|11,11,θανάτου,θάνατος,n-s---mg-,ADV
+11,Leuven|Genesis_deel3|120|12,12,ἔνοχος,ἔνοχος,a-s---mn-,PNOM
+12,Leuven|Genesis_deel3|120|13,13,ἔσται,εἰμί,v3sfim---,PRED

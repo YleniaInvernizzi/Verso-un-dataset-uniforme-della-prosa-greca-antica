@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|42|1,1,Γαιφα,Γαιφα,n-s---mn-,SBJ_CO
+1,Leuven|Genesis_deel3|42|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis_deel3|42|3,3,Αφερ,Αφερ,n-s---mn-,SBJ_CO
+3,Leuven|Genesis_deel3|42|4,4,καί,καί,c--------,AuxY
+4,Leuven|Genesis_deel3|42|5,5,Ενωχ,Ενωχ,n-s---mn-,SBJ_CO
+5,Leuven|Genesis_deel3|42|6,6,καί,καί,c--------,AuxY
+6,Leuven|Genesis_deel3|42|7,7,Αβιρα,Αβιρα,n-s---mn-,SBJ_CO
+7,Leuven|Genesis_deel3|42|8,8,καί,καί,c--------,COORD
+8,Leuven|Genesis_deel3|42|9,9,Ελραγα,Ελραγα,n-s---mn-,SBJ_CO

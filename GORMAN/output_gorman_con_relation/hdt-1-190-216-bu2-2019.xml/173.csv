@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,Κῦρος,Κῦρος,n-s---mn-,SBJ
+2,μὲν,μέν,d--------,AuxY
+3,δοκέων,δοκέω,v-sppamn-,ADV
+4,οἱ,ἕ,p-s---md-,OBJ
+5,Δαρεῖον,Δαρεῖος,n-s---ma-,SBJ
+6,ἐπιβουλεύειν,ἐπιβουλεύω,v--pna---,OBJ
+7,ἔλεγε,λέγω3,v3siia---,PRED
+8,τάδε,ὅδε,p-p---na-,OBJ
+9,:,punc1,u--------,AuxK

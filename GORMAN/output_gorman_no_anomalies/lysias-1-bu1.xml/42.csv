@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ταύτην,οὗτος,a-s---fa-,ATR
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,τὴν,ὁ,l-s---fa-,ATR
+3,4,τέχνην,τέχνη,n-s---fa-,OBJ
+4,5,ἔχει,ἔχω,v3spia---,PRED
+5,6,.,punc1,u--------,AuxK

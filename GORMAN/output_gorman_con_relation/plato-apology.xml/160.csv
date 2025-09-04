@@ -1,0 +1,4 @@
+@id,@form,@lemma,@postag,@relation
+1,μάλιστα,μάλιστα,d--------,ADV
+2,.,punc1,u--------,AuxK
+3,[0],,,PRED

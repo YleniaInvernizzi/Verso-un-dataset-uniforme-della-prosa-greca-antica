@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|114|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis|114|2,2,ἀπό,ἀπό,r--------,AuxP
+2,Leuven|Genesis|114|3,3,τοῦ,ὁ,l-s---ng-,ATR
+3,Leuven|Genesis|114|4,4,ξύλου,ξύλον,n-s---ng-,OBJ
+5,Leuven|Genesis|114|6,6,οὗ,ὅς,p-s---ng-,OBJ
+6,Leuven|Genesis|114|7,7,ἐνετειλάμην,ἐντέλλομαι,v1saim---,ATR
+7,Leuven|Genesis|114|8,8,σοι,σύ,p2s---cd-,OBJ
+8,Leuven|Genesis|114|9,9,τούτου,οὗτος,p-s---mg-,OBJ
+9,Leuven|Genesis|114|10,10,μόνου,μόνος,a-s---mg-,ATR
+10,Leuven|Genesis|114|11,11,μή,μή,d--------,AuxZ
+11,Leuven|Genesis|114|12,12,φαγεῖν,ἐσθίω,v--ana---,OBJ
+12,Leuven|Genesis|114|13,13,ἀπ’,ἀπό,r--------,AuxP
+13,Leuven|Genesis|114|14,14,αὐτοῦ,αὐτός,p-s---ng-,OBJ
+15,Leuven|Genesis|114|16,16,ἔφαγες,ἐσθίω,v2saia---,PRED
+16,Leuven|Genesis|114|17,17,;,;,u--------,AuxK

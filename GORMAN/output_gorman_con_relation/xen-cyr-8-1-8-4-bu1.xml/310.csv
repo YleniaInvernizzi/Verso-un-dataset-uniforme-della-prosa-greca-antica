@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Σύρων,Σῦρος,n-p---mg-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,τῶν,ὁ,l-p---mg-,ATR
+4,ἀποστάντων,ἀφίστημι,v-papamg_,ATR
+5,Γαδάτας,Γαδάτας,n-s---mn-,SBJ
+6,·,punc1,u--------,AuxK
+7,ἐνίκα,νικάω,v3siia---,PRED

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ἀναγνοὺς,ἀναγιγνώσκω,v-sapamn-,ADV
+4,τὸ,ὁ,l-s---nd-,ATR
+5,ἐπίγραμμα,ἐπίγραμμα,n-s---na-,OBJ
+6,τοῦτο,οὗτος,a-s---na-,ATR
+7,:,punc1,u--------,AuxK
+8,[0],,,PRED

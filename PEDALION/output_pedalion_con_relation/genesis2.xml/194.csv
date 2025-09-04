@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|195|1,1,τί,τίς,p-s---nn-,ADV
+Leuven|Genesis_deel2|195|2,2,εἰσιν,εἰμί,v3ppia---,PRED
+Leuven|Genesis_deel2|195|3,3,αἱ,ὁ,l-p---fn-,ATR
+Leuven|Genesis_deel2|195|4,4,ἑπτά,ἑπτά,m--------,ATR
+Leuven|Genesis_deel2|195|5,5,ἀμνάδες,ἀμνάς,n-p---fn-,SBJ
+Leuven|Genesis_deel2|195|6,6,τῶν,ὁ,l-p---ng-,ATR
+Leuven|Genesis_deel2|195|7,7,προβάτων,πρόβατον,n-p---ng-,ATR
+Leuven|Genesis_deel2|195|8,8,τούτων,οὗτος,p-p---ng-,ATR
+Leuven|Genesis_deel2|195|9,9,",",",",u--------,AuxX
+Leuven|Genesis_deel2|195|10,10,ἅς,ὅς,p-p---fa-,OBJ
+Leuven|Genesis_deel2|195|11,11,ἔστησας,ἵστημι,v2saia---,ATR
+Leuven|Genesis_deel2|195|12,12,μόνας,μόνος,a-p---fa-,OCOMP
+Leuven|Genesis_deel2|195|13,13,;,;,u--------,AuxK

@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|265|1,1,στρατοπεδευσάμενοι,στρατοπεδεύω,v-papmmn-,ADV
+Leuven|PaeanBrev|265|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|265|3,3,ἐκ,ἐκ,r--------,AuxP
+Leuven|PaeanBrev|265|4,4,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|PaeanBrev|265|5,5,πλησίον,πλησίον,d--------,ADV
+Leuven|PaeanBrev|265|6,6,αὐτός,αὐτός,p-s---mn-,SBJ_CO
+Leuven|PaeanBrev|265|7,7,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|265|8,8,καί,καί,b--------,COORD
+Leuven|PaeanBrev|265|9,9,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|265|10,10,Πύρρος,Πύρρος,n-s---mn-,SBJ_CO
+Leuven|PaeanBrev|265|11,11,ἀνέμενον,ἀναμένω,v3piia---,PRED
+Leuven|PaeanBrev|265|12,12,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|265|13,13,μάχην,μάχη,n-s---fa-,OBJ
+Leuven|PaeanBrev|265|14,14,·,·,u--------,AuxK

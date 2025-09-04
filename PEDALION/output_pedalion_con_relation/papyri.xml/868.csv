@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1732|1|1,1,Ζήνων,Ζήνων,n-s---mn-,SBJ_CO
+Leuven|1732|1|2,2,Πρωτογένης,Πρωτογένης,n-s---mn-,SBJ_CO
+Leuven|1732|1|3,3,Ἀπολλωνίδης,Ἀπολλωνίδης,n-s---mn-,SBJ_CO
+Leuven|1732|1|4,4,Ζήνωνι,Ζήνων,n-s---md-,OBJ
+Leuven|1732|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|1732|1|6,6,.,.,u--------,AuxK
+Leuven|1732|1|7,7,λέγει,,---------,PRED
+Leuven|1732|1|8,8,[0],_,b--------,COORD

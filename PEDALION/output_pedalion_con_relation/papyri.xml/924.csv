@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|33597|1|1,1,Ἰσίδωρος,Ἰσίδωρος,n-s---mn-,SBJ
+Leuven|33597|1|2,2,Δημητρίῳ,Δημήτριος,n-s---md-,OBJ
+Leuven|33597|1|3,3,υἱῷ,υἱός,n-s---md-,APOS
+Leuven|33597|1|4,4,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|33597|1|5,5,.,.,u--------,AuxK
+Leuven|33597|1|6,6,[0],,---------,PRED

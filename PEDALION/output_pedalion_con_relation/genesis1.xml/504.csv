@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|505|1,1,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|505|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|505|3,3,βασιλεύς,βασιλεύς,n-s---mn-,SBJ
+Leuven|Genesis|505|4,4,Σοδομων,Σοδομα,n-s----g-,ATR
+Leuven|Genesis|505|5,5,πρός,πρός,r--------,AuxP
+Leuven|Genesis|505|6,6,Αβραμ,Αβραμ,n-s---ma-,OBJ
+Leuven|Genesis|505|7,7,·,·,u--------,AuxK

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὰ,ὁ,l-p---na-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,λείψανα,λείψανον,n-p---na-,OBJ
+3,4,κατεπόντωσαν,καταποντίζω,v3paia---,PRED
+4,5,.,punc1,u--------,AuxK

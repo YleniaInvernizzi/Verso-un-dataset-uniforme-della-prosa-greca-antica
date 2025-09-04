@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|219|1,1,πρὸς,πρός,r--------,AuxP
+Leuven|0093-009|219|2,2,τοῦτον,οὗτος,p-s---ma-,OBJ
+Leuven|0093-009|219|3,3,εἰπεῖν,λέγω,v--ana---,OBJ
+Leuven|0093-009|219|4,4,·,·,u--------,AuxK
+Leuven|0093-009|219|5,5,[0],,,PRED

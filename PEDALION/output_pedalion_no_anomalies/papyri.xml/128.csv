@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21341|8|1,1,ἐρωτῶ,ἐρωτάω,v1spia---,PRED
+1,Leuven|21341|8|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|21341|8|3,3,καταπλεῦσαι,καταπλέω,v--ana---,OBJ
+3,Leuven|21341|8|4,4,ἵνα,ἵνα,c--------,AuxC
+4,Leuven|21341|8|5,5,εὐτυχήσῃς,εὐτυχέω,v2sasa---,ADV

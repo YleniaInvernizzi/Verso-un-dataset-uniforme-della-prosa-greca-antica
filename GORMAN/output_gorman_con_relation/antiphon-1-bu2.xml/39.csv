@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ταύτην,οὗτος,p-s---fa-,OBJ
+2,οὖν,οὖν,d--------,AuxY
+3,[,punc1,u--------,AuxX
+4,πυθομένη,πυνθάνομαι,v-sapmfn-,ADV
+5,],punc1,u--------,AuxX
+6,ἡ,ὁ,l-s---fn-,ATR
+7,μήτηρ,μήτηρ,n-s---fn-,SBJ
+8,τοῦ,ὁ,l-s---mg-,ATR
+9,ἀδελφοῦ,ἀδελφός,n-s---mg-,ATR
+10,ἐποιήσατο,ποιέω,v3saim---,PRED
+11,φίλην,φίλος,a-s---fa-,OCOMP
+12,.,punc1,u--------,AuxK

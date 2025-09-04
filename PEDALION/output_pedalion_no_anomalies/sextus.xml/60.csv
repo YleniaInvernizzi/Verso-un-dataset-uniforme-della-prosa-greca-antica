@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0544-002|61|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|0544-002|61|2,2,ἄρα,ἄρα,d--------,AuxY
+2,Leuven|0544-002|61|3,3,ἔστι,εἰμί,v3spia---,PRED
+3,Leuven|0544-002|61|4,4,τινὰ,τις,p-p---nn-,PNOM
+4,Leuven|0544-002|61|5,5,διδασκόμενα,διδάσκω,v-pppenn-,SBJ

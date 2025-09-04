@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὀλίγα,ὀλίγος,a-p---na-,OBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,εἷς,εἷς,a-s---mn_,SBJ
+4,γʼ,γε,d--------,AuxZ
+5,ἂν,ἄν1,d--------,AuxY
+6,ἴδοι,εἶδον,v3saoa---,PRED_CO
+7,καὶ,καί,c--------,COORD
+8,εἷς,εἷς,a-s---mn_,SBJ
+9,ἀκούσειε,ἀκούω,v3saoa---,PRED_CO
+10,·,punc1,u--------,AuxK

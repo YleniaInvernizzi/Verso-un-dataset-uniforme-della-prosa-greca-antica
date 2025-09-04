@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|1925|3|1,1,ἔρρωμαι,ῥώννυμι,v1srie---,PRED
+Leuven|1925|3|2,2,δὲ,δέ,d--------,AuxY
+Leuven|1925|3|3,3,καὶ,καί,d--------,AuxZ
+Leuven|1925|3|4,4,αὐτός,αὐτός,p-s---mn-,ADV
+Leuven|1925|3|5,5,.,.,u--------,AuxK

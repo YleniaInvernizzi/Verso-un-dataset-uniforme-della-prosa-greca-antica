@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|164|1,1,ἐπανῆλθε,ἐπανέρχομαι,v3saia---,PRED
+1,Leuven|PaeanBrev|164|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|164|3,3,πρός,πρός,r--------,AuxP
+3,Leuven|PaeanBrev|164|4,4,τούς,ὁ,l-p---ma-,ATR
+4,Leuven|PaeanBrev|164|5,5,ὑπάτους,ὕπατος,a-p---ma-,OBJ
+5,Leuven|PaeanBrev|164|6,6,ἡ,ὁ,l-s---fn-,ATR
+6,Leuven|PaeanBrev|164|7,7,ἐξουσία,ἐξουσία,n-s---fn-,SBJ

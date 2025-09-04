@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|32904|6|1,1,ἀφ’,ἀπό,r--------,AuxP
+Leuven|32904|6|2,2,οὗ,ὅς,p-s---ng-,ADV
+Leuven|32904|6|3,3,δέ,δέ,b--------,AuxY
+Leuven|32904|6|4,4,ἐτελεύτησεν,τελευτάω,v3saia---,ADV
+Leuven|32904|6|5,5,",",",",u--------,AuxX
+Leuven|32904|6|6,6,ἔμεινα,μένω,v1saia---,PRED
+Leuven|32904|6|7,7,ἔρημος,ἐρῆμος,a-s---fn-,ADV
+Leuven|32904|6|8,8,",",",",u--------,AuxX
+Leuven|32904|6|9,9,μηδένα,μηδείς,p-s---ma-,OBJ
+Leuven|32904|6|10,10,ἔχουσα,ἔχω,v-sppafn-,ADV
+Leuven|32904|6|11,11,ἐπί,ἐπί,r--------,AuxP
+Leuven|32904|6|12,12,ξένοις,ξένος,a-p---md-,ATR
+Leuven|32904|6|13,13,τόποις,τόπος,n-p---md-,ADV
+Leuven|32904|6|14,14,.,.,u--------,AuxK

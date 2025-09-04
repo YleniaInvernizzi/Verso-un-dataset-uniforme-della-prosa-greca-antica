@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|106|1,1,μᾶλλον,μάλα,d-------c,ADV
+1,Leuven|Ps-Luc|106|2,2,δ’,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|106|3,3,εἴ,εἰ,c--------,AuxC
+3,Leuven|Ps-Luc|106|4,4,τι,τις,p-s---na-,OBJ
+4,Leuven|Ps-Luc|106|5,5,σὺ,σύ,p2s---cn-,SBJ
+5,Leuven|Ps-Luc|106|6,6,οἶδας,οἶδα,v2sria---,ADV
+7,Leuven|Ps-Luc|106|8,8,αὐτὴ,αὐτός,p-s---fn-,ADV
+8,Leuven|Ps-Luc|106|9,9,μαγγάνευσον,μαγγανεύω,v2sama---,PRED
+10,Leuven|Ps-Luc|106|11,11,ὥστε,ὥστε,c--------,AuxC
+11,Leuven|Ps-Luc|106|12,12,φανῆναί,φαίνω,v--anp---,ADV
+12,Leuven|Ps-Luc|106|13,13,μοι,ἐγώ,p1s---cd-,OBJ
+13,Leuven|Ps-Luc|106|14,14,ἄλλην,ἄλλος,p-s---fa-,ATR
+14,Leuven|Ps-Luc|106|15,15,ἐξ,ἐκ,r--------,AuxP
+15,Leuven|Ps-Luc|106|16,16,ἄλλης,ἄλλος,p-s---fg-,ATR
+16,Leuven|Ps-Luc|106|17,17,ὄψιν,ὄψις,n-s---fa-,SBJ

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;χρυσῷ;χρυσός;n-s---md-;OBJ_CO
+2;δὲ;δέ;d--------;AuxY
+3;καὶ;καί;c--------;COORD
+4;χαλκῷ;χαλκός;n-s---md-;OBJ_CO
+5;τὰ;ὁ;l-p---na-;ATR
+6;πάντα;πᾶς;a-s---na-;ADV
+7;χρέωνται;χράω;v3ppie---;PRED
+8;:;punc;u--------;AuxK

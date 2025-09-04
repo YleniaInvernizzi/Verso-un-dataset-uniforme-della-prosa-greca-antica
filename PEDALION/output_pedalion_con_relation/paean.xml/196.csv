@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|198|1,1,ἐκεῖθεν,ἐκεῖθεν,d--------,ADV
+Leuven|PaeanBrev|198|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|PaeanBrev|198|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|198|4,4,ταῖς,ὁ,l-p---fd-,ATR
+Leuven|PaeanBrev|198|5,5,καταλαμβανούσαις,καταλαμβάνω,v-pppafd-,ATR
+Leuven|PaeanBrev|198|6,6,χρείαις,χρεία,n-p---fd-,ADV
+Leuven|PaeanBrev|198|7,7,διελέγοντο,διαλέγω,v3piie---,PRED
+Leuven|PaeanBrev|198|8,8,τῷ,ὁ,l-s---md-,ATR
+Leuven|PaeanBrev|198|9,9,δήμῳ,δῆμος,n-s---md-,OBJ
+Leuven|PaeanBrev|198|10,10,.,.,u--------,AuxK

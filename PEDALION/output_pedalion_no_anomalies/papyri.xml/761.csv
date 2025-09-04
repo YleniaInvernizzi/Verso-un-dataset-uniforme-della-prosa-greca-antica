@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|76|8|1,1,τά,ὁ,l-p---na-,ATR
+1,Leuven|76|8|2,2,δ’,δέ,d--------,AuxY
+2,Leuven|76|8|3,3,ἄλλα,ἄλλος,p-p---na-,ADV
+3,Leuven|76|8|4,4,χαρίζοισθ’,χαρίζω,v2ppoe---,PRED
+4,Leuven|76|8|5,5,ἑαυτῶν,ἑαυτοῦ,p-p---mg-,OBJ
+5,Leuven|76|8|6,6,ἐπιμελόμενοι,ἐπιμελέομαι,v-pppemn-,ADV
+6,Leuven|76|8|7,7,ἵν’,ἵνα,c--------,AuxC
+7,Leuven|76|8|8,8,ὑγιαίνητε,ὑγιαίνω,v2ppsa---,ADV

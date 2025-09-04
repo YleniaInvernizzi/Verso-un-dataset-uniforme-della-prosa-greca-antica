@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,οὐκ,οὐ,d--------,AuxZ
+4,ἐμέλλησεν,μέλλω,v3saia---,PRED_CO
+5,",",punc1,u--------,AuxX
+6,ἀλλὰ,ἀλλά,c--------,COORD
+7,ταχὺ,ταχύς,a-s---na-,ADV
+8,εἶπεν,εἶπον,v3saia---,PRED_CO
+9,ὅτι,ὅτι2,c--------,AuxC
+10,μένειν,μένω,v--pna---,OBJ
+11,βούλοιτο,βούλομαι,v3spoe---,OBJ
+12,.,punc1,u--------,AuxK

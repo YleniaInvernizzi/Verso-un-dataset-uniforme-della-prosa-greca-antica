@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|32546|1|1,1,κυρίῳ,κύριος,n-s---md-,APOS
+1,Leuven|32546|1|2,2,μου,ἐγώ,p1s---cg-,ATR
+2,Leuven|32546|1|3,3,ἀδελφῶι,ἀδελφός,n-s---md-,APOS
+3,Leuven|32546|1|4,4,Ἀφυγχίωι,Ἀφυγχιος,n-s---md-,OBJ
+4,Leuven|32546|1|5,5,Κύρα,Κύρα,n-s---fn-,SBJ_CO
+5,Leuven|32546|1|6,6,καὶ,καί,c--------,COORD
+6,Leuven|32546|1|7,7,Ἀία,Ἀία,n-s---fn-,SBJ_CO
+7,Leuven|32546|1|8,8,πλεῖστα,πολύς,a-p---nas,ADV
+8,Leuven|32546|1|9,9,χαίρειν,χαίρω,v--pna---,OBJ

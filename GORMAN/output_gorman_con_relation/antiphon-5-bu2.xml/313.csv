@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,τ-,ὁ,l-p---na-,ATR
+2,αὐτὰ,αὐτός,a-p---na_,AuxZ
+3,γὰρ,γάρ,d--------,AuxY
+4,ἐμέ,ἐγώ,p1s---ma-,ATR
+5,τε,τε,d--------,AuxY
+6,σῴζει,σώζω,v2spie---,PRED_CO
+7,",",punc1,u--------,AuxX
+8,καὶ,καί,c--------,COORD
+9,ὑμῖν,σύ,p-p---md-,ATR
+10,νόμιμα,νόμιμα,n-p---nn-,SBJ_CO
+11,καὶ,καί,c--------,COORD
+12,εὔορκα,εὔορκος,a-p---nn-,SBJ_CO
+13,γίγνεται,γίγνομαι,v3spie---,PRED_CO
+14,.,punc1,u--------,AuxK

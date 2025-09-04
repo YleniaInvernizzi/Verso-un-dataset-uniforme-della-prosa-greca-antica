@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|21342|25|1,1,ἀσπάζετε,ἀσπάζομαι,v2ppma---,PRED
+1,Leuven|21342|25|2,2,Γέμελλον,Γέμελλος,n-s---ma-,OBJ_CO
+2,Leuven|21342|25|3,3,καὶ,καί,c--------,COORD
+4,Leuven|21342|25|5,5,τὴν,ὁ,l-s---fa-,ATR
+5,Leuven|21342|25|6,6,γυναῖκα,γυνή,n-s---fa-,APOS

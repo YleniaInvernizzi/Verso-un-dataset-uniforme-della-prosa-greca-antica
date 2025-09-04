@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|148|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|148|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|148|3,3,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|148|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|148|5,5,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|148|6,6,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|148|7,7,Καιν,Καιν,n-s---md-,OBJ
+Leuven|Genesis|148|8,8,·,·,u--------,AuxK

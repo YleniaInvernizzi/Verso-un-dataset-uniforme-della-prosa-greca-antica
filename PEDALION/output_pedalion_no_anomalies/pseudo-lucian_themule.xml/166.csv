@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|167|1,1,ἐλογιζόμην,λογίζομαι,v1siie---,PRED
+1,Leuven|Ps-Luc|167|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|167|3,3,ὅτι,ὅτι,c--------,AuxC
+3,Leuven|Ps-Luc|167|4,4,δῆθεν,δῆθεν,d--------,AuxY
+4,Leuven|Ps-Luc|167|5,5,φαγὼν,ἐσθίω,v-sapamn-,ADV
+5,Leuven|Ps-Luc|167|6,6,τῶν,ὁ,l-p---ng-,ATR
+6,Leuven|Ps-Luc|167|7,7,ἀνθέων,ἄνθος,n-p---ng-,OBJ
+7,Leuven|Ps-Luc|167|8,8,πάλιν,πάλιν,d--------,ADV
+8,Leuven|Ps-Luc|167|9,9,ἄνθρωπος,ἄνθρωπος,n-s---mn-,PNOM
+9,Leuven|Ps-Luc|167|10,10,ἔσομαι,εἰμί,v1sfim---,OBJ

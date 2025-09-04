@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|10|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|10|2,2,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|10|3,3,ἀπολέσω,ἀπόλλυμι,v1sasa---,PRED
+Leuven|Genesis_deel2|10|4,4,",",",",u--------,AuxX
+Leuven|Genesis_deel2|10|5,5,ἐάν,ἐάν,c--------,AuxC
+Leuven|Genesis_deel2|10|6,6,εὕρω,εὑρίσκω,v1sasa---,ADV
+Leuven|Genesis_deel2|10|7,7,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Genesis_deel2|10|8,8,τεσσαράκοντα,τεσσαράκοντα,m--------,OBJ
+Leuven|Genesis_deel2|10|9,9,πέντε,πέντε,m--------,ATR
+Leuven|Genesis_deel2|10|10,10,.,.,u--------,AuxK

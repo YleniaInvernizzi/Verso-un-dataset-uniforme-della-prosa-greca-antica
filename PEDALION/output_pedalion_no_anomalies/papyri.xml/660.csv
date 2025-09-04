@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|33609|2|1,1,πρό,πρό,r--------,AuxP
+1,Leuven|33609|2|2,2,μέν,μέν,d--------,AuxY
+2,Leuven|33609|2|3,3,πάντων,πᾶς,a-p---ng-,ADV
+3,Leuven|33609|2|4,4,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|33609|2|5,5,σε,σύ,p2s---ca-,SBJ
+5,Leuven|33609|2|6,6,ὁλοκληρεῖν,ὁλοκληρέω,v--pna---,OBJ
+6,Leuven|33609|2|7,7,ψυχῇ,ψυχή,n-s---fd-,ADV_CO
+7,Leuven|33609|2|8,8,καί,καί,c--------,COORD
+8,Leuven|33609|2|9,9,σώματι,σῶμα,n-s---nd-,ADV_CO

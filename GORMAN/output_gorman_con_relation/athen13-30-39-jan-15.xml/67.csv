@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,περιβλέψασα,περιβλέπω,v-sapafn-,ADV_CO
+2,οὖν,οὖν,d--------,AuxY
+3,καὶ,καί,c--------,COORD
+4,θεωρήσασα,θεωρέω,v-sapafn-,ADV_CO
+5,πάντας,πᾶς,a-p---ma-,OBJ
+6,λαβοῦσα,λαμβάνω,v-sapafn-,ADV_CO
+7,χρυσῆν,χρύσεος,a-s---fa-,ATR
+8,φιάλην,φιάλη,n-s---fa-,OBJ
+9,καὶ,καί,c--------,COORD
+10,πληρώσασα,πληρόω,v-sapafn-,ADV_CO
+11,δὸς,δίδωμι,v2sama---,PRED
+12,ᾧ,ὅς,p-s---md-,OBJ
+13,θέλεις,ἐθέλω,v2spia---,OBJ
+14,γαμηθῆναι,γαμέω,v--anp---,OBJ
+15,:,punc1,u--------,AuxK

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|373|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|373|2,2,Αρφαξαδ,Αρφαξαδ,n-s---mn-,SBJ
+2,Leuven|Genesis|373|3,3,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+3,Leuven|Genesis|373|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|Genesis|373|5,5,Καιναν,Καιναν,n-s---ma-,OBJ
+6,Leuven|Genesis|373|7,7,καί,καί,c--------,AuxY
+7,Leuven|Genesis|373|8,8,Καιναν,Καιναν,n-s---mn-,SBJ
+8,Leuven|Genesis|373|9,9,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+9,Leuven|Genesis|373|10,10,τόν,ὁ,l-s---ma-,ATR
+10,Leuven|Genesis|373|11,11,Σαλα,Σαλα,n-s---ma-,OBJ
+12,Leuven|Genesis|373|13,13,Σαλα,Σαλα,n-s---mn-,SBJ
+13,Leuven|Genesis|373|14,14,δέ,δέ,d--------,COORD
+14,Leuven|Genesis|373|15,15,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+15,Leuven|Genesis|373|16,16,τόν,ὁ,l-s---ma-,ATR
+16,Leuven|Genesis|373|17,17,Εβερ,Εβερ,n-s---ma-,OBJ

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,πολὺ,πολύς,a-s---na-,ADV
+2,γὰρ,γάρ,d--------,AuxY
+3,πλείω,πλείων,a-p---nac,ADV
+4,ὠφεληθήσεσθ᾽,ὠφελέω,v2pfip---,PRED
+5,",",punc1,u--------,AuxX
+6,ἐὰν,ἐάν,c--------,AuxC
+7,ἡμεῖς,ἐγώ,p1p---mn-,SBJ
+8,ἔχωμεν,ἔχω,v1ppsa---,ADV
+9,.,punc1,u--------,AuxK

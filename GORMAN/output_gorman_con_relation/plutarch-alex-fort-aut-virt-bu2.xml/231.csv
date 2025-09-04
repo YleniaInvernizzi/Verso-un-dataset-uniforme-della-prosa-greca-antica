@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ποιησάτω,ποιέω,v3sama---,PRED
+2,τούτοις,οὗτος,p-p---nd-,ADV
+3,ἡ,ὁ,l-s---fn-,ATR
+4,Τύχη,Τύχη,n-s---fn-,SBJ
+5,μέγαν,μέγας,a-s---ma-,OCOMP
+6,Ἀριδαῖον,Ἀριδαῖος,n-s---ma-,OBJ
+7,",",punc1,u--------,AuxX
+8,εἰ,εἰ,c--------,AuxC
+9,δύναται,δύναμαι,v3spie---,ADV
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|2|1,1,ἢ,ἤ,b--------,AuxY
+Leuven|0059-003|2|2,2,οὐ,οὐ,d--------,AuxZ
+Leuven|0059-003|2|3,3,πρῲ,πρωΐ,d--------,ADV
+Leuven|0059-003|2|4,4,ἔτι,ἔτι,d--------,ADV
+Leuven|0059-003|2|5,5,ἐστίν,εἰμί,v3spia---,PRED
+Leuven|0059-003|2|6,6,;,;,u--------,AuxK

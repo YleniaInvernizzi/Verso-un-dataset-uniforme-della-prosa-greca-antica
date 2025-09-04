@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,Εἶπε,εἶπον,v3saia---,PRED
+2,Καλλίας,Καλλίας,n-s---mn-,SBJ
+3,Φρεάρριος,Φρεάρριος,a-s---mn-,ATR
+4,",",punc1,u--------,AuxX
+5,πρυτάνεων,πρύτανις,n-p---mg-,SBJ
+6,λεγόντων,λέγω3,v-pppamg-,ADV
+7,",",punc1,u--------,AuxX
+8,βουλῆς,βουλή,n-s---fg-,ATR
+9,γνώμη,γνώμη,n-s---fn-,ADV
+10,:,punc1,u--------,AuxK

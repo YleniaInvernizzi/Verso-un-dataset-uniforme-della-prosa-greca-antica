@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|81|1,1,καὶ,καί,b--------,AuxY
+Leuven|0544-002|81|2,2,εἰ,εἰ,c--------,AuxC
+Leuven|0544-002|81|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|0544-002|81|4,4,διδασκόμενόν,διδάσκω,v-sppena-,ATR
+Leuven|0544-002|81|5,5,ἐστι,εἰμί,v3spia---,ADV
+Leuven|0544-002|81|6,6,σῶμα,σῶμα,n-s---nn-,PNOM
+Leuven|0544-002|81|7,7,.,.,u--------,AuxK
+Leuven|0544-002|81|8,8,[0],,,PRED

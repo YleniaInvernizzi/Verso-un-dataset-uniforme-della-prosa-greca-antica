@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|412|1,1,καλεῖται,καλέω,v3spie---,PRED
+Leuven|0093-009|412|2,2,γοῦν,γοῦν,d--------,AuxY
+Leuven|0093-009|412|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|0093-009|412|4,4,ψυχὴ,ψυχή,n-s---fn-,SBJ
+Leuven|0093-009|412|5,5,Κρινοκοράκα,Κρινοκοράκα,n-s---fn-,OCOMP
+Leuven|0093-009|412|6,6,·,·,u--------,AuxK

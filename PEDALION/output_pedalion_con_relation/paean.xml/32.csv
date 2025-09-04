@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|33|1,1,τέταρτος,τέταρτος,a-s---mn-,ADV
+Leuven|PaeanBrev|33|2,2,παρῆλθεν,παρέρχομαι,v3saia---,PRED
+Leuven|PaeanBrev|33|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|33|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|33|5,5,ἀρχήν,ἀρχή,n-s---fa-,OBJ
+Leuven|PaeanBrev|33|6,6,Ἄγκος,Ἄγκος,n-s---mn-,SBJ
+Leuven|PaeanBrev|33|7,7,Μάρκιος,Μάρκιος,n-s---mn-,APOS
+Leuven|PaeanBrev|33|8,8,",",",",u--------,AuxX
+Leuven|PaeanBrev|33|9,9,ἔκγονος,ἔκγονος,a-s---mn-,APOS
+Leuven|PaeanBrev|33|10,10,ἀπό,ἀπό,r--------,AuxP
+Leuven|PaeanBrev|33|11,11,θυγατρός,θυγάτηρ,n-s---fg-,ATR
+Leuven|PaeanBrev|33|12,12,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|PaeanBrev|33|13,13,Νουμᾶ,Νουμᾶς,n-s---mg-,ATR
+Leuven|PaeanBrev|33|14,14,Πομπιλίου,Πομπίλιος,n-s---mg-,APOS
+Leuven|PaeanBrev|33|15,15,.,.,u--------,AuxK

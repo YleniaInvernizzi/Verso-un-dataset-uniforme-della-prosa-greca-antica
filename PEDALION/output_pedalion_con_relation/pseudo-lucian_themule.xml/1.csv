@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|2|1,1,ἦν,εἰμί,v3siia---,PRED
+Leuven|Ps-Luc|2|2,2,δέ,δέ,d--------,AuxY
+Leuven|Ps-Luc|2|3,3,μοι,ἐγώ,p1s---cd-,PNOM
+Leuven|Ps-Luc|2|4,4,πατρικόν,πατρικός,a-s---nn-,ATR
+Leuven|Ps-Luc|2|5,5,τι,τις,p-s---nn-,ATR
+Leuven|Ps-Luc|2|6,6,συμβόλαιον,συμβόλαιον,n-s---nn-,SBJ
+Leuven|Ps-Luc|2|7,7,ἐκεῖ,ἐκεῖ,d--------,ADV
+Leuven|Ps-Luc|2|8,8,πρὸς,πρός,r--------,AuxP
+Leuven|Ps-Luc|2|9,9,ἄνθρωπον,ἄνθρωπος,n-s---ma-,ATR
+Leuven|Ps-Luc|2|10,10,ἐπιχώριον,ἐπιχώριος,a-s---ma-,ATR
+Leuven|Ps-Luc|2|11,11,·,·,u--------,AuxK

@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|252|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|252|2,2,στήσω,ἵστημι,v1sfia---,PRED
+2,Leuven|Genesis|252|3,3,τήν,ὁ,l-s---fa-,ATR
+3,Leuven|Genesis|252|4,4,διαθήκην,διαθήκη,n-s---fa-,OBJ
+4,Leuven|Genesis|252|5,5,μου,ἐγώ,p1s---cg-,ATR
+5,Leuven|Genesis|252|6,6,πρός,πρός,r--------,AuxP
+6,Leuven|Genesis|252|7,7,σέ,σύ,p2s---ca-,OBJ
+7,Leuven|Genesis|252|8,8,·,·,u--------,AuxK

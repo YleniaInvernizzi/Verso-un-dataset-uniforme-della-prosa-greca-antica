@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|60|1,1,μετά,μετά,r--------,AuxP
+1,Leuven|PaeanBrev|60|2,2,ταῦτα,οὗτος,p-p---na-,ADV
+2,Leuven|PaeanBrev|60|3,3,πολιορκῶν,πολιορκέω,v-sppamn-,ADV
+3,Leuven|PaeanBrev|60|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|PaeanBrev|60|5,5,Ἄρδεαν,Ἄρδεα,n-s---fa-,OBJ
+6,Leuven|PaeanBrev|60|7,7,πολίχνην,πολίχνη,n-s---fa-,APOS
+7,Leuven|PaeanBrev|60|8,8,δέκα,δέκα,m--------,ATR_CO
+8,Leuven|PaeanBrev|60|9,9,καί,καί,c--------,COORD
+9,Leuven|PaeanBrev|60|10,10,ὀκτώ,ὀκτώ,m--------,ATR_CO
+10,Leuven|PaeanBrev|60|11,11,σημείοις,σημεῖον,n-p---nd-,ADV
+11,Leuven|PaeanBrev|60|12,12,πόρρω,πόρρω,d--------,ADV
+12,Leuven|PaeanBrev|60|13,13,τῆς,ὁ,l-s---fg-,ATR
+13,Leuven|PaeanBrev|60|14,14,Ῥώμης,Ῥώμη,n-s---fg-,OBJ
+15,Leuven|PaeanBrev|60|16,16,τήν,ὁ,l-s---fa-,ATR
+16,Leuven|PaeanBrev|60|17,17,ἀρχήν,ἀρχή,n-s---fa-,OBJ
+17,Leuven|PaeanBrev|60|18,18,ἀπέλαβεν,ἀπολαμβάνω,v3saia---,PRED

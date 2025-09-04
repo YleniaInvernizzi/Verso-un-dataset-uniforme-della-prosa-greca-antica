@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|93|1,1,καί,καί,c--------,AuxZ
+Leuven|Genesis_deel3|93|2,2,ἐφαύλισεν,φαυλίζω,v3saia---,PRED
+Leuven|Genesis_deel3|93|3,3,Ησαυ,Ησαυ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|93|4,4,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel3|93|5,5,πρωτοτόκια,πρωτοτόκιον,n-p---na-,OBJ
+Leuven|Genesis_deel3|93|6,6,.,.,u--------,AuxK

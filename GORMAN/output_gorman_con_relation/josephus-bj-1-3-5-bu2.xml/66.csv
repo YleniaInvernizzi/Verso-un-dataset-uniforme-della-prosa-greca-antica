@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ταῦτα,οὗτος,p-p---na-,OBJ
+3,πίνων,πίνω,v-sppamn-,ADV_CO
+4,καὶ,καί,c--------,COORD
+5,συγκατακείμενος,συγκατάκειμαι,v-srpemn-,ADV_CO
+6,ταῖς,ὁ,l-p---fd-,ATR
+7,παλλακίσιν,παλλακίς,n-p---fd-,OBJ
+8,ἀφεώρα,ἀφοράω,v3siia---,PRED
+9,.,punc1,u--------,AuxK

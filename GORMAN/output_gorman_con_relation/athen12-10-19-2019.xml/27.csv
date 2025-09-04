@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,οὕτως,οὕτως,d--------,AuxZ
+2,ἐξήσκηντο,ἐξασκέω,v3plie---,PRED
+3,πρὸς,πρός,r--------,AuxP
+4,τὰς,ὁ,l-p---fa-,ATR
+5,ἡδυπαθείας,ἡδυπάθεια,n-p---fa-,ADV
+6,.,punc1,u--------,AuxK

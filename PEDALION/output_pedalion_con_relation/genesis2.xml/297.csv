@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|298|1,1,καταβᾶσα,καταβαίνω,v-sapafn-,ADV
+Leuven|Genesis_deel2|298|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|298|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis_deel2|298|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|298|5,5,πηγήν,πηγή,n-s---fa-,ADV
+Leuven|Genesis_deel2|298|6,6,ἔπλησεν,πίμπλημι,v3saia---,PRED_CO
+Leuven|Genesis_deel2|298|7,7,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|298|8,8,ὑδρίαν,ὑδρία,n-s---fa-,OBJ
+Leuven|Genesis_deel2|298|9,9,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|298|10,10,ἀνέβη,ἀναβαίνω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|298|11,11,.,.,u--------,AuxK

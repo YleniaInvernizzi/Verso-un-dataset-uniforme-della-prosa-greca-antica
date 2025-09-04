@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;Ἀγάθυρνα;Ἀγάθυρνα;n-s---fn-;SBJ
+2;,;punc;u--------;AuxX
+3;πόλις;πόλις;n-p---fa-;PNOM
+4;Σικελίας;Σικελία;n-s---fg-;ATR
+5;,;punc;u--------;AuxX
+6;ὡς;ὡς;c--------;AuxC
+7;Πολύβιος;Πολύβιος;n-s---mn-;SBJ
+8;ἀνάτῃ;ἔνατος;a-s---fd-;ADV
+9;.;punc;u--------;AuxK

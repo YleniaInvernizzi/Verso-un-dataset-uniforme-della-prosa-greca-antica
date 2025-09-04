@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|627|1,1,οὕτως,οὕτως,d--------,ADV
+1,Leuven|Genesis|627|2,2,ποίησον,ποιέω,v2sama---,PRED
+3,Leuven|Genesis|627|4,4,καθώς,καθώς,c--------,AuxC
+4,Leuven|Genesis|627|5,5,εἴρηκας,λέγω,v2sria---,ADV

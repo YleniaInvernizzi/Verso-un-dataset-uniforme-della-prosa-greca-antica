@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|45|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|0554-001|45|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0554-001|45|3,3,ᾔδει,οἶδα,v3slia---,PRED
+Leuven|0554-001|45|4,4,",",",",u--------,AuxX
+Leuven|0554-001|45|5,5,τίνι,τίς,a-s---cd-,OBJ
+Leuven|0554-001|45|6,6,γαμεῖται,γαμέω,v3sfim---,OBJ
+Leuven|0554-001|45|7,7,.,.,u--------,AuxK

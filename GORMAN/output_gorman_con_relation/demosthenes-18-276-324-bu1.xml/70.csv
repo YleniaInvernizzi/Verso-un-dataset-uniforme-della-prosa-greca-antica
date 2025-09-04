@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,Ἀρκάδας,Ἀρκάς,n-p---ma-,OBJ
+2,Κερκιδᾶς,Κερκιδᾶς,n-s---mn-,SBJ_CO
+3,",",punc1,u--------,AuxX
+4,Ἱερώνυμος,Ἱερώνυμος,n-s---mn-,SBJ_CO
+5,",",punc1,u--------,COORD
+6,Εὐκαμπίδας,Εὐκαμπίδης,n-s---mn-,SBJ_CO
+7,:,punc1,u--------,AuxK
+8,[0],,,PRED

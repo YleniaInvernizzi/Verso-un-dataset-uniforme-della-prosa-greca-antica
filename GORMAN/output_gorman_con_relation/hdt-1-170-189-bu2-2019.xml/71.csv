@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,Ἲς,ἴς,n-s---fn-,SBJ
+2,οὔνομα,ὄνομα,n-s---nn-,PNOM
+3,αὐτῇ,αὐτός,p-s---fd-,ATR
+4,.,punc1,u--------,AuxK
+5,ἐστιν,εἰμί,v3spia---,PRED

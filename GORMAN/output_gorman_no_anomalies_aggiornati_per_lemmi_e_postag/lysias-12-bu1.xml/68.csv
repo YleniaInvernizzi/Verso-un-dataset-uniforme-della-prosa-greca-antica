@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;πότερον;πότερος;a-s---na-;ADV
+2;συνηγόρευες;συναγορεύω;v2siia---;PRED_CO
+3;τοῖς;ὁ;l-p---md-;ATR
+4;κελεύουσιν;κελεύω;v-pppamd-;OBJ
+5;ἀποκτεῖναι;ἀποκτείνω;v--ana---;OBJ
+6;ἢ;ἤ;c--------;COORD
+7;ἀντέλεγες;ἀντιλέγω;v2siia---;PRED_CO
+8;";";punc;u--------;AuxK

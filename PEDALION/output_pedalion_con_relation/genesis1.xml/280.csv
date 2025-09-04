@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|281|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|281|2,2,ὑψώθη,ὑψόω,v3saip---,PRED
+Leuven|Genesis|281|3,3,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis|281|4,4,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+Leuven|Genesis|281|5,5,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|281|6,6,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|281|7,7,γῆς,γῆ,n-s---fg-,ADV
+Leuven|Genesis|281|8,8,ἡμέρας,ἡμέρα,n-p---fa-,ADV
+Leuven|Genesis|281|9,9,ἑκατόν,ἑκατόν,m--------,ATR
+Leuven|Genesis|281|10,10,πεντήκοντα,πεντήκοντα,m--------,ATR
+Leuven|Genesis|281|11,11,.,.,u--------,AuxK

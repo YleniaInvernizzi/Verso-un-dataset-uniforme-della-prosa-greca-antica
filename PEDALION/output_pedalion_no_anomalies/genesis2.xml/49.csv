@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|50|1,1,μή,μή,d--------,AuxZ
+1,Leuven|Genesis_deel2|50|2,2,καί,καί,d--------,AuxZ
+2,Leuven|Genesis_deel2|50|3,3,κρίσιν,κρίσις,n-s---fa-,OBJ
+3,Leuven|Genesis_deel2|50|4,4,κρίνειν,κρίνω,v--pna---,OBJ

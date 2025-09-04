@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|174|1,1,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Ps-Luc|174|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|174|3,3,κύνες,κύων,n-p---mn-,SBJ
+Leuven|Ps-Luc|174|4,4,πολλοί,πολύς,a-p---mn-,PNOM_CO
+Leuven|Ps-Luc|174|5,5,τε,τε,b--------,AuxY
+Leuven|Ps-Luc|174|6,6,ἦσαν,εἰμί,v3piia---,PRED
+Leuven|Ps-Luc|174|7,7,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|174|8,8,μεγάλοι,μέγας,a-p---mn-,PNOM_CO
+Leuven|Ps-Luc|174|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|174|10,10,ἄρκτοις,ἄρκτος,n-p---fd-,OBJ
+Leuven|Ps-Luc|174|11,11,μάχεσθαι,μάχομαι,v--pne---,ADV
+Leuven|Ps-Luc|174|12,12,ἱκανοί,ἱκανός,a-p---mn-,PNOM_CO
+Leuven|Ps-Luc|174|13,13,.,.,u--------,AuxK

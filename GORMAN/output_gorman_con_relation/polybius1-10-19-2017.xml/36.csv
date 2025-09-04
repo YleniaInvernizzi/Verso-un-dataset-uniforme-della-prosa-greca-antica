@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ταύταις,οὗτος,p-p---fd-,ADV
+2,συνεχὴς,συνεχής,a-s---mn-,PNOM
+3,ὁ,ὁ,l-s---mn-,ATR
+4,Λιβυκὸς,Λιβυκός,a-s---mn-,ATR
+5,πόλεμος,πόλεμος,n-s---mn-,SBJ
+6,:,punc1,u--------,AuxK
+7,[0],[0],v_____---,PRED

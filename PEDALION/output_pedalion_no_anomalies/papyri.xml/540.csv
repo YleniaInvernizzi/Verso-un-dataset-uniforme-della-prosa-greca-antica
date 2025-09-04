@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30385|15|1,1,ἐὰν,ἐάν,c--------,AuxC
+3,Leuven|30385|15|4,4,βουλὴν,βουλή,n-s---fa-,OBJ
+4,Leuven|30385|15|5,5,ἔχω,ἔχω,v1spsa---,ADV
+6,Leuven|30385|15|7,7,ἐρῶ,λέγω,v1sfia---,PRED
+7,Leuven|30385|15|8,8,σοι,σύ,p2s---cd-,OBJ

@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|220|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Ps-Luc|220|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|220|3,3,ἀκούων,ἀκούω,v-sppamn-,ADV
+3,Leuven|Ps-Luc|220|4,4,ταῦτα,οὗτος,p-p---na-,OBJ
+4,Leuven|Ps-Luc|220|5,5,τῶι,ὁ,l-s---nd-,ATR
+5,Leuven|Ps-Luc|220|6,6,τραύματι,τραῦμα,n-s---nd-,ADV
+6,Leuven|Ps-Luc|220|7,7,λοιπὸν,λοιπός,a-s---na-,ADV
+7,Leuven|Ps-Luc|220|8,8,ὡς,ὡς,c--------,AuxC
+8,Leuven|Ps-Luc|220|9,9,ἀλλοτρίωι,ἀλλότριος,a-s---nd-,ADV
+9,Leuven|Ps-Luc|220|10,10,ἐπέβαινον,ἐπιβαίνω,v1siia---,PRED

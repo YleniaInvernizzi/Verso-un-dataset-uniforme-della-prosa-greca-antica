@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|260|1,1,οὔ,οὐ,d--------,AuxZ
+Leuven|0557-001|260|2,2,",",",",u--------,AuxX
+Leuven|0557-001|260|3,3,φησίν,φημί,v3spia---,PRED
+Leuven|0557-001|260|4,4,·,·,u--------,AuxK
+Leuven|0557-001|260|5,5,[0],,,OBJ

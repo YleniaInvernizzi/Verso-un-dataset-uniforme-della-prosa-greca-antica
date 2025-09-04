@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|168|1,1,ὑφʼ,ὑπό,r--------,AuxP
+1,Leuven|PaeanBrev|168|2,2,ἑνός,εἷς,m-s---mg-,OBJ
+2,Leuven|PaeanBrev|168|3,3,γάρ,γάρ,d--------,AuxY
+3,Leuven|PaeanBrev|168|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|PaeanBrev|168|5,5,Γάλλων,Γάλλος,n-p---mg-,ATR
+5,Leuven|PaeanBrev|168|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|PaeanBrev|168|7,7,μονομαχίαν,μονομαχία,n-s---fa-,OBJ
+7,Leuven|PaeanBrev|168|8,8,προκληθείς,προκαλέω,v-sappmn-,ADV
+8,Leuven|PaeanBrev|168|9,9,ἐκεῖνον,ἐκεῖνος,p-s---ma-,OBJ
+9,Leuven|PaeanBrev|168|10,10,τε,τε,c--------,AuxY
+10,Leuven|PaeanBrev|168|11,11,καθεῖλεν,καθαιρέω,v3saia---,PRED_CO
+11,Leuven|PaeanBrev|168|12,12,καί,καί,c--------,COORD
+12,Leuven|PaeanBrev|168|13,13,τῷ,ὁ,l-s---md-,ATR
+13,Leuven|PaeanBrev|168|14,14,πολέμῳ,πόλεμος,n-s---md-,OBJ
+14,Leuven|PaeanBrev|168|15,15,τέλος,τέλος,n-s---na-,OBJ
+15,Leuven|PaeanBrev|168|16,16,ἔδωκε,δίδωμι,v3saia---,PRED_CO

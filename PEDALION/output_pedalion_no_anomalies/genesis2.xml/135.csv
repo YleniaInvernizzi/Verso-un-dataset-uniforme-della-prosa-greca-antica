@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|136|1,1,εἰς,εἰς,r--------,AuxP
+1,Leuven|Genesis_deel2|136|2,2,πάντα,πᾶς,a-s---ma-,ATR
+2,Leuven|Genesis_deel2|136|3,3,τόπον,τόπος,n-s---ma-,ADV
+4,Leuven|Genesis_deel2|136|5,5,οὗ,οὗ,c--------,ADV
+5,Leuven|Genesis_deel2|136|6,6,ἐάν,ἐάν,c--------,AuxC
+6,Leuven|Genesis_deel2|136|7,7,εἰσέλθωμεν,εἰσέρχομαι,v1pasa---,ATR
+7,Leuven|Genesis_deel2|136|8,8,ἐκεῖ,ἐκεῖ,d--------,ADV
+9,Leuven|Genesis_deel2|136|10,10,εἰπόν,λέγω,v2sama---,PRED
+10,Leuven|Genesis_deel2|136|11,11,ἐμέ,ἐγώ,p1s---ca-,ADV
+11,Leuven|Genesis_deel2|136|12,12,ὅτι,ὅτι,c--------,AuxC

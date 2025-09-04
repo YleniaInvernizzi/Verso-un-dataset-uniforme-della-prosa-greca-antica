@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|301|1,1,εἶτά,εἶτα,d--------,ADV
+Leuven|Ps-Luc|301|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+Leuven|Ps-Luc|301|3,3,ἐπετίθει,ἐπιτίθημι,v3siia---,PRED
+Leuven|Ps-Luc|301|4,4,φορτίον,φορτίον,n-s---na-,OBJ
+Leuven|Ps-Luc|301|5,5,ὅσον,ὅσος,p-s---na-,SBJ
+Leuven|Ps-Luc|301|6,6,χαλεπὸν,χαλεπός,a-s---na-,PNOM
+Leuven|Ps-Luc|301|7,7,εἶναι,εἰμί,v--pna---,ATR
+Leuven|Ps-Luc|301|8,8,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|301|9,9,ἐλέφαντι,ἐλέφας,n-s---md-,ADV
+Leuven|Ps-Luc|301|10,10,ἐνεγκεῖν,φέρω,v--ana---,ADV
+Leuven|Ps-Luc|301|11,11,·,·,u--------,AuxK

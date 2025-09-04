@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;γραπτέον;γραπτέος;a-s---nn-;PRED
+2;Ναὶς;Ναίς;n-s---fn-;OBJ_CO
+3;καὶ;καί;c--------;COORD
+4;οὐ;οὐ;d--------;AuxZ
+5;Λαΐς;Λαίς;n-s---fn-;OBJ_CO
+6;.;punc;u--------;AuxK

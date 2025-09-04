@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;μαρτυρεῖ;μαρτυρέω;v3spia---;PRED
+2;Γλαύκων;Γλαύκων;n-s---mn-;SBJ
+3;Τιμαίου;Τίμαιος;n-s---mg-;ATR
+4;Χολαργεύς;Χολαργεύς;a-s---mn-;ATR
+5;.;punc;u--------;AuxK

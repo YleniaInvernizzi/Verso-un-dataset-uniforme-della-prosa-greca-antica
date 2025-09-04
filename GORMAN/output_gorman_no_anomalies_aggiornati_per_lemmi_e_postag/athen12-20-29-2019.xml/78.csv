@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;χαῖρ᾽;χαίρω;v2spma---;PRED
+2;,;punc;u--------;AuxX
+3;ὦ;ὦ;i--------;AuxZ
+4;διαπόντιον;διαπόντιος;a-s---nv-;ATR
+5;στράτευμα;στράτευμα;n-s---nv-;ExD
+6;,;punc;u--------;AuxX
+7;τί;τις;p-s---na-;OBJ
+8;πράττομεν;πράσσω;v1ppia---;PRED
+9;";";punc;u--------;AuxK

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|290|4|1,1,ἐπισκοποῦ,ἐπισκοπέω,v2spme---,PRED
+1,Leuven|290|4|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|290|4|3,3,καί,καί,c--------,AuxY
+3,Leuven|290|4|4,4,τάς,ὁ,l-p---fa-,ATR
+4,Leuven|290|4|5,5,ἀδελφάς,ἀδελφή,n-p---fa-,OBJ_CO
+5,Leuven|290|4|6,6,καί,καί,c--------,AuxY
+6,Leuven|290|4|7,7,Πέλοπα,Πέλοψ,n-s---ma-,OBJ_CO
+7,Leuven|290|4|8,8,καί,καί,c--------,AuxY
+8,Leuven|290|4|9,9,Στάχυν,Στάχυς,n-s---ma-,OBJ_CO
+9,Leuven|290|4|10,10,καί,καί,c--------,COORD
+10,Leuven|290|4|11,11,Σεναθῦριν,Σεναθῦρις,n-s---ma-,OBJ_CO

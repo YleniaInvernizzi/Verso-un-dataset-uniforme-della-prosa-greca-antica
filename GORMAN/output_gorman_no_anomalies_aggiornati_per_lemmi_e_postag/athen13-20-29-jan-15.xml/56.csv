@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;τυγχάνει;τυγχάνω;v3spia---;PRED
+2;μικρά;μικρός;a-s---fn-;PNOM
+3;τις;τις;p-s---cn-;SBJ
+4;οὖσα;εἰμί;v-sppafn-;OBJ
+5;:;punc;u--------;AuxK

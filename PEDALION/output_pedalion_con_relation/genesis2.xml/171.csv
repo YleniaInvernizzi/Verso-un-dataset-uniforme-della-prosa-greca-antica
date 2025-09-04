@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|172|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|172|2,2,μή,μή,d--------,AuxZ
+Leuven|Genesis_deel2|172|3,3,ἴδω,ὁράω,v1sasa---,PRED
+Leuven|Genesis_deel2|172|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|172|5,5,θάνατον,θάνατος,n-s---ma-,OBJ
+Leuven|Genesis_deel2|172|6,6,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel2|172|7,7,παιδίου,παιδίον,n-s---ng-,ATR
+Leuven|Genesis_deel2|172|8,8,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis_deel2|172|9,9,.,.,u--------,AuxK

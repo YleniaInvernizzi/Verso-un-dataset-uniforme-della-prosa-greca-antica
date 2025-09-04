@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|136|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|136|2,2,θάρρει,θαρσέω,v2spma---,PRED
+Leuven|Ps-Luc|136|3,3,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Ps-Luc|136|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|136|5,5,ὦ,ὦ,i--------,AuxZ
+Leuven|Ps-Luc|136|6,6,φίλτατε,φίλος,a-s---mvs,ExD
+Leuven|Ps-Luc|136|7,7,·,·,u--------,AuxK

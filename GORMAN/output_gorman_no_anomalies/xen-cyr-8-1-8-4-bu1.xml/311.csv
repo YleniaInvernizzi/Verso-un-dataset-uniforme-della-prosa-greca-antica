@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ἀρμενίων,Ἀρμένιος,n-p---mg-,OBJ
+1,2,δὲ,δέ,d--------,AuxY
+2,3,Τιγράνης,Τιγράνης,n-s---mn-,SBJ
+3,4,·,punc1,u--------,AuxK
+4,5,ἐνίκα,νικάω,v3siia---,PRED

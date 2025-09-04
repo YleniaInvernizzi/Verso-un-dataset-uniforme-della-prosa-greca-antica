@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,λέγε,λέγω3,v2spma---,PRED
+1,2,τὴν,ὁ,l-s---fa-,ATR
+2,3,ἐπιστολήν,ἐπιστολή,n-s---fa-,OBJ
+3,4,.,punc1,u--------,AuxK

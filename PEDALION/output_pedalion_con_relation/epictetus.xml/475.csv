@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|476|1,1,διά,διά,r--------,AuxP
+Leuven|0557-001|476|2,2,τί,τίς,p-s---na-,ADV
+Leuven|0557-001|476|3,3,ἄλλος,ἄλλος,p-s---mn-,SBJ
+Leuven|0557-001|476|4,4,ἄλλῳ,ἄλλος,p-s---md-,OBJ
+Leuven|0557-001|476|5,5,φθονήσει,φθονέω,v3sfia---,PRED
+Leuven|0557-001|476|6,6,;,;,u--------,AuxK

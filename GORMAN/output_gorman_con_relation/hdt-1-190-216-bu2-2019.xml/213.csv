@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,σπείρουσι,σπείρω,v3ppia---,PRED_CO
+2,δὲ,δέ,d--------,AuxY
+3,οὐδέν,οὐδείς,p-s---na-,OBJ
+4,",",punc1,u--------,AuxX
+5,ἀλλ᾽,ἀλλά,c--------,COORD
+6,ἀπὸ,ἀπό,r--------,AuxP
+7,κτηνέων,κτῆνος,n-p---ng-,ADV_CO
+8,ζώουσι,ζώω,v3ppia---,PRED_CO
+9,καὶ,καί,c--------,COORD
+10,ἰχθύων,ἰχθύς,n-p---mg-,ADV_CO
+11,:,punc1,u--------,AuxK

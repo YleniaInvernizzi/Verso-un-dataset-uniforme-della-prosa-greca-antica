@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐδὲν,οὐδείς,p-s---na-,SBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,εἶναι,εἰμί,v--pna---,OBJ
+4,τούτου,οὗτος,p-s---ng-,ADV
+5,κάλλιον,καλός,a-s---nac,PNOM_CO
+6,οὐ,οὐ,d--------,AuxZ
+7,-δὲ,δέ,c--------,COORD
+8,συμφορώτερον,σύμφορος,a-s---nac,PNOM_CO
+9,·,punc1,u--------,AuxK
+10,[0],,,PRED

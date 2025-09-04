@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,νικητήριον,νικητήριος,a-s---na-,OBJ
+4,ὁ,ὁ,l-s---mn-,ATR
+5,πρῶτος,πρῶτος,a-s---mn-,AtvV
+6,ἐλθὼν,ἔρχομαι,v-sapamn-,SBJ
+7,εἰς,εἰς,r--------,AuxP
+8,τὸν,ὁ,l-s---ma-,ATR
+9,νεὼν,ναός,n-s---ma-,OBJ
+10,λαμβάνει,λαμβάνω,v3spia---,PRED
+11,:,punc1,u--------,AuxK

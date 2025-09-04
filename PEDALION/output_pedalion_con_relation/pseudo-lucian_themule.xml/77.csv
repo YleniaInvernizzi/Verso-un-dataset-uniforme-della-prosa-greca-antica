@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|78|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|78|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|78|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|Ps-Luc|78|4,4,συμπόσιον,συμπόσιον,n-s---na-,OBJ
+Leuven|Ps-Luc|78|5,5,εὑρὼν,εὑρίσκω,v-sapamn-,ADV
+Leuven|Ps-Luc|78|6,6,ἕτοιμον,ἑτοῖμος,a-s---na-,OCOMP
+Leuven|Ps-Luc|78|7,7,ἔμενον,μένω,v1siia---,PRED
+Leuven|Ps-Luc|78|8,8,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|78|9,9,συμπότην,συμπότης,n-s---ma-,OBJ
+Leuven|Ps-Luc|78|10,10,.,.,u--------,AuxK

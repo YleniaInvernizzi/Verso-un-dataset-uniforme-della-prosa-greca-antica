@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|255|1,1,ἄρσεν,ἄρσην,a-s---nn-,PNOM_CO
+1,Leuven|Genesis|255|2,2,καί,καί,c--------,COORD
+2,Leuven|Genesis|255|3,3,θῆλυ,θῆλυς,a-s---nn-,PNOM_CO
+3,Leuven|Genesis|255|4,4,ἔσονται,εἰμί,v3pfim---,PRED

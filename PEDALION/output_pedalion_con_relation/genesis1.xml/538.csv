@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|539|1,1,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis|539|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|539|3,3,ἔθνος,ἔθνος,n-s---na-,OBJ
+Leuven|Genesis|539|4,4,",",",",u--------,AuxX
+Leuven|Genesis|539|5,5,ᾧ,ὅς,p-s---nd-,OBJ
+Leuven|Genesis|539|6,6,ἐάν,ἐάν,c--------,AuxZ
+Leuven|Genesis|539|7,7,δουλεύσωσιν,δουλεύω,v3pasa---,ATR
+Leuven|Genesis|539|8,8,",",",",u--------,AuxX
+Leuven|Genesis|539|9,9,κρινῶ,κρίνω,v1sfia---,PRED
+Leuven|Genesis|539|10,10,ἐγώ,ἐγώ,p1s---cn-,SBJ
+Leuven|Genesis|539|11,11,·,·,u--------,AuxK

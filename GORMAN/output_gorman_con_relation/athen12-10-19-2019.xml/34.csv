@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,θαυμαστὸν,θαυμαστός,a-s---nn-,ATR
+2,ἐμὸν,ἐμός,a-s---nn-,ATR
+3,εὕρημα,εὕρημα,n-s---nn-,PNOM
+4,:,punc1,u--------,AuxK
+5,ἐστιν,εἰμί,v3spia---,PRED

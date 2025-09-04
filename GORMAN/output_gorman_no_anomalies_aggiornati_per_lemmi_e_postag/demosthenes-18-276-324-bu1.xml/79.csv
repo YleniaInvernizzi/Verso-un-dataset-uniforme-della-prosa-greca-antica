@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐπιλείψει;ἐπιλείπω;v3sfia---;PRED
+2;με;ἐγώ;p1s---ma-;OBJ
+3;λέγονθ᾽;λέγω;v-sppama-;ATR
+4;ἡ;ὁ;l-s---fn-;ATR
+5;ἡμέρα;ἡμέρα;n-s---fn-;SBJ
+6;τὰ;ὁ;l-p---na-;ATR
+7;τῶν;ὁ;l-p---mg-;ATR
+8;προδοτῶν;προδότης;n-p---mg-;ATR
+9;ὀνόματα;ὄνομα;n-p---na-;OBJ
+10;.;punc;u--------;AuxK

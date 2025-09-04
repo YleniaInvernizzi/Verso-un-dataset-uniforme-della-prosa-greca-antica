@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|224|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|224|2,2,ἦν,εἰμί,v3siia---,PRED_CO
+2,Leuven|Genesis|224|3,3,Νωε,Νωε,n-s---mn-,SBJ
+3,Leuven|Genesis|224|4,4,ἐτῶν,ἔτος,n-p---ng-,PNOM
+4,Leuven|Genesis|224|5,5,πεντακοσίων,πεντακόσιοι,m-p---ng-,ATR
+5,Leuven|Genesis|224|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|224|7,7,ἐγέννησεν,γεννάω,v3saia---,PRED_CO
+7,Leuven|Genesis|224|8,8,Νωε,Νωε,n-s---mn-,SBJ
+8,Leuven|Genesis|224|9,9,τρεῖς,τρεῖς,m-p---ca-,ATR
+9,Leuven|Genesis|224|10,10,υἱούς,υἱός,n-p---ma-,OBJ
+11,Leuven|Genesis|224|12,12,τόν,ὁ,l-s---ma-,ATR
+12,Leuven|Genesis|224|13,13,Σημ,Σημ,n-s---ma-,APOS
+14,Leuven|Genesis|224|15,15,τόν,ὁ,l-s---ma-,ATR
+15,Leuven|Genesis|224|16,16,Χαμ,Χαμ,n-s---ma-,APOS
+17,Leuven|Genesis|224|18,18,τόν,ὁ,l-s---ma-,ATR
+18,Leuven|Genesis|224|19,19,Ιαφεθ,Ιαφεθ,n-s---ma-,APOS

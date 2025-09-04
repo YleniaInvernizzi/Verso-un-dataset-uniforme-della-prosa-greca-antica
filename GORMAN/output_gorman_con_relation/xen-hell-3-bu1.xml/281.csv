@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δʼ,δέ,d--------,AuxY
+3,ἐπιμαρτυράμενος,ἐπιμαρτύρομαι,v-sapemn-,ADV_CO
+4,τοὺς,ὁ,l-p---ma-,ATR
+5,θεοὺς,θεός,n-p---ma-,OBJ
+6,καὶ,καί,c--------,COORD
+7,ὀργιζόμενος,ὀργίζω,v-sppemn-,ADV_CO
+8,",",punc1,u--------,AuxX
+9,ἀναβὰς,ἀναβαίνω,v-sapamn-,ADV
+10,ἐπὶ,ἐπί,r--------,AuxP
+11,τὴν,ὁ,l-s---fa-,ATR
+12,τριήρη,τριήρης,n-s---fa-,OBJ
+13,ἀπέπλει,ἀποπλέω,v3siia---,PRED
+14,.,punc1,u--------,AuxK

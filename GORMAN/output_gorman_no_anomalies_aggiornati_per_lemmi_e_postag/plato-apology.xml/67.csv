@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἥπερ;ὅσπερ;l-s---fn-;SBJ
+2;ἐστὶν;εἰμί;v3spia---;PRED
+3;ἴσως;ἴσως;d--------;ADV
+4;ἀνθρωπίνη;ἀνθρώπινος;a-s---fn-;ATR
+5;σοφία;σοφία;n-s---fn-;PNOM
+6;·;punc;u--------;AuxK

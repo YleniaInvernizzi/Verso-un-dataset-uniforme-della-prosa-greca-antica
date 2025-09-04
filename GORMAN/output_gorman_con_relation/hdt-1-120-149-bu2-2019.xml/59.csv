@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἄλλοι,ἄλλος,a-p---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,Πέρσαι,Πέρσης,n-p---mn-,PNOM
+4,εἰσὶ,εἰμί,v3ppia---,PRED
+5,οἵδε,ὅδε,p-p---mn-,SBJ_AP
+6,",",punc1,u--------,APOS
+7,Πανθιαλαῖοι,Πανθιαλαῖος,n-p---mn-,SBJ_AP_CO
+8,Δηρουσιαῖοι,Δηρουσιαῖος,n-p---mn-,SBJ_AP_CO
+9,Γερμάνιοι,Γερμάνιοι,n-p---mn-,SBJ_AP_CO
+10,.,punc1,u--------,AuxK
+11,[0],,,COORD

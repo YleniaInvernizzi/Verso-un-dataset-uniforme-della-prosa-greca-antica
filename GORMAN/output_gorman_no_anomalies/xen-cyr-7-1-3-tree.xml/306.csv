@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νικῶν,νικάω,v-sppamn-,ADV
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,τετελεύτηκε,τελευτάω,v3sria---,PRED
+3,4,·,·,u--------,AuxK

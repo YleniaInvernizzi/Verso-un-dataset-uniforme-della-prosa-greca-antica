@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;Ὑρκανίων;Ὑρκάνιος;n-p---mg-;OBJ
+2;δὲ;δέ;d--------;AuxY
+3;ὁ;ὁ;l-s---mn-;ATR
+4;υἱὸς;υἱός;n-s---mn-;SBJ
+5;τοῦ;ὁ;l-s---mg-;ATR
+6;ἱππάρχου;ἵππαρχος;n-s---mg-;ATR
+7;·;punc;u--------;AuxK
+8;ἐνίκα;νικάω;v3siia---;PRED

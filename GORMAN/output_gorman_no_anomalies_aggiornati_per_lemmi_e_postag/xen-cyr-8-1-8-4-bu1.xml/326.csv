@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀλλʼ;ἀλλά;d--------;AuxY
+2;οὐ;οὐ;d--------;AuxZ
+3;μέντοι;μέντοι;d--------;AuxY
+4;,;punc;u--------;AuxX
+5;ἔφη;φημί;v3siia---;AuxY
+6;ὁ;ὁ;l-s---mn-;ATR
+7;νεανίσκος;νεανίσκος;n-s---mn-;SBJ
+8;,;punc;u--------;AuxX
+9;τῶν;ὁ;l-p---mg-;ATR
+10;γε;γε;d--------;AuxZ
+11;ἀπόντων;ἄπειμι;v-pppamg-;OBJ
+12;.;punc;u--------;AuxK
+13;ἔτυχον;τυγχάνω;v1saia---;PRED

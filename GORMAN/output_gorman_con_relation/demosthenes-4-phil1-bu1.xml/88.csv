@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,χρήματα,χρῆμα,n-p---na-,OBJ
+2,τοίνυν,τοίνυν,d--------,AuxY
+3,·,punc1,u--------,AuxK
+4,[0],,,PRED

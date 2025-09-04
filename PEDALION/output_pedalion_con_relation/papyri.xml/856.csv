@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|961|4|1,1,καλῶς,καλός,d--------,ADV
+Leuven|961|4|2,2,ἂν,ἄν,d--------,AuxY
+Leuven|961|4|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|961|4|4,4,ποιήσαις,ποιέω,v2saoa---,PRED
+Leuven|961|4|5,5,συντάξας,συντάσσω,v-sapamn-,ADV
+Leuven|961|4|6,6,ἐμοὶ,ἐγώ,p1s---cd-,OBJ
+Leuven|961|4|7,7,δοῦναι,δίδωμι,v--ana---,OBJ
+Leuven|961|4|8,8,",",",",u--------,AuxX
+Leuven|961|4|9,9,ὅπως,ὅπως,c--------,AuxC
+Leuven|961|4|10,10,ἐγμετρήσω,ἐκμετρέω,v1sfia---,ADV
+Leuven|961|4|11,11,τὰ,ὁ,l-p---na-,ATR
+Leuven|961|4|12,12,ἔργα,ἔργον,n-p---na-,OBJ
+Leuven|961|4|13,13,ἐν,ἐν,r--------,AuxP
+Leuven|961|4|14,14,τάχει,τάχος,n-s---nd-,ADV
+Leuven|961|4|15,15,.,.,u--------,AuxK

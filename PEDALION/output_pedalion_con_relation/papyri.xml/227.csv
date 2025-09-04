@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|16|1,1,ἐὰν,ἐάν,c--------,AuxC
+Leuven|27086|16|2,2,ὁ,ὁ,l-s---mn-,ATR
+Leuven|27086|16|3,3,θεὸς,θεός,n-s---mn-,SBJ
+Leuven|27086|16|4,4,θέλῃ,ἐθέλω,v3spsa---,ADV_CO
+Leuven|27086|16|5,5,καὶ,καί,b--------,COORD
+Leuven|27086|16|6,6,λάβῃς,λαμβάνω,v2sasa---,ADV_CO
+Leuven|27086|16|7,7,τὰ,ὁ,l-p---na-,ATR
+Leuven|27086|16|8,8,ἐπιμήνια,ἐπιμήνιος,a-p---na-,OBJ
+Leuven|27086|16|9,9,ἃ,ὅς,p-p---na-,OBJ
+Leuven|27086|16|10,10,πεποίηκά,ποιέω,v1sria---,ATR
+Leuven|27086|16|11,11,σοι,σύ,p2s---cd-,OBJ
+Leuven|27086|16|12,12,",",",",u--------,AuxX
+Leuven|27086|16|13,13,μὴ,μή,d--------,AuxZ
+Leuven|27086|16|14,14,αὐτὰ,αὐτός,p-p---na-,OBJ
+Leuven|27086|16|15,15,G,G,v2spma---,GAP
+Leuven|27086|16|16,16,.,.,u--------,AuxK

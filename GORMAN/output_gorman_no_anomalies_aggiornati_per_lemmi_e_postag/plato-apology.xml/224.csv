@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀδικεῖ;ἀδικέω;v3spia---;PRED
+2;Σωκράτης;Σωκράτης;n-s---mn-;SBJ
+3;θεοὺς;θεός;n-p---ma-;OBJ
+4;οὐ;οὐ;d--------;AuxZ
+5;νομίζων;νομίζω;v-sppamn-;ADV_CO
+6;,;punc;u--------;AuxX
+7;ἀλλὰ;ἀλλά;c--------;COORD
+8;θεοὺς;θεός;n-p---ma-;OBJ
+9;νομίζων;νομίζω;v-sppamn-;ADV_CO
+10;.;punc;u--------;AuxX

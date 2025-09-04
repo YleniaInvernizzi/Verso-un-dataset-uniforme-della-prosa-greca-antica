@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|9|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|1781|9|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|1781|9|3,3,καὶ,καί,c--------,AuxY
+3,Leuven|1781|9|4,4,θέρος,θέρος,n-s---na-,ADV_CO
+4,Leuven|1781|9|5,5,καὶ,καί,c--------,COORD
+5,Leuven|1781|9|6,6,χειμῶνα,χειμών,n-s---ma-,ADV_CO
+6,Leuven|1781|9|7,7,ἐν,ἐν,r--------,AuxP
+7,Leuven|1781|9|8,8,τῶι,ὁ,l-s---md-,ATR
+8,Leuven|1781|9|9,9,πόνωι,πόνος,n-s---md-,PNOM
+9,Leuven|1781|9|10,10,γίνομαι,γίγνομαι,v1spie---,PRED

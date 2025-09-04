@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|484|1,1,πάντες,πᾶς,a-p---mn-,ATR
+1,Leuven|Genesis|484|2,2,οὗτοι,οὗτος,p-p---mn-,SBJ
+2,Leuven|Genesis|484|3,3,συνεφώνησαν,συμφωνέω,v3paia---,PRED
+3,Leuven|Genesis|484|4,4,ἐπί,ἐπί,r--------,AuxP
+4,Leuven|Genesis|484|5,5,τήν,ὁ,l-s---fa-,ATR
+5,Leuven|Genesis|484|6,6,φάραγγα,φάραγξ,n-s---fa-,ADV
+6,Leuven|Genesis|484|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|Genesis|484|8,8,ἁλυκήν,ἁλυκός,a-s---fa-,ATR
+9,Leuven|Genesis|484|10,10,αὕτη,οὗτος,p-s---fn-,SBJ
+10,Leuven|Genesis|484|11,11,ἡ,ὁ,l-s---fn-,ATR
+11,Leuven|Genesis|484|12,12,θάλασσα,θάλασσα,n-s---fn-,PNOM
+12,Leuven|Genesis|484|13,13,τῶν,ὁ,l-p---mg-,ATR
+13,Leuven|Genesis|484|14,14,ἁλῶν,ἅλς,n-p---mg-,ATR

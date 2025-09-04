@@ -1,0 +1,17 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|529|1,1,ἐγώ,ἐγώ,p1s---cn-,SBJ
+1,Leuven|Genesis|529|2,2,ὁ,ὁ,l-s---mn-,ATR
+2,Leuven|Genesis|529|3,3,θεός,θεός,n-s---mn-,PNOM
+3,Leuven|Genesis|529|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|529|5,5,ἐξαγαγών,ἐξάγω,v-sapamn-,ATR
+5,Leuven|Genesis|529|6,6,σε,σύ,p2s---ca-,OBJ
+6,Leuven|Genesis|529|7,7,ἐκ,ἐκ,r--------,AuxP
+7,Leuven|Genesis|529|8,8,χώρας,χώρα,n-s---fg-,ADV
+8,Leuven|Genesis|529|9,9,Χαλδαίων,Χαλδαῖος,n-p---mg-,ATR
+9,Leuven|Genesis|529|10,10,ὥστε,ὥστε,c--------,AuxC
+10,Leuven|Genesis|529|11,11,δοῦναι,δίδωμι,v--ana---,ADV
+11,Leuven|Genesis|529|12,12,σοι,σύ,p2s---cd-,OBJ
+12,Leuven|Genesis|529|13,13,τήν,ὁ,l-s---fa-,ATR
+13,Leuven|Genesis|529|14,14,γῆν,γῆ,n-s---fa-,OBJ
+14,Leuven|Genesis|529|15,15,ταύτην,οὗτος,p-s---fa-,ATR
+15,Leuven|Genesis|529|16,16,κληρονομῆσαι,κληρονομέω,v--ana---,OBJ

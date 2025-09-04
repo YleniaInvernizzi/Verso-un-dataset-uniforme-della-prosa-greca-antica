@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;τὴν;ὁ;l-s---fa-;ATR
+2;γὰρ;γάρ;d--------;AuxY
+3;Ἥραν;Ἥρα;n-s---fa-;SBJ
+4;ἰδόντες;ὁράω;v-papamn-;ADV
+5;ἐλθοῦσαν;ἔρχομαι;v-sapafa-;OBJ_CO
+6;εἰς;εἰς;r--------;AuxP
+7;μέσην;μέσος;a-s---fa-;ATR
+8;τὴν;ὁ;l-s---fa-;ATR
+9;ἀγορὰν;ἀγορά;n-s---fa-;OBJ
+10;καὶ;καί;c--------;COORD
+11;ἐμοῦσαν;ἐμέω;v-sfpafa-;OBJ_CO
+12;χολὴν;χολή;n-s---fa-;OBJ
+13;:;punc;u--------;AuxK

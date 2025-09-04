@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|493|1,1,ἦν,εἰμί,v3siia---,PRED
+1,Leuven|Genesis|493|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Genesis|493|3,3,κατοικῶν,κατοικέω,v-sppamn-,PNOM
+3,Leuven|Genesis|493|4,4,ἐν,ἐν,r--------,AuxP
+4,Leuven|Genesis|493|5,5,Σοδομοις,Σοδομα,n-s----d-,OBJ

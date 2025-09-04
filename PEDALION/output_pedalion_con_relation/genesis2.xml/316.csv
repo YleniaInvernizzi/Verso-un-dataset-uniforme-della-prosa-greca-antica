@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|317|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|317|2,2,εὐδοκήσας,εὐδοκέω,v-sapamn-,ADV
+Leuven|Genesis_deel2|317|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel2|317|4,4,ἄνθρωπος,ἄνθρωπος,n-s---mn-,SBJ
+Leuven|Genesis_deel2|317|5,5,προσεκύνησεν,προσκυνέω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|317|6,6,κυρίῳ,κύριος,n-s---md-,OBJ
+Leuven|Genesis_deel2|317|7,7,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|317|8,8,εἶπεν,λέγω,v3saia---,PRED_CO
+Leuven|Genesis_deel2|317|9,9,·,·,u--------,AuxK

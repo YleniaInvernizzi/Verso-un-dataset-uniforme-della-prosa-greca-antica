@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|30|1,1,τὸ,ὁ,l-s---nn-,ATR
+1,Leuven|Ps-Luc|30|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|30|3,3,δεῖπνον,δεῖπνον,n-s---nn-,SBJ
+3,Leuven|Ps-Luc|30|4,4,οὐ,οὐ,d--------,AuxZ
+4,Leuven|Ps-Luc|30|5,5,σφόδρα,σφόδρα,d--------,ADV
+5,Leuven|Ps-Luc|30|6,6,λιτόν,λιτός,a-s---nn-,PNOM
+7,Leuven|Ps-Luc|30|8,8,ἦν,εἰμί,v3siia---,PRED

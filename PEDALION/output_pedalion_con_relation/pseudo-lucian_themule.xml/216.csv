@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|217|1,1,ῥίψωμεν,ῥίπτω,v1pasa---,PRED
+Leuven|Ps-Luc|217|2,2,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|Ps-Luc|217|3,3,ἀπὸ,ἀπό,r--------,AuxP
+Leuven|Ps-Luc|217|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|217|5,5,κρημνοῦ,κρημνός,n-s---mg-,ADV
+Leuven|Ps-Luc|217|6,6,οἰωνὸν,οἰωνός,n-s---ma-,APOS
+Leuven|Ps-Luc|217|7,7,οὐκ,οὐ,d--------,AuxZ
+Leuven|Ps-Luc|217|8,8,ἀγαθόν,ἀγαθός,a-s---ma-,ATR
+Leuven|Ps-Luc|217|9,9,.,.,u--------,AuxK

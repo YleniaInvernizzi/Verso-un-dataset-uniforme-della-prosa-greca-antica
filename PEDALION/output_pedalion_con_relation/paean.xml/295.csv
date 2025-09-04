@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|297|1,1,τρέπεται,τρέπω,v3spie---,PRED_CO
+Leuven|PaeanBrev|297|2,2,τοίνυν,τοίνυν,d--------,AuxY
+Leuven|PaeanBrev|297|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|PaeanBrev|297|4,4,παρασκευή,παρασκευή,n-s---fn-,SBJ
+Leuven|PaeanBrev|297|5,5,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|297|6,6,τούς,ὁ,l-p---ma-,ATR
+Leuven|PaeanBrev|297|7,7,Ἄφρους,Ἄφρος,n-p---ma-,OBJ
+Leuven|PaeanBrev|297|8,8,καί,καί,b--------,COORD
+Leuven|PaeanBrev|297|9,9,ἡττῶνται,ἡσσάομαι,v3prie---,PRED_CO
+Leuven|PaeanBrev|297|10,10,·,·,u--------,AuxK

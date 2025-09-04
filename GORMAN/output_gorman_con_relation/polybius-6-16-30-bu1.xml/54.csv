@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,περιφερὴς,περιφερής,a-s---fn-,PNOM
+2,γὰρ,γάρ,d--------,AuxY
+3,οὖσα,εἰμί,v-sppafn-,ADV
+4,τῷ,ὁ,l-s---nd-,ATR
+5,σχήματι,σχῆμα,n-s---nd-,ADV
+6,τρίπεδον,τρίπεδος,a-s---fa-,ATR
+7,ἔχει,ἔχω,v3spia---,PRED
+8,τὴν,ὁ,l-s---fa-,ATR
+9,διάμετρον,διάμετρη,n-s---fa-,OBJ
+10,.,punc1,u--------,AuxK

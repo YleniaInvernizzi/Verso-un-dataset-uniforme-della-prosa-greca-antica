@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|19419|7|1,1,ὥστε,ὥστε,d--------,AuxY
+Leuven|19419|7|2,2,διαλλάγηθι,διαλλάσσω,v2samp---,PRED_CO
+Leuven|19419|7|3,3,ἡμῖν,ἡμεῖς,p1p---cd-,OBJ
+Leuven|19419|7|4,4,καὶ,καί,b--------,COORD
+Leuven|19419|7|5,5,πέμψον,πέμπω,v2sama---,PRED_CO
+Leuven|19419|7|6,6,ἐφʼ,ἐπί,r--------,AuxP
+Leuven|19419|7|7,7,ἡμᾶς,ἐγώ,p1p---ca-,OBJ
+Leuven|19419|7|8,8,.,.,u--------,AuxK

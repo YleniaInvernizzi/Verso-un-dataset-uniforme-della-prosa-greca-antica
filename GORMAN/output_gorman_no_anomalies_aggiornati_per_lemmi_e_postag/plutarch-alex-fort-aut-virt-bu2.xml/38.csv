@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀφ᾽;ἀπό;r--------;AuxP
+2;ὧν;ὅς;p-p---ng-;ADV
+3;εἶπον;λέγω;v3paia---;ADV_CO
+4;ἢ;ἤ;d--------;AuxY
+5;ἀφ᾽;ἀπό;r--------;AuxP
+6;ὧν;ὅς;p-p---ng-;ADV
+7;ἐβίωσαν;βιόω;v3paia---;ADV_CO
+8;ἢ;ἤ;c--------;COORD
+9;ἀφ᾽;ἀπό;r--------;AuxP
+10;ὧν;ὅς;p-p---ng-;ADV
+11;ἐδίδαξαν;διδάσκω;v3paia---;ADV_CO
+12;.;punc;u--------;AuxK
+13;ἐπιστεύθησαν;πιστεύω;v3paip---;PRED

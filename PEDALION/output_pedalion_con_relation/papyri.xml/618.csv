@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31722|1|1,1,χαῖρε,χαίρω,v2spma---,ExD
+Leuven|31722|1|2,2,",",",",u--------,AuxX
+Leuven|31722|1|3,3,κύριε,κύριος,n-s---mv-,ExD
+Leuven|31722|1|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|31722|1|5,5,Ἀντᾶ,Ἀντᾶς,n-s---mv-,APOS
+Leuven|31722|1|6,6,",",",",u--------,AuxX
+Leuven|31722|1|7,7,παρά,παρά,r--------,AuxP
+Leuven|31722|1|8,8,Ἀνουβίωνος,Ἀνουβίων,n-s---mg-,ADV
+Leuven|31722|1|9,9,.,.,u--------,AuxK
+Leuven|31722|1|10,10,[0],,---------,PRED

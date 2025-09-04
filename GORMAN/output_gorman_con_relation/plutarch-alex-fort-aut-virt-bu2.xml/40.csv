@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ὀφθήσεται,ὁράω,v3sfip---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,οἷς,ὅς,p-p---nd-,OBJ
+4,εἶπεν,εἶπον,v3saia---,ADV_CO
+5,οἷς,ὅς,p-p---nd-,OBJ
+6,ἔπραξεν,πράσσω,v3saia---,ADV_CO
+7,οἷς,ὅς,p-p---nd-,OBJ
+8,ἐπαίδευσε,παιδεύω,v3saia---,ADV_CO
+9,φιλόσοφος,φιλόσοφος,n-s---mn-,PNOM
+10,.,punc1,u--------,AuxK
+11,[0],,,COORD

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|885|1,1,τὸν,ὁ,l-s---ma-,ATR
+Leuven|0032-002|885|2,2,κύνα,κύων,n-s---ma-,SBJ
+Leuven|0032-002|885|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|0032-002|885|4,4,ἀκούσαντα,ἀκούω,v-sapama-,ADV
+Leuven|0032-002|885|5,5,εἰπεῖν,λέγω,v--ana---,OBJ
+Leuven|0032-002|885|6,6,·,·,u--------,AuxK
+Leuven|0032-002|885|7,7,[0],,,PRED

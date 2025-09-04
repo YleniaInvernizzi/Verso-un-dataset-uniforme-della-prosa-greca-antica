@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27089|19|1,1,ἀσπάζεταί,ἀσπάζομαι,v3spie---,PRED
+Leuven|27089|19|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|27089|19|3,3,Ἐπιτυγχάνων,Ἐπιτυγχάνων,n-s---mn-,SBJ
+Leuven|27089|19|4,4,.,.,u--------,AuxK

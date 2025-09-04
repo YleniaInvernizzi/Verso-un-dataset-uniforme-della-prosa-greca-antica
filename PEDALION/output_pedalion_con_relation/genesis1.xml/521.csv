@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|522|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|522|2,2,κληρονομήσει,κληρονομέω,v3sfia---,PRED_CO
+Leuven|Genesis|522|3,3,σε,σύ,p2s---ca-,OBJ
+Leuven|Genesis|522|4,4,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|522|5,5,",",",",u--------,AuxX
+Leuven|Genesis|522|6,6,ἀλλ’,ἀλλά,b--------,COORD
+Leuven|Genesis|522|7,7,ὅς,ὅς,p-s---mn-,SBJ
+Leuven|Genesis|522|8,8,ἐξελεύσεται,ἐξέρχομαι,v3sfim---,ATR
+Leuven|Genesis|522|9,9,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|522|10,10,σοῦ,σύ,p2s---cg-,OBJ
+Leuven|Genesis|522|11,11,",",",",u--------,AuxX
+Leuven|Genesis|522|12,12,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|Genesis|522|13,13,κληρονομήσει,κληρονομέω,v3sfia---,PRED_CO
+Leuven|Genesis|522|14,14,σε,σύ,p2s---ca-,OBJ
+Leuven|Genesis|522|15,15,.,.,u--------,AuxK

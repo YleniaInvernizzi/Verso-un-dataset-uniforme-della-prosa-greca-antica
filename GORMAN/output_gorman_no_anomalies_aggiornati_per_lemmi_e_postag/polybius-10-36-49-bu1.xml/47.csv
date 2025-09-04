@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ταῦτα;οὗτος;p-p---na-;OBJ
+2;δʼ;δέ;d--------;AuxY
+3;εἰπὼν;λέγω;v-sapamn-;ADV
+4;παρήγγειλε;παραγγέλλω;v3saia---;PRED
+5;στρατηγὸν;στρατηγός;n-s---ma-;OCOMP
+6;αὑτὸν;ἑαυτοῦ;p-s---ma-;OBJ
+7;προσφωνεῖν;προσφωνέω;v--pna---;OBJ
+8;.;punc;u--------;AuxK

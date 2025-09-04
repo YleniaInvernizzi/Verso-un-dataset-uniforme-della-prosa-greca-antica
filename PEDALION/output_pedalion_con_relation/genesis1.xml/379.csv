@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|380|1,1,αὗται,οὗτος,p-p---fn-,SBJ
+Leuven|Genesis|380|2,2,αἱ,ὁ,l-p---fn-,ATR
+Leuven|Genesis|380|3,3,φυλαί,φυλή,n-p---fn-,PNOM
+Leuven|Genesis|380|4,4,υἱῶν,υἱός,n-p---mg-,ATR
+Leuven|Genesis|380|5,5,Νωε,Νωε,n-s---mg-,ATR
+Leuven|Genesis|380|6,6,κατά,κατά,r--------,AuxP
+Leuven|Genesis|380|7,7,γενέσεις,γένεσις,n-p---fn-,ADV
+Leuven|Genesis|380|8,8,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|Genesis|380|9,9,κατά,κατά,r--------,AuxP
+Leuven|Genesis|380|10,10,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|380|11,11,ἔθνη,ἔθνος,n-p---na-,ADV
+Leuven|Genesis|380|12,12,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|Genesis|380|13,13,·,·,u--------,AuxK
+Leuven|Genesis|380|14,14,[0],,,PRED

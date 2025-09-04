@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|255|1,1,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis_deel2|255|2,2,τοῖς,ὁ,l-p---nd-,ATR
+Leuven|Genesis_deel2|255|3,3,ἐκλεκτοῖς,ἐκλεκτός,a-p---nd-,ATR
+Leuven|Genesis_deel2|255|4,4,μνημείοις,μνημεῖον,n-p---nd-,ADV
+Leuven|Genesis_deel2|255|5,5,ἡμῶν,ἐγώ,p1p---cg-,ATR
+Leuven|Genesis_deel2|255|6,6,θάψον,θάπτω,v2sama---,PRED
+Leuven|Genesis_deel2|255|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel2|255|8,8,νεκρόν,νεκρός,a-s---ma-,OBJ
+Leuven|Genesis_deel2|255|9,9,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel2|255|10,10,·,·,u--------,AuxK

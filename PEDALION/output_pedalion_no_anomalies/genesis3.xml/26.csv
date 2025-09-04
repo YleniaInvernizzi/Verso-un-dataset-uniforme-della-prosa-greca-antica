@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|27|1,1,αὐτός,αὐτός,p-s---mn-,SBJ
+1,Leuven|Genesis_deel3|27|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel3|27|3,3,κατῴκει,κατοικέω,v3siia---,PRED
+3,Leuven|Genesis_deel3|27|4,4,ἐν,ἐν,r--------,AuxP
+4,Leuven|Genesis_deel3|27|5,5,τῇ,ὁ,l-s---fd-,ATR
+5,Leuven|Genesis_deel3|27|6,6,γῇ,γῆ,n-s---fd-,ADV
+6,Leuven|Genesis_deel3|27|7,7,τῇ,ὁ,l-s---fd-,ATR
+7,Leuven|Genesis_deel3|27|8,8,πρός,πρός,r--------,AuxP
+8,Leuven|Genesis_deel3|27|9,9,λίβα,λίψ,n-s---ma-,ATR

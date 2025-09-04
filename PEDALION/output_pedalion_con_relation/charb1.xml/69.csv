@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0554-001|70|1,1,ἐπαγγέλλομαι,ἐπαγγέλλω,v1spie---,PRED
+Leuven|0554-001|70|2,2,διαλύσειν,διαλύω,v--fna---,OBJ
+Leuven|0554-001|70|3,3,τὸν,ὁ,l-s---ma-,ATR
+Leuven|0554-001|70|4,4,γάμον,γάμος,n-s---ma-,OBJ
+Leuven|0554-001|70|5,5,·,·,u--------,AuxK

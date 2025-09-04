@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἄδηλον;ἄδηλος;a-s---nn-;PNOM
+2;γὰρ;γάρ;d--------;AuxY
+3;ᾧ;ὅς;p-s---md-;PNOM
+4;συνέβη;συμβαίνω;v3saia---;SBJ
+5;γενέσθαι;γίγνομαι;v--anm---;SBJ_CO
+6;τέκνον;τέκνον;n-s---na-;SBJ
+7;καὶ;καί;c--------;COORD
+8;σωθῆναι;σῴζω;v--anp---;SBJ_CO
+9;γενόμενον;γίγνομαι;v-sapmna-;ADV
+10;.;punc;u--------;AuxK
+11;ἐστιν;εἰμί;v3spia---;PRED

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,σπονδῶν,σπονδή,n-p---fg-,ATR
+2,γὰρ,γάρ,d--------,AuxY
+3,ξύγχυσις,σύγχυσις,n-s---fn-,PNOM_CO
+4,τὰ,ὁ,l-p---nn-,ATR
+5,γιγνόμενα,γίγνομαι,v-pppenn-,SBJ
+6,ἦν,εἰμί,v3siia---,PRED
+7,καὶ,καί,c--------,COORD
+8,πρόφασις,πρόφασις,n-s---fn-,PNOM_CO
+9,τοῦ,ὁ,l-s---ng-,ATR
+10,πολεμεῖν,πολεμέω,v--pna---,ATR
+11,.,punc1,u--------,AuxK

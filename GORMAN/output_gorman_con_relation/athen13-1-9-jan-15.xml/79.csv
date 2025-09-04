@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,βλέμμα,βλέμμα,n-s---nn-,SBJ_CO
+2,καὶ,καί,c--------,COORD
+3,φωνὴ,φωνή,n-s---fn-,SBJ_CO
+4,γυναικός,γυνή,n-s---fg-,PNOM
+5,",",punc1,u--------,AuxX
+6,τὰ,ὁ,l-p---nn-,ATR
+7,σκέλη,σκέλος,n-p---nn-,SBJ
+8,δὲ,δέ,c--------,COORD
+9,κοψίχου,κόψιχος,n-s---mg-,PNOM
+10,.,punc1,u--------,AuxK
+11,ἐστιν,εἰμί,v3spia---,PRED_CO
+12,ἐστιν,εἰμί,v3spia---,PRED_CO

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὑμεῖς,σύ,p2p---mn-,SBJ
+1,2,",",punc1,u--------,AuxX
+2,3,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+3,4,Ἀθηναῖοι,Ἀθηναῖος,a-p---mv-,ATR
+4,5,.,punc1,u--------,AuxK
+5,6,ἦτε,εἰμί,v2piia---,PRED

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|210|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|210|2,2,εἰσήνεγκεν,εἰσφέρω,v3saia---,PRED_CO
+2,Leuven|Genesis_deel3|210|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+3,Leuven|Genesis_deel3|210|4,4,οἶνον,οἶνος,n-s---ma-,OBJ
+5,Leuven|Genesis_deel3|210|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis_deel3|210|7,7,ἔπιεν,πίνω,v3saia---,PRED_CO

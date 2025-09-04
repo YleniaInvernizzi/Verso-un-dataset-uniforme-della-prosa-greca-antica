@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|123|1,1,πολύ,πολύς,d--------,ADV
+Leuven|0059-003|123|2,2,γε,γε,d--------,AuxZ
+Leuven|0059-003|123|3,3,.,.,u--------,AuxK
+Leuven|0059-003|123|4,4,[0],,,PRED

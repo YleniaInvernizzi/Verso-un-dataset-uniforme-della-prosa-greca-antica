@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἐξήμαρτέ,ἐξαμαρτάνω,v3saia---,PRED
+1,2,τις,τις,p-s---cn-,SBJ
+2,3,ἄκων,ἀέκων,a-s---mn-,ATV
+3,4,:,punc1,u--------,AuxK

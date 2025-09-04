@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,πάλιν,πάλιν,d--------,ADV
+1,2,δὲ,δέ,d--------,AuxY
+2,3,εἰσελθὼν,εἰσέρχομαι,v-sapamn-,ADV
+3,4,εἶπεν,εἶπον,v3saia---,PRED
+4,5,·,punc1,u--------,AuxK

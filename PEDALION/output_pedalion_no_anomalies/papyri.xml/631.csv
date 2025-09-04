@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31917|5|1,1,ἀλλά,ἀλλά,c--------,AuxY
+1,Leuven|31917|5|2,2,καί,καί,c--------,AuxY
+2,Leuven|31917|5|3,3,εὐχαριστῶ,εὐχαριστέω,v1spia---,ExD
+3,Leuven|31917|5|4,4,τῷ,ὁ,l-s---md-,ATR
+4,Leuven|31917|5|5,5,θεῷ,θεός,n-s---md-,OBJ
+5,Leuven|31917|5|6,6,καλῶς,καλός,d--------,ADV
+6,Leuven|31917|5|7,7,ἔσχηκα,ἔχω,v1sria---,PRED

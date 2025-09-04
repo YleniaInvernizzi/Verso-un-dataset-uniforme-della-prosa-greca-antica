@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|302|1,1,κατά,κατά,r--------,AuxP
+1,Leuven|PaeanBrev|302|2,2,ταύτην,οὗτος,p-s---fa-,ATR
+2,Leuven|PaeanBrev|302|3,3,δέ,δέ,d--------,AuxY
+3,Leuven|PaeanBrev|302|4,4,τήν,ὁ,l-s---fa-,ATR
+4,Leuven|PaeanBrev|302|5,5,ναυμαχίαν,ναυμαχία,n-s---fa-,ADV
+5,Leuven|PaeanBrev|302|6,6,ἐξ,ἐκ,r--------,AuxP
+6,Leuven|PaeanBrev|302|7,7,ἀπάτης,ἀπάτη,n-s---fg-,ADV
+7,Leuven|PaeanBrev|302|8,8,ὑπό,ὑπό,r--------,AuxP
+8,Leuven|PaeanBrev|302|9,9,τοῖς,ὁ,l-p---md-,ATR
+9,Leuven|PaeanBrev|302|10,10,πολεμίοις,πολέμιος,a-p---md-,ADV
+10,Leuven|PaeanBrev|302|11,11,ἐγένετο,γίγνομαι,v3saim---,PRED
+11,Leuven|PaeanBrev|302|12,12,Κορνήλιος,Κορνήλιος,n-s---mn-,SBJ

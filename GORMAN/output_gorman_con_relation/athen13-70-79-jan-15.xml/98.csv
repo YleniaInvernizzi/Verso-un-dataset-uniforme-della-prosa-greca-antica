@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,εἴη,εἰμί,v3spoa---,PRED
+2,καὶ,καί,d--------,AuxY
+3,ἐρᾶν,ἐράω1,v--pna---,SBJ_CO
+4,καὶ,καί,c--------,COORD
+5,ἔρωτι,ἔρως,n-s---md-,OBJ
+6,χαρίζεσθαι,χαρίζω,v--pne---,SBJ_CO
+7,κατὰ,κατά,r--------,AuxP
+8,καιρὸν,καιρός,n-s---ma-,PNOM
+9,:,punc1,u--------,AuxK

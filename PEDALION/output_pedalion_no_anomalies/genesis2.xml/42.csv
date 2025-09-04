@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|43|1,1,μηδαμῶς,μηδαμῶς,d--------,ADV
+2,Leuven|Genesis_deel2|43|3,3,ἀδελφοί,ἀδελφός,n-p---mv-,ExD
+4,Leuven|Genesis_deel2|43|5,5,μή,μή,d--------,AuxZ
+5,Leuven|Genesis_deel2|43|6,6,πονηρεύσησθε,πονηρεύομαι,v2pasm---,PRED

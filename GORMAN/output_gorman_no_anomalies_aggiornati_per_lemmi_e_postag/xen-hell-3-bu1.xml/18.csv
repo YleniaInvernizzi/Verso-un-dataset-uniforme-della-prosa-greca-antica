@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἦν;εἰμί;v3siia---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;ἃς;ὅς;p-p---fa-;OBJ
+4;ἀσθενεῖς;ἀσθενής;a-p---fa-;PNOM
+5;οὔσας;εἰμί;v-pppafa-;ATR
+6;καὶ;καί;d--------;AuxZ
+7;κατὰ;κατά;r--------;AuxP
+8;κράτος;κράτος;n-s---na-;ADV
+9;ὁ;ὁ;l-s---mn-;ATR
+10;Θίβρων;Θίβρων;n-s---mn-;SBJ
+11;ἐλάμβανε;λαμβάνω;v3siia---;PNOM
+12;·;punc;u--------;AuxK

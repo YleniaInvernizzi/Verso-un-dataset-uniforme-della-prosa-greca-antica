@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλὰ,ἀλλά,d--------,AuxY
+1,2,Φωκεῖς,Φωκεύς,n-p---mn-,SBJ
+2,3,;,;,u--------,AuxK
+3,4,κωλύσουσι,κωλύω,v3pfia---,PRED

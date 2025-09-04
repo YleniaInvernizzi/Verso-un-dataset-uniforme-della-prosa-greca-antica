@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐνδοξότερος,ἔνδοξος,a-s---mnc,PNOM
+2,εἶ,εἰμί,v2spia---,PRED_CO
+3,",",punc1,u--------,AuxX
+4,πρεσβύτερος,πρέσβυς,a-s---mnc,PNOM
+5,εἶ,εἰμί,v2spia---,PRED_CO
+6,",",punc1,u--------,AuxX
+7,ἄρχεις,ἄρχω,v2spia---,PRED_CO
+8,πλειόνων,πλείων,a-p---mgc,OBJ
+9,",",punc1,u--------,AuxX
+10,ἐνήθληκας,ἐν-ἀθλέω,v2sria---,PRED_CO
+11,πολέμοις,πόλεμος,n-p---md-,OBJ
+12,",",punc1,u--------,COORD
+13,ἐμπειρίᾳ,ἐμπειρία,n-s---fd-,OBJ
+14,διαφέρεις,διαφέρω,v2spia---,PRED_CO
+15,·,punc1,u--------,AuxK

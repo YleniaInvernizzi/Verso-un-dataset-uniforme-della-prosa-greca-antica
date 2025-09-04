@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,σὺ,σύ,p-s---mn-,SBJ
+2,δὲ,δέ,d--------,AuxY
+3,ἡμῖν,ἐγώ,p1p---md-,OBJ
+4,ἀπόκριναι,ἀποκρίνω,v2samm---,PRED
+5,",",punc1,u--------,AuxX
+6,ὦ,ὦ,i--------,AuxZ
+7,Μέλητε,Μέλητος,n-s---mv-,ExD
+8,.,punc1,u--------,AuxK

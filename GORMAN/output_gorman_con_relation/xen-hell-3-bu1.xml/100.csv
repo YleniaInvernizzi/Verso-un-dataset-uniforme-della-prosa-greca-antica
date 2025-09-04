@@ -1,0 +1,17 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐπειδὴ,ἐπεί,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,ἀπεγέγραπτο,ἀπογράφω,v3slie---,ADV
+4,τὰ,ὁ,l-p---na-,ATR
+5,πατρῷα,πατρῷος,a-p---na-,OBJ
+6,",",punc1,u--------,AuxX
+7,εἰπέ,εἶπον,v2sama---,OBJ
+8,μοι,ἐγώ,p1s---md-,OBJ
+9,",",punc1,u--------,AuxX
+10,ἔφη,φημί,v3siia---,PRED
+11,",",punc1,u--------,AuxX
+12,Μανία,Μανία,n-s---fn-,SBJ
+13,δὲ,δέ,d--------,AuxY
+14,τίνος,τις,p-s---mg-,PNOM
+15,ἦν,εἰμί,v3siia---,OBJ
+16,;,punc1,u--------,AuxK

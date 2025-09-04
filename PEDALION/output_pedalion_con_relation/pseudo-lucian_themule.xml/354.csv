@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|355|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|355|2,2,στένων,στένω,v-sppamn-,ADV
+Leuven|Ps-Luc|355|3,3,ἤδη,ἤδη,d--------,ADV
+Leuven|Ps-Luc|355|4,4,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|355|5,5,δεσπότηι,δεσπότης,n-s---md-,OBJ
+Leuven|Ps-Luc|355|6,6,εἱπόμην,ἕπομαι,v1siie---,PRED
+Leuven|Ps-Luc|355|7,7,ἄγοντι,ἄγω,v-sppamd-,ADV
+Leuven|Ps-Luc|355|8,8,.,.,u--------,AuxK

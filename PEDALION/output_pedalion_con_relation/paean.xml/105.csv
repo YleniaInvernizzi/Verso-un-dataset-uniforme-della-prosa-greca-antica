@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|106|1,1,μάγιστρος,μάγιστρος,a-s---mn-,PNOM
+Leuven|PaeanBrev|106|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|106|3,3,τῶν,ὁ,l-p---mg-,ATR
+Leuven|PaeanBrev|106|4,4,ἱππέων,ἱππεύς,n-p---mg-,ATR
+Leuven|PaeanBrev|106|5,5,πρῶτος,πρῶτος,a-s---mn-,ATR
+Leuven|PaeanBrev|106|6,6,Σπούριος,Σπούριος,n-s---mn-,SBJ
+Leuven|PaeanBrev|106|7,7,Κάσιος,Κάσιος,n-s---mn-,APOS
+Leuven|PaeanBrev|106|8,8,.,.,u--------,AuxK
+Leuven|PaeanBrev|106|9,9,[0],,,PRED

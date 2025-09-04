@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,διὸ,διό,d--------,AuxY
+2,δεῖ,δεῖ,v3siia---,PRED
+3,τοὺς,ὁ,l-p---ma-,SBJ
+4,δυναμένους,δύναμαι,v-pppema-,SBJ
+5,ἄριστ᾽,ἄριστος,a-p---na-,ADV
+6,ἀρχεῖν,,,OBJ
+7,",",punc1,u--------,AuxX
+8,τούτους,οὗτος,p-p---ma-,SBJ
+9,ἄρχειν,ἄρχω,v--pna---,SBJ
+10,.,punc1,u--------,AuxK

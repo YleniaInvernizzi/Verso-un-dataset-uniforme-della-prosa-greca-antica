@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐγὼ;ἐγώ;p1s---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;φαίνομαι;φαίνω;v1spie---;PRED
+4;στρατευόμενος;στρατεύω;v-sppemn-;PNOM_CO
+5;καὶ;καί;c--------;COORD
+6;τριηραρχῶν;τριηραρχέω;v-sppamn-;PNOM_CO
+7;ὑμῖν;σύ;p2p---md-;OBJ
+8;,;punc;u--------;AuxX
+9;ὅτε;ὅτε;c--------;AuxC
+10;οὗτος;οὗτος;p-s---mn-;SBJ
+11;συνῴκησεν;συνοικέω;v3saia---;ADV
+12;τῇ;ὁ;l-s---fd-;ATR
+13;μητρί;μήτηρ;n-s---fd-;OBJ
+14;.;punc;u--------;AuxK

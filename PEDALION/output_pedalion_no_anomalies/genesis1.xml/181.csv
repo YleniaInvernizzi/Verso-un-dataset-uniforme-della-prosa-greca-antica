@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|182|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Genesis|182|2,2,ἦν,εἰμί,v3siia---,PRED
+2,Leuven|Genesis|182|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|Genesis|182|4,4,καταδείξας,καταδείκνυμι,v-sapamn-,PNOM
+4,Leuven|Genesis|182|5,5,ψαλτήριον,ψαλτήριον,n-s---na-,OBJ_CO
+5,Leuven|Genesis|182|6,6,καί,καί,c--------,COORD
+6,Leuven|Genesis|182|7,7,κιθάραν,κιθάρα,n-s---fa-,OBJ_CO

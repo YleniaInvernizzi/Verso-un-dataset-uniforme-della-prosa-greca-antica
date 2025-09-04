@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|239|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|0557-001|239|2,2,λέγει,λέγω,v3spia---,PRED
+Leuven|0557-001|239|3,3,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|0557-001|239|4,4,;,;,u--------,AuxK

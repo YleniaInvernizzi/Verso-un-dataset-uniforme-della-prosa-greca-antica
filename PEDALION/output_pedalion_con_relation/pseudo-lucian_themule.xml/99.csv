@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|100|1,1,πέπτωκε,πίπτω,v3sria---,PRED_CO
+Leuven|Ps-Luc|100|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|100|3,3,καὶ,καί,b--------,AuxY
+Leuven|Ps-Luc|100|4,4,λέλυται,λύω,v3srie---,PRED_CO
+Leuven|Ps-Luc|100|5,5,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|100|6,6,ὕδωρ,ὕδωρ,n-s---nn-,PNOM
+Leuven|Ps-Luc|100|7,7,ὅλος,ὅλος,a-s---mn-,ATR
+Leuven|Ps-Luc|100|8,8,ἔστι,εἰμί,v3spia---,PRED_CO
+Leuven|Ps-Luc|100|9,9,σοι,σύ,p2s---cd-,ATR
+Leuven|Ps-Luc|100|10,10,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|100|11,11,ἀνταγωνιστής,ἀνταγωνιστής,n-s---mn-,SBJ
+Leuven|Ps-Luc|100|12,12,.,.,u--------,AuxK

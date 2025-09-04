@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;λάμπει;λάμπω;v3spia---;PRED
+2;δ᾽;δέ;d--------;AuxY
+3;ἐπὶ;ἐπί;r--------;AuxP
+4;πορφυρέαις;πορφύρεος;a-p---fd-;ATR
+5;παρῇσι;παρηίς;n-p---fd-;ADV
+6;φῶς;φώς;n-s---nn-;SBJ
+7;ἔρωτος;ἔρως;n-s---mg-;ATR
+8;.;punc;u--------;AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|372|1,1,Ως,Ως,n-s---mn-,PNOM_CO
+Leuven|Genesis|372|2,2,καί,καί,b--------,AuxY
+Leuven|Genesis|372|3,3,Ουλ,Ουλ,n-s---mn-,PNOM_CO
+Leuven|Genesis|372|4,4,καί,καί,b--------,AuxY
+Leuven|Genesis|372|5,5,Γαθερ,Γαθερ,n-s---mn-,PNOM_CO
+Leuven|Genesis|372|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|372|7,7,Μοσοχ,Μοσοχ,n-s---mn-,PNOM_CO
+Leuven|Genesis|372|8,8,.,.,u--------,AuxK
+Leuven|Genesis|372|9,9,[0],,,PRED

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|333|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|333|2,2,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|333|3,3,οὖν,οὖν,d--------,AuxY
+Leuven|Ps-Luc|333|4,4,ἀκάθαρτος,ἀκάθαρτος,a-s---mn-,ATR
+Leuven|Ps-Luc|333|5,5,παῖς,παῖς,n-s---cn-,SBJ
+Leuven|Ps-Luc|333|6,6,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Ps-Luc|333|7,7,ἐμὸς,ἐμός,a-s---mn-,ATR
+Leuven|Ps-Luc|333|8,8,ὀνηλάτης,ὀνηλάτης,n-s---mn-,APOS
+Leuven|Ps-Luc|333|9,9,ἔχαιρε,χαίρω,v3siia---,PRED_CO
+Leuven|Ps-Luc|333|10,10,καί,καί,b--------,COORD
+Leuven|Ps-Luc|333|11,11,με,ἐγώ,p1s---ca-,OBJ
+Leuven|Ps-Luc|333|12,12,αὐτίκα,αὐτίκα,d--------,ADV
+Leuven|Ps-Luc|333|13,13,ἤθελεν,ἐθέλω,v3siia---,PRED_CO
+Leuven|Ps-Luc|333|14,14,ἀποσφάττειν,ἀποσφάζω,v--pna---,OBJ
+Leuven|Ps-Luc|333|15,15,.,.,u--------,AuxK

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;Σαδυάττης;Σαδυάττης;n-s---mn-;SBJ
+2;οὗτος;οὗτος;a-s---mn-;ATR
+3;γὰρ;γάρ;d--------;AuxY
+4;καὶ;καί;d--------;AuxY
+5;ὁ;ὁ;l-s---mn-;ATR
+6;τὸν;ὁ;l-s---ma-;ATR
+7;πόλεμον;πόλεμος;n-s---ma-;OBJ
+8;ἦν;εἰμί;v3siia---;PRED
+9;συνάψας;συνάπτω;v-sapamn-;PNOM
+10;:;punc;u--------;AuxK

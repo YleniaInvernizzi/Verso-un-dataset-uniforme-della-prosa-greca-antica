@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡς,ὡς,c--------,AuxC
+2,ἔοικε,ἔοικα,v3sria---,ADV
+3,γάρ,γάρ,d--------,AuxY
+4,",",punc1,u--------,AuxX
+5,τὸ,ὁ,l-s---nn-,ATR
+6,κάλλος,κάλλος,n-s---nn-,SBJ
+7,βασιλείας,βασιλεία,n-s---fg-,ADV
+8,οἰκεῖόν,οἰκεῖος,a-s---nn-,PNOM
+9,ἐστιν,εἰμί,v3spia---,PRED
+10,.,punc1,u--------,AuxK

@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;μικρὸν;μικρός;a-s---na-;ADV
+2;δ᾽;δέ;d--------;AuxY
+3;ἄνωθεν;ἄνωθεν;d--------;ADV
+4;ἄρξομαι;ἄρχω;v1sfim---;PRED
+5;διδάσκειν;διδάσκω;v--pna---;OBJ
+6;ὑμᾶς;σύ;p2p---ma-;OBJ
+7;.;punc;u--------;AuxK

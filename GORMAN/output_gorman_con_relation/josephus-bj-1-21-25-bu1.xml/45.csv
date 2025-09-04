@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰσὶ,εἰμί,v3ppia---,PRED
+2,δ᾽,δέ,d--------,AuxY
+3,οἷς,ὅς,p-p---md-,OBJ
+4,ἄλση,ἄλσος,n-p---na-,OBJ_CO
+5,καὶ,καί,c--------,COORD
+6,λειμῶνας,λειμών,n-p---ma-,OBJ_CO
+7,ἀνέθηκεν,ἀνατίθημι,v3saia---,SBJ
+8,.,punc1,u--------,AuxK

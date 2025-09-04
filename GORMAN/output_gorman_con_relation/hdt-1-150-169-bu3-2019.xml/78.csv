@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,πρώτῃ,πρῶτος,a-s---fd-,ATV
+2,δὲ,δέ,d--------,AuxY
+3,Φωκαίῃ,Φώκαια,n-s---fd-,OBJ
+4,Ἰωνίης,Ἰωνία,n-s---fg-,ATR
+5,ἐπεχείρησε,ἐπιχειρέω,v3saia---,PRED
+6,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,πρῶτον,πρῶτος,a-s---na-,ADV
+2,μέν,μέν,d--------,AuxY
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,AuxY
+5,",",punc1,u--------,AuxX
+6,μικράν,μικρός,a-s---fa-,SBJ
+7,·,punc1,u--------,AuxK
+8,συναρμόζειν,συναρμόζω,v--pna---,OBJ
+9,οἴομαι,οἴομαι,v1spie---,PRED

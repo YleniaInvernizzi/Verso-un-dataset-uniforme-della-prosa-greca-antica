@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐν,ἐν,r--------,AuxP
+2,γὰρ,γάρ,d--------,AuxY
+3,τῷ,ὁ,l-s---md-,ATR
+4,θεῷ,θεός,n-s---md-,PNOM_CO
+5,τὸ,ὁ,l-s---nn-,ATR
+6,τούτου,οὗτος,p-s---ng-,ATR
+7,τέλος,τέλος,n-s---nn-,SBJ
+8,ἦν,εἰμί,v3siia---,PRED
+9,",",punc1,u--------,COORD
+10,οὐκ,οὐ,d--------,AuxZ
+11,ἐμοί,ἐγώ,p1s---md-,PNOM_CO
+12,.,punc1,u--------,AuxK

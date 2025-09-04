@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|294|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|294|2,2,μὴν,μήν,d--------,AuxZ
+2,Leuven|Ps-Luc|294|3,3,καὶ,καί,d--------,AuxZ
+3,Leuven|Ps-Luc|294|4,4,τὰ,ὁ,l-p---na-,ATR
+4,Leuven|Ps-Luc|294|5,5,πολλὰ,πολύς,a-p---na-,ADV
+5,Leuven|Ps-Luc|294|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Ps-Luc|294|7,7,τὸ,ὁ,l-s---na-,ATR
+7,Leuven|Ps-Luc|294|8,8,ὄρος,ὄρος,n-s---na-,OBJ
+8,Leuven|Ps-Luc|294|9,9,ἄνω,ἄνω,d--------,ADV
+9,Leuven|Ps-Luc|294|10,10,ἐπεμπόμην,πέμπω,v1siie---,PRED_CO
+10,Leuven|Ps-Luc|294|11,11,καὶ,καί,c--------,COORD
+11,Leuven|Ps-Luc|294|12,12,ξύλα,ξύλον,n-p---na-,OBJ
+12,Leuven|Ps-Luc|294|13,13,τοῖς,ὁ,l-p---md-,ATR
+13,Leuven|Ps-Luc|294|14,14,ὤμοις,ὦμος,n-p---md-,ADV
+14,Leuven|Ps-Luc|294|15,15,ἐκόμιζον,κομίζω,v1siia---,PRED_CO

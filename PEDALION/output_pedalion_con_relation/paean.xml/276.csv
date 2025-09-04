@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|278|1,1,ἔνθα,ἔνθα,d--------,ADV
+Leuven|PaeanBrev|278|2,2,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|278|3,3,τέλος,τέλος,n-s---na-,OBJ
+Leuven|PaeanBrev|278|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|PaeanBrev|278|5,5,βίου,βίος,n-s---mg-,ATR
+Leuven|PaeanBrev|278|6,6,ἐδέξατο,δέχομαι,v3saim---,PRED
+Leuven|PaeanBrev|278|7,7,πεσών,πίπτω,v-sapamn-,ADV
+Leuven|PaeanBrev|278|8,8,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|278|9,9,πολέμῳ,πόλεμος,n-s---md-,ADV
+Leuven|PaeanBrev|278|10,10,.,.,u--------,AuxK

@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;παύονται;παύω;v3ppie---;PRED
+2;οἱ;ὁ;l-p---mn-;ATR
+3;ἔρωτες;ἔρως;n-p---mn-;SBJ
+4;,;punc;u--------;AuxX
+5;ὥς;ὡς;c--------;AuxC
+6;φησι;φημί;v3spia---;ADV
+7;Κλέαρχος;Κλέαρχος;n-s---mn-;SBJ
+8;.;punc;u--------;AuxK

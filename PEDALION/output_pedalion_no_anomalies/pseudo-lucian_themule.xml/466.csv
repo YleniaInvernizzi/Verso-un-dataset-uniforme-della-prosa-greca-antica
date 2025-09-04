@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|467|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|467|2,2,τὸ,ὁ,l-s---nn-,ATR
+2,Leuven|Ps-Luc|467|3,3,πρᾶγμα,πρᾶγμα,n-s---nn-,SBJ
+3,Leuven|Ps-Luc|467|4,4,περιβόητον,περιβόητος,a-s---nn-,PNOM
+4,Leuven|Ps-Luc|467|5,5,ἦν,εἰμί,v3siia---,PRED
+6,Leuven|Ps-Luc|467|7,7,ὄνος,ὄνος,n-s---mn-,APOS
+7,Leuven|Ps-Luc|467|8,8,ὁ,ὁ,l-s---mn-,ATR
+8,Leuven|Ps-Luc|467|9,9,τοῦ,ὁ,l-s---mg-,ATR
+9,Leuven|Ps-Luc|467|10,10,δεσπότου,δεσπότης,n-s---mg-,ATR
+11,Leuven|Ps-Luc|467|12,12,οἰνοπότης,οἰνοπότης,n-s---mn-,APOS
+13,Leuven|Ps-Luc|467|14,14,παλαίων,παλαίω,v-sppamn-,ATR
+15,Leuven|Ps-Luc|467|16,16,ὄνος,ὄνος,n-s---mn-,APOS
+16,Leuven|Ps-Luc|467|17,17,ὀρχούμενος,ὀρχέομαι,v-sppemn-,ATR

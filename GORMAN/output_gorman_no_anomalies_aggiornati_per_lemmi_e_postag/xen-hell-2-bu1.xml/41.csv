@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἡγεῖτο;ἡγέομαι;v3spom---;PRED
+2;δὲ;δέ;d--------;AuxY
+3;Θώραξ;θώραξ;n-s---mn-;SBJ
+4;Λακεδαιμόνιος;Λακεδαιμόνιος;a-s---mn-;ATR
+5;.;punc;u--------;AuxK

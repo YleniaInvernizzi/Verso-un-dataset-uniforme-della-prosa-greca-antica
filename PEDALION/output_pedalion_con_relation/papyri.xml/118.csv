@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|2117|5|1,1,ὁ,ὁ,l-s---mn-,ATR
+Leuven|2117|5|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|2117|5|3,3,καιρός,καιρός,n-s---mn-,SBJ
+Leuven|2117|5|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|2117|5|5,5,βέλτιστος,βέλτιστος,a-s---mns,ATR
+Leuven|2117|5|6,6,ἐνέστηκε,ἐνίστημι,v3sria---,PRED
+Leuven|2117|5|7,7,·,·,u--------,AuxK

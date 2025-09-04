@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|297|1,1,παρθένος,παρθένος,n-s---fn-,PNOM
+Leuven|Genesis_deel2|297|2,2,ἦν,εἰμί,v3siia---,PRED
+Leuven|Genesis_deel2|297|3,3,",",",",u--------,AuxX
+Leuven|Genesis_deel2|297|4,4,ἀνήρ,ἀνήρ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|297|5,5,οὐκ,οὐ,d--------,AuxZ
+Leuven|Genesis_deel2|297|6,6,ἔγνω,γιγνώσκω,v3saia---,PRED
+Leuven|Genesis_deel2|297|7,7,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis_deel2|297|8,8,.,.,u--------,AuxK

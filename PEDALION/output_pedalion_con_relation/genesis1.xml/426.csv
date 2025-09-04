@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|427|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|427|2,2,ἐνευλογηθήσονται,ἐνευλογέω,v3pfip---,PRED
+Leuven|Genesis|427|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|427|4,4,σοί,σύ,p2s---cd-,ADV
+Leuven|Genesis|427|5,5,πᾶσαι,πᾶς,a-p---fn-,ATR
+Leuven|Genesis|427|6,6,αἱ,ὁ,l-p---fn-,ATR
+Leuven|Genesis|427|7,7,φυλαί,φυλή,n-p---fn-,SBJ
+Leuven|Genesis|427|8,8,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|427|9,9,γῆς,γῆ,n-s---fg-,ATR
+Leuven|Genesis|427|10,10,.,.,u--------,AuxK

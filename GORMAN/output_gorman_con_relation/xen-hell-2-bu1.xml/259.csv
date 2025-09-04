@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἂν,ἐάν,c--------,AuxC
+2,δὲ,δέ,d--------,AuxY
+3,σιωπῶ,σιωπάω,v1spsa---,ADV
+4,",",punc1,u--------,AuxX
+5,οὐκ,οὐ,d--------,AuxZ
+6,ἄρʼ,ἄρα,d-------_,AuxZ
+7,",",punc1,u--------,AuxX
+8,ἔφη,φημί,v3siia---,PRED
+9,",",punc1,u--------,AuxX
+10,οἰμώξομαι,οἰμώσσω,v1sasm---,OBJ
+11,;,punc1,u--------,AuxK

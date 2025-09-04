@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-002|586|1,1,ὅ,ὅς,p-s---na-,OBJ
+1,Leuven|0096-002|586|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|0096-002|586|3,3,ἐγώ,ἐγώ,p1s---cn-,SBJ
+3,Leuven|0096-002|586|4,4,λευκανῶ,λευκαίνω,v1sfia---,PRED_CO
+5,Leuven|0096-002|586|6,6,σύ,σύ,p2s---cn-,SBJ
+6,Leuven|0096-002|586|7,7,ἀσβολήσεις,ἀσβολάω,v2sfia---,PRED_CO

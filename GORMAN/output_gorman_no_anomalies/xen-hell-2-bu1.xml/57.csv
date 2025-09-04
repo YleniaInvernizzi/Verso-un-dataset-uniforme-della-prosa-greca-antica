@@ -1,0 +1,10 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὗ,οὗ,d--------,PNOM
+1,2,ὄντες,εἰμί,v-pppamn-,ADV
+2,3,ναυμαχήσετε,ναυμαχέω,v2pasa---,OBJ
+3,4,",",punc1,u--------,AuxX
+4,5,ἔφη,φημί,v3siia---,PRED
+5,6,",",punc1,u--------,AuxX
+6,7,ὅταν,ὅταν,c--------,AuxC
+7,8,βούλησθε,βούλομαι,v2ppse---,ADV
+8,9,.,punc1,u--------,AuxK

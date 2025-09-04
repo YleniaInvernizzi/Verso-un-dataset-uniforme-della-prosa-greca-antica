@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|789|1,1,ἦν,εἰμί,v3siia---,PRED
+Leuven|4029-001|789|2,2,δὲ,δέ,d--------,AuxY
+Leuven|4029-001|789|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|4029-001|789|4,4,μάχη,μάχη,n-s---fn-,SBJ
+Leuven|4029-001|789|5,5,καρτερὰ,καρτερός,a-s---fn-,PNOM
+Leuven|4029-001|789|6,6,μάλιστα,μάλα,d-------s,ADV
+Leuven|4029-001|789|7,7,.,.,u--------,AuxK

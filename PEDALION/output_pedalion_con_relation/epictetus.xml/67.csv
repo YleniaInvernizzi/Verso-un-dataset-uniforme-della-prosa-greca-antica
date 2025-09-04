@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|68|1,1,ἄνθρωπε,ἄνθρωπος,n-s---mv-,ExD
+Leuven|0557-001|68|2,2,",",",",u--------,AuxX
+Leuven|0557-001|68|3,3,τί,τίς,p-s---na-,OBJ
+Leuven|0557-001|68|4,4,λέγεις,λέγω,v2spia---,PRED
+Leuven|0557-001|68|5,5,;,;,u--------,AuxK

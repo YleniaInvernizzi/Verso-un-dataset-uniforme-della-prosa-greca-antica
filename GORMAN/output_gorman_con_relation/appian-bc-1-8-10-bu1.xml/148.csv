@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ὧν,ὅς,p-p---ng-,ATR
+2,τὰ,ὁ,l-p---nn-,ATR
+3,μέγιστα,μέγας,a-p---nns,PNOM_CO
+4,καὶ,καί,c--------,COORD
+5,ἀξιολογώτατα,ἀξιόλογος,a-p---nns,PNOM_CO
+6,",",punc1,u--------,AuxX
+7,ἐν,ἐν,r--------,AuxP
+8,κεφαλαίῳ,κεφάλαιος,a-s---nd-,ADV
+9,φράσαι,φράζω,v--ana---,AuxY
+10,",",punc1,u--------,AuxX
+11,τοιάδε,τοιόσδε,p-p---nn-,SBJ
+12,ἦν,εἰμί,v3siia---,PRED
+13,.,punc1,u--------,AuxK

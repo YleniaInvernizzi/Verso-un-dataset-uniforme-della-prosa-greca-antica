@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|506|1,1,δός,δίδωμι,v2sama---,PRED_CO
+1,Leuven|Genesis|506|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|Genesis|506|3,3,τούς,ὁ,l-p---ma-,ATR
+3,Leuven|Genesis|506|4,4,ἄνδρας,ἀνήρ,n-p---ma-,OBJ
+5,Leuven|Genesis|506|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|Genesis|506|7,7,δέ,δέ,d--------,COORD
+7,Leuven|Genesis|506|8,8,ἵππον,ἵππος,n-s---fa-,OBJ
+8,Leuven|Genesis|506|9,9,λαβέ,λαμβάνω,v2sama---,PRED_CO
+9,Leuven|Genesis|506|10,10,σεαυτῷ,σεαυτοῦ,p2s---md-,ADV

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐχ,οὐ,d--------,AuxZ
+2,οἵτινες,ὅστις,p-p---mn-,SBJ
+3,ἂν,ἄν1,d--------,AuxY
+4,τὴν,ὁ,l-s---fa-,ATR
+5,ἡλικίαν,ἡλικία,n-s---fa-,OBJ
+6,ταύτην,οὗτος,a-s---fa_,ATR
+7,ἔχωσιν,ἔχω,v3ppsa---,PRED
+8,;,punc1,u--------,AuxK

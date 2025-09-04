@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---nn-,SBJ
+2,οὖν,οὖν,d--------,AuxY
+3,ἐστιν,εἰμί,v3spia---,PRED
+4,ἢ,ἤ1,d--------,AuxY
+5,τοῦ,ὁ,l-s---ng-,ATR
+6,ἀλέξασθαι,ἀλέξω,v--anm---,ADV
+7,δικαιότερον,δίκαιος,a-s---nnc,PNOM_CO
+8,ἢ,ἤ1,c--------,COORD
+9,τοῦ,ὁ,l-s---ng-,ATR
+10,τοῖς,ὁ,l-p---md-,ATR
+11,φίλοις,φίλος,a-p---md-,OBJ
+12,ἀρήγειν,ἀρήγω,v--pna---,ADV
+13,κάλλιον,καλός,a-s---nnc,PNOM_CO
+14,;,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|267|1,1,ἔτι,ἔτι,d--------,ADV
+Leuven|0557-001|267|2,2,χείρων,χείρων,a-s---mnc,PNOM
+Leuven|0557-001|267|3,3,ἐστί,εἰμί,v3spia---,PRED
+Leuven|0557-001|267|4,4,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|0557-001|267|5,5,νεκροῦ,νεκρός,a-s---mg-,OBJ
+Leuven|0557-001|267|6,6,.,.,u--------,AuxK

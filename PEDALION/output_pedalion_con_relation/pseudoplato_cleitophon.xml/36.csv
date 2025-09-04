@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-00x|37|1,1,εἶπεν,λέγω,v3saia---,PRED
+Leuven|0059-00x|37|2,2,ἂν,ἄν,d--------,AuxY
+Leuven|0059-00x|37|3,3,ἴσως,ἴσως,d--------,ADV
+Leuven|0059-00x|37|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|0059-00x|37|5,5,γυμναστικὴ,γυμναστικός,a-s---fn-,PNOM_CO
+Leuven|0059-00x|37|6,6,καὶ,καί,b--------,COORD
+Leuven|0059-00x|37|7,7,ἰατρική,ἰατρικός,a-s---fn-,PNOM_CO
+Leuven|0059-00x|37|8,8,.,.,u--------,AuxK
+Leuven|0059-00x|37|9,9,[0],_,-,OBJ

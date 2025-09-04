@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|536|1,1,περί,περί,r--------,AuxP
+1,Leuven|Genesis|536|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|536|3,3,ἡλίου,ἥλιος,n-s---mg-,ATR
+3,Leuven|Genesis|536|4,4,δυσμάς,δυσμή,n-p---fa-,ADV
+4,Leuven|Genesis|536|5,5,ἔκστασις,ἔκστασις,n-s---fn-,SBJ
+5,Leuven|Genesis|536|6,6,ἐπέπεσεν,ἐπιπίπτω,v3saia---,PRED_CO
+6,Leuven|Genesis|536|7,7,τῷ,ὁ,l-s---md-,ATR
+7,Leuven|Genesis|536|8,8,Αβραμ,Αβραμ,n-s---md-,OBJ
+9,Leuven|Genesis|536|10,10,καί,καί,c--------,COORD
+10,Leuven|Genesis|536|11,11,ἰδού,ἰδού,i--------,ExD
+11,Leuven|Genesis|536|12,12,φόβος,φόβος,n-s---mn-,SBJ
+12,Leuven|Genesis|536|13,13,σκοτεινός,σκοτεινός,a-s---mn-,ATR
+13,Leuven|Genesis|536|14,14,μέγας,μέγας,a-s---mn-,ATR
+14,Leuven|Genesis|536|15,15,ἐπιπίπτει,ἐπιπίπτω,v3spia---,PRED_CO
+15,Leuven|Genesis|536|16,16,αὐτῷ,αὐτός,p-s---md-,OBJ

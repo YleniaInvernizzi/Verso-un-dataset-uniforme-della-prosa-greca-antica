@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|178|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|178|2,2,μὴν,μήν,d--------,AuxZ
+2,Leuven|Ps-Luc|178|3,3,ὅτε,ὅτε,c--------,AuxC
+3,Leuven|Ps-Luc|178|4,4,ὁδοιπορεῖν,ὁδοιπορέω,v--pna---,ADV
+4,Leuven|Ps-Luc|178|5,5,ὥρα,ὥρα,n-s---fn-,SBJ
+5,Leuven|Ps-Luc|178|6,6,ἦν,εἰμί,v3siia---,ADV
+7,Leuven|Ps-Luc|178|8,8,τὰ,ὁ,l-p---na-,ATR
+8,Leuven|Ps-Luc|178|9,9,βαρύτατα,βαρύς,a-p---nas,OBJ_CO
+9,Leuven|Ps-Luc|178|10,10,τῶν,ὁ,l-p---ng-,ATR
+10,Leuven|Ps-Luc|178|11,11,κλεμμάτων,κλέμμα,n-p---ng-,ATR
+11,Leuven|Ps-Luc|178|12,12,καὶ,καί,c--------,COORD
+12,Leuven|Ps-Luc|178|13,13,τὰ,ὁ,l-p---na-,ATR
+13,Leuven|Ps-Luc|178|14,14,πλεῖστα,πολύς,a-p---nas,OBJ_CO
+14,Leuven|Ps-Luc|178|15,15,ἐμοὶ,ἐγώ,p1s---cd-,OBJ
+15,Leuven|Ps-Luc|178|16,16,ἐπέθηκαν,ἐπιτίθημι,v3paia---,PRED

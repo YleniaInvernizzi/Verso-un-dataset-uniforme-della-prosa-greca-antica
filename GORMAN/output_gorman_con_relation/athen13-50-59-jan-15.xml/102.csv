@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ἣν,ὅς,p-s---fa-,OBJ
+2,ἐτέκνωσεν,τεκνόω,v3saia---,PRED_CO
+3,Ἔρως,Ἔρως,n-s---mn-,SBJ
+4,",",punc1,u--------,AuxX
+5,θρέψεν,τρέφω,v3sfia---,PRED_CO
+6,δὲ,δέ,c--------,COORD
+7,Κόρινθος,Κόρινθος,n-s---fn-,SBJ
+8,:,punc1,u--------,AuxK

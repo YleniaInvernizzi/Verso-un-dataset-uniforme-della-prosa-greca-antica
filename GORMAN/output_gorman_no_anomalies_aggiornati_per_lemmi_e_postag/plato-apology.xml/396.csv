@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀλλὰ;ἀλλά;d--------;AuxY
+2;δὴ;δή;d--------;AuxY
+3;φυγῆς;φυγή;n-s---fg-;OBJ
+4;τιμήσωμαι;τιμάω;v1sasm---;PRED
+5;";";punc;u--------;AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|243|1,1,εὐλόγησον,εὐλογέω,v2sama---,PRED
+Leuven|Genesis_deel3|243|2,2,δή,δή,d--------,AuxY
+Leuven|Genesis_deel3|243|3,3,κἀμέ,καΐἐμός,p-s----a-,OBJ
+Leuven|Genesis_deel3|243|4,4,",",",",u--------,AuxX
+Leuven|Genesis_deel3|243|5,5,πάτερ,πατήρ,n-s---mv-,ExD
+Leuven|Genesis_deel3|243|6,6,.,.,u--------,AuxK

@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|476|1,1,καὶ,καί,d--------,AuxY
+Leuven|Ps-Luc|476|2,2,οἱ,ὁ,l-p---mn-,ATR
+Leuven|Ps-Luc|476|3,3,μὲν,μέν,d--------,AuxY
+Leuven|Ps-Luc|476|4,4,ἄνδρες,ἀνήρ,n-p---mn-,SBJ
+Leuven|Ps-Luc|476|5,5,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|476|6,6,μάχης,μάχη,n-s---fg-,ATR
+Leuven|Ps-Luc|476|7,7,ἤδη,ἤδη,d--------,ADV
+Leuven|Ps-Luc|476|8,8,ἦσαν,εἰμί,v3piia---,PRED_CO
+Leuven|Ps-Luc|476|9,9,ἐν,ἐν,r--------,AuxP
+Leuven|Ps-Luc|476|10,10,παρασκευῆι,παρασκευή,n-s---fd-,PNOM
+Leuven|Ps-Luc|476|11,11,",",",",u--------,AuxX
+Leuven|Ps-Luc|476|12,12,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|476|13,13,ἀφῖκτο,ἀφικνέομαι,v3slie---,PRED_CO
+Leuven|Ps-Luc|476|14,14,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Ps-Luc|476|15,15,πορεία,πορεία,n-s---fn-,SBJ
+Leuven|Ps-Luc|476|16,16,.,.,u--------,AuxK

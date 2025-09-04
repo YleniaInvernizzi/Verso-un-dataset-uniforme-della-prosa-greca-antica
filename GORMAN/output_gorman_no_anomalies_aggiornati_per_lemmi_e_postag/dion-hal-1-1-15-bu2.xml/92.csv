@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ταύτης;οὗτος;p-s---fg-;ATR_CO
+2;δὲ;δέ;d--------;AuxY
+3;υἱὸς;υἱός;n-s---mn-;PNOM
+4;καὶ;καί;c--------;COORD
+5;Διὸς;Ζεύς;n-s---mg-;ATR_CO
+6;,;punc;u--------;AuxX
+7;ὡς;ὡς;c--------;AuxC
+8;λέγεται;λέγω;v3spie---;AuxY
+9;,;punc;u--------;AuxX
+10;Πελασγός;Πελασγός;n-s---mn-;SBJ
+11;:;punc;u--------;AuxK
+12;γίνεται;γίγνομαι;v3spie---;PRED

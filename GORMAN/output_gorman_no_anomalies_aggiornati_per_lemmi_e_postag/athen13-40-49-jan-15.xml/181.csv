@@ -1,0 +1,17 @@
+@id;@form;@lemma;@postag;@relation
+1;ὡς;ὡς;c--------;AuxC
+2;δ᾽;δέ;d--------;AuxY
+3;ἐπιστρέψας;ἐπιστρέφω;v-sapamn-;ADV
+4;ὁ;ὁ;l-s---mn-;ATR
+5;γνώριμος;γνώριμος;a-s---mn-;SBJ
+6;αὐτὴν;αὐτός;p-s---fa-;OBJ
+7;ἠρώτησε;ἐρωτάω;v3saia---;ADV
+8;τί;τις;p-s---nn-;SBJ
+9;λυπεῖται;λυπέω;v3spie---;OBJ
+10;,;punc;u--------;AuxX
+11;ἡ;ὁ;l-s---fn-;SBJ
+12;ὑστέρα;ὕστερος;a-s---fn-;SBJ
+13;με;ἐγώ;p1s---ma-;OBJ
+14;λυπεῖ;λυπέω;v3spia---;OBJ
+15;ἔφη;φημί;v3siia---;PRED
+16;.;punc;u--------;AuxK

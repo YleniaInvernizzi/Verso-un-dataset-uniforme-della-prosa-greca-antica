@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|238|1,1,οὐχ,οὐ,d--------,AuxZ
+1,Leuven|Genesis_deel3|238|2,2,ὑπελίπω,ὑπολείπω,v2saim---,PRED
+2,Leuven|Genesis_deel3|238|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|Genesis_deel3|238|4,4,εὐλογίαν,εὐλογία,n-s---fa-,OBJ
+5,Leuven|Genesis_deel3|238|6,6,πάτερ,πατήρ,n-s---mv-,ExD

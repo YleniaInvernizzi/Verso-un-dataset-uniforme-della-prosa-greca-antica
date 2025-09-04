@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;σπουδάσαντα;σπουδάζω;v-sapama-;ADV
+2;γὰρ;γάρ;d--------;AuxY
+3;οὐδὲν;οὐδείς;p-s---na-;OBJ
+4;ἂν;ἄν;d--------;AuxY
+5;διαφυγεῖν;διαφεύγω;v--ana---;OBJ
+6;.;punc;u--------;AuxK

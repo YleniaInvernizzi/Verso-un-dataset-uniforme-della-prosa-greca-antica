@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|115|1,1,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|115|2,2,δεύτερος,δεύτερος,a-s---mn-,ADV
+Leuven|PaeanBrev|115|3,3,οὗτος,οὗτος,p-s---mn-,SBJ
+Leuven|PaeanBrev|115|4,4,μετά,μετά,r--------,AuxP
+Leuven|PaeanBrev|115|5,5,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|115|6,6,βασιλέα,βασιλεύς,n-s---ma-,ADV
+Leuven|PaeanBrev|115|7,7,Ταρκύνιον,Ταρκύνιος,n-s---ma-,APOS
+Leuven|PaeanBrev|115|8,8,ὅπλα,ὅπλον,n-p---na-,OBJ
+Leuven|PaeanBrev|115|9,9,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|115|10,10,τῆς,ὁ,l-s---fg-,ATR
+Leuven|PaeanBrev|115|11,11,πατρίδος,πατρίς,n-s---fg-,ADV
+Leuven|PaeanBrev|115|12,12,ἐκίνησεν,κινέω,v3saia---,PRED
+Leuven|PaeanBrev|115|13,13,.,.,u--------,AuxK

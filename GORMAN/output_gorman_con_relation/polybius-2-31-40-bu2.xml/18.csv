@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,πράξαντες,πράσσω,v-papamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,ταῦτα,οὗτος,p-p---na-,OBJ
+4,πρὸς,πρός,r--------,AuxP
+5,τῷ,ὁ,l-s---nd-,ATR
+6,διακινδυνεύειν,διακινδυνεύω,v--pna---,PNOM
+7,ἦσαν,εἰμί,v3piia---,PRED
+8,.,punc1,u--------,AuxK

@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27086|6|1,1,μή,μή,d--------,AuxZ
+Leuven|27086|6|2,2,μου,ἐγώ,p1s---cg-,OBJ
+Leuven|27086|6|3,3,μέμφε,μέμφομαι,v2spma---,PRED
+Leuven|27086|6|4,4,ἐὰν,ἐάν,c--------,AuxC
+Leuven|27086|6|5,5,μὴ,μή,d--------,AuxZ
+Leuven|27086|6|6,6,παρέσχες,παρέχω,v2saia---,ADV
+Leuven|27086|6|7,7,Μετέλλῳ,Μετέλλος,n-s---md-,OBJ
+Leuven|27086|6|8,8,στρατιώτῃ,στρατιώτης,n-s---md-,APOS
+Leuven|27086|6|9,9,.,.,u--------,AuxK

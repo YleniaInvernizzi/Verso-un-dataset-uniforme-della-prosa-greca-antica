@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὸ,ὁ,l-s---na-,ATR
+1,2,δ᾽,δέ,d--------,AuxY
+2,3,ὑμεῖς,σύ,p2p---mn-,OBJ
+3,4,ὅταν,ὅταν,c--------,AuxC
+4,5,λέγω,λέγω3,v1spia---,ADV
+5,6,",",punc1,u--------,AuxX
+6,7,τὴν,ὁ,l-s---fa-,ATR
+7,8,πόλιν,πόλις,n-s---fa-,OBJ
+8,9,λέγω,λέγω3,v1spia---,PRED
+9,10,.,punc1,u--------,AuxK

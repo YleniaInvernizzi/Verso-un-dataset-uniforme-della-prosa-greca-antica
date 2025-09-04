@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|11103|6|1,1,λαβών,λαμβάνω,v-sapamn-,PRED
+1,Leuven|11103|6|2,2,παρά,παρά,r--------,AuxP
+2,Leuven|11103|6|3,3,μοῦ,ἐγώ,p1s---cg-,ADV
+3,Leuven|11103|6|4,4,τάς,ὁ,l-p---fa-,ATR
+4,Leuven|11103|6|5,5,ἴσας,ἴσος,a-p---fa-,OBJ
+5,Leuven|11103|6|6,6,ἐάν,ἐάν,c--------,AuxC
+6,Leuven|11103|6|7,7,βούλῃ,βούλομαι,v2spse---,ADV

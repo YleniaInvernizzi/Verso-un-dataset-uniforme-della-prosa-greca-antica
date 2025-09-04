@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|7|1,1,ταύτας,οὗτος,p-p---fa-,ATR
+Leuven|21347|7|2,2,τὰς,ὁ,l-p---fa-,ATR
+Leuven|21347|7|3,3,ἐπιστολὰς,ἐπιστολή,n-p---fa-,OBJ
+Leuven|21347|7|4,4,ἔγραψά,γράφω,v1saia---,PRED
+Leuven|21347|7|5,5,σοι,σύ,p2s---cd-,OBJ
+Leuven|21347|7|6,6,ἐπεὶ,ἐπεί,c--------,AuxC
+Leuven|21347|7|7,7,ἡ,ὁ,l-s---fn-,ATR
+Leuven|21347|7|8,8,ἀδελφή,ἀδελφή,n-s---fn-,SBJ
+Leuven|21347|7|9,9,σου,σύ,p2s---cg-,ATR
+Leuven|21347|7|10,10,ἀναγκάζει,ἀναγκάζω,v3spia---,ADV
+Leuven|21347|7|11,11,με,ἐγώ,p1s---ca-,OBJ
+Leuven|21347|7|12,12,ἐνθάδε,ἐνθάδε,d--------,ADV
+Leuven|21347|7|13,13,γράψαι,γράφω,v--ana---,ADV
+Leuven|21347|7|14,14,.,.,u--------,AuxK

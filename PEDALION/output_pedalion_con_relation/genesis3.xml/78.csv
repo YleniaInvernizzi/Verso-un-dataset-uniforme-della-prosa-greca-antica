@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|79|1,1,Ρεβεκκα,Ρεβεκκα,n-s---fn-,SBJ
+Leuven|Genesis_deel3|79|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel3|79|3,3,ἠγάπα,ἀγαπάω,v3siia---,PRED
+Leuven|Genesis_deel3|79|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis_deel3|79|5,5,Ιακωβ,Ἰακώβ,n-s---ma-,OBJ
+Leuven|Genesis_deel3|79|6,6,.,.,u--------,AuxK

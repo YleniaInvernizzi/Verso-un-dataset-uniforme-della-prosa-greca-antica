@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---nn-,SBJ
+2,ἐψηφίσαντο,ψηφίζω,v3paim---,PRED
+3,ἐν,ἐν,r--------,AuxY
+4,τῷ,ὁ,l-s---nd-,ATR
+5,κοινῷ,κοινός,a-s---nd-,ATR
+6,βουλευτηρίῳ,βουλευτήριον,n-s---nd-,ADV
+7,.,punc1,u--------,AuxX

@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;οἱ;ὁ;l-p---mn-;ATR
+2;μὲν;μέν;d--------;AuxY
+3;γὰρ;γάρ;d--------;AuxY
+4;πολῖται;πολίτης;n-p---mn-;SBJ
+5;ἠνείχοντο;ἀνέχω;v3piie---;PRED_CO
+6;κακοπαθοῦντες;κακοπαθέω;v-pppamn-;ADV
+7;καὶ;καί;c--------;COORD
+8;παρέμενον;παραμένω;v3piia---;PRED_CO
+9;·;punc;u--------;AuxK

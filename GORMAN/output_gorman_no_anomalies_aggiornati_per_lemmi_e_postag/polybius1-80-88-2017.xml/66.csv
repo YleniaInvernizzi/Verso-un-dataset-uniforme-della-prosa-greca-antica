@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ὧν;ὅς;p-p---mg-;ATR
+2;ὅσους;ὅσος;a-p---ma-;OBJ
+3;λάβοι;λαμβάνω;v3saoa---;ATR
+4;ζωγρίᾳ;ζωγρίας;n-p---fn-;ADV
+5;,;punc;u--------;AuxX
+6;πάντας;πᾶς;a-p---ma-;OBJ
+7;παρέβαλλε;παραβάλλω;v3siia---;PRED
+8;τοῖς;ὁ;l-p---nd-;ATR
+9;θηρίοις;θηρίον;n-p---nd-;OBJ
+10;.;punc;u--------;AuxK

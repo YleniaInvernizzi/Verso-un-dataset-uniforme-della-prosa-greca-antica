@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|303|1,1,ὁ,ὁ,l-s---mn-,SBJ
+Leuven|Ps-Luc|303|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|303|3,3,καὶ,καί,d--------,AuxZ
+Leuven|Ps-Luc|303|4,4,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+Leuven|Ps-Luc|303|5,5,ἔπαιεν,παίω,v3siia---,PRED
+Leuven|Ps-Luc|303|6,6,.,.,u--------,AuxK

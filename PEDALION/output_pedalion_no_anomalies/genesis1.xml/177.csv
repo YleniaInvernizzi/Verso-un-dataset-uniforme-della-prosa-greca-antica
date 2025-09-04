@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|178|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|178|2,2,ἔλαβεν,λαμβάνω,v3saia---,PRED_CO
+2,Leuven|Genesis|178|3,3,ἑαυτῷ,ἑαυτοῦ,p-s---md-,OBJ
+3,Leuven|Genesis|178|4,4,Λαμεχ,Λαμεχ,n-s---mn-,SBJ
+4,Leuven|Genesis|178|5,5,δύο,δύο,m--------,ATR
+5,Leuven|Genesis|178|6,6,γυναῖκας,γυνή,n-p---fa-,OBJ
+7,Leuven|Genesis|178|8,8,ὄνομα,ὄνομα,n-s---na-,SBJ
+8,Leuven|Genesis|178|9,9,τῇ,ὁ,l-s---fd-,ATR
+9,Leuven|Genesis|178|10,10,μιᾷ,εἷς,m-s---fd-,OBJ
+10,Leuven|Genesis|178|11,11,Αδα,Αδα,n-s---fn-,PNOM
+12,Leuven|Genesis|178|13,13,καί,καί,c--------,COORD
+13,Leuven|Genesis|178|14,14,ὄνομα,ὄνομα,n-s---na-,SBJ
+14,Leuven|Genesis|178|15,15,τῇ,ὁ,l-s---fd-,ATR
+15,Leuven|Genesis|178|16,16,δευτέρᾳ,δεύτερος,a-s---fd-,OBJ
+16,Leuven|Genesis|178|17,17,Σελλα,Σελλα,n-s---fn-,PNOM

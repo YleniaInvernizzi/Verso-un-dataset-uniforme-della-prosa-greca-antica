@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|37|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|0544-002|37|2,2,τοίνυν,τοίνυν,d--------,AuxY
+Leuven|0544-002|37|3,3,τὸ,ὁ,l-s---nn-,ATR
+Leuven|0544-002|37|4,4,μὴ,μή,d--------,AuxZ
+Leuven|0544-002|37|5,5,ὂν,εἰμί,v-sppann-,SBJ
+Leuven|0544-002|37|6,6,διδάσκεται,διδάσκω,v3spie---,PRED
+Leuven|0544-002|37|7,7,.,.,u--------,AuxK

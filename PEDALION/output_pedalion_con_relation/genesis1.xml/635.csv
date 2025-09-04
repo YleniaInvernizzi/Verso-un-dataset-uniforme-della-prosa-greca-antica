@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|636|1,1,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis|636|2,2,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|636|3,3,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|636|4,4,σκηνῇ,σκηνή,n-s---fd-,ADV
+Leuven|Genesis|636|5,5,.,.,u--------,AuxK

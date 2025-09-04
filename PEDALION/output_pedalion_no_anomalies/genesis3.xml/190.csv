@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|191|1,1,ἀναστάς,ἀνίστημι,v-sapamn-,ADV
+1,Leuven|Genesis_deel3|191|2,2,κάθισον,καθίζω,v2sama---,PRED_CO
+2,Leuven|Genesis_deel3|191|3,3,καί,καί,c--------,COORD
+3,Leuven|Genesis_deel3|191|4,4,φάγε,ἐσθίω,v2sama---,PRED_CO
+4,Leuven|Genesis_deel3|191|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Genesis_deel3|191|6,6,θήρας,θήρα,n-s---fg-,OBJ
+6,Leuven|Genesis_deel3|191|7,7,μου,ἐγώ,p1s---cg-,ATR
+8,Leuven|Genesis_deel3|191|9,9,ὅπως,ὅπως,c--------,AuxC
+9,Leuven|Genesis_deel3|191|10,10,εὐλογήσῃ,εὐλογέω,v3sasa---,ADV
+10,Leuven|Genesis_deel3|191|11,11,με,ἐγώ,p1s---ca-,OBJ
+11,Leuven|Genesis_deel3|191|12,12,ἡ,ὁ,l-s---fn-,ATR
+12,Leuven|Genesis_deel3|191|13,13,ψυχή,ψυχή,n-s---fn-,SBJ
+13,Leuven|Genesis_deel3|191|14,14,σου,σύ,p2s---cg-,ATR

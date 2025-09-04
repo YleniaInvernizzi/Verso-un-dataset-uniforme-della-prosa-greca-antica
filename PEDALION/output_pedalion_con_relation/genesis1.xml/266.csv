@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|267|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|267|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED
+Leuven|Genesis|267|3,3,μετά,μετά,r--------,AuxP
+Leuven|Genesis|267|4,4,τάς,ὁ,l-p---fa-,ATR
+Leuven|Genesis|267|5,5,ἑπτά,ἑπτά,m--------,ATR
+Leuven|Genesis|267|6,6,ἡμέρας,ἡμέρα,n-p---fa-,ADV
+Leuven|Genesis|267|7,7,καί,καί,b--------,AuxY
+Leuven|Genesis|267|8,8,τό,ὁ,l-s---nn-,ATR
+Leuven|Genesis|267|9,9,ὕδωρ,ὕδωρ,n-s---nn-,SBJ
+Leuven|Genesis|267|10,10,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|267|11,11,κατακλυσμοῦ,κατακλυσμός,n-s---mg-,ATR
+Leuven|Genesis|267|12,12,ἐγένετο,γίγνομαι,v3saim---,OBJ
+Leuven|Genesis|267|13,13,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|267|14,14,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Genesis|267|15,15,γῆς,γῆ,n-s---fg-,ADV
+Leuven|Genesis|267|16,16,.,.,u--------,AuxK

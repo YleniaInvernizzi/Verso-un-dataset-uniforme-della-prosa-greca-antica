@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;Ἰωνικὸς;Ἰωνικός;a-s---mn-;ATR
+2;πλούταξ;πλούταξ;n-s---mn-;SBJ
+3;,;punc;u--------;AuxX
+4;ὑποστάσεις;ὑπόστασις;n-p---fa-;OCOMP
+5;ποιῶν;ποιέω;v-sppamn-;ADV
+6;κάνδαυλον;κάνδαυλος;n-s---ma-;OBJ_AP
+7;,;punc;u--------;APOS
+8;ὑποβινητιῶντα;ὑποβινητιάω;v-pppana-;ATR
+9;βρώματα;βρῶμα;n-p---na-;OBJ_AP
+10;.;punc;u--------;AuxK

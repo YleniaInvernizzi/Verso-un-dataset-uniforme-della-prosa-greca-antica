@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|30514|15|1,1,στρατευθῇ,στρατεύω,v3sasp---,ADV
+Leuven|30514|15|2,2,μή,μή,d--------,AuxZ
+Leuven|30514|15|3,3,στρατευθῇ,στρατεύω,v3sasp---,ADV
+Leuven|30514|15|4,4,δεῖ,δέω,v3spia---,PRED
+Leuven|30514|15|5,5,με,ἐγώ,p1s---ca-,SBJ
+Leuven|30514|15|6,6,ἀναβῆναι,ἀναβαίνω,v--ana---,SBJ
+Leuven|30514|15|7,7,.,.,u--------,AuxK

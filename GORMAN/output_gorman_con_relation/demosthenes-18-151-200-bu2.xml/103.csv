@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---na-,OBJ_CO
+2,καὶ,καί,c--------,COORD
+3,παραπλήσια,παραπλήσιος,a-p---na-,OBJ_CO
+4,τούτοις,οὗτος,p-p---nd-,ADV
+5,εἰπὼν,εἶπον,v-sapamn-,ADV
+6,κατέβην,καταβαίνω,v1saia---,PRED
+7,.,punc1,u--------,AuxK

@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|92|1,1,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|Genesis|92|2,2,κληθήσεται,καλέω,v3sfip---,PRED
+Leuven|Genesis|92|3,3,γυνή,γυνή,n-s---fn-,PNOM
+Leuven|Genesis|92|4,4,",",",",u--------,AuxX
+Leuven|Genesis|92|5,5,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|92|6,6,ἐκ,ἐκ,r--------,AuxP
+Leuven|Genesis|92|7,7,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Genesis|92|8,8,ἀνδρός,ἀνήρ,n-s---mg-,OBJ
+Leuven|Genesis|92|9,9,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis|92|10,10,ἐλήμφθη,λαμβάνω,v3saip---,ADV
+Leuven|Genesis|92|11,11,αὕτη,οὗτος,p-s---fn-,SBJ
+Leuven|Genesis|92|12,12,.,.,u--------,AuxK

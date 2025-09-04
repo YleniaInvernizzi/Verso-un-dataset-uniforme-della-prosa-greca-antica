@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;κηδεστὴς;κηδεστής;n-s---mn-;PNOM_CO
+2;γάρ;γάρ;d--------;AuxY
+3;μοι;ἐγώ;p1s---md-;ATR
+4;ἦν;εἰμί;v3siia---;PRED
+5;Διονυσόδωρος;Διονυσόδωρος;n-s---mn-;SBJ
+6;καὶ;καί;c--------;COORD
+7;ἀνεψιός;ἀνεψιός;n-s---mn-;PNOM_CO
+8;.;punc;u--------;AuxK

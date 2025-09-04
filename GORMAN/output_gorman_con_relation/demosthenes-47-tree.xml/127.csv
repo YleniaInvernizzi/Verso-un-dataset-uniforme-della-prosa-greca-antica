@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxZ
+2,ταῦτα,οὗτος,p-p---na-,OBJ
+3,ἔχουσιν,ἔχω,v-pppamd-,ATR
+4,οὐκ,οὐ,d--------,AuxZ
+5,ἐξήρκεσεν,ἐξαρκέω,v3saia---,PRED
+6,αὐτοῖς,αὐτός,p-p---md-,OBJ
+7,·,·,u--------,AuxK

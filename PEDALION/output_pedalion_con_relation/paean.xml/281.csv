@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|283|1,1,τότε,τότε,d--------,ADV
+Leuven|PaeanBrev|283|2,2,δή,δή,d--------,AuxY
+Leuven|PaeanBrev|283|3,3,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|283|4,4,πόλεις,πόλις,n-p---fn-,SBJ
+Leuven|PaeanBrev|283|5,5,παρά,παρά,r--------,AuxP
+Leuven|PaeanBrev|283|6,6,Ῥωμαίοις,Ῥωμαῖος,a-p---md-,OBJ
+Leuven|PaeanBrev|283|7,7,ᾠκοδομήθησαν,οἰκοδομέω,v3paip---,PRED
+Leuven|PaeanBrev|283|8,8,Ἀρίμινος,Ἀρίμινος,n-s---mn-,APOS_CO
+Leuven|PaeanBrev|283|9,9,τε,τε,b--------,AuxY
+Leuven|PaeanBrev|283|10,10,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|283|11,11,Γάλλοις,Γάλλος,n-p---md-,ADV_CO
+Leuven|PaeanBrev|283|12,12,καί,καί,b--------,COORD
+Leuven|PaeanBrev|283|13,13,Βενεβεντός,Βενεβεντός,n-s---mn-,APOS_CO
+Leuven|PaeanBrev|283|14,14,ἐν,ἐν,r--------,AuxP
+Leuven|PaeanBrev|283|15,15,Σαμνίῳ,Σάμνιον,n-s---nd-,ADV_CO
+Leuven|PaeanBrev|283|16,16,.,.,u--------,AuxK

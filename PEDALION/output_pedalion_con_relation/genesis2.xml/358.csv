@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|359|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|359|2,2,ἠρώτησα,ἐρωτάω,v1saia---,PRED_CO
+Leuven|Genesis_deel2|359|3,3,αὐτήν,αὐτός,p-s---fa-,OBJ
+Leuven|Genesis_deel2|359|4,4,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|359|5,5,εἶπα,λέγω,v1saia---,PRED_CO
+Leuven|Genesis_deel2|359|6,6,·,·,u--------,AuxK

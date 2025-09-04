@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30269|3|1,1,πολλά,πολύς,a-p---nn-,SBJ
+1,Leuven|30269|3|2,2,ἐντέτριπται,ἐντρίβω,v3srie---,PRED
+2,Leuven|30269|3|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|30269|3|4,4,ὑπό,ὑπό,r--------,AuxP
+4,Leuven|30269|3|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|30269|3|6,6,θυγατρός,θυγάτηρ,n-s---fg-,OBJ
+6,Leuven|30269|3|7,7,μου,ἐγώ,p1s---cg-,ATR

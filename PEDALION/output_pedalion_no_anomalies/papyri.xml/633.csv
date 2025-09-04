@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31917|7|1,1,καί,καί,d--------,AuxZ
+1,Leuven|31917|7|2,2,ποσάκις,ποσάκις,d--------,ADV
+2,Leuven|31917|7|3,3,σοι,σύ,p2s---cd-,OBJ
+3,Leuven|31917|7|4,4,ἔγραψα,γράφω,v1saia---,PRED_CO
+4,Leuven|31917|7|5,5,καί,καί,c--------,COORD
+5,Leuven|31917|7|6,6,οὐκ,οὐ,d--------,AuxZ
+6,Leuven|31917|7|7,7,ἀντέγραψας,ἀντιγράφω,v2saia---,PRED_CO
+7,Leuven|31917|7|8,8,μοι,ἐγώ,p1s---cd-,OBJ

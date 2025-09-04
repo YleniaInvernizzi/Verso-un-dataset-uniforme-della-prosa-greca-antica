@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|112|1,1,καί,καί,d--------,AuxZ
+Leuven|Genesis|112|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|112|3,3,αὐτῷ,αὐτός,p-s---md-,OBJ
+Leuven|Genesis|112|4,4,·,·,u--------,AuxK

@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὥστε,ὥστε,d--------,AuxY
+2,σὺ,σύ,p-s---mn-,SBJ
+3,πολλὰ,πολύς,a-p---na-,OBJ
+4,πορνεῖα,πορνεῖον,n-p---na-,OCOMP
+5,τῇ,ὁ,l-s---fd-,ATR
+6,τῆς,ὁ,l-s---fg-,ATR
+7,πράξεως,πρᾶξις,n-s---fg-,ATR
+8,εὐχερείᾳ,εὐχέρεια,n-s---fd-,ADV
+9,πεποίηκας,ποιέω,v2sria---,PRED
+10,.,punc1,u--------,AuxK

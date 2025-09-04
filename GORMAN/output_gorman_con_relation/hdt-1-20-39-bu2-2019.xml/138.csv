@@ -1,0 +1,5 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀμείβεται,ἀμείβω,v3spie---,PRED
+2,Κροῖσος,Κροῖσος,n-s---mn-,SBJ
+3,τοῖσιδε,ὅδε,p-p---nd-,OBJ
+4,.,punc1,u--------,AuxK

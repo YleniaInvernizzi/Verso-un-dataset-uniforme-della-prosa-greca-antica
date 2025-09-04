@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|233|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|233|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|233|3,3,οἴχονται,οἴχομαι,v3ppie---,PRED
+3,Leuven|Ps-Luc|233|4,4,ἀπιόντες,ἄπειμι,v-pppamn-,ADV

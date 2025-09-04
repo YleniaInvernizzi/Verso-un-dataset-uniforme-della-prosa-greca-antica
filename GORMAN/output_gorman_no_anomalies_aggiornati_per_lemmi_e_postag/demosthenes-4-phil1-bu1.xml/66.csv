@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;πόθεν;ποθεν;d--------;PNOM
+2;δὴ;δή;d--------;AuxY
+3;τούτοις;οὗτος;p-p---md-;ATR
+4;ἡ;ὁ;l-s---fn-;ATR
+5;τροφὴ;τροφή;n-s---fn-;SBJ
+6;γενήσεται;γίγνομαι;v3sfim---;PRED
+7;";";punc;u--------;AuxK

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|42|1,1,ᾧ,ὅς,p-s---nd-,OBJ
+Leuven|0544-002|42|2,2,ἀκολουθήσει,ἀκολουθέω,v3sfia---,PRED
+Leuven|0544-002|42|3,3,τὸ,ὁ,l-s---na-,ATR
+Leuven|0544-002|42|4,4,μηδὲν,μηδείς,p-s---na-,SBJ
+Leuven|0544-002|42|5,5,εἶναι,εἰμί,v--pna---,SBJ
+Leuven|0544-002|42|6,6,διδακτόν,διδακτός,a-s---na-,PNOM
+Leuven|0544-002|42|7,7,·,·,u--------,AuxK

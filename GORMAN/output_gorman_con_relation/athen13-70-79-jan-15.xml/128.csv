@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ὡς,ὡς,d--------,ADV
+2,ἐποίησε,ποιέω,v3saia---,PRED
+3,Πολυκράτης,Πολυκράτης,n-s---mn-,SBJ
+4,ὁ,ὁ,l-s---mn-,ATR
+5,Σαμίων,Σάμιος,a-p---mg-,ATR
+6,τύραννος,τύραννος,n-s---mn-,ATR
+7,.,punc1,u--------,AuxK

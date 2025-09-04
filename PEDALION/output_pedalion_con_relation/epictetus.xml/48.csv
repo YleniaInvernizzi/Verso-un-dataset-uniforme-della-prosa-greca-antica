@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|49|1,1,ὡς,ὡς,c--------,AuxC
+Leuven|0557-001|49|2,2,ἄν,ἄν,d--------,AuxY
+Leuven|0557-001|49|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|0557-001|49|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|0557-001|49|5,5,θέλῃ,ἐθέλω,v3spsa---,ADV
+Leuven|0557-001|49|6,6,.,.,u--------,AuxK
+Leuven|0557-001|49|7,7,[0],,,PRED

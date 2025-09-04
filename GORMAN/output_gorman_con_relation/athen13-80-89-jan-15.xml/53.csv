@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,σὺ,σύ,p-s---mn-,SBJ
+2,δ᾽,δέ,d--------,AuxY
+3,οὐ,οὐ,d--------,AuxZ
+4,σοφός,σοφός,a-s---mn-,PNOM
+5,",",punc1,u--------,AuxX
+6,ὃς,ὅς,p-s---mn-,SBJ
+7,τὸν,ὁ,l-s---ma-,ATR
+8,Ἔρωτα,Ἔρως,n-s---ma-,OBJ
+9,ἀλλοτρίαν,ἀλλότριος,a-s---fa-,OBJ
+10,σπείρων,σπείρω,v-sppamn-,ADV
+11,λωποδύτην,λωποδύτης,n-s---ma-,ATV
+12,ἀπάγεις,ἀπάγω,v2spia---,ATR
+13,.,punc1,u--------,AuxK
+14,εἶς,εἶμι,v2spia---,PRED

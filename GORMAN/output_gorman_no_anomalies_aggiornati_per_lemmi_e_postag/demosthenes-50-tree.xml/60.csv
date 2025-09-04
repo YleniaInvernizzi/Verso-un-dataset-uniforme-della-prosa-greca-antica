@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐβούλετο;βούλομαι;v3siie---;PRED
+2;γὰρ;γάρ;d--------;AuxY
+3;Ἀθηναῖος;Ἀθηναῖος;a-s---mn-;PNOM
+4;εἶναι;εἰμί;v--pna---;OBJ
+5;.;punc;u--------;AuxK

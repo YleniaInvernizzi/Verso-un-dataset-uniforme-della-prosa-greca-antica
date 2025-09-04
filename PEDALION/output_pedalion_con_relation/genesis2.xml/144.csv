@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|145|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|145|2,2,πάντα,πᾶς,a-s---ma-,OBJ
+Leuven|Genesis_deel2|145|3,3,ἀλήθευσον,ἀληθεύω,v2sama---,PRED
+Leuven|Genesis_deel2|145|4,4,.,.,u--------,AuxK

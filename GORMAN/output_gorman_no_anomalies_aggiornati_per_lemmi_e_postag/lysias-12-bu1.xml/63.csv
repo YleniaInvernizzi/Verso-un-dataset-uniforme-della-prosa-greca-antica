@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀνάβηθι;ἀναβαίνω;v2sama---;PRED_CO
+2;οὖν;οὖν;d--------;AuxY
+3;μοι;ἐγώ;p1s---md-;ADV
+4;καὶ;καί;c--------;COORD
+5;ἀπόκριναι;ἀποκρίνω;v2samm---;PRED_CO
+6;,;punc;u--------;AuxX
+7;ὅ;ὅς;p-s---na-;OBJ
+8;τι;τις;a-s---na-;ATR
+9;ἄν;ἄν;d--------;AuxY
+10;σε;σύ;p2s---ma-;OBJ
+11;ἐρωτῶ;ἐρωτάω;v1spsa---;OBJ
+12;.;punc;u--------;AuxK

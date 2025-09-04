@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;Δημήτριος;Δημήτριος;n-s---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;πάντας;πᾶς;a-p---ma-;OBJ
+4;ὑπερέβαλεν;ὑπερβάλλω;v3saia---;PRED
+5;:;punc;u--------;AuxK

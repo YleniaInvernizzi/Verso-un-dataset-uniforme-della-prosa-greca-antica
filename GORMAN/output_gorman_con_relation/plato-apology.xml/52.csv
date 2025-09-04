@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,Εὔηνος,Εὔηνος,n-s---mn-,PNOM
+2,",",punc1,u--------,AuxX
+3,ἔφη,φημί,v3siia---,PRED
+4,",",punc1,u--------,AuxX
+5,ὦ,ὦ,i--------,AuxZ
+6,Σώκρατες,Σωκράτης,n-s---mv-,ExD
+7,",",punc1,u--------,AuxX
+8,Πάριος,Πάριος,a-s---mn-,PNOM
+9,",",punc1,u--------,AuxX
+10,πέντε,πέντε,a-_---___,ATR
+11,μνῶν,μνᾶ,n-p---fg-,OBJ
+12,.,punc1,u--------,AuxX
+13,ἔστιν,εἰμί,v3spia---,OBJ_CO
+14,[0],,,OBJ_CO
+15,ἔστιν,εἰμί,v3spia---,OBJ_CO

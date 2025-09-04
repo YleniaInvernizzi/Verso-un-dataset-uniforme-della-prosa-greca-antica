@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|7|1,1,γράμματα,γράμμα,n-p---na-,OBJ
+Leuven|Ps-Luc|7|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|7|3,3,αὐτῶι,αὐτός,p-s---md-,ATR
+Leuven|Ps-Luc|7|4,4,ἐκόμιζον,κομίζω,v1siia---,PRED
+Leuven|Ps-Luc|7|5,5,οἴκοθεν,οἴκοθεν,d--------,ADV
+Leuven|Ps-Luc|7|6,6,",",",",u--------,AuxX
+Leuven|Ps-Luc|7|7,7,ὥστε,ὥστε,c--------,AuxC
+Leuven|Ps-Luc|7|8,8,οἰκῆσαι,οἰκέω,v--ana---,ADV
+Leuven|Ps-Luc|7|9,9,παρ’,παρά,r--------,AuxP
+Leuven|Ps-Luc|7|10,10,αὐτῶι,αὐτός,p-s---md-,ADV
+Leuven|Ps-Luc|7|11,11,.,.,u--------,AuxK

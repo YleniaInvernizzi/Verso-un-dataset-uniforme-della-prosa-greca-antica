@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|119|1,1,ἕνεκεν,ἕνεκα,r--------,AuxP
+1,Leuven|Genesis_deel2|119|2,2,τούτου,οὗτος,p-s---mg-,ADV
+2,Leuven|Genesis_deel2|119|3,3,οὐκ,οὐ,d--------,AuxZ
+3,Leuven|Genesis_deel2|119|4,4,ἀφῆκα,ἀφίημι,v1saia---,PRED
+4,Leuven|Genesis_deel2|119|5,5,σε,σύ,p2s---ca-,SBJ
+5,Leuven|Genesis_deel2|119|6,6,ἅψασθαι,ἅπτω,v--anm---,OBJ
+6,Leuven|Genesis_deel2|119|7,7,αὐτῆς,αὐτός,p-s---fg-,OBJ

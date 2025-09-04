@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;τοῦτ᾽;οὗτος;p-s---nn-;SBJ
+2;ἔστιν;εἰμί;v3spia---;PRED_CO
+3;Ἀκαδήμεια;Ἀκαδήμεια;n-s---fn-;PNOM
+4;,;punc;u--------;COORD
+5;τοῦτο;οὗτος;p-s---nn-;SBJ
+6;Ξενοκράτης;Ξενοκράτης;n-s---mn-;PNOM
+7;";";punc;u--------;AuxK
+8;ἐστιν;εἰμί;v3spia---;PRED_CO

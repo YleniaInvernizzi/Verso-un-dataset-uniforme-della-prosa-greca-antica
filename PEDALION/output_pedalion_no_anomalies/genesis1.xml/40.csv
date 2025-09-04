@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|41|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|41|2,2,ηὐλόγησεν,εὐλογέω,v3saia---,PRED
+2,Leuven|Genesis|41|3,3,αὐτά,αὐτός,p-p---na-,OBJ
+3,Leuven|Genesis|41|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Genesis|41|5,5,θεός,θεός,n-s---mn-,SBJ
+5,Leuven|Genesis|41|6,6,λέγων,λέγω,v-sppamn-,ADV
+6,Leuven|Genesis|41|7,7,·,·,u--------,AuxK

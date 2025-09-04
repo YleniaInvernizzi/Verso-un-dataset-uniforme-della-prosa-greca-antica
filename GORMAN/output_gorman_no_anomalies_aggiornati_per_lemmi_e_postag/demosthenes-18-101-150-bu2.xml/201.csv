@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;εἰπὲ;λέγω;v2sama---;PRED_CO
+2;τὸν;ὁ;l-s---ma-;ATR
+3;εἰδότα;οἶδα;v-srpama-;OBJ
+4;,;punc;u--------;COORD
+5;δεῖξον;δείκνυμι;v2sama---;PRED_CO
+6;.;punc;u--------;AuxK

@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31368|4|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|31368|4|2,2,δὲ,δέ,d--------,AuxY
+Leuven|31368|4|3,3,μετανοεῖς,μετανοέω,v2spia---,ADV
+Leuven|31368|4|4,4,σὺ,σύ,p2s---cn-,SBJ
+Leuven|31368|4|5,5,οἶδας,οἶδα,v2sria---,PRED
+Leuven|31368|4|6,6,.,.,u--------,AuxK

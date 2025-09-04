@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|420|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|420|2,2,ἦν,εἰμί,v3siia---,PRED_CO
+2,Leuven|Genesis|420|3,3,Σαρα,Σαρα,n-s---fn-,SBJ
+3,Leuven|Genesis|420|4,4,στεῖρα,στεῖρα,n-s---fn-,PNOM
+4,Leuven|Genesis|420|5,5,καί,καί,c--------,COORD
+5,Leuven|Genesis|420|6,6,οὐκ,οὐ,d--------,AuxZ
+6,Leuven|Genesis|420|7,7,ἐτεκνοποίει,τεκνοποιέω,v3siia---,PRED_CO

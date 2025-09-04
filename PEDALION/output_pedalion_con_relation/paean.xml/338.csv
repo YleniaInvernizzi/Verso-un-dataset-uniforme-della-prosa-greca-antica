@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|340|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|340|2,2,σύμβουλος,σύμβουλος,n-s---mn-,PNOM
+Leuven|PaeanBrev|340|3,3,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|PaeanBrev|340|4,4,Ρωμαίοις,Ρωμαῖος,a-p---md-,ADV
+Leuven|PaeanBrev|340|5,5,μή,μή,d--------,AuxZ
+Leuven|PaeanBrev|340|6,6,προσέσθαι,προσίημι,v--anm---,ADV
+Leuven|PaeanBrev|340|7,7,τούς,ὁ,l-p---ma-,ATR
+Leuven|PaeanBrev|340|8,8,Ἄφρους,Ἄφρος,n-p---ma-,OBJ
+Leuven|PaeanBrev|340|9,9,ἐπαγγέλλοντας,ἐπαγγέλλω,v-pppama-,ADV
+Leuven|PaeanBrev|340|10,10,εἰρήνην,εἰρήνη,n-s---fa-,OBJ
+Leuven|PaeanBrev|340|11,11,.,.,u--------,AuxK

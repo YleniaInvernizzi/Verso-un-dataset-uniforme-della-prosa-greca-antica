@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;φέρεσθαι;φέρω;v--pne---;PRED_CO
+2;γὰρ;γάρ;d--------;AuxY
+3;καὶ;καί;c--------;COORD
+4;ἄγεσθαι;ἄγω;v--pne---;PRED_CO
+5;ὑπὸ;ὑπό;r--------;AuxP
+6;τῶν;ὁ;l-p---mg-;ATR
+7;Θρᾳκῶν;Θρᾷξ;n-p---mg-;OBJ
+8;·;punc;u--------;AuxK

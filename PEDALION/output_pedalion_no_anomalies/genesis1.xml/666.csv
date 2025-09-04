@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|667|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|Genesis|667|2,2,ἀνήσεις,ἀνίημι,v2sfia---,PRED
+2,Leuven|Genesis|667|3,3,πάντα,πᾶς,a-s---ma-,ATR
+3,Leuven|Genesis|667|4,4,τόν,ὁ,l-s---ma-,ATR
+4,Leuven|Genesis|667|5,5,τόπον,τόπος,n-s---ma-,OBJ
+5,Leuven|Genesis|667|6,6,ἕνεκεν,ἕνεκα,r--------,AuxP
+6,Leuven|Genesis|667|7,7,τῶν,ὁ,l-p---mg-,ATR
+7,Leuven|Genesis|667|8,8,πεντήκοντα,πεντήκοντα,m--------,ATR
+8,Leuven|Genesis|667|9,9,δικαίων,δίκαιος,a-p---mg-,ADV
+10,Leuven|Genesis|667|11,11,ἐάν,ἐάν,c--------,AuxC
+11,Leuven|Genesis|667|12,12,ὦσιν,εἰμί,v3ppsa---,ADV
+12,Leuven|Genesis|667|13,13,ἐν,ἐν,r--------,AuxP
+13,Leuven|Genesis|667|14,14,αὐτῇ,αὐτός,p-s---fd-,ADV
+14,Leuven|Genesis|667|15,15,;,;,u--------,AuxK

@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,δυνάμει,δύναμις,n-s---fd-,ADV
+2,γὰρ,γάρ,d--------,AuxY
+3,ταῦτα,οὗτος,p-p---nn-,SBJ
+4,μέγιστα,μέγας,a-p---nn-,PNOM
+5,διεφάνη,διαφαίνω,v3saip---,PRED
+6,:,punc1,u--------,AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὰς,ὁ,l-p---fa-,ATR
+1,2,ὀφρῦς,ὀφρύς,n-p---fa-,OBJ
+2,3,πυρρὰς,πυρρός,a-p---fa-,ATR
+3,4,ἔχει,ἔχω,v3spia---,PRED
+4,5,τις,τις,p-s---cn-,SBJ
+5,6,:,punc1,u--------,AuxK

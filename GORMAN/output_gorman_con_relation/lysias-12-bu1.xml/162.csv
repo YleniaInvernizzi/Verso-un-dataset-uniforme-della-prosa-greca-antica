@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,γάρ,γάρ,d--------,AuxY
+3,μοι,ἐγώ,p1s---md-,OBJ
+4,δοκοῦσιν,δοκόω,v3ppia---,PRED
+5,ἴσου,ἴσος,a-s---ng-,ADV
+6,ἄξιοι,ἄξιος,a-p---mn-,PNOM
+7,γεγενῆσθαι,γίγνομαι,v--rne---,OBJ
+8,·,punc1,u--------,AuxK

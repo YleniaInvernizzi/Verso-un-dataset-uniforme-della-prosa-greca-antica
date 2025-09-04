@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|170|1,1,φασὶ,φημί,v3ppia---,PRED
+Leuven|Ps-Luc|170|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|170|3,3,τὸν,ὁ,l-s---ma-,ATR
+Leuven|Ps-Luc|170|4,4,φαγόντα,ἐσθίω,v-sapama-,SBJ
+Leuven|Ps-Luc|170|5,5,ἀποθνήισκειν,ἀποθνῄσκω,v--pna---,OBJ
+Leuven|Ps-Luc|170|6,6,αὐτίκα,αὐτίκα,d--------,ADV
+Leuven|Ps-Luc|170|7,7,.,.,u--------,AuxK

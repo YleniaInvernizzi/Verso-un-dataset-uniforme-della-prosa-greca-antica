@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|39|1,1,ἱμάτια,ἱμάτιον,n-p---nn-,SBJ_CO
+1,Leuven|Ps-Luc|39|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|39|3,3,ἀνθινὰ,ἀνθινός,a-p---nn-,ATR
+3,Leuven|Ps-Luc|39|4,4,καὶ,καί,c--------,AuxY
+4,Leuven|Ps-Luc|39|5,5,παῖδες,παῖς,n-p---cn-,SBJ_CO
+5,Leuven|Ps-Luc|39|6,6,συχνοὶ,συχνός,a-p---mn-,ATR
+6,Leuven|Ps-Luc|39|7,7,καὶ,καί,c--------,COORD
+7,Leuven|Ps-Luc|39|8,8,χρυσίον,χρυσίον,n-s---nn-,SBJ_CO
+8,Leuven|Ps-Luc|39|9,9,περιττόν,περισσός,a-s---nn-,PNOM
+10,Leuven|Ps-Luc|39|11,11,ἦσαν,εἰμί,v3piia---,PRED

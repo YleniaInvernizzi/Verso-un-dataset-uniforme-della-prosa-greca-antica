@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,δέδοται,δίδωμι,v3srie---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,τῷ,ὁ,l-s---md-,ATR
+4,κωλύοντι,κωλύω,v-sppamd-,OBJ
+5,μη,μη,d-------_,AuxZ
+6,-δʼ,δέ,d-------_,AuxZ
+7,ἐπιλέγειν,ἐπιλέγω,v--pna---,SBJ
+8,.,punc1,u--------,AuxK

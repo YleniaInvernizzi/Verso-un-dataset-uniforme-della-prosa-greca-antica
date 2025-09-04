@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ἢ,ἤ1,d--------,AuxY
+2,καλῶν,καλός,a-p---ng-,ATR_CO
+3,ἢ,ἤ1,c--------,COORD
+4,μὴ,μή,d--------,AuxZ
+5,τοιούτων,τοιοῦτος,p-p---ng-,ATR_CO
+6,τίς,τις,a-s---fn_,ATR
+7,διάγνωσις,διάγνωσις,n-s---fn-,SBJ
+8,;,punc1,u--------,AuxK
+9,ἐστιν,εἰμί,v3spia---,PRED

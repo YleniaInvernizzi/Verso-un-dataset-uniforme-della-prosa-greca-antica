@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|371|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|371|2,2,υἱοί,υἱός,n-p---mn-,SBJ
+2,Leuven|Genesis|371|3,3,Αραμ,Αραμ,n-s---mg-,ATR
+3,Leuven|Genesis|371|4,4,·,·,u--------,AuxK

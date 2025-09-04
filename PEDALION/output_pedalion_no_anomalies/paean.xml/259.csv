@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|261|1,1,ἐντεῦθεν,ἐντεῦθεν,d--------,ADV
+1,Leuven|PaeanBrev|261|2,2,ἐκστρατεύουσι,ἐκστρατεύω,v3ppia---,PRED
+2,Leuven|PaeanBrev|261|3,3,πάλιν,πάλιν,d--------,ADV
+3,Leuven|PaeanBrev|261|4,4,ἐπί,ἐπί,r--------,AuxP
+4,Leuven|PaeanBrev|261|5,5,τόν,ὁ,l-s---ma-,ATR
+5,Leuven|PaeanBrev|261|6,6,Πύρρον,Πύρρος,n-s---ma-,ADV
+6,Leuven|PaeanBrev|261|7,7,ὑφʼ,ὑπό,r--------,AuxP
+7,Leuven|PaeanBrev|261|8,8,ἡγεμόσιν,ἡγεμών,n-p---md-,OBJ
+8,Leuven|PaeanBrev|261|9,9,ὑπάτοις,ὕπατος,a-p---md-,APOS
+9,Leuven|PaeanBrev|261|10,10,Πουβλίῳ,Πούβλιος,n-s---md-,APOS
+10,Leuven|PaeanBrev|261|11,11,Σουλπικίῳ,Σουλπίκιος,n-s---md-,APOS_CO
+11,Leuven|PaeanBrev|261|12,12,καί,καί,c--------,COORD
+12,Leuven|PaeanBrev|261|13,13,Δεκίῳ,Δέκιος,n-s---md-,APOS_CO

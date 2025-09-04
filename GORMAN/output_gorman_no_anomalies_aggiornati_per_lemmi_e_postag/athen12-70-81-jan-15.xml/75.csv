@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;Μελήτου;Μέλητος;n-s---mg-;ATR
+2;τὸν;ὁ;l-s---ma-;ATR
+3;ἀπὸ;ἀπό;r--------;AuxP
+4;Ληναίου;Λήναιον;n-s---ng-;ATR
+5;νεκρόν;νεκρός;a-s---ma-;OBJ
+6;.;punc;u--------;AuxK

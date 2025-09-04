@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀλλὰ,ἀλλά,d--------,AuxY
+1,2,τόδε,ὅδε,p-s---na-,OBJ
+2,3,σκοπεῖτε,σκοπέω,v2ppma---,PRED
+3,4,:,punc1,u--------,AuxK

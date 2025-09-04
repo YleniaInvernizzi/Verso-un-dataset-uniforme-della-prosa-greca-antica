@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,δεκάτῳ,δέκατος,a-s---nd-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,ἔτει,ἔτος,n-s---nd-,ADV
+4,ἑάλω,ἁλίσκομαι,v3saia---,PRED
+5,καὶ,καί,d--------,AuxZ
+6,ἡ,ὁ,l-s---fn-,ATR
+7,Κίρρα,Κίρρα,n-d---fn-,SBJ
+8,.,punc1,u--------,AuxK

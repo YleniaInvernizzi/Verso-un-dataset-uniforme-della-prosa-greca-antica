@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,εἶπεν,εἶπον,v3saia---,PRED
+1,2,Ἀριστόνικος,Ἀριστόνικος,n-s---mn-,SBJ
+2,3,Φρεάρριος,Φρεάρριος,a-s---mn-,ATR
+3,4,.,punc1,u--------,AuxX

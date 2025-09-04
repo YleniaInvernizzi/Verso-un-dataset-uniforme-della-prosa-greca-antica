@@ -1,0 +1,16 @@
+@id,@form,@lemma,@postag,@relation
+1,τίς,τις,p-s---mn-,PNOM
+2,",",punc1,u--------,AuxX
+3,ἦν,ἠμί,v1siia---,PRED
+4,δʼ,δέ,d--------,AuxY
+5,ἐγώ,ἐγώ,p1s---mn-,SBJ
+6,",",punc1,u--------,AuxX
+7,καὶ,καί,d--------,AuxY
+8,ποδαπός,ποδαπός,a-s---mn-,PNOM
+9,",",punc1,u--------,AuxX
+10,καὶ,καί,c--------,COORD
+11,πόσου,πόσος,a-s---ng-,OBJ
+12,διδάσκει,διδάσκω,v3spia---,OBJ_CO
+13,;,punc1,u--------,AuxX
+14,ἔστιν,εἰμί,v3spia---,OBJ_CO
+15,ἔστιν,εἰμί,v3spia---,OBJ_CO

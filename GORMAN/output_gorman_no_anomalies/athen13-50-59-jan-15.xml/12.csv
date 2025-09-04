@@ -1,0 +1,10 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἄγων,ἄγω,v-sppamn-,ADV_CO
+1,2,Γλυκέραν,Γλυκέρα,n-s---fa-,OBJ
+2,3,τε,τε,d--------,AuxZ
+3,4,τὴν,ὁ,l-s---fa-,ATR
+4,5,Θαλασσίδος,Θαλάσσις,n-s---fg-,ATR
+5,6,",",punc1,u--------,COORD
+6,7,ζεῦγος,ζεῦγος,n-s---na-,OBJ
+7,8,ἔχων,ἔχω,v-sppamn-,ADV_CO
+8,9,.,punc1,u--------,AuxK

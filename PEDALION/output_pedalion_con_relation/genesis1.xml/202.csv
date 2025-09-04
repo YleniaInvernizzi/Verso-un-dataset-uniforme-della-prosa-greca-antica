@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|203|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|203|2,2,ἐγένοντο,γίγνομαι,v3paim---,PRED_CO
+Leuven|Genesis|203|3,3,πᾶσαι,πᾶς,a-p---fn-,ATR
+Leuven|Genesis|203|4,4,αἱ,ὁ,l-p---fn-,ATR
+Leuven|Genesis|203|5,5,ἡμέραι,ἡμέρα,n-p---fn-,SBJ
+Leuven|Genesis|203|6,6,Ενως,Ενως,n-s---mg-,ATR
+Leuven|Genesis|203|7,7,ἐννακόσια,ἐννακόσιοι,a-p---na-,ATR_CO
+Leuven|Genesis|203|8,8,καί,καί,b--------,COORD
+Leuven|Genesis|203|9,9,πέντε,πέντε,m--------,ATR_CO
+Leuven|Genesis|203|10,10,ἔτη,ἔτος,n-p---na-,PNOM
+Leuven|Genesis|203|11,11,",",",",u--------,AuxX
+Leuven|Genesis|203|12,12,καί,καί,b--------,COORD
+Leuven|Genesis|203|13,13,ἀπέθανεν,ἀποθνῄσκω,v3saia---,PRED_CO
+Leuven|Genesis|203|14,14,.,.,u--------,AuxK

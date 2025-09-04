@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|260|1,1,πάντες,πᾶς,a-p---mn-,ADV
+Leuven|Ps-Luc|260|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|260|3,3,ἂν,ἄν,d--------,AuxY
+Leuven|Ps-Luc|260|4,4,ἑάλωμεν,ἁλίσκομαι,v1paia---,PRED
+Leuven|Ps-Luc|260|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|260|6,6,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|260|7,7,ἐχθρῶν,ἐχθρός,a-p---mg-,SBJ
+Leuven|Ps-Luc|260|8,8,ἐκ,ἐκ,r--------,AuxP
+Leuven|Ps-Luc|260|9,9,παρασκευῆς,παρασκευή,n-s---fg-,ADV
+Leuven|Ps-Luc|260|10,10,ἡμῖν,ἐγώ,p1p---cd-,OBJ
+Leuven|Ps-Luc|260|11,11,ἐπιπεσόντων,ἐπιπίπτω,v-papamg-,ADV
+Leuven|Ps-Luc|260|12,12,.,.,u--------,AuxK

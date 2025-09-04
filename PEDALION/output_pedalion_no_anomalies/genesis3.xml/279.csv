@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|280|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|280|2,2,ἐφοβήθη,φοβέω,v3saip---,PRED_CO
+2,Leuven|Genesis_deel3|280|3,3,καί,καί,c--------,COORD
+3,Leuven|Genesis_deel3|280|4,4,εἶπεν,λέγω,v3saia---,PRED_CO

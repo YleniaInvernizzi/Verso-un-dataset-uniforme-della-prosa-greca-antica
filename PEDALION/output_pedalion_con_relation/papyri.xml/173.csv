@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21347|13|1,1,ἔπεμψά,πέμπω,v1saia---,PRED
+Leuven|21347|13|2,2,σοι,σύ,p2s---cd-,OBJ
+Leuven|21347|13|3,3,διὰ,διά,r--------,AuxP
+Leuven|21347|13|4,4,Ἀντωνίνου,Ἀντωνῖνος,n-s---mg-,ADV
+Leuven|21347|13|5,5,ἀπὸ,ἀπό,r--------,AuxP
+Leuven|21347|13|6,6,Ψινέστους,Ψινέστης,n-s---mg-,ADV
+Leuven|21347|13|7,7,τάλαντον,τάλαντον,n-s---na-,OBJ
+Leuven|21347|13|8,8,ἕν,εἷς,m-s---na-,ATR
+Leuven|21347|13|9,9,.,.,u--------,AuxK

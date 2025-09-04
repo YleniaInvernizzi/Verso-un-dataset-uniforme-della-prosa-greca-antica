@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐκεῖνοι;ἐκεῖνος;p-p---mn-;SBJ
+2;στρατηγήσουσιν;στρατηγέω;v3pfia---;PRED
+3;τοῦ;ὁ;l-s---mg-;ATR
+4;πολέμου;πόλεμος;n-s---mg-;OBJ
+5;τῶν;ὁ;l-p---mg-;ATR
+6;ζώντων;ζάω;v-pppamg-;ADV
+7;ἄμεινον;ἀγαθός;a-s---nac;ADV
+8;.;punc;u--------;AuxK

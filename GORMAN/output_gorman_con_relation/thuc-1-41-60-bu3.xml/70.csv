@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀδικεῖτε,ἀδικέω,v2ppma---,PRED
+2,",",punc1,u--------,AuxX
+3,ὦ,ὦ,i--------,AuxZ
+4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+5,Ἀθηναῖοι,Ἀθηναῖος,n-p---mv-,ATR
+6,",",punc1,u--------,AuxX
+7,πολέμου,πόλεμος,n-s---mg-,OBJ
+8,ἄρχοντες,ἄρχων,n-p---mn-,ADV_CO
+9,καὶ,καί,c--------,COORD
+10,σπονδὰς,σπονδή,n-p---fa-,OBJ
+11,λύοντες,λύω,v-pppamn-,ADV_CO
+12,:,punc1,u--------,AuxK

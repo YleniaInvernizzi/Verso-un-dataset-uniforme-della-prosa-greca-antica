@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0059-003|89|1,1,ταῦτα,οὗτος,p-p---nn-,SBJ
+Leuven|0059-003|89|2,2,οὐχὶ,οὐ,d--------,AuxZ
+Leuven|0059-003|89|3,3,καλῶς,καλός,d--------,ADV
+Leuven|0059-003|89|4,4,λέγεται,λέγω,v3spie---,PRED
+Leuven|0059-003|89|5,5,;,;,u--------,AuxK

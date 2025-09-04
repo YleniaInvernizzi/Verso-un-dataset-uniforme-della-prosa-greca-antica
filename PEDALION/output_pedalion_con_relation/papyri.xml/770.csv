@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|7667|6|1,1,γίνωσκε,γιγνώσκω,v2spma---,PRED
+Leuven|7667|6|2,2,δέ,δέ,d--------,AuxY
+Leuven|7667|6|3,3,με,ἐγώ,p1s---ca-,SBJ
+Leuven|7667|6|4,4,ἔχοντα,ἔχω,v-sppama-,OBJ
+Leuven|7667|6|5,5,παρά,παρά,r--------,AuxP
+Leuven|7667|6|6,6,Φιλωνίδου,Φιλωνίδης,n-s---mg-,ADV
+Leuven|7667|6|7,7,δραχμάς,δραχμή,n-p---fa-,OBJ
+Leuven|7667|6|8,8,ο,ο,m--------,ATR
+Leuven|7667|6|9,9,.,.,u--------,AuxK

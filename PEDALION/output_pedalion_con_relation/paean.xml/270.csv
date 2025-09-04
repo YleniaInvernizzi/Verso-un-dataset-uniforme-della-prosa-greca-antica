@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|272|1,1,εὐθύς,εὐθύς,d--------,ADV
+Leuven|PaeanBrev|272|2,2,δέ,δέ,d--------,AuxY
+Leuven|PaeanBrev|272|3,3,ἐπί,ἐπί,r--------,AuxP
+Leuven|PaeanBrev|272|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|272|5,5,Πύρρον,Πύρρος,n-s---ma-,OBJ
+Leuven|PaeanBrev|272|6,6,ἐκστρατεύουσιν,ἐκστρατεύω,v3ppia---,PRED
+Leuven|PaeanBrev|272|7,7,.,.,u--------,AuxK

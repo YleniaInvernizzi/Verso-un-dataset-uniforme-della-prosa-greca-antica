@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|43|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|Ps-Luc|43|2,2,τῆι,ὁ,l-s---fd-,ATR
+Leuven|Ps-Luc|43|3,3,γνώμηι,γνώμη,n-s---fd-,ADV
+Leuven|Ps-Luc|43|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|43|5,5,ὦ,ὦ,i--------,AuxZ
+Leuven|Ps-Luc|43|6,6,φιλτάτη,φίλος,a-s---fvs,ExD
+Leuven|Ps-Luc|43|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|43|8,8,κατάγομαι,κατάγω,v1spie---,PRED
+Leuven|Ps-Luc|43|9,9,παρὰ,παρά,r--------,AuxP
+Leuven|Ps-Luc|43|10,10,σοί,σύ,p2s---cd-,ADV
+Leuven|Ps-Luc|43|11,11,.,.,u--------,AuxK

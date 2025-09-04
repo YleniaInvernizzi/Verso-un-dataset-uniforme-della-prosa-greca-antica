@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxY
+1,2,τὸν,ὁ,l-s---ma-,ATR
+2,3,Ἀστυάγην,Ἀστυάγης,n-s---ma-,SBJ
+3,4,ἐπερέσθαι,ἐπέρομαι,v--anm---,PRED
+4,5,·,punc1,u--------,AuxK

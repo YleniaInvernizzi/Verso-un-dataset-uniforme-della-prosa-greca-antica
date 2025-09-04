@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|6236|1|1,1,Στρατόνικος,Στρατόνικος,n-s---mn-,SBJ
+1,Leuven|6236|1|2,2,Σεγχνούβει,Σενχνοῦβις,n-s---fd-,OBJ
+2,Leuven|6236|1|3,3,τῇ,ὁ,l-s---fd-,ATR
+3,Leuven|6236|1|4,4,γυναικί,γυνή,n-s---fd-,APOS
+4,Leuven|6236|1|5,5,χαίρειν,χαίρω,v--pna---,OBJ

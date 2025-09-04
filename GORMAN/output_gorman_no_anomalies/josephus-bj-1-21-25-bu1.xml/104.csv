@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἦν,εἰμί,v3siia---,PRED
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,δὴ,δή,d--------,AuxZ
+3,4,δεινότατος,δεινός,a-s---mns,PNOM
+4,5,εἰπεῖν,εἶπον,v--ana---,ADV
+5,6,.,punc1,u--------,AuxK

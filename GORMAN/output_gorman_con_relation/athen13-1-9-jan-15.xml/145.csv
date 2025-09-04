@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐ,οὐ,d--------,AuxZ
+2,σύμφορον,σύμφορος,a-s---nn-,PNOM
+3,νέα,νέος,a-s---fn-,ATR
+4,᾽στὶ,εἰμί,v3spia---,PRED
+5,πρεσβύτῃ,πρεσβύτης,n-s---md-,ADV
+6,γυνή,γυνή,n-s---fn-,SBJ
+7,.,punc1,u--------,AuxK

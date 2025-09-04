@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|432|1,1,οἱ,ὁ,l-p---mn-,ATR
+1,Leuven|Genesis|432|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis|432|3,3,Χαναναῖοι,Χαναναῖος,a-p---mn-,SBJ
+3,Leuven|Genesis|432|4,4,τότε,τότε,d--------,ADV
+4,Leuven|Genesis|432|5,5,κατῴκουν,κατοικέω,v3piia---,PRED
+5,Leuven|Genesis|432|6,6,τήν,ὁ,l-s---fa-,ATR
+6,Leuven|Genesis|432|7,7,γῆν,γῆ,n-s---fa-,OBJ

@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|65|1,1,τούτῳ,οὗτος,p-s---nd-,ATR
+1,Leuven|PaeanBrev|65|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|65|3,3,καί,καί,d--------,AuxZ
+3,Leuven|PaeanBrev|65|4,4,τοῦ,ὁ,l-s---mg-,ATR
+4,Leuven|PaeanBrev|65|5,5,δήμου,δῆμος,n-s---mg-,ATR
+5,Leuven|PaeanBrev|65|6,6,τῷ,ὁ,l-s---nd-,ATR
+6,Leuven|PaeanBrev|65|7,7,δόγματι,δόγμα,n-s---nd-,OBJ
+7,Leuven|PaeanBrev|65|8,8,ἡ,ὁ,l-s---fn-,ATR
+8,Leuven|PaeanBrev|65|9,9,στρατιά,στρατιά,n-s---fn-,SBJ
+9,Leuven|PaeanBrev|65|10,10,συνηκολούθησε,συνακολουθέω,v3saia---,PRED
+11,Leuven|PaeanBrev|65|12,12,μεθʼ,μετά,r--------,AuxP
+12,Leuven|PaeanBrev|65|13,13,ἧς,ὅς,p-s---fg-,ADV
+13,Leuven|PaeanBrev|65|14,14,ἐπολιόρκει,πολιορκέω,v3siia---,ATR
+14,Leuven|PaeanBrev|65|15,15,τήν,ὁ,l-s---fa-,ATR
+15,Leuven|PaeanBrev|65|16,16,Ἄρδεαν,Ἄρδεα,n-s---fa-,OBJ

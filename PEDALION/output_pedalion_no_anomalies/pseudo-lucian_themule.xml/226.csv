@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|227|1,1,νὺξ,νύξ,n-s---fn-,SBJ
+1,Leuven|Ps-Luc|227|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|227|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Ps-Luc|227|4,4,λαμπροτάτη,λαμπρός,a-s---fns,PNOM
+4,Leuven|Ps-Luc|227|5,5,ἐκ,ἐκ,r--------,AuxP
+5,Leuven|Ps-Luc|227|6,6,τῆς,ὁ,l-s---fg-,ATR
+6,Leuven|Ps-Luc|227|7,7,σελήνης,σελήνη,n-s---fg-,ADV

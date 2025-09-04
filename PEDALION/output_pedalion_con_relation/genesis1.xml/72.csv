@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|73|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|73|2,2,ὄνομα,ὄνομα,n-s---na-,SBJ
+Leuven|Genesis|73|3,3,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|73|4,4,ποταμῷ,ποταμός,n-s---md-,ATR
+Leuven|Genesis|73|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|73|6,6,δευτέρῳ,δεύτερος,a-s---md-,ATR
+Leuven|Genesis|73|7,7,Γηων,Γηων,n-s----n-,PNOM
+Leuven|Genesis|73|8,8,·,·,u--------,AuxK
+Leuven|Genesis|73|9,9,[0],,,PRED

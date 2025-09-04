@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|357|1,1,τρίτον,τρίτος,a-s---nn-,ATR_CO
+1,Leuven|PaeanBrev|357|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|357|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|PaeanBrev|357|4,4,τοῦτο,οὗτος,p-s---nn-,SBJ
+4,Leuven|PaeanBrev|357|5,5,καί,καί,c--------,COORD
+5,Leuven|PaeanBrev|357|6,6,εἰκοστόν,εἰκοστός,a-s---nn-,ATR_CO
+6,Leuven|PaeanBrev|357|7,7,ἔτος,ἔτος,n-s---nn-,PNOM
+7,Leuven|PaeanBrev|357|8,8,τοῦ,ὁ,l-s---mg-,ATR
+8,Leuven|PaeanBrev|357|9,9,πρός,πρός,r--------,AuxP
+9,Leuven|PaeanBrev|357|10,10,Ἄφρους,Ἄφρος,n-p---ma-,ATR
+10,Leuven|PaeanBrev|357|11,11,πολέμου,πόλεμος,n-s---mg-,ATR

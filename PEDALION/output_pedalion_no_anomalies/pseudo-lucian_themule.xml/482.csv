@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|483|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|483|2,2,δ’,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|483|3,3,εἰσεκόμιζον,εἰσκομίζω,v3piia---,PRED
+3,Leuven|Ps-Luc|483|4,4,ἄλλος,ἄλλος,p-s---mn-,SBJ
+4,Leuven|Ps-Luc|483|5,5,ἄλλο,ἄλλος,p-s---na-,ATR
+5,Leuven|Ps-Luc|483|6,6,τι,τις,p-s---na-,OBJ
+6,Leuven|Ps-Luc|483|7,7,τῶν,ὁ,l-p---ng-,ATR
+7,Leuven|Ps-Luc|483|8,8,ἐδωδίμων,ἐδώδιμος,a-p---ng-,ATR
+9,Leuven|Ps-Luc|483|10,10,μάλιστα,μάλα,d-------s,ADV
+10,Leuven|Ps-Luc|483|11,11,τὸ,ὁ,l-s---na-,ATR
+11,Leuven|Ps-Luc|483|12,12,ἐχθρὸν,ἐχθρός,a-s---na-,PNOM
+12,Leuven|Ps-Luc|483|13,13,εἶναι,εἰμί,v--pna---,OBJ
+13,Leuven|Ps-Luc|483|14,14,ὄνου,ὄνος,n-s---mg-,ATR
+14,Leuven|Ps-Luc|483|15,15,γαστρὶ,γαστήρ,n-s---fd-,ADV
+15,Leuven|Ps-Luc|483|16,16,δοκοῦν,δοκέω,v-sppana-,APOS

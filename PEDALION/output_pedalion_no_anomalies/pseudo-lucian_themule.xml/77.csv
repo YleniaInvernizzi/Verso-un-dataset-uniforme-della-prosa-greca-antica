@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|78|1,1,κ-,καί,c--------,AuxY
+1,Leuven|Ps-Luc|78|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+2,Leuven|Ps-Luc|78|3,3,τὸ,ὁ,l-s---na-,ATR
+3,Leuven|Ps-Luc|78|4,4,συμπόσιον,συμπόσιον,n-s---na-,OBJ
+4,Leuven|Ps-Luc|78|5,5,εὑρὼν,εὑρίσκω,v-sapamn-,ADV
+5,Leuven|Ps-Luc|78|6,6,ἕτοιμον,ἑτοῖμος,a-s---na-,OCOMP
+6,Leuven|Ps-Luc|78|7,7,ἔμενον,μένω,v1siia---,PRED
+7,Leuven|Ps-Luc|78|8,8,τὸν,ὁ,l-s---ma-,ATR
+8,Leuven|Ps-Luc|78|9,9,συμπότην,συμπότης,n-s---ma-,OBJ

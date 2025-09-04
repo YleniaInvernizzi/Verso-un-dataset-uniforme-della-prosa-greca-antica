@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|58|1,1,ἔθετο,τίθημι,v3saim---,PRED
+1,Leuven|PaeanBrev|58|2,2,τε,τε,c--------,AuxY
+2,Leuven|PaeanBrev|58|3,3,μετά,μετά,r--------,AuxP
+3,Leuven|PaeanBrev|58|4,4,Τούσκων,Τοῦσκος,n-p---mg-,ADV
+4,Leuven|PaeanBrev|58|5,5,σπονδάς,σπονδή,n-p---fa-,OBJ

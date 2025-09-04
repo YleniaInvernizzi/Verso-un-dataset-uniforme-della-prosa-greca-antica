@@ -1,0 +1,13 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|149|1,1,ὡς,ὡς,c--------,AuxC
+1,Leuven|PaeanBrev|149|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|149|3,3,οὐκ,οὐ,d--------,AuxZ
+3,Leuven|PaeanBrev|149|4,4,ἐξεχώρουν,ἐκχωρέω,v3piia---,ADV
+4,Leuven|PaeanBrev|149|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|PaeanBrev|149|6,6,ἄστεος,ἄστυ,n-s---ng-,OBJ
+7,Leuven|PaeanBrev|149|8,8,ὠνήσαντο,ὀνίνημι,v3paim---,PRED
+8,Leuven|PaeanBrev|149|9,9,Ῥωμαῖοι,Ῥωμαῖος,a-p---mn-,SBJ
+9,Leuven|PaeanBrev|149|10,10,τήν,ὁ,l-s---fa-,ATR
+10,Leuven|PaeanBrev|149|11,11,ἀναχώρησιν,ἀναχώρησις,n-s---fa-,OBJ
+11,Leuven|PaeanBrev|149|12,12,αὐτῶν,αὐτός,p-p---mg-,ATR
+12,Leuven|PaeanBrev|149|13,13,χρυσίῳ,χρυσίον,n-s---nd-,ADV

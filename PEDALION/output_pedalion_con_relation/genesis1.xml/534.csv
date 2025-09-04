@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|535|1,1,κατέβη,καταβαίνω,v3saia---,PRED_CO
+Leuven|Genesis|535|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis|535|3,3,ὄρνεα,ὄρνεον,n-p---nn-,SBJ
+Leuven|Genesis|535|4,4,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|535|5,5,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|535|6,6,σώματα,σῶμα,n-p---na-,OBJ
+Leuven|Genesis|535|7,7,",",",",u--------,AuxX
+Leuven|Genesis|535|8,8,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|535|9,9,διχοτομήματα,διχοτόμημα,n-p---na-,ATR
+Leuven|Genesis|535|10,10,αὐτῶν,αὐτός,p-p---mg-,ATR
+Leuven|Genesis|535|11,11,",",",",u--------,AuxX
+Leuven|Genesis|535|12,12,καί,καί,b--------,COORD
+Leuven|Genesis|535|13,13,συνεκάθισεν,συγκαθίζω,v3saia---,PRED_CO
+Leuven|Genesis|535|14,14,αὐτοῖς,αὐτός,p-p---md-,OBJ
+Leuven|Genesis|535|15,15,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|535|16,16,.,.,u--------,AuxK

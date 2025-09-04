@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|168|1,1,μείζων,μέγας,a-s---fnc,PNOM
+Leuven|Genesis|168|2,2,ἡ,ὁ,l-s---fn-,ATR
+Leuven|Genesis|168|3,3,αἰτία,αἰτία,n-s---fn-,SBJ
+Leuven|Genesis|168|4,4,μου,ἐγώ,p1s---cg-,ATR
+Leuven|Genesis|168|5,5,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis|168|6,6,ἀφεθῆναι,ἀφίημι,v--anp---,OBJ
+Leuven|Genesis|168|7,7,με,ἐγώ,p1s---ca-,SBJ
+Leuven|Genesis|168|8,8,·,·,u--------,AuxK
+Leuven|Genesis|168|9,9,[0],,,PRED

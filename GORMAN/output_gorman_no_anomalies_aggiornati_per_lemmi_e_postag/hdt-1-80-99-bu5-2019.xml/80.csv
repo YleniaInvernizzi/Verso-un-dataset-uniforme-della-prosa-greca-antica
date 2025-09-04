@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;ὃ;ὁ;l-s---mn-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;εἶπε;λέγω;v3saia---;PRED
+4;πόλιν;πόλις;n-s---fa-;OBJ
+5;τε;τε;d--------;AuxY
+6;τὴν;ὁ;l-s---fa-;ATR
+7;σὴν;σός;a-s---fa-;ATR
+8;διαρπάζει;διαρπάζω;v3spia---;OBJ_CO
+9;καὶ;καί;c--------;COORD
+10;χρήματα;χρῆμα;n-p---na-;OBJ
+11;τὰ;ὁ;l-p---na-;ATR
+12;σὰ;σός;a-p---na-;ATR
+13;διαφορέει;διαφορέω;v3spia---;OBJ_CO
+14;.;punc;u--------;AuxK

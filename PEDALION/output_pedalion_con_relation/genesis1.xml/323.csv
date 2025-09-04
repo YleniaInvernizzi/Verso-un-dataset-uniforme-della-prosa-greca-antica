@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|324|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|324|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|324|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|324|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|324|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|324|6,6,Νωε,Νωε,n-s---md-,OBJ
+Leuven|Genesis|324|7,7,·,·,u--------,AuxK

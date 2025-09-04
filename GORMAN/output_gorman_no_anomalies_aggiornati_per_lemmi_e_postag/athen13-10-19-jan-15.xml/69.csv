@@ -1,0 +1,13 @@
+@id;@form;@lemma;@postag;@relation
+1;κάλλει;κάλλος;n-s---nd-;ADV
+2;καλῆς;καλός;a-s---fg-;PNOM
+3;,;punc;u--------;AuxX
+4;μεγέθει;μέγεθος;n-s---nd-;ADV
+5;μεγάλης;μέγας;a-s---fg-;PNOM
+6;,;punc;u--------;COORD
+7;τέχνῃ;τέχνη;n-s---fd-;ADV
+8;σοφῆς;σοφός;a-s---fg-;PNOM
+9;:;punc;u--------;AuxK
+10;ἐστιν;εἰμί;v3spia---;PRED_CO
+11;ἐστιν;εἰμί;v3spia---;PRED_CO
+12;ἐστιν;εἰμί;v3spia---;PRED_CO

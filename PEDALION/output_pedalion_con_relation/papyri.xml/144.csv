@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|13|1,1,ἐὰν,ἐάν,c--------,AuxC
+Leuven|21342|13|2,2,σχῶ,ἔχω,v1sasa---,ADV
+Leuven|21342|13|3,3,τὴν,ὁ,l-s---fa-,ATR
+Leuven|21342|13|4,4,εὐκαιρίαν,εὐκαιρία,n-s---fa-,OBJ
+Leuven|21342|13|5,5,ἔρχομαι,ἔρχομαι,v1spie---,PRED
+Leuven|21342|13|6,6,πρὸς,πρός,r--------,AuxP
+Leuven|21342|13|7,7,ὑμᾶς,σύ,p2p---ca-,OBJ
+Leuven|21342|13|8,8,.,.,u--------,AuxK

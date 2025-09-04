@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|387|1,1,πειθόμενος,πείθω,v-sppemn-,ADV
+1,Leuven|Ps-Luc|387|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Ps-Luc|387|3,3,μοι,ἐγώ,p1s---cd-,OBJ
+3,Leuven|Ps-Luc|387|4,4,πράξεις,πράσσω,v2sfia---,PRED
+4,Leuven|Ps-Luc|387|5,5,εὖ,εὖ,d--------,ADV
+5,Leuven|Ps-Luc|387|6,6,πάντα,πᾶς,a-p---na-,OBJ

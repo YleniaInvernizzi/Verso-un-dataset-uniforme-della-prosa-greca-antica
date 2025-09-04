@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τὸ,ὁ,l-s---nn-,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,πονεῖν,πονέω,v--pna---,SBJ
+3,4,δούλων,δοῦλος,n-p---mg-,PNOM_CO
+4,5,καὶ,καί,c--------,COORD
+5,6,ταπεινῶν,ταπεινός,a-p---mg-,PNOM_CO
+6,7,:,punc1,u--------,AuxK
+7,8,ἐστιν,εἰμί,v3spia---,PRED

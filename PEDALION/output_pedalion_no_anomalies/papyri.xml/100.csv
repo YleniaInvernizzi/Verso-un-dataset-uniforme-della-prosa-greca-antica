@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|19419|6|1,1,ἀγωνιῶμεν,ἀγωνιάω,v1ppia---,PRED
+1,Leuven|19419|6|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|19419|6|3,3,μὴ,μή,d--------,AuxZ
+3,Leuven|19419|6|4,4,βλέπουσαί,βλέπω,v-pppafn-,ADV
+4,Leuven|19419|6|5,5,σε,σύ,p2s---ca-,OBJ

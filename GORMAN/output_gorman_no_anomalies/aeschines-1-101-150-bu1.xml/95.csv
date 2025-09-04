@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,θεός,θεός,n-s---fn-,PNOM
+1,2,νύ,νῦν,d--------,ADV
+2,3,τίς,τις,a-s---cn-,ATR
+3,4,ἐστι,εἰμί,v3spia---,PRED
+4,5,καὶ,καί,d--------,AuxY
+5,6,αὐτή,αὐτός,p-s---fn-,SBJ
+6,7,.,punc1,u--------,AuxK

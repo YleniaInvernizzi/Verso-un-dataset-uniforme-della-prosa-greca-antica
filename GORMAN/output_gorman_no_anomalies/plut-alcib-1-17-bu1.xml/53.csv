@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ταῦτʼ,οὗτος,p-p---na-,OBJ
+1,2,ἀκούσαντες,ἀκούω,v-papamn-,ADV
+2,3,οἱ,ὁ,l-p---mn-,ATR
+3,4,τελῶναι,τελώνης,n-p---mn-,SBJ
+4,5,ἐξηπορήθησαν,ἐξαπορέω,v3paip---,PRED
+5,6,.,punc1,u--------,AuxK

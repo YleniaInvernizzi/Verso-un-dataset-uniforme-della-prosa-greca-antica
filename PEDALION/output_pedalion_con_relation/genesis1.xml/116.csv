@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|117|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|117|2,2,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis|117|3,3,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|117|4,4,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|117|5,5,θεός,θεός,n-s---mn-,APOS
+Leuven|Genesis|117|6,6,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|117|7,7,γυναικί,γυνή,n-s---fd-,OBJ
+Leuven|Genesis|117|8,8,·,·,u--------,AuxK

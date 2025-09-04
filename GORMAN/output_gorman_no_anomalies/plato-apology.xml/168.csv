@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,καὶ,καί,d--------,AuxZ
+1,2,οἱ,ὁ,l-p---mn-,ATR
+2,3,βουλευταί,βουλευτής,n-p---mn-,SBJ
+3,4,.,punc1,u--------,AuxK
+4,5,ποιοῦσιν,ποιέω,v3ppia---,PRED

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,πολὺ,πολύς,a-s---na-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,καὶ,καί,d--------,AuxZ
+4,τάδε,ὅδε,p-p---na-,ADV
+5,χείρονες,χείρων,a-p---mnc,PNOM
+6,νῦν,νῦν,d--------,ADV
+7,εἰσι,εἰμί,v3ppia---,PRED
+8,.,punc1,u--------,AuxK

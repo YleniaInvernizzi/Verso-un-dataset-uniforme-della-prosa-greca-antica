@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|659|1,1,ὅπως,ὅπως,c--------,AuxC
+Leuven|Genesis|659|2,2,ἄν,ἄν,d--------,AuxY
+Leuven|Genesis|659|3,3,ἐπαγάγῃ,ἐπάγω,v3sasa---,ADV
+Leuven|Genesis|659|4,4,κύριος,κύριος,n-s---mn-,SBJ
+Leuven|Genesis|659|5,5,ἐπί,ἐπί,r--------,AuxP
+Leuven|Genesis|659|6,6,Ἀβραάμ,Ἀβραάμ,n-s---ma-,OBJ
+Leuven|Genesis|659|7,7,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Genesis|659|8,8,",",",",u--------,AuxX
+Leuven|Genesis|659|9,9,ὅσα,ὅσος,p-p---na-,OBJ
+Leuven|Genesis|659|10,10,ἐλάλησεν,λαλέω,v3saia---,ATR
+Leuven|Genesis|659|11,11,πρός,πρός,r--------,AuxP
+Leuven|Genesis|659|12,12,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis|659|13,13,.,.,u--------,AuxK
+Leuven|Genesis|659|14,14,[0],,,PRED

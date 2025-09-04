@@ -1,0 +1,14 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,ATR
+2,δὲ,δέ,d--------,AuxY
+3,τὰς,ὁ,l-p---fa-,ATR
+4,ἀφορμὰς,ἀφορμή,n-p---fa-,OBJ_CO
+5,ταύτας,οὗτος,a-p---fa_,ATR
+6,καὶ,καί,c--------,COORD
+7,τὰς,ὁ,l-p---fa-,ATR
+8,προφάσεις,πρόφασις,n-p---fa-,OBJ_CO
+9,αὐτῷ,αὐτός,p-s---md-,OBJ
+10,παρασχὼν,παρέχω,v-sapamn-,PNOM
+11,οὗτος,οὗτος,p-s---mn-,SBJ
+12,ἦν,εἰμί,v3siia---,PRED
+13,.,punc1,u--------,AuxK

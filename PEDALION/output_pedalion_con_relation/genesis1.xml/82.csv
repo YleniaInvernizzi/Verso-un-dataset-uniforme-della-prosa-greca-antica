@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|83|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|83|2,2,καλόν,καλός,a-s---na-,PNOM
+Leuven|Genesis|83|3,3,εἶναι,εἰμί,v--pna---,OBJ
+Leuven|Genesis|83|4,4,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|83|5,5,ἄνθρωπον,ἄνθρωπος,n-s---ma-,SBJ
+Leuven|Genesis|83|6,6,μόνον,μόνον,d--------,PNOM
+Leuven|Genesis|83|7,7,·,·,u--------,AuxK
+Leuven|Genesis|83|8,8,[0],,,PRED
+Leuven|Genesis|83|9,9,[0],,,SBJ

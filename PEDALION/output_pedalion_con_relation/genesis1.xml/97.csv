@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|98|1,1,οὐ,οὐ,d--------,AuxZ
+Leuven|Genesis|98|2,2,μή,μή,d--------,AuxZ
+Leuven|Genesis|98|3,3,φάγητε,ἐσθίω,v2pasa---,PRED
+Leuven|Genesis|98|4,4,ἀπό,ἀπό,r--------,AuxP
+Leuven|Genesis|98|5,5,παντός,πᾶς,a-s---ng-,ATR
+Leuven|Genesis|98|6,6,ξύλου,ξύλον,n-s---ng-,OBJ
+Leuven|Genesis|98|7,7,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis|98|8,8,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|98|9,9,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|98|10,10,παραδείσῳ,παράδεισος,n-s---md-,ATR
+Leuven|Genesis|98|11,11,;,;,u--------,AuxK

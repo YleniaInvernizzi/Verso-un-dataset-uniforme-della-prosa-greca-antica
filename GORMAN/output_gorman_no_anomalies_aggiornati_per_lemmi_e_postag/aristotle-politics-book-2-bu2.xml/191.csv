@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ὀλιγαρχικὴν;ὀλιγαρχικός;a-s---fa-;OCOMP
+2;δὲ;δέ;d--------;AuxY
+3;ποιεῖ;ποιέω;v3spia---;PRED
+4;καὶ;καί;d--------;AuxZ
+5;τὴν;ὁ;l-s---fa-;ATR
+6;τῆς;ὁ;l-s---fg-;ATR
+7;βουλῆς;βουλή;n-s---fg-;ATR
+8;αἵρεσιν;αἵρεσις;n-s---fa-;OBJ
+9;.;punc;u--------;AuxK

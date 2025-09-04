@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|80117|4|1,1,τό,ὁ,l-s---na-,ATR
+1,Leuven|80117|4|2,2,προσκύνημα,προσκύνημα,n-s---na-,OBJ
+2,Leuven|80117|4|3,3,ὑμῶν,σύ,p2p---cg-,ATR
+3,Leuven|80117|4|4,4,ποιῶ,ποιέω,v1spia---,PRED
+4,Leuven|80117|4|5,5,παρά,παρά,r--------,AuxP
+5,Leuven|80117|4|6,6,τοῖς,ὁ,l-p---md-,ATR
+6,Leuven|80117|4|7,7,ἐνθάδε,ἐνθάδε,d--------,ATR
+7,Leuven|80117|4|8,8,θεοῖς,θεός,n-p---md-,ADV

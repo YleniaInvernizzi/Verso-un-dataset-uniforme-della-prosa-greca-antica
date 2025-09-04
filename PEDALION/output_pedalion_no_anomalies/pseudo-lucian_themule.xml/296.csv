@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|297|1,1,καί,καί,c--------,AuxY
+1,Leuven|Ps-Luc|297|2,2,μοι,ἐγώ,p1s---cd-,OBJ
+2,Leuven|Ps-Luc|297|3,3,συνεξέπεμπον,συνεκπέμπω,v3piia---,PRED
+3,Leuven|Ps-Luc|297|4,4,ὀνηλάτην,ὀνηλάτης,n-s---ma-,OBJ
+5,Leuven|Ps-Luc|297|6,6,παιδάριον,παιδάριον,n-s---nn-,APOS
+6,Leuven|Ps-Luc|297|7,7,ἀκάθαρτον,ἀκάθαρτος,a-s---nn-,ATR

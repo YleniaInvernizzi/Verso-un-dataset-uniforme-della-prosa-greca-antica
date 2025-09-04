@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|5830|10|1,1,ἐπιμέλου,ἐπιμελέομαι,v2siie---,PRED
+1,Leuven|5830|10|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|5830|10|3,3,σεαυτοῦ,σεαυτοῦ,p2s---mg-,OBJ
+4,Leuven|5830|10|5,5,ἵνα,ἵνα,c--------,AuxC
+5,Leuven|5830|10|6,6,ὑγιαίνοντά,ὑγιαίνω,v-sppama-,ADV
+6,Leuven|5830|10|7,7,σε,σύ,p2s---ca-,OBJ
+7,Leuven|5830|10|8,8,ἀσπάσωμαι,ἀσπάζομαι,v1sasm---,ADV

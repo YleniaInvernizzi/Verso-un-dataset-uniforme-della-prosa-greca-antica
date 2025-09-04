@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|218|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|PaeanBrev|218|2,2,Κλαύδιος,Κλαύδιος,n-s---mn-,SBJ
+2,Leuven|PaeanBrev|218|3,3,γοῦν,γοῦν,d--------,AuxY
+3,Leuven|PaeanBrev|218|4,4,πηγήν,πηγή,n-s---fa-,OBJ
+4,Leuven|PaeanBrev|218|5,5,ὠχέτευσεν,ὀχετεύω,v3saia---,PRED
+5,Leuven|PaeanBrev|218|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|PaeanBrev|218|7,7,τήν,ὁ,l-s---fa-,ATR
+7,Leuven|PaeanBrev|218|8,8,Ῥώμην,Ῥώμη,n-s---fa-,OBJ
+9,Leuven|PaeanBrev|218|10,10,ἥτις,ὅστις,p-s---fn-,SBJ
+10,Leuven|PaeanBrev|218|11,11,αὐτῷ,αὐτός,p-s---md-,OBJ
+11,Leuven|PaeanBrev|218|12,12,μέχρι,μέχρι,r--------,AuxP
+12,Leuven|PaeanBrev|218|13,13,νῦν,νῦν,d--------,ADV
+13,Leuven|PaeanBrev|218|14,14,ἐπονομάζεται,ἐπονομάζω,v3spie---,ATR
+14,Leuven|PaeanBrev|218|15,15,Κλαυδία,Κλαυδία,n-s---fn-,OCOMP

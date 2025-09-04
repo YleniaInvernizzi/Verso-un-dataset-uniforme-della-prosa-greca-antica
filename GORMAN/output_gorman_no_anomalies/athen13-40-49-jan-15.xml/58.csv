@@ -1,0 +1,11 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,δικαιότερον,δίκαιος,a-s---nnc,PNOM
+1,2,ἦν,εἰμί,v3siia---,PRED
+2,3,",",punc1,u--------,AuxX
+3,4,ὦ,ὦ,i--------,AuxZ
+4,5,τέκνον,τέκνον,n-s---nv-,ExD
+5,6,",",punc1,u--------,AuxX
+6,7,νὴ,νή,r--------,AuxP
+7,8,τὼ,ὁ,l-d---ma-,ATR
+8,9,θεώ,θεός,n-d---ma-,ExD
+9,10,...,punc1,u--------,AuxK

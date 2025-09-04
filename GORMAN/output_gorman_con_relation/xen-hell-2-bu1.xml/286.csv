@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀναστὰς,ἀνίστημι,v-sapamn-,ADV
+2,δὲ,δέ,d--------,AuxY
+3,Κριτίας,Κριτίας,n-s---mn-,SBJ
+4,ἔλεξεν,λέγω3,v3saia---,PRED
+5,·,punc1,u--------,AuxK

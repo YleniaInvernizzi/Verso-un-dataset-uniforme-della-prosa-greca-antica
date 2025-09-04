@@ -1,0 +1,9 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νὴ,νή,r--------,AuxP
+1,2,Δί,Ζεύς,n-s---md-,ExD
+2,3,᾽,punc1,u--------,AuxX
+3,4,",",punc1,u--------,AuxX
+4,5,ἀλλ᾽,ἀλλά,d--------,AuxY
+5,6,ἀδίκως,ἄδικος,d--------,ADV
+6,7,ἦρξα,ἄρχω,v1saia---,PRED
+7,8,.,punc1,u--------,AuxK

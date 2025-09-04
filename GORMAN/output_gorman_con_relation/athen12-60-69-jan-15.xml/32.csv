@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀμώμητον,ἀμώμητος,a-s---nn-,PNOM
+2,δ᾽,δέ,d--------,AuxY
+3,οὐδὲν,οὐδείς,p-s---nn-,SBJ
+4,ἔγεντο,γίγνομαι,v3saie---,PRED
+5,βροτοῖς,βροτός,n-p---md-,ADV
+6,.,punc1,u--------,AuxK

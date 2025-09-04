@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|666|1,1,ἐάν,ἐάν,c--------,AuxC
+1,Leuven|Genesis|666|2,2,ὦσιν,εἰμί,v3ppsa---,ADV
+2,Leuven|Genesis|666|3,3,πεντήκοντα,πεντήκοντα,m--------,ATR
+3,Leuven|Genesis|666|4,4,δίκαιοι,δίκαιος,a-p---mn-,SBJ
+4,Leuven|Genesis|666|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Genesis|666|6,6,τῇ,ὁ,l-s---fd-,ATR
+6,Leuven|Genesis|666|7,7,πόλει,πόλις,n-s---fd-,ADV
+8,Leuven|Genesis|666|9,9,ἀπολεῖς,ἀπόλλυμι,v2sfia---,PRED
+9,Leuven|Genesis|666|10,10,αὐτούς,αὐτός,p-p---ma-,OBJ
+10,Leuven|Genesis|666|11,11,;,;,u--------,AuxK

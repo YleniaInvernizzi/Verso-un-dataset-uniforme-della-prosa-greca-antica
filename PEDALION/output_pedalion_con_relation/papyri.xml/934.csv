@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21597|7|1,1,εἴ,εἰ,c--------,AuxC
+Leuven|21597|7|2,2,τι,τις,p-s---na-,ADV
+Leuven|21597|7|3,3,δέ,δέ,b--------,AuxY
+Leuven|21597|7|4,4,ἀργύρια,ἀργύριον,n-p---na-,OBJ_CO
+Leuven|21597|7|5,5,ἔχεις,ἔχω,v2spia---,ADV
+Leuven|21597|7|6,6,παρά,παρά,r--------,AuxP
+Leuven|21597|7|7,7,σοί,σύ,p2s---cd-,ADV
+Leuven|21597|7|8,8,ἤ,ἤ,b--------,COORD
+Leuven|21597|7|9,9,ὁλοκόττινα,ὁλοκόσσινες,v1saia---,OBJ_CO
+Leuven|21597|7|10,10,",",",",u--------,AuxX
+Leuven|21597|7|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|21597|7|12,12,τάχει,τάχος,n-s---nd-,ADV
+Leuven|21597|7|13,13,ἀπόστειλον,ἀποστέλλω,v2sama---,PRED
+Leuven|21597|7|14,14,·,·,u--------,AuxK

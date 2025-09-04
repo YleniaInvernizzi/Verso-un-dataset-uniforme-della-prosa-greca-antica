@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|360|1,1,ἀλλά,ἀλλά,c--------,AuxY
+1,Leuven|PaeanBrev|360|2,2,καί,καί,d--------,AuxZ
+2,Leuven|PaeanBrev|360|3,3,αὐτός,αὐτός,p-s---mn-,ADV
+3,Leuven|PaeanBrev|360|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|PaeanBrev|360|5,5,Κατοῦλος,Κατοῦλος,n-s---mn-,SBJ
+5,Leuven|PaeanBrev|360|6,6,ἐπέβη,ἐπιβαίνω,v3saia---,PRED
+6,Leuven|PaeanBrev|360|7,7,τῆς,ὁ,l-s---fg-,ATR
+7,Leuven|PaeanBrev|360|8,8,νεώς,ναῦς,n-s---fg-,OBJ
+8,Leuven|PaeanBrev|360|9,9,ἀρρωστῶν,ἀρρωστέω,v-sppamn-,ADV

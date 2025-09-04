@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxZ
+2,ὁ,ὁ,l-s---mn-,ATR
+3,προβαλόμενος,προβάλλω,v-sapmmn-,SBJ
+4,κατὰ,κατά,r--------,AuxP
+5,τ-,ὁ,l-p---na-,ATR
+6,αὐτά,αὐτός,p-p---na-,ADV
+7,.,.,u--------,AuxK
+8,ἔστω,εἰμί,v3spma---,PRED

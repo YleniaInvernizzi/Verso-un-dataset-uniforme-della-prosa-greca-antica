@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28934|3|1,1,ἀσπάζεται,ἀσπάζομαι,v3spie---,PRED
+Leuven|28934|3|2,2,σε,σύ,p2s---ca-,OBJ
+Leuven|28934|3|3,3,Σαραπίων,Σαραπίων,n-s---mn-,SBJ
+Leuven|28934|3|4,4,.,.,u--------,AuxK

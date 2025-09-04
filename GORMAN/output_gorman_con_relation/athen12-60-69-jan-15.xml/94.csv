@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,τὸ,ὁ,l-s---na-,ATR
+2,χρύσεον,χρύσεος,a-s---na-,ATR
+3,ὄμμα,ὄμμα,n-s---na-,OBJ
+4,τὸ,ὁ,l-s---na-,ATR
+5,τᾶς,ὁ,l-s---fg-,ATR
+6,Δίκας,Δίκη,n-s---fg-,ATR
+7,.,punc1,u--------,AuxK
+8,[0],,,PRED

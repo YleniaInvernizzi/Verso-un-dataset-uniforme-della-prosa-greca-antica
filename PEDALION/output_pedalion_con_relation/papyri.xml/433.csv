@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28410|4|1,1,ἂν,ἐάν,c--------,AuxC
+Leuven|28410|4|2,2,μὴ,μή,d--------,AuxZ
+Leuven|28410|4|3,3,θέλῃς,ἐθέλω,v2spsa---,ADV
+Leuven|28410|4|4,4,ἀπενέγκαι,ἀποφέρω,v--ana---,OBJ
+Leuven|28410|4|5,5,με,ἐγώ,p1s---ca-,OBJ
+Leuven|28410|4|6,6,ταῦτα,οὗτος,p-p---nn-,SBJ
+Leuven|28410|4|7,7,γίνεται,γίγνομαι,v3spie---,PRED
+Leuven|28410|4|8,8,.,.,u--------,AuxK

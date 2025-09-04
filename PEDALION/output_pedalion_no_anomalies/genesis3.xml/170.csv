@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|171|1,1,Ρεβεκκα,Ρεβεκκα,n-s---fn-,SBJ
+1,Leuven|Genesis_deel3|171|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|Genesis_deel3|171|3,3,εἶπεν,λέγω,v3saia---,PRED
+3,Leuven|Genesis_deel3|171|4,4,πρός,πρός,r--------,AuxP
+4,Leuven|Genesis_deel3|171|5,5,Ιακωβ,Ἰακώβ,n-s---ma-,OBJ
+5,Leuven|Genesis_deel3|171|6,6,τόν,ὁ,l-s---ma-,ATR
+6,Leuven|Genesis_deel3|171|7,7,υἱόν,υἱός,n-s---ma-,APOS
+7,Leuven|Genesis_deel3|171|8,8,αὐτῆς,αὐτός,p-s---fg-,ATR
+8,Leuven|Genesis_deel3|171|9,9,τόν,ὁ,l-s---ma-,ATR
+9,Leuven|Genesis_deel3|171|10,10,ἐλάσσω,ἐλαχύς,a-s---mac,ATR

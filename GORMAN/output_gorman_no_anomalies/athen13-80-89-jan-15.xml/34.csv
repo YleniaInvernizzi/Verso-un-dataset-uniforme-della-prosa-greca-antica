@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,οὐδὲ,οὐδέ,d--------,AuxZ
+1,2,ὁ,ὁ,l-s---mn-,ATR
+2,3,φὰς,φημί,v-sppamn-,SBJ
+3,4,ῥοδοδάκτυλον,ῥοδοδάκτυλος,a-s---fa-,OBJ
+4,5,:,punc1,u--------,AuxK

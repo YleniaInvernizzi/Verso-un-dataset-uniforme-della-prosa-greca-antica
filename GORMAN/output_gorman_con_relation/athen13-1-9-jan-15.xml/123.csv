@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ἀληθινῶς,ἀληθινός,d--------,AuxZ
+2,γεγάμηκεν,γαμέω,v3sria---,PRED
+3,",",punc1,u--------,AuxX
+4,ὃν,ὅς,p-s---ma-,OBJ
+5,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+6,ζῶντα,ζάω,v-sppama-,ATR_CO
+7,περιπατοῦντά,περιπατέω,v-sppama-,ATR_CO
+8,τε,τε,c--------,COORD
+9,κατέλιπον,καταλιμπάνω,v1saia---,ADV
+10,;,punc1,u--------,AuxK

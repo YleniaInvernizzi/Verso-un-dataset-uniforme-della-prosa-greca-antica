@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|105|1,1,ἐφοβήθη,φοβέω,v3saip---,PRED
+1,Leuven|Genesis_deel3|105|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|Genesis_deel3|105|3,3,εἰπεῖν,λέγω,v--ana---,OBJ
+3,Leuven|Genesis_deel3|105|4,4,ὅτι,ὅτι,c--------,AuxC

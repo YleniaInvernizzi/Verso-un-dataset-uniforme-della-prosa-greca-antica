@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|57|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|57|2,2,εἶδεν,ὁράω,v3saia---,PRED_CO
+Leuven|Genesis|57|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis|57|4,4,θεός,θεός,n-s---mn-,SBJ
+Leuven|Genesis|57|5,5,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis|57|6,6,πάντα,πᾶς,a-p---na-,OBJ
+Leuven|Genesis|57|7,7,",",",",u--------,AuxX
+Leuven|Genesis|57|8,8,ὅσα,ὅσος,p-p---na-,OBJ
+Leuven|Genesis|57|9,9,ἐποίησεν,ποιέω,v3saia---,ATR
+Leuven|Genesis|57|10,10,",",",",u--------,AuxX
+Leuven|Genesis|57|11,11,καί,καί,b--------,COORD
+Leuven|Genesis|57|12,12,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis|57|13,13,καλά,καλός,a-p---na-,PNOM
+Leuven|Genesis|57|14,14,λίαν,λίαν,d--------,ADV
+Leuven|Genesis|57|15,15,.,.,u--------,AuxK
+Leuven|Genesis|57|16,16,[0],,,PRED_CO

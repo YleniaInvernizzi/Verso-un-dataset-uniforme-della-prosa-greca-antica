@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|171|1,1,τότε,τότε,d--------,ADV
+1,Leuven|PaeanBrev|171|2,2,μέν,μέν,d--------,AuxY
+2,Leuven|PaeanBrev|171|3,3,οὖν,οὖν,d--------,AuxY
+3,Leuven|PaeanBrev|171|4,4,φυγῇ,φυγή,n-s---fd-,OBJ
+4,Leuven|PaeanBrev|171|5,5,παρέδοσαν,παραδίδωμι,v3paia---,PRED
+5,Leuven|PaeanBrev|171|6,6,ἑαυτούς,ἑαυτοῦ,p-p---ma-,OBJ

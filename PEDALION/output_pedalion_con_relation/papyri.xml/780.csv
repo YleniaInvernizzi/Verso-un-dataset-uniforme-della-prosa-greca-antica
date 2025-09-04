@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|77953|5|1,1,φιλομάθει,φιλομαθέω,v2spma---,PRED_CO
+Leuven|77953|5|2,2,δέ,δέ,d--------,AuxY
+Leuven|77953|5|3,3,καί,καί,b--------,COORD
+Leuven|77953|5|4,4,μή,μή,d--------,AuxZ
+Leuven|77953|5|5,5,λυποῦ,λυπέω,v2spme---,PRED_CO
+Leuven|77953|5|6,6,περί,περί,r--------,AuxP
+Leuven|77953|5|7,7,τῆς,ὁ,l-s---fg-,ATR
+Leuven|77953|5|8,8,μητρός,μήτηρ,n-s---fg-,OBJ
+Leuven|77953|5|9,9,·,·,u--------,AuxK

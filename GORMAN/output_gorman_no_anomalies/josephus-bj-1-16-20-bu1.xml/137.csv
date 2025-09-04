@@ -1,0 +1,5 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ὕπαιθρον,ὑπαίθριος,a-s---nn-,AtvV
+1,2,γὰρ,γάρ,d--------,AuxY
+2,3,ηὐλίζετο,αὐλίζομαι,v3siie---,PRED
+3,4,.,punc1,u--------,AuxK

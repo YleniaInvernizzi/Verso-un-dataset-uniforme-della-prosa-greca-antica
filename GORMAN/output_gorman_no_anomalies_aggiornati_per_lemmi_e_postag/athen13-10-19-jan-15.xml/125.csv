@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;Διογένης;Διογένης;n-p---ma-;SBJ
+2;δὲ;δέ;d--------;AuxY
+3;ἰδών;ὁράω;v-sapamn-;ADV
+4;τινα;τις;p-s---ca-;OBJ
+5;οὕτως;οὕτως;d--------;ADV
+6;ἔχοντα;ἔχω;v-sppama-;ATR
+7;τὸ;ὁ;l-s---na-;ATR
+8;γένειον;γένειον;n-s---na-;OBJ
+9;ἔφησεν;φημί;v3saia---;PRED
+10;:;punc;u--------;AuxK

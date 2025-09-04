@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;πόσαι;πόσος;a-p---fn-;ATR
+3;σοι;σύ;p2s---md-;PNOM
+4;οἰκίαι;οἰκία;n-p---fn-;SBJ
+5;ἦσαν;εἰμί;v3piia---;PRED
+6;";";punc;u--------;AuxK

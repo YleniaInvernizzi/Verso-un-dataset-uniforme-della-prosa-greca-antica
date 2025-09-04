@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,φίλτρα,φίλτρον,n-p---na-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,βάλλω,βάλλω,v1spia---,PRED
+4,οὐκέτ᾽,οὐκέτι,d--------,AuxZ
+5,ὀιστεύων,ὀιστεύω,v-sppamn-,ADV_CO
+6,",",punc1,u--------,AuxX
+7,ἀλλ᾽,ἀλλά,c--------,COORD
+8,ἀτενιζόμενος,ἀτενίζω,v-sppemn-,ADV_CO
+9,.,punc1,u--------,AuxK

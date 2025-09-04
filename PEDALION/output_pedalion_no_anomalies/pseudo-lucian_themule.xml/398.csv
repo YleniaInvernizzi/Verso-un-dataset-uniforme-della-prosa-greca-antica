@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|399|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|399|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|399|3,3,θεασάμενοι,θεάομαι,v-papmmn-,ADV
+3,Leuven|Ps-Luc|399|4,4,τοῦτο,οὗτος,p-s---na-,OBJ
+4,Leuven|Ps-Luc|399|5,5,συγκλείουσι,συγκλείω,v3ppia---,PRED
+5,Leuven|Ps-Luc|399|6,6,τὰς,ὁ,l-p---fa-,ATR
+6,Leuven|Ps-Luc|399|7,7,θύρας,θύρα,n-p---fa-,OBJ
+7,Leuven|Ps-Luc|399|8,8,εὖ,εὖ,d--------,ADV
+8,Leuven|Ps-Luc|399|9,9,μάλα,μάλα,d--------,ADV
+9,Leuven|Ps-Luc|399|10,10,ἔξωθεν,ἔξωθεν,d--------,ADV

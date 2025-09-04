@@ -1,0 +1,13 @@
+@id,@form,@lemma,@postag,@relation
+1,διὰ,διά,r--------,AuxP
+2,τῶν,ὁ,l-p---ng-,ATR
+3,ὅπλων,ὅπλον,n-p---ng-,ADV
+4,ἐγένετο,γίγνομαι,v3saim---,PRED
+5,κύριος,κύριος,n-s---mn-,PNOM
+6,τῆς,ὁ,l-s---fg-,ATR
+7,χώρας,χώρα,n-s---fg-,ATR_CO
+8,ἅμα,ἅμα,d--------,ADV
+9,καὶ,καί,c--------,COORD
+10,τῆς,ὁ,l-s---fg-,ATR
+11,πόλεως,πόλις,n-s---fg-,ATR_CO
+12,.,punc1,u--------,AuxK

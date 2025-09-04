@@ -1,0 +1,11 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|335|1,1,οὗτος,οὗτος,p-s---mn-,SBJ
+1,Leuven|Ps-Luc|335|2,2,ἐρρύσατό,ῥύομαι,v3saim---,PRED
+2,Leuven|Ps-Luc|335|3,3,με,ἐγώ,p1s---ca-,OBJ
+3,Leuven|Ps-Luc|335|4,4,ἐκ,ἐκ,r--------,AuxP
+4,Leuven|Ps-Luc|335|5,5,τοῦ,ὁ,l-s---mg-,ATR
+5,Leuven|Ps-Luc|335|6,6,θανάτου,θάνατος,n-s---mg-,ADV
+6,Leuven|Ps-Luc|335|7,7,δεινὰ,δεινός,a-p---na-,OBJ
+7,Leuven|Ps-Luc|335|8,8,ἐπ’,ἐπί,r--------,AuxP
+8,Leuven|Ps-Luc|335|9,9,ἐμοὶ,ἐγώ,p1s---cd-,ADV
+9,Leuven|Ps-Luc|335|10,10,βουλευσάμενος,βουλεύω,v-sapmmn-,ADV

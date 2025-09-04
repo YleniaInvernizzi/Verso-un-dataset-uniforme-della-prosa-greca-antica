@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-015|151|1,1,καὶ,καί,d--------,AuxY
+Leuven|0062-015|151|2,2,δώσεις,δίδωμι,v2sfia---,PRED
+Leuven|0062-015|151|3,3,δίκην,δίκη,n-s---fa-,OBJ
+Leuven|0062-015|151|4,4,παραδοθεὶς,παραδίδωμι,v-sappmn-,ADV
+Leuven|0062-015|151|5,5,τῷ,ὁ,l-s---md-,ATR
+Leuven|0062-015|151|6,6,δημίῳ,δήμιος,a-s---md-,OBJ
+Leuven|0062-015|151|7,7,.,.,u--------,AuxK

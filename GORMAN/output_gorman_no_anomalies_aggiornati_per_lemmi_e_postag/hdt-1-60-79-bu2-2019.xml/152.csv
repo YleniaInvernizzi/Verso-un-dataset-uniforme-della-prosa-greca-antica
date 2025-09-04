@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ταῦτα;οὗτος;p-p---nd-;OBJ
+2;ἐπιλεγομένῳ;ἐπιλέγω;v-sppemd-;ATR
+3;Κροίσῳ;Κροῖσος;n-s---md-;ATR
+4;τὸ;ὁ;l-s---nn-;ATR
+5;προάστειον;προάστειον;n-s---nn-;SBJ
+6;πᾶν;πᾶς;a-s---nn-;ATR
+7;ὀφίων;ὄφις;n-p---mg-;OBJ
+8;ἐνεπλήσθη;ἐμπίπλημι;v3saip---;PRED
+9;:;punc;u--------;AuxK

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|180|1,1,καί,καί,d--------,AuxY
+Leuven|PaeanBrev|180|2,2,οὕτως,οὕτως,d--------,ADV
+Leuven|PaeanBrev|180|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|PaeanBrev|180|4,4,τοσοῦτος,τοσοῦτος,p-s---mn-,ATR
+Leuven|PaeanBrev|180|5,5,συνήχθη,συνάγω,v3saip---,PRED
+Leuven|PaeanBrev|180|6,6,στρατός,στρατός,n-s---mn-,SBJ
+Leuven|PaeanBrev|180|7,7,οὔπω,οὔπω,d--------,AuxZ
+Leuven|PaeanBrev|180|8,8,τῶν,ὁ,l-p---ng-,ATR
+Leuven|PaeanBrev|180|9,9,Ῥωμαϊκῶν,Ῥωμαῖος,a-p---ng-,ATR
+Leuven|PaeanBrev|180|10,10,πραγμάτων,πρᾶγμα,n-p---ng-,SBJ
+Leuven|PaeanBrev|180|11,11,εἰς,εἰς,r--------,AuxP
+Leuven|PaeanBrev|180|12,12,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|180|13,13,πᾶν,πᾶς,a-s---na-,OBJ
+Leuven|PaeanBrev|180|14,14,ἐπιδεδωκότων,ἐπιδίδωμι,v-prpang-,ADV
+Leuven|PaeanBrev|180|15,15,·,·,u--------,AuxK

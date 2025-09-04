@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|72|1,1,ἀνάγκη,ἀνάγκη,n-s---fn-,PNOM
+1,Leuven|PaeanBrev|72|2,2,γάρ,γάρ,d--------,AuxY
+2,Leuven|PaeanBrev|72|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|PaeanBrev|72|4,4,ἀρίστους,ἀγαθός,a-p---mas,PNOM
+4,Leuven|PaeanBrev|72|5,5,εἶναι,εἰμί,v--pna---,SBJ
+5,Leuven|PaeanBrev|72|6,6,δημαγωγούς,δημαγωγός,n-p---ma-,SBJ
+6,Leuven|PaeanBrev|72|7,7,εἰδότας,οἶδα,v-prpama-,ADV
+7,Leuven|PaeanBrev|72|8,8,ὡς,ὡς,c--------,AuxC
+8,Leuven|PaeanBrev|72|9,9,κατά,κατά,r--------,AuxP
+9,Leuven|PaeanBrev|72|10,10,τόν,ὁ,l-s---ma-,ATR
+10,Leuven|PaeanBrev|72|11,11,χρόνον,χρόνος,n-s---ma-,ADV
+11,Leuven|PaeanBrev|72|12,12,ἔσονται,εἰμί,v3pfim---,OBJ
+12,Leuven|PaeanBrev|72|13,13,τῶν,ὁ,l-p---mg-,ATR
+13,Leuven|PaeanBrev|72|14,14,ἀρχομένων,ἄρχω,v-pppemg-,PNOM

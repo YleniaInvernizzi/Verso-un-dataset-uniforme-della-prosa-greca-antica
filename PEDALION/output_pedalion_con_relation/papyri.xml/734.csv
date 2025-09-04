@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|677|4|1,1,ἔφθασεν,φθάνω,v3saia---,PRED
+Leuven|677|4|2,2,δέ,δέ,d--------,AuxY
+Leuven|677|4|3,3,με,ἐγώ,p1s---ca-,OBJ
+Leuven|677|4|4,4,προαπελθών,προαπέρχομαι,v-sapamn-,ADV
+Leuven|677|4|5,5,Χάρμος,Χάρμος,n-s---mn-,SBJ
+Leuven|677|4|6,6,",",",",u--------,AuxX
+Leuven|677|4|7,7,ἐπεί,ἐπεί,c--------,AuxC
+Leuven|677|4|8,8,μετ’,μετά,r--------,AuxP
+Leuven|677|4|9,9,ἐκείνου,ἐκεῖνος,p-s---mg-,ADV
+Leuven|677|4|10,10,ἄν,ἄν,d--------,AuxY
+Leuven|677|4|11,11,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|677|4|12,12,ἀπέστειλα,ἀποστέλλω,v1saia---,ADV
+Leuven|677|4|13,13,.,.,u--------,AuxK

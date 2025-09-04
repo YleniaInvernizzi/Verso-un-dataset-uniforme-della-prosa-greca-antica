@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὑμεῖς,σύ,p-p---mn-,SBJ
+2,γάρ,γάρ,d--------,AuxY
+3,μοι,ἐγώ,p1s---md-,ADV
+4,ἀναγκαῖοι,ἀναγκαῖος,a-p---mn-,PNOM
+5,.,punc1,u--------,AuxK
+6,ἐσμέν,εἰμί,v1ppia---,PRED

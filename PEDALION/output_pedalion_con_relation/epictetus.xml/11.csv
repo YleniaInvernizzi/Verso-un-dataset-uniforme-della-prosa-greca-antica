@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|12|1,1,τίς,τίς,p-s---cn-,SBJ
+Leuven|0557-001|12|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|0557-001|12|3,3,ἐρεῖ,λέγω,v3sfia---,PRED
+Leuven|0557-001|12|4,4,;,;,u--------,AuxK

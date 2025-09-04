@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel2|109|1,1,ἰδού,ἰδού,i--------,ExD
+1,Leuven|Genesis_deel2|109|2,2,σύ,σύ,p2s---cn-,SBJ
+2,Leuven|Genesis_deel2|109|3,3,ἀποθνῄσκεις,ἀποθνῄσκω,v2spia---,PRED_CO
+3,Leuven|Genesis_deel2|109|4,4,περί,περί,r--------,AuxP
+4,Leuven|Genesis_deel2|109|5,5,τῆς,ὁ,l-s---fg-,ATR
+5,Leuven|Genesis_deel2|109|6,6,γυναικός,γυνή,n-s---fg-,ADV
+7,Leuven|Genesis_deel2|109|8,8,ἧς,ὅς,p-s---fg-,OBJ
+8,Leuven|Genesis_deel2|109|9,9,ἔλαβες,λαμβάνω,v2saia---,ATR
+10,Leuven|Genesis_deel2|109|11,11,αὕτη,οὗτος,p-s---fn-,SBJ
+11,Leuven|Genesis_deel2|109|12,12,δέ,δέ,d--------,COORD
+12,Leuven|Genesis_deel2|109|13,13,ἐστιν,εἰμί,v3spia---,PRED_CO
+13,Leuven|Genesis_deel2|109|14,14,συνῳκηκυῖα,συνοικέω,v-srpafn-,PNOM
+14,Leuven|Genesis_deel2|109|15,15,ἀνδρί,ἀνήρ,n-s---md-,OBJ

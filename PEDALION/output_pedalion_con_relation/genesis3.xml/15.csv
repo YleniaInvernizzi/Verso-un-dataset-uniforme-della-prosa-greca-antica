@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|16|1,1,καλέσωμεν,καλέω,v1pasa---,PRED_CO
+Leuven|Genesis_deel3|16|2,2,τήν,ὁ,l-s---fa-,!!!!!!ATR
+Leuven|Genesis_deel3|16|3,3,παῖδα,παῖς,n-s---ma-,OBJ
+Leuven|Genesis_deel3|16|4,4,καί,καί,c--------,COORD
+Leuven|Genesis_deel3|16|5,5,ἐρωτήσωμεν,ἐρωτάω,v1pasa---,PRED_CO
+Leuven|Genesis_deel3|16|6,6,τό,ὁ,l-s---na-,ATR
+Leuven|Genesis_deel3|16|7,7,στόμα,στόμα,n-s---na-,OBJ
+Leuven|Genesis_deel3|16|8,8,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis_deel3|16|9,9,.,.,u--------,AuxK

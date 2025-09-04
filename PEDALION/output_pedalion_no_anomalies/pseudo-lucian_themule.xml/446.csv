@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|447|1,1,οἱ,ὁ,l-p---mn-,SBJ
+1,Leuven|Ps-Luc|447|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|447|3,3,κατακλείσαντες,κατακλείω,v-papamn-,ADV_CO
+3,Leuven|Ps-Luc|447|4,4,ἔνδον,ἔνδον,d--------,ADV
+4,Leuven|Ps-Luc|447|5,5,ἐμὲ,ἐγώ,p1s---ca-,OBJ
+5,Leuven|Ps-Luc|447|6,6,μετὰ,μετά,r--------,AuxP
+6,Leuven|Ps-Luc|447|7,7,τούτων,οὗτος,p-p---ng-,ADV
+7,Leuven|Ps-Luc|447|8,8,καὶ,καί,c--------,COORD
+8,Leuven|Ps-Luc|447|9,9,φυλακὴν,φυλακή,n-s---fa-,OBJ
+9,Leuven|Ps-Luc|447|10,10,ἐμοὶ,ἐγώ,p1s---cd-,OBJ
+10,Leuven|Ps-Luc|447|11,11,γλυκυτάτην,γλυκύς,a-s---fas,ATR
+11,Leuven|Ps-Luc|447|12,12,περιστήσαντες,περιΐστημι,v-papamn-,ADV_CO
+12,Leuven|Ps-Luc|447|13,13,ἀπήιεσαν,ἄπειμι,v3piia---,PRED
+13,Leuven|Ps-Luc|447|14,14,ὥστε,ὥστε,c--------,AuxC
+14,Leuven|Ps-Luc|447|15,15,ἀπολούσασθαι,ἀπολούω,v--anm---,ADV

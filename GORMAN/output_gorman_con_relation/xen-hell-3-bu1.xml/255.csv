@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ὅπλα,ὅπλον,n-p---na-,OBJ
+2,δὲ,δέ,d--------,AuxY
+3,πόθεν,πόθεν,d--------,ADV
+4,ἔφασαν,φημί,v3paia---,PRED
+5,λήψεσθαι,λαμβάνω,v--fnm---,OBJ
+6,;,punc1,u--------,AuxK

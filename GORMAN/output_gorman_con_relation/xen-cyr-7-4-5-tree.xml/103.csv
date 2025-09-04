@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἡγήσομαι,ἡγέομαι,v1sfim---,PRED
+2,δ’,δέ,d-------_,AuxY
+3,ἐγὼ,ἐγώ,p1s---mn-,SBJ
+4,σὺν,σύν,r--------,AuxP
+5,τοῖς,ὁ,l-p---md-,ATR
+6,θεοῖς,θεός,n-p---md-,ADV
+7,.,.,u--------,AuxK

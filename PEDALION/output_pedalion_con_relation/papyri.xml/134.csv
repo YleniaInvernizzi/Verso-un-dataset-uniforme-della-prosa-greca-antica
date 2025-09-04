@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21342|3|1,1,γινώσκειν,γιγνώσκω,v--pna---,OBJ
+Leuven|21342|3|2,2,σε,σύ,p2s---ca-,SBJ
+Leuven|21342|3|3,3,θέλω,ἐθέλω,v1spia---,PRED
+Leuven|21342|3|4,4,ὅτι,ὅτι,c--------,AuxC
+Leuven|21342|3|5,5,τρεῖς,τρεῖς,m-p---ca-,ATR
+Leuven|21342|3|6,6,σοι,σύ,p2s---cd-,OBJ
+Leuven|21342|3|7,7,ἐπιστολὰς,ἐπιστολή,n-p---fa-,OBJ
+Leuven|21342|3|8,8,ἔπεμψα,πέμπω,v1saia---,OBJ
+Leuven|21342|3|9,9,ἐν,ἐν,r--------,AuxP
+Leuven|21342|3|10,10,τούτωι,οὗτος,p-s---md-,ATR
+Leuven|21342|3|11,11,τῶι,ὁ,l-s---md-,ATR
+Leuven|21342|3|12,12,μηνί,μήν,n-s---md-,ADV
+Leuven|21342|3|13,13,.,.,u--------,AuxK

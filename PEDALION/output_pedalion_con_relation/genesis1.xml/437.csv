@@ -1,0 +1,11 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|438|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis|438|2,2,ἀπῆρεν,ἀπαίρω,v3saia---,PRED_CO
+Leuven|Genesis|438|3,3,Αβραμ,Αβραμ,n-s---mn-,SBJ
+Leuven|Genesis|438|4,4,καί,καί,b--------,COORD
+Leuven|Genesis|438|5,5,πορευθείς,πορεύω,v-sappmn-,ADV
+Leuven|Genesis|438|6,6,ἐστρατοπέδευσεν,στρατοπεδεύω,v3saia---,PRED_CO
+Leuven|Genesis|438|7,7,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|438|8,8,τῇ,ὁ,l-s---fd-,ATR
+Leuven|Genesis|438|9,9,ἐρήμῳ,ἐρῆμος,n-s---fd-,ADV
+Leuven|Genesis|438|10,10,.,.,u--------,AuxK

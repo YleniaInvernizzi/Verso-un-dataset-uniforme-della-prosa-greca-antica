@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|169|1,1,ῥοδοδάφνην,ῥοδοδάφνη,n-s---fa-,OCOMP
+Leuven|Ps-Luc|169|2,2,αὐτὰ,αὐτός,p-p---na-,OBJ
+Leuven|Ps-Luc|169|3,3,καλοῦσιν,καλέω,v3ppia---,PRED
+Leuven|Ps-Luc|169|4,4,ἄνθρωποι,ἄνθρωπος,n-p---mn-,SBJ
+Leuven|Ps-Luc|169|5,5,",",",",u--------,AuxX
+Leuven|Ps-Luc|169|6,6,κακὸν,κακός,a-s---na-,ATR
+Leuven|Ps-Luc|169|7,7,ἄριστον,ἄριστον,n-s---na-,PNOM
+Leuven|Ps-Luc|169|8,8,ὄνωι,ὄνος,n-s---md-,ADV_CO
+Leuven|Ps-Luc|169|9,9,τοῦτο,οὗτος,p-s---nn-,SBJ
+Leuven|Ps-Luc|169|10,10,παντὶ,πᾶς,a-s---md-,ATR
+Leuven|Ps-Luc|169|11,11,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|169|12,12,ἵππωι,ἵππος,n-s---md-,ADV_CO
+Leuven|Ps-Luc|169|13,13,·,·,u--------,AuxK
+Leuven|Ps-Luc|169|14,14,[0],_,-,ExD

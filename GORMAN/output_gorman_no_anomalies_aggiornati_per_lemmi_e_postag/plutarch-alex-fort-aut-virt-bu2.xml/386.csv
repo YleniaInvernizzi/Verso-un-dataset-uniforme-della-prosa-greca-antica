@@ -1,0 +1,8 @@
+@id;@form;@lemma;@postag;@relation
+1;ποθεινότερος;ποθεινός;a-s---mnc;PNOM
+2;δὲ;δέ;d--------;AuxY
+3;τοῖς;ὁ;l-p---md-;ATR
+4;προσήκουσιν;προσήκω;v-pppamd-;ADV
+5;Ὀδυσσέως;Ὀδυσσεύς;n-s---mg-;ADV
+6;:;punc;u--------;AuxK
+7;ἦν;εἰμί;v3siia---;PRED

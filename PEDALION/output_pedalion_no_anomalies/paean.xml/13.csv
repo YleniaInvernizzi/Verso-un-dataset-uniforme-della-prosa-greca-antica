@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|14|1,1,συνοικίαι,συνοικία,n-p---fn-,PNOM
+1,Leuven|PaeanBrev|14|2,2,δέ,δέ,d--------,AuxY
+2,Leuven|PaeanBrev|14|3,3,ἦσαν,εἰμί,v3piia---,PRED_CO
+3,Leuven|PaeanBrev|14|4,4,αὗται,οὗτος,p-p---fn-,SBJ
+5,Leuven|PaeanBrev|14|6,6,καί,καί,c--------,COORD
+6,Leuven|PaeanBrev|14|7,7,κατʼ,κατά,r--------,AuxP
+7,Leuven|PaeanBrev|14|8,8,οἰκείαν,οἰκεῖος,a-s---fa-,ATR
+8,Leuven|PaeanBrev|14|9,9,ἀρχήν,ἀρχή,n-s---fa-,ADV
+9,Leuven|PaeanBrev|14|10,10,ἑκάστη,ἕκαστος,a-s---fn-,SBJ

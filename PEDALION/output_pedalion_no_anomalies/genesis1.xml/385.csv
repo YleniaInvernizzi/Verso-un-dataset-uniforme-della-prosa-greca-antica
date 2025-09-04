@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|386|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis|386|2,2,ἐγένετο,γίγνομαι,v3saim---,PRED_CO
+2,Leuven|Genesis|386|3,3,αὐτοῖς,αὐτός,p-p---md-,ADV
+3,Leuven|Genesis|386|4,4,ἡ,ὁ,l-s---fn-,ATR
+4,Leuven|Genesis|386|5,5,πλίνθος,πλίνθος,n-s---fn-,SBJ
+5,Leuven|Genesis|386|6,6,εἰς,εἰς,r--------,AuxP
+6,Leuven|Genesis|386|7,7,λίθον,λίθος,n-s---ma-,PNOM
+8,Leuven|Genesis|386|9,9,καί,καί,c--------,COORD
+9,Leuven|Genesis|386|10,10,ἄσφαλτος,ἄσφαλτος,n-s---fn-,PNOM
+10,Leuven|Genesis|386|11,11,ἦν,εἰμί,v3siia---,PRED_CO
+11,Leuven|Genesis|386|12,12,αὐτοῖς,αὐτός,p-p---md-,ADV
+12,Leuven|Genesis|386|13,13,ὁ,ὁ,l-s---mn-,ATR
+13,Leuven|Genesis|386|14,14,πηλός,πηλός,n-s---mn-,SBJ

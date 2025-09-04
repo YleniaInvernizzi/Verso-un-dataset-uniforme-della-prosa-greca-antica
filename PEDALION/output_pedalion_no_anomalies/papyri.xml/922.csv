@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|31651|10|1,1,ἐρρῶσθαι,ῥώννυμι,v--rne---,OBJ
+1,Leuven|31651|10|2,2,σε,σύ,p2s---ca-,SBJ
+2,Leuven|31651|10|3,3,εὔχομαι,εὔχομαι,v1spie---,PRED
+4,Leuven|31651|10|5,5,κύριε,κύριος,n-s---mv-,ExD
+5,Leuven|31651|10|6,6,μου,ἐγώ,p1s---cg-,ATR
+7,Leuven|31651|10|8,8,διευτυχοῦντα,διευτυχέω,v-sppama-,ADV

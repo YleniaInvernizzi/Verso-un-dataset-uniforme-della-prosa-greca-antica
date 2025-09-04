@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Κριτίᾳ,Κριτίης,n-s---md-,PNOM
+2,τοῦτʼ,οὗτος,p-s---nn-,SBJ
+3,ἔστω,εἰμί,v3spma---,PRED
+4,τῷ,ὁ,l-s---md-,ATR
+5,καλῷ,καλός,a-s---md-,ATR
+6,.,punc1,u--------,AuxK

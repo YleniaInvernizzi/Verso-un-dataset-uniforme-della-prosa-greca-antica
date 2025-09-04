@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|134|1,1,ὅτι,ὅτι,c--------,AuxC
+Leuven|Genesis|134|2,2,γῆ,γῆ,n-s---fn-,SBJ
+Leuven|Genesis|134|3,3,εἶ,εἰμί,v2spia---,ADV_CO
+Leuven|Genesis|134|4,4,καί,καί,b--------,COORD
+Leuven|Genesis|134|5,5,εἰς,εἰς,r--------,AuxP
+Leuven|Genesis|134|6,6,γῆν,γῆ,n-s---fa-,OBJ
+Leuven|Genesis|134|7,7,ἀπελεύσῃ,ἀπέρχομαι,v2sfim---,ADV_CO
+Leuven|Genesis|134|8,8,.,.,u--------,AuxK
+Leuven|Genesis|134|9,9,[0],,,PRED

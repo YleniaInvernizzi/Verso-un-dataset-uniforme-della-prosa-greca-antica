@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,Ἀρίστιππε,Ἀρίστιππος,n-s---mv-,ExD
+1,2,",",punc1,u--------,AuxX
+2,3,κοινῇ,κοινός,a-s---fd-,ATR
+3,4,συνοικεῖς,συνοικέω,v2spia---,PRED
+4,5,πόρνῃ,πόρνη,n-s---fd-,OBJ
+5,6,.,punc1,u--------,AuxK

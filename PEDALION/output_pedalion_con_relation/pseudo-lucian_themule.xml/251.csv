@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|252|1,1,τοῖς,ὁ,l-p---md-,ATR
+Leuven|Ps-Luc|252|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|252|3,3,λόγοις,λόγος,n-p---md-,OBJ
+Leuven|Ps-Luc|252|4,4,τούτοις,οὗτος,p-p---md-,ATR
+Leuven|Ps-Luc|252|5,5,τὸ,ὁ,l-s---nn-,ATR
+Leuven|Ps-Luc|252|6,6,ξύλον,ξύλον,n-s---nn-,SBJ
+Leuven|Ps-Luc|252|7,7,εἵπετο,ἕπομαι,v3siie---,PRED_CO
+Leuven|Ps-Luc|252|8,8,",",",",u--------,AuxX
+Leuven|Ps-Luc|252|9,9,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|252|10,10,ἤδη,ἤδη,d--------,ADV
+Leuven|Ps-Luc|252|11,11,ἕλκος,ἕλκος,n-s---na-,OBJ
+Leuven|Ps-Luc|252|12,12,τῶι,ὁ,l-s---md-,ATR
+Leuven|Ps-Luc|252|13,13,μηρῶι,μηρός,n-s---md-,ADV
+Leuven|Ps-Luc|252|14,14,εἶχον,ἔχω,v1siia---,PRED_CO
+Leuven|Ps-Luc|252|15,15,νουθετούμενος,νουθετέω,v-sppemn-,ADV
+Leuven|Ps-Luc|252|16,16,.,.,u--------,AuxK

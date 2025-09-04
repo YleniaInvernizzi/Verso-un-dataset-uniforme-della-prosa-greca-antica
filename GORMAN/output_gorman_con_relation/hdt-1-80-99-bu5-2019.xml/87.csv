@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,Πέρσαι,Πέρσης,n-p---mn-,SBJ
+2,φύσιν,φύσις,n-s---fa-,ADV
+3,ἐόντες,εἰμί,v-pppamn-,ADV
+4,ὑβρισταὶ,ὑβριστής,n-p---mn-,PNOM
+5,εἰσὶ,εἰμί,v3ppia---,PRED
+6,ἀχρήματοι,ἀχρήματος,a-p---mn-,PNOM
+7,.,punc1,u--------,AuxK

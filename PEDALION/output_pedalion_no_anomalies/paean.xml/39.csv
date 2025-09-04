@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|40|1,1,ἥτις,ὅστις,p-s---fn-,SBJ
+1,Leuven|PaeanBrev|40|2,2,ἐξ,ἐκ,r--------,AuxP
+2,Leuven|PaeanBrev|40|3,3,ἐκείνου,ἐκεῖνος,p-s---ng-,ADV_CO
+3,Leuven|PaeanBrev|40|4,4,καί,καί,c--------,COORD
+4,Leuven|PaeanBrev|40|5,5,εἰς,εἰς,r--------,AuxP
+5,Leuven|PaeanBrev|40|6,6,τόδε,ὅδε,p-s---na-,ADV_CO
+6,Leuven|PaeanBrev|40|7,7,τελεῖται,τελέω,v3spie---,PRED
+7,Leuven|PaeanBrev|40|8,8,τήν,ὁ,l-s---fa-,ATR
+8,Leuven|PaeanBrev|40|9,9,αὐτήν,αὐτός,p-s---fa-,ATR
+9,Leuven|PaeanBrev|40|10,10,ἔχουσα,ἔχω,v-sppafn-,ADV
+10,Leuven|PaeanBrev|40|11,11,προσηγορίαν,προσηγορία,n-s---fa-,OBJ

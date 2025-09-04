@@ -1,0 +1,17 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|28133|6|1,1,καί,καί,d--------,AuxY
+Leuven|28133|6|2,2,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+Leuven|28133|6|3,3,τήν,ὁ,l-s---fa-,ATR
+Leuven|28133|6|4,4,μητέρα,μήτηρ,n-s---fa-,OBJ_CO
+Leuven|28133|6|5,5,μου,ἐγώ,p1s---cg-,ATR
+Leuven|28133|6|6,6,καί,καί,b--------,AuxY
+Leuven|28133|6|7,7,τούς,ὁ,l-p---ma-,ATR
+Leuven|28133|6|8,8,ἀδελφούς,ἀδελφός,n-p---ma-,OBJ_CO
+Leuven|28133|6|9,9,μου,ἐγώ,p1s---cg-,ATR
+Leuven|28133|6|10,10,καί,καί,b--------,AuxY
+Leuven|28133|6|11,11,Σεμπρῶνιν,Σεμπρῶνις,n-s---ma-,OBJ_CO
+Leuven|28133|6|12,12,καί,καί,b--------,COORD
+Leuven|28133|6|13,13,τούς,ὁ,l-p---ma-,OBJ_CO
+Leuven|28133|6|14,14,παρ’,παρά,r--------,AuxP
+Leuven|28133|6|15,15,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|28133|6|16,16,.,.,u--------,AuxK

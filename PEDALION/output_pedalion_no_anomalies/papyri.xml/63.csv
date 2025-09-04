@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|1781|13|1,1,σὺ,σύ,p2s---cn-,SBJ
+1,Leuven|1781|13|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|1781|13|3,3,καλῶς,καλός,d--------,ADV
+3,Leuven|1781|13|4,4,ἂν,ἄν,d--------,AuxY
+4,Leuven|1781|13|5,5,ποιήσαις,ποιέω,v2saoa---,PRED
+5,Leuven|1781|13|6,6,ἐπιστροφήν,ἐπιστροφή,n-s---fa-,OBJ
+6,Leuven|1781|13|7,7,μου,ἐγώ,p1s---cg-,ATR
+7,Leuven|1781|13|8,8,ποιησάμενος,ποιέω,v-sapmmn-,ADV

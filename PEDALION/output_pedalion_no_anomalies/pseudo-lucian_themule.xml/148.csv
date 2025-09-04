@@ -1,0 +1,9 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|149|1,1,ταῦτα,οὗτος,p-p---na-,OBJ
+1,Leuven|Ps-Luc|149|2,2,ἐννοῶν,ἐννοέω,v-sppamn-,ADV
+2,Leuven|Ps-Luc|149|3,3,ἠγνόουν,ἀγνοέω,v1siia---,PRED
+3,Leuven|Ps-Luc|149|4,4,ὁ,ὁ,l-s---mn-,ATR
+4,Leuven|Ps-Luc|149|5,5,δυστυχὴς,δυστυχής,a-s---mn-,SBJ
+5,Leuven|Ps-Luc|149|6,6,τὸ,ὁ,l-s---na-,ATR
+6,Leuven|Ps-Luc|149|7,7,μέλλον,μέλλω,v-sppana-,ATR
+7,Leuven|Ps-Luc|149|8,8,κακόν,κακός,a-s---na-,OBJ

@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,διὰ,διά,r--------,AuxP
+1,2,ταῦτ᾽,οὗτος,p-p---na-,ADV
+2,3,ἀξιῶ,ἀξιόω,v1spia---,PRED
+3,4,τιμᾶσθαι,τιμάω,v--pne---,OBJ
+4,5,.,punc1,u--------,AuxK

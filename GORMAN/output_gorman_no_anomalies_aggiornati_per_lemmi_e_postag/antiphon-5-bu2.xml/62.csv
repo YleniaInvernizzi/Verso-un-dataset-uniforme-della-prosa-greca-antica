@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἃ;ὅς;p-p---na-;OBJ
+2;γάρ;γάρ;d--------;AuxY
+3;τις;τις;p-s---cn-;SBJ
+4;μὴ;μή;d--------;AuxZ
+5;προσεδόκησεν;προσδοκέω;v3saia---;PRED_CO
+6;,;punc;u--------;AuxX
+7;οὐ;οὐ;d--------;AuxZ
+8;-δὲ;δέ;c--------;COORD
+9;φυλάξασθαι;φυλάσσω;v--anm---;OBJ
+10;ἐγχωρεῖ;ἐγχωρέω;v3spia---;PRED_CO
+11;.;punc;u--------;AuxK

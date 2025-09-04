@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27385|4|1,1,λοιπὸν,λοιπός,a-s---na-,ADV
+Leuven|27385|4|2,2,οὖν,οὖν,d--------,AuxY
+Leuven|27385|4|3,3,βλέπε,βλέπω,v2spma---,PRED_CO
+Leuven|27385|4|4,4,",",",",u--------,AuxX
+Leuven|27385|4|5,5,μὴ,μή,c--------,AuxC
+Leuven|27385|4|6,6,πεισθῇς,πείθω,v2sasp---,OBJ
+Leuven|27385|4|7,7,",",",",u--------,AuxK
+Leuven|27385|4|8,8,καὶ,καί,b--------,COORD
+Leuven|27385|4|9,9,οὐκέτι,οὐκέτι,d--------,ADV
+Leuven|27385|4|10,10,ἔσει,εἰμί,v2sfim---,PRED_CO
+Leuven|27385|4|11,11,μου,ἐγώ,p1s---cg-,ATR
+Leuven|27385|4|12,12,υἱός,υἱός,n-s---mn-,PNOM
+Leuven|27385|4|13,13,.,.,u--------,AuxK

@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---nn-,SBJ
+2,",",punc1,u--------,AuxX
+3,ὦ,ὦ,i--------,AuxZ
+4,ἄνδρες,ἀνήρ,n-p---mv-,ExD
+5,",",punc1,u--------,AuxX
+6,πῶς,πῶς2,d--------,ADV
+7,εἰκότα,ἔοικα,v-prpann-,PNOM
+8,ἐστίν,εἰμί,v3spia---,PRED
+9,;,punc1,u--------,AuxK

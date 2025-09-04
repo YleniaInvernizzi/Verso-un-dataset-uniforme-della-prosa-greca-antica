@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,μέγιστον,μέγας,a-s---nns,ATR
+1,2,δὲ,δέ,d--------,AuxY
+2,3,τούτου,οὗτος,p-s---ng-,ATR
+3,4,σημεῖον,σημεῖον,n-s---nn-,PRED
+4,5,·,punc1,u--------,AuxK
+5,6,ἐστιν,εἰμί,v3spia---,PRED

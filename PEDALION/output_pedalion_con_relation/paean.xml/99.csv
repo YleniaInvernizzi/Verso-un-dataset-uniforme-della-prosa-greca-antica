@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|100|1,1,τοσοῦτον,τοσοῦτος,p-s---ma-,OBJ
+Leuven|PaeanBrev|100|2,2,γάρ,γάρ,d--------,AuxY
+Leuven|PaeanBrev|100|3,3,ἔδοξεν,δοκέω,v3saia---,PRED
+Leuven|PaeanBrev|100|4,4,αὐτήν,αὐτός,p-s---fa-,SBJ
+Leuven|PaeanBrev|100|5,5,συστεῖλαι,συστέλλω,v--ana---,SBJ
+Leuven|PaeanBrev|100|6,6,κατά,κατά,r--------,AuxP
+Leuven|PaeanBrev|100|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|PaeanBrev|100|8,8,χρόνον,χρόνος,n-s---ma-,ADV
+Leuven|PaeanBrev|100|9,9,",",",",u--------,AuxX
+Leuven|PaeanBrev|100|10,10,ὅσον,ὅσος,p-s---ma-,ADV
+Leuven|PaeanBrev|100|11,11,ὑπερέβαινε,ὑπερβαίνω,v3siia---,ATR
+Leuven|PaeanBrev|100|12,12,τῷ,ὁ,l-s---nd-,ATR
+Leuven|PaeanBrev|100|13,13,μεγέθει,μέγεθος,n-s---nd-,ADV
+Leuven|PaeanBrev|100|14,14,.,.,u--------,AuxK

@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel3|253|1,1,ἰδού,ἰδού,i--------,ExD
+Leuven|Genesis_deel3|253|2,2,Ησαυ,Ησαυ,n-s---mn-,SBJ
+Leuven|Genesis_deel3|253|3,3,ὁ,ὁ,l-s---mn-,ATR
+Leuven|Genesis_deel3|253|4,4,ἀδελφός,ἀδελφός,n-s---mn-,APOS
+Leuven|Genesis_deel3|253|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis_deel3|253|6,6,ἀπειλεῖ,ἀπειλέω,v3spia---,PRED
+Leuven|Genesis_deel3|253|7,7,σοι,σύ,p2s---cd-,OBJ
+Leuven|Genesis_deel3|253|8,8,τοῦ,ὁ,l-s---ng-,ATR
+Leuven|Genesis_deel3|253|9,9,ἀποκτεῖναι,ἀποκτείνω,v--ana---,OBJ
+Leuven|Genesis_deel3|253|10,10,σε,σύ,p2s---ca-,OBJ
+Leuven|Genesis_deel3|253|11,11,·,·,u--------,AuxK

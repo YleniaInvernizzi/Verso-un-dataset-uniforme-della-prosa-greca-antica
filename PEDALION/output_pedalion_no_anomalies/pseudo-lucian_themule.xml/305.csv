@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|306|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|306|2,2,ποταμὸς,ποταμός,n-s---mn-,SBJ
+2,Leuven|Ps-Luc|306|3,3,ἦν,εἰμί,v3siia---,PRED
+3,Leuven|Ps-Luc|306|4,4,ἀέναος,ἀέναος,a-s---mn-,ATR
+4,Leuven|Ps-Luc|306|5,5,ἐν,ἐν,r--------,AuxP
+5,Leuven|Ps-Luc|306|6,6,τῆι,ὁ,l-s---fd-,ATR
+6,Leuven|Ps-Luc|306|7,7,ὁδῶι,ὁδός,n-s---fd-,ADV

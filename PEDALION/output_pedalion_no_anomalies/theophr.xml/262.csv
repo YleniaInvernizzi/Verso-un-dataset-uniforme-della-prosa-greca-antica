@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+1,Leuven|0093-009|263|2,2,ἱλαρὸς,ἱλαρός,a-s---mn-,PNOM
+2,Leuven|0093-009|263|3,3,ἴσθι,εἰμί,v2spma---,PRED_CO
+6,Leuven|0093-009|263|7,7,καὶ,καί,c--------,AuxY
+7,Leuven|0093-009|263|8,8,πῶς,πῶς,d--------,ADV

@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0093-009|138|1,1,ἐνθυμῇ,ἐνθυμέομαι,v2spie---,PRED
+1,Leuven|0093-009|138|2,2,τὸ,ὁ,l-s---na-,OBJ
+2,Leuven|0093-009|138|3,3,τῆς,ὁ,l-s---fg-,ATR
+3,Leuven|0093-009|138|4,4,τύχης,τύχη,n-s---fg-,ATR

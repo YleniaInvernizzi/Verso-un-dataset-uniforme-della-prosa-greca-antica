@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|121|1,1,χειροτονεῖται,χειροτονέω,v3spie---,PRED
+1,Leuven|PaeanBrev|121|2,2,τοίνυν,τοίνυν,d--------,AuxY
+2,Leuven|PaeanBrev|121|3,3,δικτάτωρ,δικτάτωρ,n-s---mn-,OCOMP
+3,Leuven|PaeanBrev|121|4,4,Λούκιος,Λούκιος,n-s---mn-,APOS
+4,Leuven|PaeanBrev|121|5,5,Κύντιος,Κύντιος,n-s---mn-,APOS
+5,Leuven|PaeanBrev|121|6,6,Κικιννάτος,Κικιννάτος,n-s---mn-,SBJ

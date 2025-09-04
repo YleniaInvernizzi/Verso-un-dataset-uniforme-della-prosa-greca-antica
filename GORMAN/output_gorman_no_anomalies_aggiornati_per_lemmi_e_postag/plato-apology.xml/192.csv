@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;ἔσθʼ;εἰμί;v3spia---;PRED
+2;ὅστις;ὅστις;p-s---mn-;SBJ
+3;βούλεται;βούλομαι;v3spie---;SBJ
+4;βλάπτεσθαι;βλάπτω;v--pne---;OBJ
+5;";";punc;u--------;AuxK

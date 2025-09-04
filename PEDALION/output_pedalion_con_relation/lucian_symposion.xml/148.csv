@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-015|149|1,1,τίνες,τίς,p-p---cn-,PNOM
+Leuven|0062-015|149|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0062-015|149|3,3,καὶ,καί,d--------,AuxZ
+Leuven|0062-015|149|4,4,ὄντες,εἰμί,v-pppamn-,ADV
+Leuven|0062-015|149|5,5,ὑμεῖς,σύ,p2p---cn-,SBJ
+Leuven|0062-015|149|6,6,ἐρεῖτε,λέγω,v2pfia---,PRED
+Leuven|0062-015|149|7,7,ταῦτα,οὗτος,p-p---na-,OBJ
+Leuven|0062-015|149|8,8,;,;,u--------,AuxK

@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,τούτῳ,οὗτος,p-s---nd-,OBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,πεποιθὼς,πείθω,v-srpamn-,ADV_CO
+4,καὶ,καί,c--------,COORD
+5,περισσόν,περισσός,a-s---na-,ADV
+6,τι,τις,a-s---na_,ADV
+7,τῆς,ὁ,l-s---fg-,ATR
+8,πατρίδος,πατρίς,n-s---fg-,OBJ
+9,ἐφιέμενος,ἐφίημι,v-sppmmn-,ADV_CO
+10,ἧκεν,ἵημι,v3saia---,PRED
+11,.,punc1,u--------,AuxK

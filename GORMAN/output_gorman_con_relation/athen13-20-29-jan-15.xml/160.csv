@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,Λατὼ,Λητώ,n-s---fn-,SBJ_CO
+2,καὶ,καί,c--------,COORD
+3,Νιόβα,Νιόβη,n-s---fn-,SBJ_CO
+4,μάλα,μάλα,d--------,AuxZ
+5,μὲν,μέν,d--------,AuxY
+6,φίλαι,φίλος,a-p---fn-,ATR
+7,ἦσαν,εἰμί,v3piia---,PRED
+8,ἑταῖραι,ἑταίρα,n-p---fn-,PNOM
+9,.,punc1,u--------,AuxK

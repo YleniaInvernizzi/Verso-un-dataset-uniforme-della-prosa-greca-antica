@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐξαρκεῖν;ἐξαρκέω;v--pna---;OBJ
+2;μοι;ἐγώ;p1s---md-;OBJ
+3;νομίζω;νομίζω;v1spia---;PRED
+4;τὰ;ὁ;l-p---na-;ATR
+5;εἰρημένα;λέγω;v-prpena-;SBJ
+6;,;punc;u--------;AuxX
+7;ὦ;ὦ;i--------;AuxZ
+8;ἄνδρες;ἀνήρ;n-p---mv-;ExD
+9;δικασταί;δικαστής;n-p---mv-;ATR
+10;·;punc;u--------;AuxK

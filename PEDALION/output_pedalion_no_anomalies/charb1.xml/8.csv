@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0554-001|9|1,1,ἐζήτησε,ζητέω,v3saia---,PRED
+1,Leuven|0554-001|9|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|0554-001|9|3,3,τοιόνδε,τοιόσδε,p-s---ma-,ATR
+3,Leuven|0554-001|9|4,4,τὸν,ὁ,l-s---ma-,ATR
+4,Leuven|0554-001|9|5,5,καιρόν,καιρός,n-s---ma-,OBJ

@@ -1,0 +1,11 @@
+@id;@form;@lemma;@postag;@relation
+1;δέλεαρ;δέλεαρ;n-s---nn-;PNOM
+2;δ᾽;δέ;d--------;AuxY
+3;αὐτῷ;αὐτός;p-s---md-;ATR
+4;θανάτου;θάνατος;n-s---mg-;ATR
+5;τῆς;ὁ;l-s---fg-;ATR
+6;υἱωνῆς;υἱωνή;n-s---fg-;ATR
+7;ὁ;ὁ;l-s---mn-;ATR
+8;γάμος;γάμος;n-s---mn-;SBJ
+9;κατέστη;καθίστημι;v3saia---;PRED
+10;:;punc;u--------;AuxK

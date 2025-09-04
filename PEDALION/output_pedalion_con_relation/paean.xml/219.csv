@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|221|1,1,τούτων,οὗτος,p-p---ng-,SBJ
+Leuven|PaeanBrev|221|2,2,ὧδε,ὧδε,d--------,ADV
+Leuven|PaeanBrev|221|3,3,πεπραγμένων,πράσσω,v-prpeng-,ADV
+Leuven|PaeanBrev|221|4,4,Σαμνῖται,Σαμνίτης,n-p---mn-,SBJ
+Leuven|PaeanBrev|221|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|221|6,6,μάχην,μάχη,n-s---fa-,OBJ
+Leuven|PaeanBrev|221|7,7,ἀνενεώσαντο,ἀνανεόομαι,v3paim---,PRED
+Leuven|PaeanBrev|221|8,8,Κύντου,Κύντης,n-s---mg-,SBJ
+Leuven|PaeanBrev|221|9,9,Φαβίου,Φάβιος,n-s---mg-,APOS
+Leuven|PaeanBrev|221|10,10,Μαξίμου,Μάξιμος,n-s---mg-,APOS
+Leuven|PaeanBrev|221|11,11,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|221|12,12,ὑπατείαν,ὑπατεία,n-s---fa-,OBJ
+Leuven|PaeanBrev|221|13,13,ἔχοντος,ἔχω,v-sppamg-,ADV
+Leuven|PaeanBrev|221|14,14,.,.,u--------,AuxK

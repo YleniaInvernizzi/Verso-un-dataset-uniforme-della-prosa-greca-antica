@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|228|1,1,κ-,καί,d--------,AuxY
+Leuven|Ps-Luc|228|2,2,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|Ps-Luc|228|3,3,τότε,τότε,d--------,ADV
+Leuven|Ps-Luc|228|4,4,πρὸς,πρός,r--------,AuxP
+Leuven|Ps-Luc|228|5,5,ἐμαυτὸν,ἐμαυτοῦ,p-s---ma-,OBJ
+Leuven|Ps-Luc|228|6,6,εἶπον,λέγω,v1saia---,PRED
+Leuven|Ps-Luc|228|7,7,",",",",u--------,AuxX
+Leuven|Ps-Luc|228|8,8,ἄθλιε,ἄθλιος,a-s---mv-,ExD
+Leuven|Ps-Luc|228|9,9,",",",",u--------,AuxX
+Leuven|Ps-Luc|228|10,10,τί,τίς,p-s---na-,ADV
+Leuven|Ps-Luc|228|11,11,μένεις,μένω,v2spia---,OBJ
+Leuven|Ps-Luc|228|12,12,ἔτι,ἔτι,d--------,ADV
+Leuven|Ps-Luc|228|13,13,ἐνταῦθα,ἐνταῦθα,d--------,ADV
+Leuven|Ps-Luc|228|14,14,;,;,u--------,AuxK

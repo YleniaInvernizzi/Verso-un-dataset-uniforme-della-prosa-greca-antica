@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27296|5|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+Leuven|27296|5|2,2,Γέμελλαν,Γέμελλα,n-s---fa-,OBJ_CO
+Leuven|27296|5|3,3,καί,καί,b--------,AuxY
+Leuven|27296|5|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|27296|5|5,5,σύμβιον,σύμβιος,n-s---fa-,OBJ_CO
+Leuven|27296|5|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR
+Leuven|27296|5|7,7,καί,καί,b--------,COORD
+Leuven|27296|5|8,8,τήν,ὁ,l-s---fa-,ATR
+Leuven|27296|5|9,9,μητέρα,μήτηρ,n-s---fa-,OBJ_CO
+Leuven|27296|5|10,10,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|27296|5|11,11,.,.,u--------,AuxK

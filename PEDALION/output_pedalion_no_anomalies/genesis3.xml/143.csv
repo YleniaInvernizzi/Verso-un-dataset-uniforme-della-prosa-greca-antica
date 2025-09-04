@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|144|1,1,καί,καί,c--------,AuxY
+1,Leuven|Genesis_deel3|144|2,2,ᾠκοδόμησεν,οἰκοδομέω,v3saia---,PRED_CO
+2,Leuven|Genesis_deel3|144|3,3,ἐκεῖ,ἐκεῖ,d--------,ADV
+3,Leuven|Genesis_deel3|144|4,4,θυσιαστήριον,θυσιαστήριον,n-s---na-,OBJ
+4,Leuven|Genesis_deel3|144|5,5,καί,καί,c--------,AuxY
+5,Leuven|Genesis_deel3|144|6,6,ἐπεκαλέσατο,ἐπικαλέω,v3saim---,PRED_CO
+6,Leuven|Genesis_deel3|144|7,7,τό,ὁ,l-s---na-,ATR
+7,Leuven|Genesis_deel3|144|8,8,ὄνομα,ὄνομα,n-s---na-,OBJ
+8,Leuven|Genesis_deel3|144|9,9,κυρίου,κύριος,n-s---mg-,ATR
+9,Leuven|Genesis_deel3|144|10,10,καί,καί,c--------,COORD
+10,Leuven|Genesis_deel3|144|11,11,ἔπηξεν,πήγνυμι,v3saia---,PRED_CO
+11,Leuven|Genesis_deel3|144|12,12,ἐκεῖ,ἐκεῖ,d--------,ADV
+12,Leuven|Genesis_deel3|144|13,13,τήν,ὁ,l-s---fa-,ATR
+13,Leuven|Genesis_deel3|144|14,14,σκηνήν,σκηνή,n-s---fa-,OBJ
+14,Leuven|Genesis_deel3|144|15,15,αὐτοῦ,αὐτός,p-s---mg-,ATR

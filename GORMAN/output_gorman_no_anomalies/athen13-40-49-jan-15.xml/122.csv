@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,αὕτη,οὗτος,p-s---fn-,SBJ
+1,2,δὲ,δέ,d--------,AuxZ
+2,3,ἦν,εἰμί,v3siia---,PRED
+3,4,γναφέως,κναφεύς,n-s---mg-,ATR
+4,5,θυγάτηρ,θυγάτηρ,n-s---fn-,PNOM
+5,6,.,punc1,u--------,AuxK

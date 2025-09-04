@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,Πελασγοῦ,Πελασγός,n-s---mg-,PNOM_CO
+2,καὶ,καί,c--------,COORD
+3,Δηιανείρης,Δηιάνειρα,n-s---fg-,PNOM_CO
+4,γίνεται,γίγνομαι,v3spie---,PRED
+5,Λυκάων,λυκάων,n-s---mn-,SBJ
+6,:,punc1,u--------,AuxK

@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|69|1,1,ἐντεῦθεν,ἐντεῦθεν,d--------,ADV
+1,Leuven|PaeanBrev|69|2,2,τό,ὁ,l-s---nn-,ATR
+2,Leuven|PaeanBrev|69|3,3,μετά,μετά,r--------,AuxP
+3,Leuven|PaeanBrev|69|4,4,τῶν,ὁ,l-p---mg-,ATR
+4,Leuven|PaeanBrev|69|5,5,βασιλέων,βασιλεύς,n-p---mg-,SBJ
+5,Leuven|PaeanBrev|69|6,6,ἐπαύσατο,παύω,v3saim---,PRED_CO
+7,Leuven|PaeanBrev|69|8,8,μετηνέχθη,μεταφέρω,v3saip---,PRED_CO
+8,Leuven|PaeanBrev|69|9,9,δέ,δέ,d--------,COORD
+9,Leuven|PaeanBrev|69|10,10,εἰς,εἰς,r--------,AuxP
+10,Leuven|PaeanBrev|69|11,11,τήν,ὁ,l-s---fa-,ATR
+11,Leuven|PaeanBrev|69|12,12,τῶν,ὁ,l-p---mg-,ATR
+12,Leuven|PaeanBrev|69|13,13,ὑπάτων,ὕπατος,a-p---mg-,ATR
+13,Leuven|PaeanBrev|69|14,14,ἀρχήν,ἀρχή,n-s---fa-,OBJ

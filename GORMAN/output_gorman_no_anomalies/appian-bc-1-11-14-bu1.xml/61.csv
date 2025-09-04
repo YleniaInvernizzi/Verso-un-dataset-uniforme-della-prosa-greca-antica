@@ -1,0 +1,8 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,νόμους,νόμος,n-p---ma-,OBJ
+1,2,τε,τε,d--------,AuxY
+2,3,ἐξέλυε,ἐκλύω,v3siia---,PRED_CO
+3,4,καὶ,καί,c--------,COORD
+4,5,ἑτέρους,ἕτερος,a-p---ma-,OBJ
+5,6,ἐτίθετο,τίθημι,v3siie---,PRED_CO
+6,7,·,punc1,u--------,AuxK

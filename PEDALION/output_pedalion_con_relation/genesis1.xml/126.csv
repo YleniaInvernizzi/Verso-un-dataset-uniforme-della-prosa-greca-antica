@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|127|1,1,πληθύνων,πληθύνω,v-sppamn-,ADV
+Leuven|Genesis|127|2,2,πληθυνῶ,πληθύνω,v1sfia---,PRED_CO
+Leuven|Genesis|127|3,3,τάς,ὁ,l-p---fa-,ATR
+Leuven|Genesis|127|4,4,λύπας,λύπη,n-p---fa-,OBJ_CO
+Leuven|Genesis|127|5,5,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|127|6,6,καί,καί,b--------,COORD
+Leuven|Genesis|127|7,7,τόν,ὁ,l-s---ma-,ATR
+Leuven|Genesis|127|8,8,στεναγμόν,στεναγμός,n-s---ma-,OBJ_CO
+Leuven|Genesis|127|9,9,σου,σύ,p2s---cg-,ATR
+Leuven|Genesis|127|10,10,",",",",u--------,COORD
+Leuven|Genesis|127|11,11,ἐν,ἐν,r--------,AuxP
+Leuven|Genesis|127|12,12,λύπαις,λύπη,n-p---fd-,ADV
+Leuven|Genesis|127|13,13,τέξῃ,τίκτω,v2sfim---,PRED_CO
+Leuven|Genesis|127|14,14,τέκνα,τέκνον,n-p---na-,OBJ
+Leuven|Genesis|127|15,15,·,·,u--------,AuxK

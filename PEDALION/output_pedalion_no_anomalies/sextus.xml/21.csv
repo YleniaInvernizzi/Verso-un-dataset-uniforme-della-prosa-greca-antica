@@ -1,0 +1,5 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0544-002|22|1,1,οὐκ,οὐ,d--------,AuxZ
+1,Leuven|0544-002|22|2,2,ἄρα,ἄρα,d--------,AuxY
+2,Leuven|0544-002|22|3,3,διδάσκεταί,διδάσκω,v3spie---,PRED
+3,Leuven|0544-002|22|4,4,τι,τις,p-s---nn-,SBJ

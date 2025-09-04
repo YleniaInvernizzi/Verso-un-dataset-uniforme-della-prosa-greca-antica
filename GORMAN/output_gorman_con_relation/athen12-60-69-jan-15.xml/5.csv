@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,ἠβούλετο,βούλομαι,v3siie---,PRED
+2,γὰρ,γάρ,d--------,AuxY
+3,τὴν,ὁ,l-s---fa-,ATR
+4,ὄψιν,ὄψις,n-s---fa-,ADV
+5,ἱλαρὸς,ἱλαρός,a-s---mn-,PNOM_CO
+6,καὶ,καί,c--------,COORD
+7,τοῖς,ὁ,l-p---md-,ATR
+8,ἀπαντῶσιν,ἀπαντάω,v-pppamd-,OBJ
+9,ἡδὺς,ἡδύς,a-s---mn-,PNOM_CO
+10,φαίνεσθαι,φαίνω,v--pne---,OBJ
+11,.,punc1,u--------,AuxK

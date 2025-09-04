@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21341|6|1,1,κατάπλευσον,καταπλέω,v2sama---,PRED
+Leuven|21341|6|2,2,ἐν,ἐν,r--------,AuxP
+Leuven|21341|6|3,3,τῷ,ὁ,l-s---nd-,ATR
+Leuven|21341|6|4,4,πλοίῳ,πλοῖον,n-s---nd-,ADV
+Leuven|21341|6|5,5,ἵνα,ἵνα,c--------,AuxC
+Leuven|21341|6|6,6,μεθʼ,μετά,r--------,AuxP
+Leuven|21341|6|7,7,ἡμῶν,ἐγώ,p1p---cg-,ADV
+Leuven|21341|6|8,8,ἀναβῇς,ἀναβαίνω,v2sasa---,ADV
+Leuven|21341|6|9,9,σὺν,σύν,r--------,AuxP
+Leuven|21341|6|10,10,τῷ,ὁ,l-s---nd-,ATR
+Leuven|21341|6|11,11,παιδίῳ,παιδίον,n-s---nd-,ADV
+Leuven|21341|6|12,12,.,.,u--------,AuxK

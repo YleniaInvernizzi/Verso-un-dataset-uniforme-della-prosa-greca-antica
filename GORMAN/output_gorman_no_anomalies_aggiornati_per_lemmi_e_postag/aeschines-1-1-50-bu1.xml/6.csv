@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ἐμὲ;ἐγώ;p1s---ma-;OBJ
+2;δ᾽;δέ;d--------;AuxY
+3;ἐξῆν;ἔξειμι;v3siia---;PRED
+4;αὐτῷ;αὐτός;p-s---md-;OBJ
+5;,;punc;u--------;AuxX
+6;εἰ;εἰ;c--------;AuxC
+7;ἐσωφρόνει;σωφρονέω;v3siia---;ADV
+8;,;punc;u--------;AuxX
+9;μὴ;μή;d--------;AuxZ
+10;συκοφαντεῖν;συκοφαντέω;v--pna---;SBJ
+11;.;punc;u--------;AuxK

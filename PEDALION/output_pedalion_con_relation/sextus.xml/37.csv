@@ -1,0 +1,10 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0544-002|38|1,1,ἤτοι,ἤτοι,c--------,AuxY
+Leuven|0544-002|38|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|0544-002|38|3,3,τὸ,ὁ,l-s---nn-,ATR
+Leuven|0544-002|38|4,4,διδασκόμενον,διδάσκω,v-sppenn-,SBJ
+Leuven|0544-002|38|5,5,ψεῦδός,ψεῦδος,n-s---nn-,PNOM_CO
+Leuven|0544-002|38|6,6,ἐστιν,εἰμί,v3spia---,PRED
+Leuven|0544-002|38|7,7,ἢ,ἤ,c--------,COORD
+Leuven|0544-002|38|8,8,ἀληθές,ἀληθής,a-s---nn-,PNOM_CO
+Leuven|0544-002|38|9,9,.,.,u--------,AuxK

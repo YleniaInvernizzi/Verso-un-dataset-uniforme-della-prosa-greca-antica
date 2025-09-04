@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;τὴν;ὁ;l-s---fa-;ATR
+2;δὲ;δέ;d--------;AuxY
+3;μητέρα;μήτηρ;n-s---fa-;SBJ
+4;εἰπεῖν;λέγω;v--ana---;PRED
+5;·;punc;u--------;AuxK

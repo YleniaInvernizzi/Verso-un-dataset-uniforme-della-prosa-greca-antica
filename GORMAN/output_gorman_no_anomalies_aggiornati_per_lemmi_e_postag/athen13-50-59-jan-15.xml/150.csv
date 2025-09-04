@@ -1,0 +1,6 @@
+@id;@form;@lemma;@postag;@relation
+1;κατεσκεύασε;κατασκευάζω;v3saia---;PRED
+2;δ᾽;δέ;d--------;AuxY
+3;αὐτὸν;αὐτός;p-s---ma-;OBJ
+4;Πραξιτέλης;Πραξιτέλης;n-s---mn-;SBJ
+5;.;punc;u--------;AuxK

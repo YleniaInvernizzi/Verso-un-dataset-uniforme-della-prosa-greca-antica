@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἀφόρητος;ἀφόρητος;a-s---mn-;PNOM_CO
+2;γὰρ;γάρ;d--------;AuxY
+3;ἦν;εἰμί;v3siia---;PRED
+4;καὶ;καί;c--------;COORD
+5;φονικός;φονικός;a-s---mn-;PNOM_CO
+6;.;punc;u--------;AuxK

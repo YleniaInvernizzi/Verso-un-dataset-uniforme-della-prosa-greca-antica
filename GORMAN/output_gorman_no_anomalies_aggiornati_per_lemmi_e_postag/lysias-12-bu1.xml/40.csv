@@ -1,0 +1,14 @@
+@id;@form;@lemma;@postag;@relation
+1;ταῦτα;οὗτος;p-p---na-;OBJ
+2;διανοηθεὶς;διανοέω;v-sappmn-;ADV
+3;ἔφευγον;φεύγω;v1siia---;PRED
+4;,;punc;u--------;AuxX
+5;ἐκείνων;ἐκεῖνος;p-p---mg-;SBJ
+6;ἐπὶ;ἐπί;r--------;AuxP
+7;τῇ;ὁ;l-s---fd-;ATR
+8;αὐλείῳ;αὔλειος;a-s---fd-;ATR
+9;θύρᾳ;θύρα;n-s---fd-;ADV
+10;τὴν;ὁ;l-s---fa-;ATR
+11;φυλακὴν;φυλακή;n-s---fa-;OBJ
+12;ποιουμένων;ποιέω;v-pppemg-;ADV
+13;·;punc;u--------;AuxK

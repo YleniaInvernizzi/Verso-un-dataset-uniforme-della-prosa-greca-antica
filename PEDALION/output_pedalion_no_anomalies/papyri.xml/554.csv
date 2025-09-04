@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|30514|7|1,1,καί,καί,d--------,AuxZ
+1,Leuven|30514|7|2,2,ἐάν,ἐάν,c--------,AuxC
+2,Leuven|30514|7|3,3,ὁ,ὁ,l-s---mn-,ATR
+3,Leuven|30514|7|4,4,θεός,θεός,n-s---mn-,SBJ
+4,Leuven|30514|7|5,5,θέλῃ,ἐθέλω,v3spsa---,ADV
+5,Leuven|30514|7|6,6,κατέλαβα,καταλαμβάνω,v1saia---,PRED
+6,Leuven|30514|7|7,7,σε,σύ,p2s---ca-,OBJ

@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|230|1,1,οὐκ,οὐ,d--------,AuxZ
+Leuven|Ps-Luc|230|2,2,ἀκούεις,ἀκούω,v2spia---,PRED
+Leuven|Ps-Luc|230|3,3,οἷα,οἷος,p-p---na-,OBJ
+Leuven|Ps-Luc|230|4,4,περὶ,περί,r--------,AuxP
+Leuven|Ps-Luc|230|5,5,σοῦ,σύ,p2s---cg-,ADV
+Leuven|Ps-Luc|230|6,6,ἐβουλεύσαντο,βουλεύω,v3paim---,OBJ
+Leuven|Ps-Luc|230|7,7,;,;,u--------,AuxK

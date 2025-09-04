@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|343|1,1,οὗ,ὅς,p-s---mg-,ATR
+1,Leuven|PaeanBrev|343|2,2,δή,δή,d--------,AuxY
+2,Leuven|PaeanBrev|343|3,3,καί,καί,d--------,AuxZ
+3,Leuven|PaeanBrev|343|4,4,τοῦτο,οὗτος,p-s---nn-,SBJ
+4,Leuven|PaeanBrev|343|5,5,γενναιότατον,γενναῖος,a-s---nns,PNOM
+5,Leuven|PaeanBrev|343|6,6,τῶν,ὁ,l-p---ng-,ATR
+6,Leuven|PaeanBrev|343|7,7,ἔργων,ἔργον,n-p---ng-,ATR

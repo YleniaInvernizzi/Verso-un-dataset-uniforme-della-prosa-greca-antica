@@ -1,0 +1,8 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|29702|3|1,1,ἄλλον,ἄλλος,p-s---ma-,ATR
+1,Leuven|29702|3|2,2,γὰρ,γάρ,d--------,AuxY
+2,Leuven|29702|3|3,3,θεὸν,θεός,n-s---ma-,OBJ
+3,Leuven|29702|3|4,4,οὐκ,οὐ,d--------,AuxZ
+4,Leuven|29702|3|5,5,ἔχω,ἔχω,v1spia---,PRED
+5,Leuven|29702|3|6,6,ἢ,ἤ,c--------,AuxC
+6,Leuven|29702|3|7,7,σέ,σύ,p2s---ca-,ADV

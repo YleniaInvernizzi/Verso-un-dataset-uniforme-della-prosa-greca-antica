@@ -1,0 +1,5 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0557-001|67|1,1,ἀλλά,ἀλλά,c--------,AuxY
+Leuven|0557-001|67|2,2,δήσω,δέω,v1sfia---,PRED
+Leuven|0557-001|67|3,3,σε,σύ,p2s---ca-,OBJ
+Leuven|0557-001|67|4,4,.,.,u--------,AuxK

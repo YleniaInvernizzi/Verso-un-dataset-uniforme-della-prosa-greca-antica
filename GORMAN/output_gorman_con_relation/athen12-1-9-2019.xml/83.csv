@@ -1,0 +1,6 @@
+@id,@form,@lemma,@postag,@relation
+1,πουλύπου,πολύπους2,n-s---mg-,ATR
+2,ὀργὴν,ὀργή,n-s---fa-,OBJ
+3,ἴσχε,ἴσχω,v2spma---,PRED
+4,πολυπλόκου,πολύπλοκος,a-s---mg-,ATR
+5,.,punc1,u--------,AuxK

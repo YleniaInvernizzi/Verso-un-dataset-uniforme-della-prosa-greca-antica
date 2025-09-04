@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,εἰς,εἰς,r--------,AuxP
+2,τριακοστόν,τριακοστός,a-s---na-,ATR
+3,",",punc1,u--------,AuxX
+4,ἔφη,φημί,v3siia---,PRED
+5,",",punc1,u--------,AuxX
+6,ἔτος,ἔτος,n-s---na-,OBJ
+7,.,punc1,u--------,AuxK

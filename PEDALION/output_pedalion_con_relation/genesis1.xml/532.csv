@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|533|1,1,λαβέ,λαμβάνω,v2sama---,PRED
+Leuven|Genesis|533|2,2,μοι,ἐγώ,p1s---cd-,ADV
+Leuven|Genesis|533|3,3,δάμαλιν,δάμαλις,n-s---fa-,OBJ_CO
+Leuven|Genesis|533|4,4,τριετίζουσαν,τριετίζω,v-sppafa-,ATR
+Leuven|Genesis|533|5,5,καί,καί,b--------,AuxY
+Leuven|Genesis|533|6,6,αἶγα,αἴξ,n-s---fa-,OBJ_CO
+Leuven|Genesis|533|7,7,τριετίζουσαν,τριετίζω,v-sppafa-,ATR
+Leuven|Genesis|533|8,8,καί,καί,b--------,AuxY
+Leuven|Genesis|533|9,9,κριόν,κριός,n-s---ma-,OBJ_CO
+Leuven|Genesis|533|10,10,τριετίζοντα,τριετίζω,v-sppama-,ATR
+Leuven|Genesis|533|11,11,καί,καί,b--------,AuxY
+Leuven|Genesis|533|12,12,τρυγόνα,τρυγών,n-s---fa-,OBJ_CO
+Leuven|Genesis|533|13,13,καί,καί,b--------,COORD
+Leuven|Genesis|533|14,14,περιστεράν,περιστερά,n-s---fa-,OBJ_CO
+Leuven|Genesis|533|15,15,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἑστᾶσι,ἵστημι,v3pria---,PRED
+1,2,γυμναί,γυμνός,a-p---fn-,AtvV
+2,3,",",punc1,u--------,AuxX
+3,4,μὴ,μή,c--------,AuxC
+4,5,᾽ξαπατηθῇς,ἐξαπατάω,v2sasp---,ADV
+5,6,:,punc1,u--------,AuxK

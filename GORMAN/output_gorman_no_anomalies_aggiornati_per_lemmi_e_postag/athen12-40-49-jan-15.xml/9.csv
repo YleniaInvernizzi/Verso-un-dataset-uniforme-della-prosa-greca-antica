@@ -1,0 +1,12 @@
+@id;@form;@lemma;@postag;@relation
+1;ὅστις;ὅστις;p-s---mn-;SBJ
+2;εἶχε;ἔχω;v3siia---;PRED
+3;χρυσίου;χρυσίον;n-s---ng-;ATR
+4;πόντον;πόντος;n-s---ma-;OBJ_CO
+5;,;punc;u--------;AuxX
+6;τάλαντα;τάλαντον;n-p---na-;OBJ_CO
+7;πολλῷ;πολύς;a-s---nd-;ADV
+8;πλέονα;πλείων;a-p---nac;ATR
+9;Κασπίης;Κάσπιος;a-s---fg-;ATR
+10;ψάμμου;ψάμμος;n-s---fg-;ADV
+11;:;punc;u--------;AuxK

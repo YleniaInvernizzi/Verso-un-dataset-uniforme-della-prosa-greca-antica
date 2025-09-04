@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0032-002|13|1,1,τὸ,ὁ,l-s---na-,ATR
+Leuven|0032-002|13|2,2,δαιμόνιον,δαιμόνιον,n-s---na-,SBJ
+Leuven|0032-002|13|3,3,γὰρ,γάρ,d--------,AuxY
+Leuven|0032-002|13|4,4,ἔφη,φημί,v3siia---,PRED
+Leuven|0032-002|13|5,5,σημαίνειν,σημαίνω,v--pna---,OBJ
+Leuven|0032-002|13|6,6,.,.,u--------,AuxK

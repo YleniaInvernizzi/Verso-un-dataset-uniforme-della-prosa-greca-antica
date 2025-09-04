@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|31917|1|1,1,Πτολεμεῖνος,Πτολεμεῖνος,n-s---mn-,SBJ_CO
+Leuven|31917|1|2,2,καί,καί,b--------,COORD
+Leuven|31917|1|3,3,Χαιρήμων,Χαιρήμων,n-s---mn-,SBJ_CO
+Leuven|31917|1|4,4,Σινθώνει,Σινθῶνις,n-s---fd-,OBJ
+Leuven|31917|1|5,5,ἀδελφῇ,ἀδελφή,n-s---fd-,APOS
+Leuven|31917|1|6,6,χαίρειν,χαίρω,v--pna---,OBJ
+Leuven|31917|1|7,7,.,.,u--------,AuxK
+Leuven|31917|1|8,8,[0],,---------,PRED

@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,ταῦτα,οὗτος,p-p---nn-,SBJ
+2,γὰρ,γάρ,d--------,AuxY
+3,καὶ,καί,d--------,AuxY
+4,δίκαια,δίκαιος,a-p---nn-,PNOM
+5,καὶ,καί,c--------,COORD
+6,ὅσια,ὅσιος,a-p---nn-,PNOM
+7,.,punc1,u--------,AuxK
+8,ἐστιν,εἰμί,v3spia---,PRED

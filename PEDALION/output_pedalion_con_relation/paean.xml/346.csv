@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|348|1,1,ἐπανελθών,ἐπανέρχομαι,v-sapamn-,ADV
+Leuven|PaeanBrev|348|2,2,οὗν,οὖν,d--------,AuxY
+Leuven|PaeanBrev|348|3,3,πρός,πρός,r--------,AuxP
+Leuven|PaeanBrev|348|4,4,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|348|5,5,Ἀφρικήν,Ἀφρική,n-s---fa-,OBJ
+Leuven|PaeanBrev|348|6,6,πολυτρόποις,πολυτρόπος,a-p---fd-,ATR
+Leuven|PaeanBrev|348|7,7,ἐξεδόθη,ἐκδίδωμι,v3saip---,PRED
+Leuven|PaeanBrev|348|8,8,κολάσεσιν,κόλασις,n-p---fd-,OBJ
+Leuven|PaeanBrev|348|9,9,",",",",u--------,AuxX
+Leuven|PaeanBrev|348|10,10,ἅς,ὅς,p-p---fa-,OBJ
+Leuven|PaeanBrev|348|11,11,ἄλλοι,ἄλλος,p-p---mn-,SBJ
+Leuven|PaeanBrev|348|12,12,ἄλλως,ἄλλος,d--------,ADV
+Leuven|PaeanBrev|348|13,13,ἐκδεδώκασιν,ἐκδίδωμι,v3pria---,ATR
+Leuven|PaeanBrev|348|14,14,.,.,u--------,AuxK
+Leuven|PaeanBrev|348|15,15,[0],,,PRED

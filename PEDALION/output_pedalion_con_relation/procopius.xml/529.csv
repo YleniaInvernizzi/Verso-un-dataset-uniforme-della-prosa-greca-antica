@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|4029-001|530|1,1,τοσαῦτα,τοσοῦτος,p-p---na-,OBJ
+Leuven|4029-001|530|2,2,μὲν,μέν,d--------,AuxY
+Leuven|4029-001|530|3,3,ἡ,ὁ,l-s---fn-,ATR
+Leuven|4029-001|530|4,4,γραφὴ,γραφή,n-s---fn-,SBJ
+Leuven|4029-001|530|5,5,ἐδήλου,δηλόω,v3siia---,PRED
+Leuven|4029-001|530|6,6,.,.,u--------,AuxK

@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,τί,τις,p-s---nn-,PNOM
+2,δὲ,δέ,d--------,AuxY
+3,ναῦν,ναῦς,n-s----a-,OBJ
+4,ἐν,ἐν,r--------,AuxP
+5,ᾗ,ὅς,p-s---fd-,ADV
+6,πολλοὶ,πολύς,a-p---mn-,SBJ
+7,πεπλεύκασιν,πλέω,v3pria---,ATR
+8,;,punc1,u--------,AuxK
+9,[1],,,SBJ
+10,[2],,,PRED

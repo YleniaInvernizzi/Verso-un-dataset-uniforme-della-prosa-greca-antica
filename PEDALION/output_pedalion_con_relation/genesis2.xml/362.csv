@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|363|1,1,καί,καί,d--------,AuxY
+Leuven|Genesis_deel2|363|2,2,περιέθηκα,περιτίθημι,v1saia---,PRED
+Leuven|Genesis_deel2|363|3,3,αὐτῇ,αὐτός,p-s---fd-,ADV
+Leuven|Genesis_deel2|363|4,4,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel2|363|5,5,ἐνώτια,ἐνώτιον,n-p---na-,OBJ_CO
+Leuven|Genesis_deel2|363|6,6,καί,καί,b--------,COORD
+Leuven|Genesis_deel2|363|7,7,τά,ὁ,l-p---na-,ATR
+Leuven|Genesis_deel2|363|8,8,ψέλια,ψέλιον,n-p---na-,OBJ_CO
+Leuven|Genesis_deel2|363|9,9,περί,περί,r--------,AuxP
+Leuven|Genesis_deel2|363|10,10,τάς,ὁ,l-p---fa-,ATR
+Leuven|Genesis_deel2|363|11,11,χεῖρας,χείρ,n-p---fa-,OBJ
+Leuven|Genesis_deel2|363|12,12,αὐτῆς,αὐτός,p-s---fg-,ATR
+Leuven|Genesis_deel2|363|13,13,·,·,u--------,AuxK

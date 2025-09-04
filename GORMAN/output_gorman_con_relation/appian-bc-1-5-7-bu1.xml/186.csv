@@ -1,0 +1,11 @@
+@id,@form,@lemma,@postag,@relation
+1,ὁ,ὁ,l-s---mn-,SBJ
+2,δʼ,δέ,d--------,AuxY
+3,εἶπεν,εἶπον,v3saia---,PRED
+4,",",punc1,u--------,AuxX
+5,ἐλευθερώσων,ἐλευθερόω,v-sfpamn-,OBJ
+6,αὐτὴν,αὐτός,p-s---fa-,OBJ
+7,ἀπὸ,ἀπό,r--------,AuxP
+8,τῶν,ὁ,l-p---mg-,ATR
+9,τυραννούντων,τυραννεύω,v-pppamg-,ADV
+10,.,punc1,u--------,AuxK

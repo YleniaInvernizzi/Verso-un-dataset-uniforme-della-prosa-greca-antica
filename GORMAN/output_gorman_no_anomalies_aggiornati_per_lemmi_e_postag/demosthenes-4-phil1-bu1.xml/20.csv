@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ἣν;ὅς;p-s---fa-;OBJ
+2;ἀποθέσθαι;ἀποτίθημι;v--ane---;SBJ
+3;φημὶ;φημί;v1spia---;PRED
+4;δεῖν;δέω;v--pna---;OBJ
+5;ἤδη;ἤδη;d--------;ADV
+6;.;punc;u--------;AuxK

@@ -1,0 +1,12 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|101|1,1,οὐ,οὐ,d--------,AuxZ
+1,Leuven|Genesis|101|2,2,φάγεσθε,ἐσθίω,v2pfim---,PRED_CO
+2,Leuven|Genesis|101|3,3,ἀπ’,ἀπό,r--------,AuxP
+3,Leuven|Genesis|101|4,4,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+4,Leuven|Genesis|101|5,5,οὐδέ,οὐδέ,c--------,COORD
+5,Leuven|Genesis|101|6,6,μή,μή,d--------,AuxZ
+6,Leuven|Genesis|101|7,7,ἅψησθε,ἅπτω,v2pasm---,PRED_CO
+7,Leuven|Genesis|101|8,8,αὐτοῦ,αὐτός,p-s---mg-,OBJ
+9,Leuven|Genesis|101|10,10,ἵνα,ἵνα,c--------,AuxC
+10,Leuven|Genesis|101|11,11,μή,μή,d--------,AuxZ
+11,Leuven|Genesis|101|12,12,ἀποθάνητε,ἀποθνῄσκω,v2pasa---,ADV

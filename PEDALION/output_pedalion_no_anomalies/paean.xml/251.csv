@@ -1,0 +1,16 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|253|1,1,τῆς,ὁ,l-s---fg-,ATR
+1,Leuven|PaeanBrev|253|2,2,Ἰταλίας,Ἰταλία,n-s---fg-,ATR
+2,Leuven|PaeanBrev|253|3,3,ὅσον,ὅσος,p-s---nn-,SBJ
+3,Leuven|PaeanBrev|253|4,4,ἤδη,ἤδη,d--------,ADV
+4,Leuven|PaeanBrev|253|5,5,ἐδέδεκτο,δέχομαι,v3slie---,SBJ
+5,Leuven|PaeanBrev|253|6,6,τόν,ὁ,l-s---ma-,ATR
+6,Leuven|PaeanBrev|253|7,7,Πύρρον,Πύρρος,n-s---ma-,OBJ
+7,Leuven|PaeanBrev|253|8,8,ἤ,ἤ,c--------,AuxY
+8,Leuven|PaeanBrev|253|9,9,πολιορκηθέν,πολιορκέω,v-sappnn-,ADV_CO
+9,Leuven|PaeanBrev|253|10,10,ἤ,ἤ,c--------,COORD
+10,Leuven|PaeanBrev|253|11,11,ἑκούσιον,ἑκούσιος,a-s---nn-,ADV_CO
+12,Leuven|PaeanBrev|253|13,13,τῆς,ὁ,l-s---fg-,ATR
+13,Leuven|PaeanBrev|253|14,14,αὐτοῦ,αὐτός,p-s---mg-,ATR
+14,Leuven|PaeanBrev|253|15,15,δεσποτείας,δεσποτεία,n-s---fg-,PNOM
+15,Leuven|PaeanBrev|253|16,16,εἶναι,εἰμί,v--pna---,OBJ

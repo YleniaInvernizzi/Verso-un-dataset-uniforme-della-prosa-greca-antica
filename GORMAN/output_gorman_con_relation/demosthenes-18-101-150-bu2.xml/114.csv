@@ -1,0 +1,15 @@
+@id,@form,@lemma,@postag,@relation
+1,σοὶ,σύ,p-s---md-,PNOM_CO
+2,δ᾽,δέ,d--------,AuxY
+3,ἀρετῆς,ἀρετή,n-s---fg-,ATR
+4,",",punc1,u--------,AuxX
+5,ὦ,ὦ,i--------,AuxZ
+6,κάθαρμα,κάθαρμα,n-s---nv-,ExD
+7,",",punc1,u--------,AuxX
+8,ἢ,ἤ1,c--------,COORD
+9,τοῖς,ὁ,l-p---md-,ATR
+10,σοῖς,σός,a-p---md-,PNOM_CO
+11,τίς,τις,a-s---fn_,ATR
+12,μετουσία,μετουσία,n-s---fn-,SBJ
+13,;,punc1,u--------,AuxK
+14,ἐστιν,εἰμί,v3spia---,PRED

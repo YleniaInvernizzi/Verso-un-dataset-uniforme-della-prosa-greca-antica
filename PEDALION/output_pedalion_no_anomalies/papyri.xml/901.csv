@@ -1,0 +1,4 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|28935|7|1,1,ἀσπάζομαι,ἀσπάζομαι,v1spie---,PRED
+1,Leuven|28935|7|2,2,ὑμᾶς,σύ,p2p---ca-,OBJ
+2,Leuven|28935|7|3,3,πάντας,πᾶς,a-p---ma-,ATR

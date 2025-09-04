@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|105|1,1,πάλαι,πάλαι,d--------,ADV
+Leuven|Ps-Luc|105|2,2,γὰρ,γάρ,d--------,AuxY
+Leuven|Ps-Luc|105|3,3,τῆς,ὁ,l-s---fg-,ATR
+Leuven|Ps-Luc|105|4,4,παραδόξου,παράδοξος,a-s---fg-,ATR
+Leuven|Ps-Luc|105|5,5,ταύτης,οὗτος,p-s---fg-,ATR
+Leuven|Ps-Luc|105|6,6,θέας,θέα,n-s---fg-,OBJ
+Leuven|Ps-Luc|105|7,7,ἐπιθυμῶ,ἐπιθυμέω,v1spia---,PRED
+Leuven|Ps-Luc|105|8,8,.,.,u--------,AuxK

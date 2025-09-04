@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;τοσοῦτον;τοσοῦτος;p-s---nn-;SBJ
+2;περιῆν;περίειμι;v3siia---;PRED
+3;εὐνομίας;εὐνομία;n-s---fg-;ATR_CO
+4;τῇ;ὁ;l-s---fd-;ATR
+5;πόλει;πόλις;n-s---fd-;OBJ
+6;καὶ;καί;c--------;COORD
+7;δικαιοσύνης;δικαιοσύνη;n-s---fg-;ATR_CO
+8;.;punc;u--------;AuxK

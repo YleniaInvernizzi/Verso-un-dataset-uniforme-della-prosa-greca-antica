@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐγένετο,γίγνομαι,v3saim---,PRED
+2,δὲ,δέ,d--------,AuxY
+3,αὕτη,οὗτος,a-s---fn_,ATR
+4,ἡ,ὁ,l-s---fn-,ATR
+5,ὀλιγαρχία,ὀλιγαρχία,n-s---fn-,SBJ
+6,ὧδε,ὧδε,d--------,ADV
+7,.,punc1,u--------,AuxK

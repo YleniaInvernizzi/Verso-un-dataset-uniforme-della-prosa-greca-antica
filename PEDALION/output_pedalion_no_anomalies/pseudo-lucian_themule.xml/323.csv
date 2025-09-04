@@ -1,0 +1,10 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|324|1,1,καὶ,καί,c--------,AuxY
+1,Leuven|Ps-Luc|324|2,2,τότε,τότε,d--------,ADV
+2,Leuven|Ps-Luc|324|3,3,μὲν,μέν,d--------,AuxY
+3,Leuven|Ps-Luc|324|4,4,ἐκ,ἐκ,r--------,AuxP
+4,Leuven|Ps-Luc|324|5,5,τοῦ,ὁ,l-s---ng-,ATR
+5,Leuven|Ps-Luc|324|6,6,στυππείου,στυππεῖον,n-s---ng-,OBJ
+6,Leuven|Ps-Luc|324|7,7,μηδὲ,μηδέ,d--------,AuxZ
+7,Leuven|Ps-Luc|324|8,8,ἐλπίζων,ἐλπίζω,v-sppamn-,ADV
+8,Leuven|Ps-Luc|324|9,9,ὑπεξῆλθον,ὑπεξέρχομαι,v1saia---,PRED

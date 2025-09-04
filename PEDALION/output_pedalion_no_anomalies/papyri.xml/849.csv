@@ -1,0 +1,4 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|88690|6|1,1,ἐρωτῶ,ἐρωτάω,v1spia---,PRED
+1,Leuven|88690|6|2,2,σε,σύ,p2s---ca-,OBJ
+2,Leuven|88690|6|3,3,οὖν,οὖν,d--------,AuxY

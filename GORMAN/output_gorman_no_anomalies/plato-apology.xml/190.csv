@@ -1,0 +1,6 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,ἀποκρίνου,ἀποκρίνω,v2spme---,PRED
+1,2,",",punc1,u--------,AuxX
+2,3,ὦ,ὦ,i--------,AuxZ
+3,4,ἀγαθέ,ἀγαθός,a-s---mv-,ExD
+4,5,·,punc1,u--------,AuxK

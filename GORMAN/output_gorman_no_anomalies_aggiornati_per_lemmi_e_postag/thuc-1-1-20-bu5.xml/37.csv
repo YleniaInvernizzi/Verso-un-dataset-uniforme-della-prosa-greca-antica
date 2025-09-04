@@ -1,0 +1,15 @@
+@id;@form;@lemma;@postag;@relation
+1;καὶ;καί;d--------;AuxY
+2;οὐχ;οὐ;d--------;AuxZ
+3;ἧσσον;ἥσσων;a-s---nac;ADV
+4;λῃσταὶ;λῃστής;n-p---mn-;PNOM
+5;ἦσαν;εἰμί;v3piia---;PRED
+6;οἱ;ὁ;l-p---mn-;ATR
+7;νησιῶται;νησιώτης;n-p---mn-;SBJ
+8;,;punc;u--------;AuxX
+9;Κᾶρές;Κάρ;n-p---mn-;PNOM_CO
+10;τε;τε;d--------;AuxY
+11;ὄντες;εἰμί;v-pppamn-;ADV
+12;καὶ;καί;c--------;COORD
+13;Φοίνικες;Φοῖνιξ;n-p---mn-;PNOM_CO
+14;:;punc;u--------;AuxK

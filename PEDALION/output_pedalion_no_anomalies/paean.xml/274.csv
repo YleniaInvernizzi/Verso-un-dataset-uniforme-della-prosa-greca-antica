@@ -1,0 +1,15 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|PaeanBrev|276|1,1,ἐπισημότατος,ἐπίσημος,a-s---mns,PNOM_CO
+1,Leuven|PaeanBrev|276|2,2,τε,τε,c--------,COORD
+2,Leuven|PaeanBrev|276|3,3,οὗτος,οὗτος,p-s---mn-,PNOM_CO
+3,Leuven|PaeanBrev|276|4,4,ἐγένετο,γίγνομαι,v3saim---,PRED
+4,Leuven|PaeanBrev|276|5,5,τῶν,ὁ,l-p---ng-,ATR
+5,Leuven|PaeanBrev|276|6,6,πώποτε,πώποτε,d--------,ADV
+7,Leuven|PaeanBrev|276|8,8,τεσσάρων,τέσσαρες,m-p---mg-,ATR
+8,Leuven|PaeanBrev|276|9,9,ἐλεφάντων,ἐλέφας,n-p---mg-,SBJ
+9,Leuven|PaeanBrev|276|10,10,τότε,τότε,d--------,ADV
+10,Leuven|PaeanBrev|276|11,11,πρῶτον,πρῶτος,a-s---na-,ADV
+11,Leuven|PaeanBrev|276|12,12,ἐν,ἐν,r--------,AuxP
+12,Leuven|PaeanBrev|276|13,13,τῇ,ὁ,l-s---fd-,ATR
+13,Leuven|PaeanBrev|276|14,14,Ῥώμῃ,Ῥώμη,n-s---fd-,ADV
+14,Leuven|PaeanBrev|276|15,15,φανέντων,φαίνω,v-pappmg-,ADV

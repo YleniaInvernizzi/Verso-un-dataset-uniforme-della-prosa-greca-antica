@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0096-00#|1186|1,1,ὁ,ὁ,l-s---mn-,ATR
+1,Leuven|0096-00#|1186|2,2,ἀσπάλαξ,σπάλαξ,n-s---mn-,SBJ
+2,Leuven|0096-00#|1186|3,3,τυφλόν,τυφλός,a-s---nn-,ATR
+3,Leuven|0096-00#|1186|4,4,ζῶον,ζῷον,n-s---nn-,PNOM
+4,Leuven|0096-00#|1186|5,5,ἐστι,εἰμί,v3spia---,PRED

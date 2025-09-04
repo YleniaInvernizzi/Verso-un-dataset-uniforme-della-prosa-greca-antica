@@ -1,0 +1,7 @@
+,@id,@form,@lemma,@postag,@relation
+0,1,τοσοῦτος,τοσοῦτος,a-s---mn-,ATR
+1,2,ἔρως,ἔρως,n-s---mn-,SBJ
+2,3,κατεῖχε,κατέχω,v3siia---,PRED
+3,4,τὴν,ὁ,l-s---fa-,ATR
+4,5,ἄνθρωπον,ἄνθρωπος,n-s---fa-,OBJ
+5,6,.,punc1,u--------,AuxK

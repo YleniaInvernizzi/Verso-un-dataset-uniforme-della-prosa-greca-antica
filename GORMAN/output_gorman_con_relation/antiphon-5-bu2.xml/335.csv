@@ -1,0 +1,7 @@
+@id,@form,@lemma,@postag,@relation
+1,ἐὰν,ἐάν,c--------,AuxC
+2,νυνὶ,νυνί,d--------,ADV
+3,ἀποψηφίσησθέ,ἀποψηφίζομαι,v2pase---,ADV
+4,μου,ἐγώ,p1s---mg-,OBJ
+5,.,punc1,u--------,AuxK
+6,ἐάσετε,ἐάω,v2pfia---,PRED

@@ -1,0 +1,16 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|PaeanBrev|329|1,1,ἀλλά,ἀλλά,d--------,AuxY
+Leuven|PaeanBrev|329|2,2,καί,καί,c--------,AuxZ
+Leuven|PaeanBrev|329|3,3,τούτοις,οὗτος,p-p---md-,ADV
+Leuven|PaeanBrev|329|4,4,χειμών,χειμών,n-s---mn-,SBJ
+Leuven|PaeanBrev|329|5,5,διέφθειρεν,διαφθείρω,v3saia---,PRED
+Leuven|PaeanBrev|329|6,6,τήν,ὁ,l-s---fa-,ATR
+Leuven|PaeanBrev|329|7,7,εὐπραγίαν,εὐπραγία,n-s---fa-,OBJ
+Leuven|PaeanBrev|329|8,8,ναυαγίῳ,ναυάγιον,n-s---nd-,OBJ
+Leuven|PaeanBrev|329|9,9,περί,περί,r--------,AuxP
+Leuven|PaeanBrev|329|10,10,τό,ὁ,l-s---na-,ATR
+Leuven|PaeanBrev|329|11,11,πλεῖστον,πολύς,a-s---nas,ADV
+Leuven|PaeanBrev|329|12,12,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|PaeanBrev|329|13,13,στόλου,στόλος,n-s---mg-,ATR
+Leuven|PaeanBrev|329|14,14,χρησαμένοις,χράω,v-papmmd-,ADV
+Leuven|PaeanBrev|329|15,15,.,.,u--------,AuxK

@@ -1,0 +1,7 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis_deel3|237|1,1,καί,καί,d--------,AuxZ
+1,Leuven|Genesis_deel3|237|2,2,εἶπεν,λέγω,v3saia---,PRED
+2,Leuven|Genesis_deel3|237|3,3,Ησαυ,Ησαυ,n-s---mn-,SBJ
+3,Leuven|Genesis_deel3|237|4,4,τῷ,ὁ,l-s---md-,ATR
+4,Leuven|Genesis_deel3|237|5,5,πατρί,πατήρ,n-s---md-,OBJ
+5,Leuven|Genesis_deel3|237|6,6,αὐτοῦ,αὐτός,p-s---mg-,ATR

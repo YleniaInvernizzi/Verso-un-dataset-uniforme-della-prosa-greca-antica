@@ -1,0 +1,14 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|94|1,1,σκόπει,σκοπέω,v2spma---,PRED
+1,Leuven|Ps-Luc|94|2,2,οὖν,οὖν,d--------,AuxY
+2,Leuven|Ps-Luc|94|3,3,μὴ,μή,c--------,AuxC
+3,Leuven|Ps-Luc|94|4,4,πληγὰς,πληγή,n-p---fa-,OBJ
+4,Leuven|Ps-Luc|94|5,5,ἔτι,ἔτι,d--------,ADV
+5,Leuven|Ps-Luc|94|6,6,πλείους,πολύς,a-p---fac,ATR
+6,Leuven|Ps-Luc|94|7,7,λάβηις,λαμβάνω,v2sasa---,OBJ
+7,Leuven|Ps-Luc|94|8,8,ἄλλα,ἄλλος,p-p---na-,OBJ_CO
+8,Leuven|Ps-Luc|94|9,9,καὶ,καί,c--------,COORD
+9,Leuven|Ps-Luc|94|10,10,οὐ,οὐ,d--------,AuxZ
+10,Leuven|Ps-Luc|94|11,11,τὰ,ὁ,l-p---na-,ATR
+11,Leuven|Ps-Luc|94|12,12,ἐπιταττόμενα,ἐπιτάσσω,v-pppena-,OBJ_CO
+12,Leuven|Ps-Luc|94|13,13,παλαίων,παλαίω,v-sppamn-,ADV

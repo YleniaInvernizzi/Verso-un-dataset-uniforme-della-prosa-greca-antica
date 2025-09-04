@@ -1,0 +1,8 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0062-020|55|1,1,ἐγὼ,ἐγώ,p1s---cn-,SBJ
+Leuven|0062-020|55|2,2,δὲ,δέ,d--------,AuxY
+Leuven|0062-020|55|3,3,ὅμως,ὅμως,d--------,AuxY
+Leuven|0062-020|55|4,4,ὑπὲρ,ὑπέρ,r--------,AuxP
+Leuven|0062-020|55|5,5,ἀμφοῖν,ἄμφω,p-d---ng-,OBJ
+Leuven|0062-020|55|6,6,ἐρῶ,λέγω,v1sfia---,PRED
+Leuven|0062-020|55|7,7,·,·,u--------,AuxK

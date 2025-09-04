@@ -1,0 +1,12 @@
+@id,@form,@lemma,@postag,@relation
+1,παρὰ,παρά,r--------,AuxP
+2,γὰρ,γάρ,d--------,AuxY
+3,τοὺς,ὁ,l-p---ma-,ATR
+4,τῶν,ὁ,l-p---mg-,ATR
+5,θεῶν,θεός,n-p---mg-,ATR
+6,θεσμοὺς,θεσμός,n-p---ma-,PNOM
+7,πάντα,πᾶς,a-p---na-,ATR
+8,τὰ,ὁ,l-p---na-,ATR
+9,τοιαῦτα,τοιοῦτος,p-p---na-,SBJ
+10,εἶναι,εἰμί,v--pna---,PRED
+11,·,punc1,u--------,AuxK

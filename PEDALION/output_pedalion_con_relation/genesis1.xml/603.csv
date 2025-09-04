@@ -1,0 +1,15 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis|604|1,1,εἰ,εἰ,c--------,AuxC
+Leuven|Genesis|604|2,2,τῷ,ὁ,l-s---md-,ATR
+Leuven|Genesis|604|3,3,ἑκατονταετεῖ,ἑκατονταετής,a-s---md-,ADV
+Leuven|Genesis|604|4,4,γενήσεται,γίγνομαι,v3sfim---,OBJ_CO
+Leuven|Genesis|604|5,5,",",",",u--------,AuxX
+Leuven|Genesis|604|6,6,καί,καί,b--------,OBJ
+Leuven|Genesis|604|7,7,εἰ,εἰ,c--------,AuxC
+Leuven|Genesis|604|8,8,Σαρρα,Σαρρα,n-s---fn-,SBJ
+Leuven|Genesis|604|9,9,ἐνενήκοντα,ἐνενήκοντα,m--------,ATR
+Leuven|Genesis|604|10,10,ἐτῶν,ἔτος,n-p---ng-,PNOM
+Leuven|Genesis|604|11,11,οὖσα,εἰμί,v-sppafn-,ADV
+Leuven|Genesis|604|12,12,τέξεται,τίκτω,v3sfim---,OBJ_CO
+Leuven|Genesis|604|13,13,;,;,u--------,AuxK
+Leuven|Genesis|604|14,14,[0],,,PRED

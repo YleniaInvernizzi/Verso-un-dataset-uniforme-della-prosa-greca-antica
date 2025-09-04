@@ -1,0 +1,10 @@
+@id;@form;@lemma;@postag;@relation
+1;ἃ;ὅς;p-p---na-;OBJ
+2;συνεχώρησεν;συγχωρέω;v3saia---;PRED
+3;Εὐμένης;Εὐμένης;n-s---mn-;SBJ
+4;λαβεῖν;λαμβάνω;v--ana---;OBJ
+5;,;punc;u--------;AuxX
+6;γάζαν;γάζα;n-s---fa-;OCOMP
+7;εὐαρεστουμένην;εὐαρεστέω;v-sppefa-;ATR
+8;ἑαυτῷ;ἑαυτοῦ;p-s---md-;OBJ
+9;.;punc;u--------;AuxK

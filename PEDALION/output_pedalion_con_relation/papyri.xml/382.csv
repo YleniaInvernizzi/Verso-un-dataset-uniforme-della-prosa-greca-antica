@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|27679|7|1,1,ἀλλὰ,ἀλλά,d--------,AuxY
+Leuven|27679|7|2,2,καὶ,καί,b--------,AuxY
+Leuven|27679|7|3,3,κατέσχον,κατέχω,v1saia---,PRED_CO
+Leuven|27679|7|4,4,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|27679|7|5,5,καὶ,καί,b--------,COORD
+Leuven|27679|7|6,6,εὐφράνθη,εὐφραίνω,v3saip---,PRED_CO
+Leuven|27679|7|7,7,ἐφʼ,ἐπί,r--------,AuxP
+Leuven|27679|7|8,8,ἡμέρας,ἡμέρα,n-p---fa-,ADV
+Leuven|27679|7|9,9,τέσσαρες,τέσσαρες,m-p---ca-,ATR
+Leuven|27679|7|10,10,νυκτὸς,νύξ,n-s---fg-,ADV
+Leuven|27679|7|11,11,ἡμέρας,ἡμέρα,n-s---fg-,ADV
+Leuven|27679|7|12,12,.,.,u--------,AuxK

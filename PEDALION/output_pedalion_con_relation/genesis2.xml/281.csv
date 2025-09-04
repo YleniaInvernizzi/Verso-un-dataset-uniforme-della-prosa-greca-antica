@@ -1,0 +1,7 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|282|1,1,εἶπεν,λέγω,v3saia---,PRED
+Leuven|Genesis_deel2|282|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|282|3,3,πρός,πρός,r--------,AuxP
+Leuven|Genesis_deel2|282|4,4,αὐτόν,αὐτός,p-s---ma-,OBJ
+Leuven|Genesis_deel2|282|5,5,Ἀβραάμ,Ἀβραάμ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|282|6,6,·,·,u--------,AuxK

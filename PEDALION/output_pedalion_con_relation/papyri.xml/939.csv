@@ -1,0 +1,13 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|21597|12|1,1,μή,μή,d--------,AuxZ
+Leuven|21597|12|2,2,ἀμελήσῃς,ἀμελέω,v2sasa---,PRED
+Leuven|21597|12|3,3,ἐν,ἐν,r--------,AuxP
+Leuven|21597|12|4,4,τῇ,ὁ,l-s---fd-,ATR
+Leuven|21597|12|5,5,σήμερον,σήμερον,d--------,ADV
+Leuven|21597|12|6,6,τό,ὁ,l-s---na-,ATR
+Leuven|21597|12|7,7,πλοῖον,πλοῖον,n-s---na-,OBJ_CO
+Leuven|21597|12|8,8,ἤ,ἤ,b--------,COORD
+Leuven|21597|12|9,9,τόν,ὁ,l-s---ma-,ATR
+Leuven|21597|12|10,10,ναύτην,ναύτης,n-s---ma-,OBJ_CO
+Leuven|21597|12|11,11,ἀποστεῖλαι,ἀποστέλλω,v--ana---,OBJ
+Leuven|21597|12|12,12,.,.,u--------,AuxK

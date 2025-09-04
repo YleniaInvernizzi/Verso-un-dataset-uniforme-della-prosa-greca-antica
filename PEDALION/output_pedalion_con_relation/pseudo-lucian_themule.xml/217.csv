@@ -1,0 +1,12 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|218|1,1,ναί,ναί,i--------,ExD
+Leuven|Ps-Luc|218|2,2,",",",",u--------,AuxX
+Leuven|Ps-Luc|218|3,3,φησίν,φημί,v3spia---,ExD
+Leuven|Ps-Luc|218|4,4,",",",",u--------,AuxX
+Leuven|Ps-Luc|218|5,5,ῥίψωμεν,ῥίπτω,v1pasa---,OBJ
+Leuven|Ps-Luc|218|6,6,αὐτὸν,αὐτός,p-s---ma-,OBJ
+Leuven|Ps-Luc|218|7,7,καθαρισμὸν,καθαρισμός,n-s---ma-,PNOM
+Leuven|Ps-Luc|218|8,8,τοῦ,ὁ,l-s---mg-,ATR
+Leuven|Ps-Luc|218|9,9,στρατοῦ,στρατός,n-s---mg-,ATR
+Leuven|Ps-Luc|218|10,10,ἐσόμενον,εἰμί,v-sfpmma-,ADV
+Leuven|Ps-Luc|218|11,11,.,.,u--------,AuxK

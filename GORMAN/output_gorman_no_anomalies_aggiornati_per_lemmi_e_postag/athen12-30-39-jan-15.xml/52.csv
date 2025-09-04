@@ -1,0 +1,7 @@
+@id;@form;@lemma;@postag;@relation
+1;ὅθεν;ὅθεν;d--------;ADV
+2;καλεῖν;καλέω;v--fna---;OBJ
+3;Κουρῆτα;Κουρῆτες;n-s---fa-;OCOMP
+4;λαὸν;λαός;n-s---ma-;OBJ
+5;ᾔνεσαν;αἰνέω;v3paia---;PRED
+6;.;punc;u--------;AuxK

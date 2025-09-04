@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;παιδάριον;παιδάριον;n-s---nn-;PNOM
+2;δʼ;δέ;d--------;AuxY
+3;ὢν;εἰμί;v-sppamn-;ADV
+4;δεινότατος;δεινός;a-s---mns;PNOM
+5;λαλεῖν;λαλέω;v--pna---;ADV
+6;ἐδόκουν;δοκέω;v1siia---;PRED
+7;εἶναι;εἰμί;v--pna---;OBJ
+8;.;punc;u--------;AuxK

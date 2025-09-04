@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|0557-001|140|1,1,ἄγε,ἄγω,v2spma---,AuxY
+1,Leuven|0557-001|140|2,2,ἀλλʼ,ἀλλά,c--------,AuxY
+2,Leuven|0557-001|140|3,3,εἰσελθών,εἰσέρχομαι,v-sapamn-,ADV
+4,Leuven|0557-001|140|5,5,φησίν,φημί,v3spia---,PRED
+6,Leuven|0557-001|140|7,7,σιώπησον,σιωπάω,v2sama---,OBJ

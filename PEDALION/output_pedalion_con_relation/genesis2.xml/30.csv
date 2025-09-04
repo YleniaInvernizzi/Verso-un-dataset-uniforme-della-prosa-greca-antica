@@ -1,0 +1,9 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Genesis_deel2|31|1,1,Λωτ,Λωτ,n-s---mn-,SBJ
+Leuven|Genesis_deel2|31|2,2,δέ,δέ,d--------,AuxY
+Leuven|Genesis_deel2|31|3,3,ἐκάθητο,κάθημαι,v3siie---,PRED
+Leuven|Genesis_deel2|31|4,4,παρά,παρά,r--------,AuxP
+Leuven|Genesis_deel2|31|5,5,τήν,ὁ,l-s---fa-,ATR
+Leuven|Genesis_deel2|31|6,6,πύλην,πύλη,n-s---fa-,OBJ
+Leuven|Genesis_deel2|31|7,7,Σοδομων,Σοδομα,n-s----g-,ATR
+Leuven|Genesis_deel2|31|8,8,.,.,u--------,AuxK

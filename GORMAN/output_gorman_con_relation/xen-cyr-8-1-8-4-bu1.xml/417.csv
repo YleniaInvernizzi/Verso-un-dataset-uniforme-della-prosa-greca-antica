@@ -1,0 +1,9 @@
+@id,@form,@lemma,@postag,@relation
+1,καὶ,καί,d--------,AuxY
+2,ἢν,ἐάν,c--------,AuxC
+3,πλέονες,πλείων,a-p---mnc,PNOM
+4,ὦσιν,εἰμί,v3ppsa---,ADV
+5,",",punc1,u--------,AuxX
+6,ὡσαύτως,ὡσαύτως,d--------,ADV
+7,.,punc1,u--------,AuxK
+8,ἐκάθιζεν,καθίζω,v3siia---,PRED

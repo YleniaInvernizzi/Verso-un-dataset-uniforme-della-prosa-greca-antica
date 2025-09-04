@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Genesis|346|1,1,Ασχαναζ,Ασχαναζ,n-s---mn-,PNOM_CO
+1,Leuven|Genesis|346|2,2,καί,καί,c--------,AuxY
+2,Leuven|Genesis|346|3,3,Ριφαθ,Ριφαθ,n-s---mn-,PNOM_CO
+3,Leuven|Genesis|346|4,4,καί,καί,c--------,COORD
+4,Leuven|Genesis|346|5,5,Θοργαμα,Θοργαμα,n-s---mn-,PNOM_CO

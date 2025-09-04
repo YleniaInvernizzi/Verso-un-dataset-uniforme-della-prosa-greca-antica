@@ -1,0 +1,6 @@
+,@ref,@id,@form,@lemma,@postag,@relation
+0,Leuven|Ps-Luc|242|1,1,ἡ,ὁ,l-s---fn-,ATR
+1,Leuven|Ps-Luc|242|2,2,δὲ,δέ,d--------,AuxY
+2,Leuven|Ps-Luc|242|3,3,γραῦς,γραῦς,n-s---fn-,SBJ
+3,Leuven|Ps-Luc|242|4,4,ὀπίσω,ὀπίσω,d--------,ADV
+4,Leuven|Ps-Luc|242|5,5,ἀπελέλειπτο,ἀπολείπω,v3slie---,PRED

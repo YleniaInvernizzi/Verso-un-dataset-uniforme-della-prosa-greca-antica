@@ -1,0 +1,9 @@
+@id;@form;@lemma;@postag;@relation
+1;οὗτος;οὗτος;a-s---mn-;ATR
+2;ὁ;ὁ;l-s---mn-;ATR
+3;Δηιόκης;Δηιόκης;n-p---ma-;SBJ
+4;ἐρασθεὶς;ἐράω;v-sappmn-;ADV
+5;τυραννίδος;τυραννίς;n-s---fg-;OBJ
+6;ἐποίεε;ποιέω;v3siia---;PRED
+7;τοιάδε;τοιόσδε;p-p---na-;OBJ
+8;.;punc;u--------;AuxK

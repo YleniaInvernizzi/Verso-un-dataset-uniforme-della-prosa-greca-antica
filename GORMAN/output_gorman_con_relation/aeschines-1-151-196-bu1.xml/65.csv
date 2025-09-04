@@ -1,0 +1,8 @@
+@id,@form,@lemma,@postag,@relation
+1,οὐκοῦν,οὐκοῦν,d--------,AuxY
+2,οὐδὲν,οὐδείς,p-s---nn-,SBJ
+3,ὄφελος,ὄφελος,n-s---nn-,PNOM
+4,τῆς,ὁ,l-s---fg-,ATR
+5,συγγραφῆς,συγγραφή,n-s---fg-,ATR
+6,.,punc1,u--------,AuxK
+7,ἐστιν,εἰμί,v3spia---,PRED

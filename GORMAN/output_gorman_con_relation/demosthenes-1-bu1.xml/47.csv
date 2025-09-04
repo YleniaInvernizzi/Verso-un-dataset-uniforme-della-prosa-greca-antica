@@ -1,0 +1,10 @@
+@id,@form,@lemma,@postag,@relation
+1,δεῖ,δεῖ,v3siia---,PRED
+2,δὴ,δή,d--------,AuxY
+3,πολλὴν,πολύς,a-s---fa-,PNOM_CO
+4,καὶ,καί,c--------,COORD
+5,διχῇ,διχή,n-s---fd-,PNOM_CO
+6,τὴν,ὁ,l-s---fa-,ATR
+7,βοήθειαν,βοήθεια,n-s---fa-,SBJ
+8,εἶναι,εἰμί,v--pna---,SBJ
+9,.,.,u--------,AuxK

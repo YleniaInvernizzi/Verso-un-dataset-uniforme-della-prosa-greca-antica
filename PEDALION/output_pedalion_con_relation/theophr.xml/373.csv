@@ -1,0 +1,6 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|0093-009|374|1,1,"""","""",u--------,AuxG
+Leuven|0093-009|374|2,2,ἄπαγ’,ἀπάγω,v2spma---,PRED
+Leuven|0093-009|374|3,3,ἐς,εἰς,r--------,AuxP
+Leuven|0093-009|374|4,4,κόρακας,κόραξ,n-p---ma-,OBJ
+Leuven|0093-009|374|5,5,·,·,u--------,AuxK

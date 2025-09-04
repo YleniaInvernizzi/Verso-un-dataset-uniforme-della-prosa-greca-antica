@@ -1,0 +1,14 @@
+@ref,@id,@form,@lemma,@postag,@relation
+Leuven|Ps-Luc|360|1,1,ὄναιο,ὀνίνημι,v2saom---,PRED_CO
+Leuven|Ps-Luc|360|2,2,δὲ,δέ,d--------,AuxY
+Leuven|Ps-Luc|360|3,3,τούτων,οὗτος,p-p---mg-,ATR
+Leuven|Ps-Luc|360|4,4,τῶν,ὁ,l-p---mg-,ATR
+Leuven|Ps-Luc|360|5,5,καλῶν,καλός,a-p---mg-,ATR
+Leuven|Ps-Luc|360|6,6,γάμων,γάμος,n-p---mg-,OBJ
+Leuven|Ps-Luc|360|7,7,καὶ,καί,b--------,COORD
+Leuven|Ps-Luc|360|8,8,τέκοις,τίκτω,v2saoa---,PRED_CO
+Leuven|Ps-Luc|360|9,9,ταχέως,ταχύς,d--------,ADV
+Leuven|Ps-Luc|360|10,10,ἡμῖν,ἐγώ,p1p---cd-,ADV
+Leuven|Ps-Luc|360|11,11,πώλους,πῶλος,n-p---ma-,OBJ
+Leuven|Ps-Luc|360|12,12,τοιούτους,τοιοῦτος,p-p---ma-,ATR
+Leuven|Ps-Luc|360|13,13,.,.,u--------,AuxK
